@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="propActive" Text="Укажи дали dataset-а е отворен"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Укажи дали подчертаването е включено"/>
+  <StrRes Name="propAliasName" Text="Име на BDE връзка"/>
+  <StrRes Name="propAlign" Text="Определи подравняване на обектите спрямо лентите или страницата"/>
+  <StrRes Name="propAlignment" Text="Подравняване на текста на обектите"/>
+  <StrRes Name="propAllowAllUp" Text="Укажи дали всички бутони в групата могат да се едновременно избрани"/>
+  <StrRes Name="propAllowEdit" Text="Определи дали потребителя може да редактира приготвен отчет"/>
+  <StrRes Name="propAllowExpressions" Text="Определи дали текстовите обекти могат да съдържат изрази в текста"/>
+  <StrRes Name="propAllowGrayed" Text="Позволи забранено състояни на отметките"/>
+  <StrRes Name="propAllowHTMLTags" Text="Определи дали текста може да съдържа HTML тагове"/>
+  <StrRes Name="propAllowSplit" Text="Определи дали линията може да разделя съдържанието по страниците"/>
+  <StrRes Name="propAuthor" Text="Автор на отчета"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Определи дали картинките да установяват размера си автоматично"/>
+  <StrRes Name="propAutoWidth" Text="Определи дали текста да разширява размера си автоматично"/>
+  <StrRes Name="propBackPicture" Text="Картинка за фон"/>
+  <StrRes Name="propBarType" Text="Вид на баркода"/>
+  <StrRes Name="propBevelInner" Text="Тип на вътрешната граница"/>
+  <StrRes Name="propBevelOuter" Text="Тип на външната граница"/>
+  <StrRes Name="propBevelWidth" Text="Ширина на границата"/>
+  <StrRes Name="propBorder" Text="Определи дали да се показва външната граница"/>
+  <StrRes Name="propBorderStyle" Text="Стил на прозореца"/>
+  <StrRes Name="propBottomMargin" Text="Размер на долния марж на страница"/>
+  <StrRes Name="propBrushStyle" Text="Стил на четката за фон на обектите"/>
+  <StrRes Name="propCalcCheckSum" Text="Определи дали баркода да изчислява контролната цифра автоматично"/>
+  <StrRes Name="propCancel" Text="Определи дали бутона може да се активира при натискане на ESC"/>
+  <StrRes Name="propCaption" Text="Заглавие на контрола"/>
+  <StrRes Name="propCellFields" Text="Имена на DB полетата представящи клетките"/>
+  <StrRes Name="propCellLevels" Text="Номер на нивата клетки"/>
+  <StrRes Name="propCenter" Text="Установи дали картинката да се центрира в контрола"/>
+  <StrRes Name="propCharset" Text="Набор на шрифта"/>
+  <StrRes Name="propCharSpacing" Text="Брой пиксели между два символа"/>
+  <StrRes Name="propCheckColor" Text="Цвят на знака за проверка"/>
+  <StrRes Name="propChecked" Text="Покажи дали контрола е проверен"/>
+  <StrRes Name="propCheckStyle" Text="Стил на знака за проверка"/>
+  <StrRes Name="propChild" Text="Подчинена връзка свързана за тази връзка"/>
+  <StrRes Name="propClipped" Text="Определи дали текста да бъде отрязан извън границите на обекта"/>
+  <StrRes Name="propCollate" Text="Подразбрани настройки за сравняване"/>
+  <StrRes Name="propColor.TFont" Text="Цвят на текста"/>
+  <StrRes Name="propColor" Text="Цвят на обекта"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Цвят на рамката"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Определи дали подчертаването на обекта е включено"/>
+  <StrRes Name="propColumnFields" Text="Имена на DB полетата представящи клетките"/>
+  <StrRes Name="propColumnGap" Text="Пролука между колоните на лентите"/>
+  <StrRes Name="propColumnLevels" Text="Номер на нивото колони"/>
+  <StrRes Name="propColumns" Text="Брой колони в лентата"/>
+  <StrRes Name="propColumnWidth" Text="Ширина на лентата"/>
+  <StrRes Name="propCondition" Text="Условия за групиране. Групата ще се раздели, ако израза се промени"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Израз. Ако стойността му е истина, подчертаването е включено"/>
+  <StrRes Name="propConnected" Text="Показване дали връзката към базата е активна"/>
+  <StrRes Name="propConvertNulls" Text="Определи дали null стойностите се преобразуват в 0, False или празен низ"/>
+  <StrRes Name="propCopies" Text="Номер копия по подразбиране"/>
+  <StrRes Name="propCursor" Text="Курсор на обекта"/>
+  <StrRes Name="propDatabaseName" Text="Име на базата данни"/>
+  <StrRes Name="propDataField" Text="Укажи полето от което обектът взима данни"/>
+  <StrRes Name="propDataSet" Text="Свързи обектите с dataset-ите, които съдържат съответните данни"/>
+  <StrRes Name="propDate" Text="Стойност за дата на контрола"/>
+  <StrRes Name="propDateFormat" Text="Укажи формат за представяне на датата"/>
+  <StrRes Name="propDecimalSeparator" Text="Десетичен разделител"/>
+  <StrRes Name="propDefault" Text="Определи дали бутона е бутона по подразбиране"/>
+  <StrRes Name="propDefHeight" Text="Височина на ред по подразбиране"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Описание на отчета"/>
+  <StrRes Name="propDescription" Text="Описания на обекта"/>
+  <StrRes Name="propDiagonal" Text="Укажете, че линията е диагонал"/>
+  <StrRes Name="propDisplayFormat" Text="Формат на показваната стойност"/>
+  <StrRes Name="propDoublePass" Text="Определете дали engine-а да прави вторична обработка"/>
+  <StrRes Name="propDown" Text="Определи дали бутона е натиснат или не"/>
+  <StrRes Name="propDownThenAcross" Text="Определи как голямата таблица ще бъде разделена по страниците"/>
+  <StrRes Name="propDriverName" Text="Име на BDE драйвера"/>
+  <StrRes Name="propDropShadow" Text="Определи дали обектите имат сянка"/>
+  <StrRes Name="propDuplex" Text="Определете двоен режим на страницата"/>
+  <StrRes Name="propEditMask" Text="Определете маска, която представя дали текста е валиден за edit контрол"/>
+  <StrRes Name="propEnabled" Text="Определи дали контрола е активен"/>
+  <StrRes Name="propEngineOptions" Text="Настройки на engine-а за отчети"/>
+  <StrRes Name="propExpression" Text="Стойността на израза ще бъде показан в обекта"/>
+  <StrRes Name="propExpressionDelimiters" Text="Символите които ще се използват за разделител на изразите в текста"/>
+  <StrRes Name="propFieldAliases" Text="Псевдоним за полето на dataset-а"/>
+  <StrRes Name="propFilter" Text="Условие за филтриране на dataset-а"/>
+  <StrRes Name="propFiltered" Text="Определи как dataset-а ще филтрира записите използвайки условието във Filter стойството"/>
+  <StrRes Name="propFlowTo" Text="Текстовия обект, който ще показва текст, който не се събира в обекта"/>
+  <StrRes Name="propFont" Text="Атрибути на шрифта на обекта"/>
+  <StrRes Name="propFooterAfterEach" Text="Определи дали завършващата лента ще бъде показвана след всеки ред"/>
+  <StrRes Name="propFormatStr" Text="Форматиращ низ"/>
+  <StrRes Name="propFrame" Text="Атрибути на рамката на обекта"/>
+  <StrRes Name="propGapX" Text="Ляво отместване на текста"/>
+  <StrRes Name="propGapY" Text="Горно отместване на текста"/>
+  <StrRes Name="propGlyph" Text="Картинка на контрола"/>
+  <StrRes Name="propGroupIndex" Text="Позволи на бързите бутони да работят заедно в група"/>
+  <StrRes Name="propHAlign" Text="Хоризонтално подравняване на текста"/>
+  <StrRes Name="propHeight" Text="Височина на обекта"/>
+  <StrRes Name="propHideZeros" Text="Определи дали текстовия обекта да скрива стойностите 0"/>
+  <StrRes Name="propHighlight" Text="Условни атрибути за осветяване"/>
+  <StrRes Name="propIndexName" Text="Име на индекса"/>
+  <StrRes Name="propInitString" Text="Инициализиращ низ за принтера за точково-матрични отчети"/>
+  <StrRes Name="propItems" Text="Параграфи за листа на обекта"/>
+  <StrRes Name="propKeepAspectRatio" Text="Запази оригиналното съотношение на картинката"/>
+  <StrRes Name="propKeepChild" Text="Определи дали лентата ще се принтира заедно с подчинените си"/>
+  <StrRes Name="propKeepFooter" Text="Определи дали лентата ще се принтира със завършващата си част"/>
+  <StrRes Name="propKeepHeader" Text="Определи дали лентата ще се принтира със заглавната си част"/>
+  <StrRes Name="propKeepTogether" Text="Определи дали лентата ще се принтира заедно с подчинените си ивици"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Вид на форматирането"/>
+  <StrRes Name="propKind" Text="Вид на бутона"/>
+  <StrRes Name="propLargeDesignHeight" Text="Определи дали страницата ще има голяма височина при редактиране"/>
+  <StrRes Name="propLayout" Text="Положение на картинката на бутона"/>
+  <StrRes Name="propLeft" Text="Лява координата на обекта"/>
+  <StrRes Name="propLeftMargin" Text="Размер на левия марж на страница"/>
+  <StrRes Name="propLines" Text="Текст на обекта"/>
+  <StrRes Name="propLineSpacing" Text="Пиксели между два реда текст"/>
+  <StrRes Name="propLoginPrompt" Text="Определи дали да се показва диалога за вход"/>
+  <StrRes Name="propMargin" Text="Определи броя пиксели между ръбовете на картинката и бутона"/>
+  <StrRes Name="propMaster" Text="Основен dataset"/>
+  <StrRes Name="propMasterFields" Text="Поле за връзка master-detail"/>
+  <StrRes Name="propMaxLength" Text="Максимална дължина на текст"/>
+  <StrRes Name="propMaxWidth" Text="Максимална ширина на колоната"/>
+  <StrRes Name="propMemo" Text="Текст на обекта"/>
+  <StrRes Name="propMinWidth" Text="Минимална ширина на колоната"/>
+  <StrRes Name="propMirrorMargins" Text="Дублирай маржа на четните страници"/>
+  <StrRes Name="propModalResult" Text="Определи дали и как бутона ще затваря модалната форма"/>
+  <StrRes Name="propName.TFont" Text="Име на шрифта"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Име на отчета"/>
+  <StrRes Name="propName" Text="Име на обекта"/>
+  <StrRes Name="propNumGlyphs" Text="Посочи брой картинки указани в свойството Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Определи дали да се отваря dataset-а автоматично"/>
+  <StrRes Name="propOrientation" Text="Ориентация на страницата"/>
+  <StrRes Name="propOutlineText" Text="Текста който ще се показва в очертанието при преглед"/>
+  <StrRes Name="propOutlineVisible" Text="Видимост на очертанието при преглед"/>
+  <StrRes Name="propOutlineWidth" Text="Ширина на очертанието при преглед"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Брой страници за принтиране"/>
+  <StrRes Name="propPaperHeight" Text="Височина на страницата"/>
+  <StrRes Name="propPaperWidth" Text="Ширина на страницата"/>
+  <StrRes Name="propParagraphGap" Text="Отместване на първия ред в параграф"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Параметри на връзката"/>
+  <StrRes Name="propParams" Text="Параметри на заявката"/>
+  <StrRes Name="propParentFont" Text="Определи дали обекта да използва шрифта на родителя"/>
+  <StrRes Name="propPassword" Text="Парола за отчета"/>
+  <StrRes Name="propPasswordChar" Text="Посочва изобразявания символ вместо истинския (ако има такъв)"/>
+  <StrRes Name="propPicture" Text="Каринката"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Картинка описание на отчета"/>
+  <StrRes Name="propPosition" Text="Начална позиция на прозореца"/>
+  <StrRes Name="propPreviewOptions" Text="Настройки за преглед на отчета"/>
+  <StrRes Name="propPrintable" Text="Обект с Printable=False ще е видим при преглед, но няма да се принтира"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Установи дали подчинените ивици ще се принтират ако главната е невидима"/>
+  <StrRes Name="propPrinter" Text="Име на избрания принтер при отваряне или стартиране на отчета"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Определи дали лентата с данни ще се принтира ако подчинента е празна"/>
+  <StrRes Name="propPrintIfEmpty" Text="Определи дали страницата ще се принтира ако всички dataset-и са празни"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Определи дали лентата ще се принтира на първа страница"/>
+  <StrRes Name="propPrintOnLastPage" Text="Определи дали лентата ще се принтира на последна страница"/>
+  <StrRes Name="propPrintOnParent" Text="Определи дали под-отчета ще се печата върху лентата на родителя"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Определи дали страницата може да се генерира върху свободното място от предишно генерирани страници"/>
+  <StrRes Name="propPrintOptions" Text="Настройки за принтиране на отчета"/>
+  <StrRes Name="propPrintPages" Text="Определя дали да се принтират всички, четните или нечетните страници"/>
+  <StrRes Name="propRangeBegin" Text="Определя началната точна на навигация в dataset-а"/>
+  <StrRes Name="propRangeEnd" Text="Определя крайната точна на навигация в dataset-а"/>
+  <StrRes Name="propRangeEndCount" Text="Определя броя записи в dataset-а ако RangeEnd е reCount"/>
+  <StrRes Name="propReadOnly" Text="Определя дали текста е само за четене"/>
+  <StrRes Name="propRepeatHeaders" Text="Определя дали колоните или заглавията на редове ще се печатат на нова страница"/>
+  <StrRes Name="propReportOptions" Text="Настройки на отчета"/>
+  <StrRes Name="propReprintOnNewPage" Text="Определя дали лентата ще се печата на нова страница"/>
+  <StrRes Name="propRestrictions" Text="Указва ограничителни флагове"/>
+  <StrRes Name="propRightMargin" Text="Размер на десния марж на страница"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Ориентация на баркода"/>
+  <StrRes Name="propRotation" Text="Въртене на текста"/>
+  <StrRes Name="propRowCount" Text="Брой виртуални записи в лентата за данни"/>
+  <StrRes Name="propRowFields" Text="Имена на DB полетата представящи редовете"/>
+  <StrRes Name="propRowLevels" Text="Брой нива на редовете"/>
+  <StrRes Name="propRTLReading" Text="Определя дали текстовите обекти ще показват текста от дясно наляво"/>
+  <StrRes Name="propSessionName" Text="Име на BDE сесията"/>
+  <StrRes Name="propShadowColor" Text="Цвят на сянката"/>
+  <StrRes Name="propShadowWidth" Text="Ширина на сянката"/>
+  <StrRes Name="propShape" Text="Вид форма"/>
+  <StrRes Name="propShiftMode" Text="Поведения при отместване на обекта"/>
+  <StrRes Name="propShowColumnHeader" Text="Определя дали кръстът ще показва заглавията на колоните"/>
+  <StrRes Name="propShowColumnTotal" Text="Определя дали кръстът ще показва общата сума"/>
+  <StrRes Name="propShowRowHeader" Text="Определя дали кръстът ще показва заглавията на редовете"/>
+  <StrRes Name="propShowRowTotal" Text="Определя дали кръстит ще показва сумата по редове"/>
+  <StrRes Name="propShowDialog" Text="Определя дали диалога за печат ще се показва при преглед"/>
+  <StrRes Name="propShowText" Text="Определя дали баркода ще показва читаем текст"/>
+  <StrRes Name="propSize" Text="Големина на шрифта"/>
+  <StrRes Name="propSorted" Text="Определя дали параграфите са сортирани"/>
+  <StrRes Name="propSpacing" Text="Определя броя пиксели между картинката и текста"/>
+  <StrRes Name="propSQL" Text="SQL заявка"/>
+  <StrRes Name="propStartNewPage" Text="Започни нова страница преди печат на лента"/>
+  <StrRes Name="propStretch" Text="Разтегли картинката за да се вмести в границите"/>
+  <StrRes Name="propStretched" Text="Определя дали обекта да е разтеглен"/>
+  <StrRes Name="propStretchMode" Text="Поведения при теглене на обекта"/>
+  <StrRes Name="propStyle.TFont" Text="Стил на шрифта"/>
+  <StrRes Name="propStyle" Text="Стил на контрола"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Стил на рамката на обекта"/>
+  <StrRes Name="propSuppressRepeated" Text="Подтиснати повторими стойности"/>
+  <StrRes Name="propTableName" Text="Име на таблицата с данни"/>
+  <StrRes Name="propTag" Text="Допълнителен номер на обекта"/>
+  <StrRes Name="propTagStr" Text="Допълнителен низ на обекта"/>
+  <StrRes Name="propText" Text="Текст на обекта"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Определя дали да показва заглавието на отчета преди заглавната част"/>
+  <StrRes Name="propTop" Text="Горна координата на обекта"/>
+  <StrRes Name="propTopMargin" Text="Големи на горния марж на страница"/>
+  <StrRes Name="propTyp" Text="Вид рамка"/>
+  <StrRes Name="propUnderlines" Text="Определя дали текстовия обекта на показва мрежови линии след всеки ред"/>
+  <StrRes Name="propURL" Text="URL на обекта"/>
+  <StrRes Name="propUserName" Text="Потребител за обекта с данни. Това име ще се показва в дървото с данни"/>
+  <StrRes Name="propVAlign" Text="Вертикално подравняване на текста"/>
+  <StrRes Name="propVersionBuild" Text="Информация за версия, build"/>
+  <StrRes Name="propVersionMajor" Text="Информация за версия, major версия"/>
+  <StrRes Name="propVersionMinor" Text="Информация за версия, minor версия"/>
+  <StrRes Name="propVersionRelease" Text="Информация за версия, release"/>
+  <StrRes Name="propVisible" Text="Видимост на обекта"/>
+  <StrRes Name="propWidth" Text="Ширина на обекта"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Ширина на рамката"/>
+  <StrRes Name="propWindowState" Text="Начално състояние на прозореца"/>
+  <StrRes Name="propWordBreak" Text="Разделител руски думи"/>
+  <StrRes Name="propWordWrap" Text="Определя дали в текста да се вмъква мек нов ред, така че текста да се обвива около десния край"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Приближи баркода"/>
+  <StrRes Name="propConnectionName" Text="Име на връзката към базата, използвана в отчета"/>
+  <StrRes Name="propCurve" Text="Кривина на ъглите на правоъгълниците"/>
+  <StrRes Name="propDrillDown" Text="Определи дали групата може да бъде drilled down"/>
+  <StrRes Name="propFontStyle" Text="Матричен стил на шрифта"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Скрий footer-а ако групата има само един запис"/>
+  <StrRes Name="propOutlineExpand" Text="Определи дали да се разшири отчета извън очертанието"/>
+  <StrRes Name="propPlainCells" Text="Определи дали да се печатат няколко клетки side-by-side или stacked"/>
+  <StrRes Name="propPrintMode" Text="Режим на печат: нормален, раздели големите страници на малки, или печата няколко малки страници на голяма"/>
+  <StrRes Name="propPrintOnSheet" Text="Размер на хартията за печат на отчета. Използва се ако PrintMode не е pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Възстанови страница номер/брой страници при печатане на група. Трябва да се използва с StartNewPage равно на true"/>
+  <StrRes Name="propReverse" Text="Определи дали да се печатат страниците в обратен ред"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Определи дали да се показва footer на групата ако е drilldown"/>
+  <StrRes Name="propSizeMode" Text="Режим на показване на OLE обекта"/>
+  <StrRes Name="propVersion" Text="Версия на FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Сравнителен с широките линии на баркода"/>
+  <StrRes Name="propWysiwyg" Text="Определи дали rich обекта да използва платното на принтера за форматиране на текста. Принтера трябва да е инстралиран и готов."/>
+  <StrRes Name="propArrowEnd" Text="Определи дали да се рисува стрелка в края на линията"/>
+  <StrRes Name="propArrowLength" Text="Дължина на стрелката"/>
+  <StrRes Name="propArrowSolid" Text="Определи дали да се рисува запълнена стрелка"/>
+  <StrRes Name="propArrowStart" Text="Определи дали да се рисува стрелка в края на линията"/>
+  <StrRes Name="propArrowWidth" Text="Ширина на стрелката"/>
+  <StrRes Name="propCloseDataSource" Text="Определи дали да се затвори dataset-а когато отчета завърши"/>
+  <StrRes Name="propDatabase" Text="Връзки към базата"/>
+  <StrRes Name="propIndexFieldNames" Text="Имена на индекс полетата"/>
+  <StrRes Name="propCommandTimeOut" Text="Необходимо време за изпълнение на заявката"/>
+  <StrRes Name="propExpandDrillDown" Text="Определи дали да се отварят всички drill-down елементи при първо стартиране на отчета"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Определи дали да се показва текста в WYSIWYG режим"/>
+  <StrRes Name="propLeftLine" Text="Лява линия на рамката"/>
+  <StrRes Name="propTopLine" Text="Горна линия на рамката"/>
+  <StrRes Name="propRightLine" Text="Дясна линия на рамката"/>
+  <StrRes Name="propBottomLine" Text="Долна линия на рамката"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Цвят на линията на рамката"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Стил на линията на рамката"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Ширина на линията на рамката"/>
+  <StrRes Name="propFileLink" Text="Израз или име на файла съдържащ картинката"/>
+  <StrRes Name="propEndlessWidth" Text="Безкраен режим на страница. Ако е true, страницата ще расте в зависимост от данните в записа"/>
+  <StrRes Name="propEndlessHeight" Text="Безкраен режим на страница. Ако е true, страницата ще расте в зависимост от броя записи"/>
+  <StrRes Name="propAddHeight" Text="Добави указаното място към височината на клетката"/>
+  <StrRes Name="propAddWidth" Text="Добави указаното място към ширината на клетката"/>
+  <StrRes Name="propAllowDuplicates" Text="Определи дали клетката може да приема дублирани стойности"/>
+  <StrRes Name="propJoinEqualCells" Text="Определи дали crosstab-а да обединява клетките с еднакви стойности"/>
+  <StrRes Name="propNextCross" Text="Указател към следващия crosstab който ще се показва side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Пролука между side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Определи дали crosstab-а ще показва горен ляв ъгъл на елементите"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

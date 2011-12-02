@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1254">
+  <StrRes Name="1" Text="Tamam"/>
+  <StrRes Name="2" Text="Vazgeç"/>
+  <StrRes Name="3" Text="Tümü"/>
+  <StrRes Name="4" Text="Geçerli sayfa"/>
+  <StrRes Name="5" Text="Sayfalar:"/>
+  <StrRes Name="6" Text="Sayfa sonu"/>
+  <StrRes Name="7" Text="Yazdırma Aralığı"/>
+  <StrRes Name="8" Text="Verme ayarları"/>
+  <StrRes Name="9" Text="Sayfa numaralarını ve/veya sayfa aralıklarını virgülle ayırarak girin. Örn. 1,3,5-12"/>
+  <StrRes Name="100" Text="Önizleme"/>
+  <StrRes Name="101" Text="Yazdır"/>
+  <StrRes Name="102" Text="Yazdır"/>
+  <StrRes Name="103" Text="Aç"/>
+  <StrRes Name="104" Text="Aç"/>
+  <StrRes Name="105" Text="Kaydet"/>
+  <StrRes Name="106" Text="Kaydet"/>
+  <StrRes Name="107" Text="Veri Ver"/>
+  <StrRes Name="108" Text="Veri Ver"/>
+  <StrRes Name="109" Text="Bul"/>
+  <StrRes Name="110" Text="Bul"/>
+  <StrRes Name="111" Text="Tüm Sayfa"/>
+  <StrRes Name="112" Text="Tüm Sayfa"/>
+  <StrRes Name="113" Text="Sayfa Genişliği"/>
+  <StrRes Name="114" Text="Sayfa Genişliği"/>
+  <StrRes Name="115" Text="%100"/>
+  <StrRes Name="116" Text="%100"/>
+  <StrRes Name="117" Text="İki Sayfa"/>
+  <StrRes Name="118" Text="İki Sayfa"/>
+  <StrRes Name="119" Text="Yakınlaştır"/>
+  <StrRes Name="120" Text="Kenar Boşlukları"/>
+  <StrRes Name="121" Text="Kenar Boşlukları"/>
+  <StrRes Name="122" Text="Anahat"/>
+  <StrRes Name="123" Text="Anahat"/>
+  <StrRes Name="124" Text="Yaklaş"/>
+  <StrRes Name="125" Text="Yakşaş"/>
+  <StrRes Name="126" Text="Uzaklaş"/>
+  <StrRes Name="127" Text="Uzaklaş"/>
+  <StrRes Name="128" Text="Dışhat"/>
+  <StrRes Name="129" Text="Dışhat rapor"/>
+  <StrRes Name="130" Text="Küçük resimler"/>
+  <StrRes Name="131" Text="Küçük resimler"/>
+  <StrRes Name="132" Text="Düzenlet"/>
+  <StrRes Name="133" Text="Sayfa Düzenle"/>
+  <StrRes Name="134" Text="İlk"/>
+  <StrRes Name="135" Text="İlk Sayfa"/>
+  <StrRes Name="136" Text="Önceki"/>
+  <StrRes Name="137" Text="Önceki Sayfa"/>
+  <StrRes Name="138" Text="Sonraki"/>
+  <StrRes Name="139" Text="Sonraki Sayfa"/>
+  <StrRes Name="140" Text="Son"/>
+  <StrRes Name="141" Text="Son Sayfa"/>
+  <StrRes Name="142" Text="Sayfa Numarası"/>
+  <StrRes Name="150" Text="Tam ekran"/>
+  <StrRes Name="151" Text="Veri ver PDF formatında"/>
+  <StrRes Name="152" Text="E-Posta gönder"/>
+  <StrRes Name="zmPageWidth" Text="Sayfa genişliği"/>
+  <StrRes Name="zmWholePage" Text="Tüm sayfa"/>
+  <StrRes Name="200" Text="Yazdır"/>
+  <StrRes Name="201" Text="Yazıcı"/>
+  <StrRes Name="202" Text="Sayfa Aralığı"/>
+  <StrRes Name="203" Text="Kopya Sayısı"/>
+  <StrRes Name="204" Text="Harmanla"/>
+  <StrRes Name="205" Text="Kopya sayısı"/>
+  <StrRes Name="206" Text="Yazdır"/>
+  <StrRes Name="207" Text="Diğer"/>
+  <StrRes Name="208" Text="Konum:"/>
+  <StrRes Name="209" Text="Özellikler..."/>
+  <StrRes Name="210" Text="Dosyaya yazdır"/>
+  <StrRes Name="211" Text="Sipariş"/>
+  <StrRes Name="212" Text="Adı:"/>
+  <StrRes Name="213" Text="Baskı modu"/>
+  <StrRes Name="214" Text="Sayfaya yazdır"/>
+  <StrRes Name="216" Text="Çifthat"/>
+  <StrRes Name="ppAll" Text="Tüm sayfalar"/>
+  <StrRes Name="ppOdd" Text="Tek sayfalar"/>
+  <StrRes Name="ppEven" Text="Çift sayfalar"/>
+  <StrRes Name="pgDefault" Text="Öndeğer"/>
+  <StrRes Name="pmDefault" Text="Öndeğer"/>
+  <StrRes Name="pmSplit" Text="Büyük sayfaları böl"/>
+  <StrRes Name="pmJoin" Text="Küçük sayfalara birleştir"/>
+  <StrRes Name="pmScale" Text="Boyut"/>
+  <StrRes Name="poDirect" Text="Doğrudan (1-9)"/>
+  <StrRes Name="poReverse" Text="Ters (9-1)"/>
+  <StrRes Name="300" Text="Bul"/>
+  <StrRes Name="301" Text="Aranacak kelime:"/>
+  <StrRes Name="302" Text="Arama seçenekleri"/>
+  <StrRes Name="303" Text="Değiştir"/>
+  <StrRes Name="304" Text="Baştan ara"/>
+  <StrRes Name="305" Text="Büyük/küçük harf duyarlı"/>
+  <StrRes Name="400" Text="Sayfa Ayarları"/>
+  <StrRes Name="401" Text="Genişlik"/>
+  <StrRes Name="402" Text="Yükseklik"/>
+  <StrRes Name="403" Text="Kağıt Boyutu  "/>
+  <StrRes Name="404" Text="Yönlendirme  "/>
+  <StrRes Name="405" Text="Sol"/>
+  <StrRes Name="406" Text="Üst"/>
+  <StrRes Name="407" Text="Sağ"/>
+  <StrRes Name="408" Text="Alt"/>
+  <StrRes Name="409" Text="Kenar Boşlukları "/>
+  <StrRes Name="410" Text="Dikey"/>
+  <StrRes Name="411" Text="Yatay"/>
+  <StrRes Name="412" Text="Diğer  "/>
+  <StrRes Name="413" Text="Geçerli sayfaya uygula"/>
+  <StrRes Name="414" Text="Tüm sayfalara uygula"/>
+  <StrRes Name="500" Text="Yazdır"/>
+  <StrRes Name="501" Text="Yazıcı"/>
+  <StrRes Name="502" Text="Sayfa Aralığı"/>
+  <StrRes Name="503" Text="Kopya Sayısı"/>
+  <StrRes Name="504" Text="Kopya Sayısı"/>
+  <StrRes Name="505" Text="Seçenekler"/>
+  <StrRes Name="506" Text="Çıkış şekli"/>
+  <StrRes Name="507" Text="Dosyaya yazdir"/>
+  <StrRes Name="508" Text="OEM kod sayfası"/>
+  <StrRes Name="509" Text="Pseudographic"/>
+  <StrRes Name="510" Text="Yazıcı dosyası (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Onayla"/>
+  <StrRes Name="mbError" Text="Hata"/>
+  <StrRes Name="mbInfo" Text="Bilgi"/>
+  <StrRes Name="xrCantFindClass" Text="Sınıf bulunamadı"/>
+  <StrRes Name="prVirtual" Text="Sanal"/>
+  <StrRes Name="prDefault" Text="Varsayılan"/>
+  <StrRes Name="prCustom" Text="Özel"/>
+  <StrRes Name="enUnconnHeader" Text="Bağlantısız Rapor Başlığı/Sonu"/>
+  <StrRes Name="enUnconnGroup" Text="Grup için veri bandı yok"/>
+  <StrRes Name="enUnconnGFooter" Text="Grup başlığı olmayan"/>
+  <StrRes Name="enBandPos" Text="Geçersiz band pozisyonu:"/>
+  <StrRes Name="dbNotConn" Text="%s DataSet'i veriye bağlanmamış"/>
+  <StrRes Name="dbFldNotFound" Text="Saha bulunamadı:"/>
+  <StrRes Name="clDSNotIncl" Text="(Rapor.DataSets'e dataset tanımlanmamış)"/>
+  <StrRes Name="clUnknownVar" Text="Bilinmeyen değişken veya saha:"/>
+  <StrRes Name="clScrError" Text="Script Hatası %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="&#38;#34;%s&#38;#34; Dataset'i oluşturulmamış"/>
+  <StrRes Name="clErrors" Text="Aşağıdaki hata(lar) oluştu:"/>
+  <StrRes Name="clExprError" Text="Söz dizimi hatası"/>
+  <StrRes Name="clFP3files" Text="Rapor Hazırlandı"/>
+  <StrRes Name="clSaving" Text="Dosya Kaydediliyor..."/>
+  <StrRes Name="clCancel" Text="Vazgeç"/>
+  <StrRes Name="clClose" Text="Kapat"/>
+  <StrRes Name="clPrinting" Text="Sayfa yazdırılıyor"/>
+  <StrRes Name="clLoading" Text="Dosya yükleniyor..."/>
+  <StrRes Name="clPageOf" Text="Sayfa %d / %d"/>
+  <StrRes Name="clFirstPass" Text="İlk geçiş: sayfa "/>
+  <StrRes Name="clNoPrinters" Text="Bilgisayarınızda kurulu hiçbir yazıcı yok"/>
+  <StrRes Name="clDecompressError" Text="Akış açılma hatası"/>
+  <StrRes Name="prRunningFirst" Text="İlk çalışan : sayfa %d"/>
+  <StrRes Name="prRunning" Text="Hazırlanan sayfa %d"/>
+  <StrRes Name="prPrinting" Text="Yazılan sayfa %d"/>
+  <StrRes Name="prExporting" Text="Sayfa dışarı atılıyor %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Öndeğer"/>
+  <StrRes Name="dupVert" Text="Yatay"/>
+  <StrRes Name="dupHorz" Text="Dikey"/>
+  <StrRes Name="dupSimpl" Text="Basit"/>
+  <StrRes Name="crFillMx" Text="Çapraz tablo dolduruluyor..."/>
+  <StrRes Name="crBuildMx" Text="Çapraz tablo oluşturuluyor..."/>
+  <StrRes Name="SLangNotFound" Text="'%s' dili bulunamadı"/>
+  <StrRes Name="SInvalidLanguage" Text="Geçersiz dil tanımı"/>
+  <StrRes Name="SIdRedeclared" Text="Tekrarlanmış nitelik: "/>
+  <StrRes Name="SUnknownType" Text="Bilinmeyen tip: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Tip uyuşmazlığı"/>
+  <StrRes Name="SIdUndeclared" Text="Tanımlanmamış nitelik: "/>
+  <StrRes Name="SClassRequired" Text="Sınıf tipi gerekli"/>
+  <StrRes Name="SIndexRequired" Text="İndeks gerekli"/>
+  <StrRes Name="SStringError" Text="Özellikleri veya Metotları olmayan String'ler"/>
+  <StrRes Name="SClassError" Text="%s sınıfının varsayılan özelliği yok"/>
+  <StrRes Name="SArrayRequired" Text="Dizi tipi gerekli"/>
+  <StrRes Name="SVarRequired" Text="Değişken gerekli"/>
+  <StrRes Name="SNotEnoughParams" Text="Eksik parametre"/>
+  <StrRes Name="STooManyParams" Text="Çok fazla parametre"/>
+  <StrRes Name="SLeftCantAssigned" Text="Sol tarafa değer atanamaz"/>
+  <StrRes Name="SForError" Text="Döngü değişkeni sayısal olmalıdır"/>
+  <StrRes Name="SEventError" Text="Olay yakalayıcı prosedür olmalıdır"/>
+  <StrRes Name="600" Text="Tümünü aç"/>
+  <StrRes Name="601" Text="Tümünü kapat"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

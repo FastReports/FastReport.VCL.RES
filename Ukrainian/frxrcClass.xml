@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="1" Text="ОК"/>
+  <StrRes Name="2" Text="Відмова"/>
+  <StrRes Name="3" Text="Всі"/>
+  <StrRes Name="4" Text="Поточна"/>
+  <StrRes Name="5" Text="Номера:"/>
+  <StrRes Name="6" Text="Розриви сторінок"/>
+  <StrRes Name="7" Text="Сторінки"/>
+  <StrRes Name="8" Text="Опції"/>
+  <StrRes Name="9" Text="Введіть номери й/або діапазони сторінок, розділені комами. Наприклад, 1,3,5-12"/>
+  <StrRes Name="100" Text="Попередній перегляд"/>
+  <StrRes Name="101" Text="Друк"/>
+  <StrRes Name="102" Text="Друк"/>
+  <StrRes Name="103" Text="Відкрити"/>
+  <StrRes Name="104" Text="Відкрити"/>
+  <StrRes Name="105" Text="Зберегти"/>
+  <StrRes Name="106" Text="Зберегти"/>
+  <StrRes Name="107" Text="Експорт"/>
+  <StrRes Name="108" Text="Експорт"/>
+  <StrRes Name="109" Text="Знайти"/>
+  <StrRes Name="110" Text="Знайти"/>
+  <StrRes Name="111" Text="Цілком"/>
+  <StrRes Name="112" Text="Сторінка цілком"/>
+  <StrRes Name="113" Text="По ширині"/>
+  <StrRes Name="114" Text="По ширині"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Дві сторінки"/>
+  <StrRes Name="118" Text="Дві сторінки"/>
+  <StrRes Name="119" Text="Масштаб"/>
+  <StrRes Name="120" Text="Поля"/>
+  <StrRes Name="121" Text="Властивості сторінки"/>
+  <StrRes Name="122" Text="Дерево"/>
+  <StrRes Name="123" Text="Дерево звіту"/>
+  <StrRes Name="124" Text="Приблизити"/>
+  <StrRes Name="125" Text="Приблизити"/>
+  <StrRes Name="126" Text="Віддалити"/>
+  <StrRes Name="127" Text="Віддалити"/>
+  <StrRes Name="128" Text="Дерево"/>
+  <StrRes Name="129" Text="Дерево звіту"/>
+  <StrRes Name="130" Text="Ескізи"/>
+  <StrRes Name="131" Text="Ескізи"/>
+  <StrRes Name="132" Text="Виправлення"/>
+  <StrRes Name="133" Text="Редагувати сторінку"/>
+  <StrRes Name="134" Text="Перша"/>
+  <StrRes Name="135" Text="На першу сторінку"/>
+  <StrRes Name="136" Text="Попередня"/>
+  <StrRes Name="137" Text="На попередню сторінку"/>
+  <StrRes Name="138" Text="Наступна"/>
+  <StrRes Name="139" Text="На наступну сторінку"/>
+  <StrRes Name="140" Text="Остання"/>
+  <StrRes Name="141" Text="На останню сторінку"/>
+  <StrRes Name="142" Text="Номер сторінки"/>
+  <StrRes Name="150" Text="Повний екран"/>
+  <StrRes Name="151" Text="Експорт в PDF"/>
+  <StrRes Name="152" Text="Відправити на E-mail"/>
+  <StrRes Name="zmPageWidth" Text="По ширині"/>
+  <StrRes Name="zmWholePage" Text="Сторінка цілком"/>
+  <StrRes Name="200" Text="Друк"/>
+  <StrRes Name="201" Text="Принтер"/>
+  <StrRes Name="202" Text="Сторінки"/>
+  <StrRes Name="203" Text="Кількість"/>
+  <StrRes Name="204" Text="Розібрати по копіях"/>
+  <StrRes Name="205" Text="Копії"/>
+  <StrRes Name="206" Text="Друкувати"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Де:"/>
+  <StrRes Name="209" Text="Властивості..."/>
+  <StrRes Name="210" Text="Друк у файл"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Імя:"/>
+  <StrRes Name="213" Text="Режим друку"/>
+  <StrRes Name="214" Text="Друк на аркуші"/>
+  <StrRes Name="216" Text="Дуплекс"/>
+  <StrRes Name="ppAll" Text="Всі сторінки"/>
+  <StrRes Name="ppOdd" Text="Непарні сторінки"/>
+  <StrRes Name="ppEven" Text="Парні сторінки"/>
+  <StrRes Name="pgDefault" Text="За замовчуванням"/>
+  <StrRes Name="pmDefault" Text="За замовчуванням"/>
+  <StrRes Name="pmSplit" Text="Розділити великі сторінки"/>
+  <StrRes Name="pmJoin" Text="Зєднати маленькі сторінки"/>
+  <StrRes Name="pmScale" Text="Масштабувати"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Шукати текст"/>
+  <StrRes Name="301" Text="Текст:"/>
+  <StrRes Name="302" Text="Налаштування пошуку"/>
+  <StrRes Name="303" Text="Замінити на"/>
+  <StrRes Name="304" Text="Шукати з початку"/>
+  <StrRes Name="305" Text="Розрізняти регістр"/>
+  <StrRes Name="400" Text="Налаштування сторінки"/>
+  <StrRes Name="401" Text="Ширина"/>
+  <StrRes Name="402" Text="Висота"/>
+  <StrRes Name="403" Text="Розмір"/>
+  <StrRes Name="404" Text="Орієнтація"/>
+  <StrRes Name="405" Text="Ліве"/>
+  <StrRes Name="406" Text="Верхнє"/>
+  <StrRes Name="407" Text="Праве"/>
+  <StrRes Name="408" Text="Нижнє"/>
+  <StrRes Name="409" Text="Поля"/>
+  <StrRes Name="410" Text="Портретна"/>
+  <StrRes Name="411" Text="Альбомна"/>
+  <StrRes Name="412" Text="Інше"/>
+  <StrRes Name="413" Text="Застосувати до поточної сторінки"/>
+  <StrRes Name="414" Text="Застосувати до всіх сторінок"/>
+  <StrRes Name="500" Text="Друк"/>
+  <StrRes Name="501" Text="Принтер"/>
+  <StrRes Name="502" Text="Сторінки"/>
+  <StrRes Name="503" Text="Копії"/>
+  <StrRes Name="504" Text="Кількість"/>
+  <StrRes Name="505" Text="Опції"/>
+  <StrRes Name="506" Text="ESC-команди"/>
+  <StrRes Name="507" Text="Друк у файл"/>
+  <StrRes Name="508" Text="OEM-кодування"/>
+  <StrRes Name="509" Text="Псевдографіка"/>
+  <StrRes Name="510" Text="Файл друку (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Підтвердження"/>
+  <StrRes Name="mbError" Text="Помилка"/>
+  <StrRes Name="mbInfo" Text="Інформація"/>
+  <StrRes Name="xrCantFindClass" Text="Не вдалося знайти клас"/>
+  <StrRes Name="prVirtual" Text="Віртуальний"/>
+  <StrRes Name="prDefault" Text="За замовчуванням"/>
+  <StrRes Name="prCustom" Text="Користувацький"/>
+  <StrRes Name="enUnconnHeader" Text="Не підключений header/footer"/>
+  <StrRes Name="enUnconnGroup" Text="Немає дата-бенду для групи"/>
+  <StrRes Name="enUnconnGFooter" Text="Немає заголовка групи"/>
+  <StrRes Name="enBandPos" Text="Неправильно розташований бенд:"/>
+  <StrRes Name="dbNotConn" Text="Компонент %s не підключений до даних"/>
+  <StrRes Name="dbFldNotFound" Text="Поле не знайдене:"/>
+  <StrRes Name="clDSNotIncl" Text="(компонент не включений в Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Невідома змінна або поле БД:"/>
+  <StrRes Name="clScrError" Text="Помилка в скрипті %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Набір даних &#38;#34;%s&#38;#34; не знайдений"/>
+  <StrRes Name="clErrors" Text="Були виявлені наступні помилки:"/>
+  <StrRes Name="clExprError" Text="Помилка у вираженні"/>
+  <StrRes Name="clFP3files" Text="Готовий звіт"/>
+  <StrRes Name="clSaving" Text="Зберігається файл..."/>
+  <StrRes Name="clCancel" Text="Відмова"/>
+  <StrRes Name="clClose" Text="Закрити"/>
+  <StrRes Name="clPrinting" Text="Друкується сторінка"/>
+  <StrRes Name="clLoading" Text="Завантажується файл..."/>
+  <StrRes Name="clPageOf" Text="Сторінка %d з %d"/>
+  <StrRes Name="clFirstPass" Text="Перший прохід: сторінка "/>
+  <StrRes Name="clNoPrinters" Text="У вашій системі не встановлено принтерів"/>
+  <StrRes Name="clDecompressError" Text="Помилка розпакування даних"/>
+  <StrRes Name="crFillMx" Text="Заповнюється cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Будується cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Перший прохід: сторінка %d"/>
+  <StrRes Name="prRunning" Text="Готується сторінка %d"/>
+  <StrRes Name="prPrinting" Text="Друкується сторінка %d"/>
+  <StrRes Name="prExporting" Text="Експорт сторінки %d"/>
+  <StrRes Name="uCm" Text="см"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Default"/>
+  <StrRes Name="dupVert" Text="Вертикально"/>
+  <StrRes Name="dupHorz" Text="Горизонтально"/>
+  <StrRes Name="dupSimpl" Text="Симплекс"/>
+  <StrRes Name="SLangNotFound" Text="Мову '%s' не знайдено"/>
+  <StrRes Name="SInvalidLanguage" Text="Помилка в описі мови"/>
+  <StrRes Name="SIdRedeclared" Text="Ідентифікатор перевизначений: "/>
+  <StrRes Name="SUnknownType" Text="Невідомий тип: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Несумісні типи"/>
+  <StrRes Name="SIdUndeclared" Text="Невизначений ідентифікатор: "/>
+  <StrRes Name="SClassRequired" Text="Очікується клас"/>
+  <StrRes Name="SIndexRequired" Text="Очікується індекс"/>
+  <StrRes Name="SStringError" Text="Рядок не має властивостей або методів"/>
+  <StrRes Name="SClassError" Text="Клас %s не містить властивості за замовчуванням"/>
+  <StrRes Name="SArrayRequired" Text="Очікується масив"/>
+  <StrRes Name="SVarRequired" Text="Очікується змінна"/>
+  <StrRes Name="SNotEnoughParams" Text="Недостатньо параметрів"/>
+  <StrRes Name="STooManyParams" Text="Занадто багато параметрів"/>
+  <StrRes Name="SLeftCantAssigned" Text="Ліва частина виразу не може бути привласнена"/>
+  <StrRes Name="SForError" Text="Змінна циклу FOR повинна бути числовою"/>
+  <StrRes Name="SEventError" Text="Оброблювач події повинен бути процедурою"/>
+  <StrRes Name="600" Text="Ровернути все"/>
+  <StrRes Name="601" Text="Звернути все"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

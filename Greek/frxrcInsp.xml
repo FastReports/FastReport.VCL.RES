@@ -1,0 +1,275 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1253">
+  <StrRes Name="propActive" Text="Καθορίζει αν ένα dataset είναι ανοικτό (ενεργό) ή όχι"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Καθορίζει πότε και αν η Εντονη Εμφάνιση είναι ενεργή"/>
+  <StrRes Name="propAliasName" Text="Το όνομα του ψευδώνυμου BDE"/>
+  <StrRes Name="propAlign" Text="Καθορίζει την στοίχιση ενός αντικειμένου σε σχέση με την Ζώνη ή την Σελίδα"/>
+  <StrRes Name="propAlignment" Text="Η στοίχιση του κειμένου μέσα στο Αντικείμενο"/>
+  <StrRes Name="propAllowAllUp" Text="Καθορίζει αν όλα τα Κουμπιά τύπου speedbutton σε μια ομάδα μπορούν να αποεπιλεχθούν όλα μαζί ταυτόχρονα"/>
+  <StrRes Name="propAllowEdit" Text="Καθορίζει αν ο χρήστης επιτρέπεται να τροποποιήσει μια ήδη προετοιμασμένη Αναφορά"/>
+  <StrRes Name="propAllowExpressions" Text="Καθορίζει αν ένα αντικείμενο κειμένου περιλαμβάνει έκφραση"/>
+  <StrRes Name="propAllowGrayed" Text="Επιτρέπει γκρι κατάσταση των checkboxes"/>
+  <StrRes Name="propAllowHTMLTags" Text="Καθορίζει αν ένα αντικείμενο κειμένου μπορεί να περιλαμβάνει HTML tags μέσα στο κείμενο"/>
+  <StrRes Name="propAllowSplit" Text="Καθορίζει αν μια ζώνη μπορεί να διαχωρίσει τα περιεχόμενά της σε περισσότερες από μία σελίδες"/>
+  <StrRes Name="propAuthor" Text="Ο κατασκευαστής της Αναφοράς"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Καθορίζει αν μια εικόνα θα έχει αυτόματα το ανάλογο μέγεθος"/>
+  <StrRes Name="propAutoWidth" Text="Καθορίζει αν ένα αντικείμενο θα έχει αυτόματο πλάτος"/>
+  <StrRes Name="propBackPicture" Text="Η εικόνα στο φόντο της Αναφοράς"/>
+  <StrRes Name="propBarType" Text="Ο τύπος του barcode"/>
+  <StrRes Name="propBevelInner" Text="Ο τύπος του εσωτερικού bevel"/>
+  <StrRes Name="propBevelOuter" Text="Ο τύπος του εξωτερικού bevel"/>
+  <StrRes Name="propBevelWidth" Text="Το πλάτος του bevel"/>
+  <StrRes Name="propBorder" Text="Καθορίζει αν θα εμφανίζεται το εξωτερικό πλαίσιο"/>
+  <StrRes Name="propBorderStyle" Text="Το Στυλ του παραθύρου"/>
+  <StrRes Name="propBottomMargin" Text="Το περιθώριο σελίδας στην βάση"/>
+  <StrRes Name="propBrushStyle" Text="Το Στυλ που χρησιμοποιείται για το φόντο του αντικειμένου"/>
+  <StrRes Name="propCalcCheckSum" Text="Καθορίζει αν το barcode θα υπολογίζει το check digit αυτόματα"/>
+  <StrRes Name="propCancel" Text="Καθορίζει αν το κουμπί θα ενεργοποιείται με το πλήκτρο Esc"/>
+  <StrRes Name="propCaption" Text="Ο τίτλος που συνοδεύει το control"/>
+  <StrRes Name="propCellFields" Text="Ονόματα των πεδίων που αντιστοιχούν τα κελλιά διασταύρωσης"/>
+  <StrRes Name="propCellLevels" Text="Αριθμός των επιπέδων κελλιών"/>
+  <StrRes Name="propCenter" Text="Καθορίζει αν μια εικόνα θα κεντράρεται μέσα στο control"/>
+  <StrRes Name="propCharset" Text="Ο πίνακας χαρακτήρων μιας γραμματοσειράς"/>
+  <StrRes Name="propCharSpacing" Text="Αριθμός των pixels μεταξύ δύο χαρακτήρων"/>
+  <StrRes Name="propCheckColor" Text="Το χρώμα του check mark"/>
+  <StrRes Name="propChecked" Text="Ορίζει αν το control θα είναι προεπιλεγμένο"/>
+  <StrRes Name="propCheckStyle" Text="Tο Στυλ του check mark"/>
+  <StrRes Name="propChild" Text="Η Ζώνη-Παιδί που συνδέεται με αυτή τη Ζώνη"/>
+  <StrRes Name="propClipped" Text="Καθορίζει αν το κείμενο θα κόβεται εντός των περιθωρίων του αντικειμένου"/>
+  <StrRes Name="propCollate" Text="Προεπιλογή σύμπτυξης"/>
+  <StrRes Name="propColor.TFont" Text="Tο χρώμα του κειμένου"/>
+  <StrRes Name="propColor" Text="Το χρώμα του αντικειμένου"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Το χρώμα του πλαισίου"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Καθορίζει το χρώμα ενός αντικειμένου όταν υφίσταται Εντονη Εμφάνιση"/>
+  <StrRes Name="propColumnFields" Text="Ονόματα των πεδίων που αντιστοιχούν στις στήλες διασταύρωσης"/>
+  <StrRes Name="propColumnGap" Text="Tο διάστημα μεταξύ Στηλών στη Ζώνη"/>
+  <StrRes Name="propColumnLevels" Text="Αριθμός επιπέδων Στηλών"/>
+  <StrRes Name="propColumns" Text="Αριθμός Στηλών στην Ζώνη"/>
+  <StrRes Name="propColumnWidth" Text="Το πλάτος της Στήλης στην Ζώνη"/>
+  <StrRes Name="propCondition" Text="String Εκφρασης. Εάν η έκφραση έχει αποτέλεσμα True, ενεργοποιείται η Εντονη Εμφάνιση"/>
+  <StrRes Name="propConnected" Text="Καθορίζει αν η σύνδεση με την βάση δεδομένων είναι ενεργή"/>
+  <StrRes Name="propConvertNulls" Text="Καθορίζει αν οι τιμές null θα μετατρέπονται σε 0, False ή κενό string"/>
+  <StrRes Name="propCopies" Text="Αριθμός Αντιγράφων"/>
+  <StrRes Name="propCursor" Text="Ο δείκτης του αντικειμένου"/>
+  <StrRes Name="propDatabaseName" Text="Το όνομα της Βάσης Δεδομένων"/>
+  <StrRes Name="propDataField" Text="Καθορίζει το πεδίο από το οποίο το αντικείμενο θα αντλεί δεδομένα"/>
+  <StrRes Name="propDataSet" Text="Ενώνει το αντικείμενο με το dataset που περιέχει το πεδίο που αντιπροσωπεύει"/>
+  <StrRes Name="propDate" Text="Η τιμή ημερομηνίας ενός control"/>
+  <StrRes Name="propDateFormat" Text="Καθορίζει την μορφοποίηση στην οποία εμφανίζεται η ημερομηνία"/>
+  <StrRes Name="propDecimalSeparator" Text="Ο χαρακτήρας που διαχωρίζει τα δεκαδικά"/>
+  <StrRes Name="propDefault" Text="Καθορίζει αν το κουμπί είναι το προεπιλεγμένο κουμπί"/>
+  <StrRes Name="propDefHeight" Text="Το ύψος μιας Σειράς"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Η περιγραφή της Αναφοράς"/>
+  <StrRes Name="propDescription" Text="Περιγραφή Αντικειμένου"/>
+  <StrRes Name="propDiagonal" Text="Καθορίζει αν μια γραμμή είναι διαγώνια"/>
+  <StrRes Name="propDisplayFormat" Text="Η μορφοποίηση μιας εμφανιζόμενης τιμής"/>
+  <StrRes Name="propDoublePass" Text="Καθορίζει εάν ο μηχανισμός Αναφοράς θα εκτελέσει δεύτερο πέρασμα"/>
+  <StrRes Name="propDown" Text="Καθορίζει αν ένα κουμπί τύπου speedbutton είναι πατημένο ή όχι"/>
+  <StrRes Name="propDownThenAcross" Text="Καθορίζει πως ένας μεγάλος πίνακας Διασταύρωσης θα χωριστεί σε περισσότερες από μία σελίδες"/>
+  <StrRes Name="propDriverName" Text="Το όνομα του οδηγού BDE"/>
+  <StrRes Name="propDropShadow" Text="Καθορίζει αν ένα αντικείμενο έχει σκιά"/>
+  <StrRes Name="propDuplex" Text="Καθορίζει το duplex mode για την Σελίδα"/>
+  <StrRes Name="propEditMask" Text="Καθορίζει ποιο είναι έγκυρο κείμενο σύμφωνα με την μάσκα"/>
+  <StrRes Name="propEnabled" Text="Καθορίζει αν το control είναι ενεργοποιημένο"/>
+  <StrRes Name="propEngineOptions" Text="Επιλογές του μηχανισμού δημιουργίας της Αναφοράς"/>
+  <StrRes Name="propExpression" Text="Τιμή αυτής της Εκφρασης θα εμφανίζεται στο αντικείμενο"/>
+  <StrRes Name="propExpressionDelimiters" Text="Οι χαρακτήρες που θα χρησιμοποιούνται για να περικλείουν την Εκφραση μέσα στο κείμενο"/>
+  <StrRes Name="propFieldAliases" Text="Το Ψευδώνυμο του Πεδίου Δεδομένων"/>
+  <StrRes Name="propFilter" Text="Η Συνθήκη Φιλτραρίσματος για το dataset"/>
+  <StrRes Name="propFiltered" Text="Καθορίζει αν το dataset θα φιλτράρει τις εγγραφές σύμφωνα με την Συνθήκη Φιλτραρίσματος"/>
+  <StrRes Name="propFlowTo" Text="Το αντικείμενο κειμένου που θα εμφανίζει το κείμενο που περισσεύει από αυτό το αντικείμενο"/>
+  <StrRes Name="propFont" Text="Τα χαρακτηριστικά της γραμματοσειράς του αντικειμένου"/>
+  <StrRes Name="propFooterAfterEach" Text="Καθορίζει αν η Ζώνη Υποσέλιδο θα εμφανίζεται σε κάθε αλλαγή Σειράς"/>
+  <StrRes Name="propFormatStr" Text="Το string μορφοποίησης"/>
+  <StrRes Name="propFrame" Text="Τα χαρακτηριστικά του πλαισίου ενός αντικειμένου"/>
+  <StrRes Name="propGapX" Text="Η αριστερή εσοχή του κειμένου"/>
+  <StrRes Name="propGapY" Text="Η εσοχή του κειμένου από την κορυφή"/>
+  <StrRes Name="propGlyph" Text="Το εικονίδιο του control"/>
+  <StrRes Name="propGroupIndex" Text="Επιτρέπει τα κουμπιά τύπου speedbutton να δουλεύουν μαζί σαν ομάδα"/>
+  <StrRes Name="propHAlign" Text="Η οριζόντια στοίχιση του κειμένου"/>
+  <StrRes Name="propHeight" Text="Tο ύψος του αντικειμένου"/>
+  <StrRes Name="propHideZeros" Text="Καθορίζει αν το αντικείμενο κειμένου θα αποκρύπτει τις μηδενικές τιμές"/>
+  <StrRes Name="propHighlight" Text="Η Συνθήκη για την Εντονη Εμφάνιση"/>
+  <StrRes Name="propIndexName" Text="Το όνομα του index"/>
+  <StrRes Name="propInitString" Text="Το string ενεργοποίησης του dot-matrix εκτυπωτή"/>
+  <StrRes Name="propItems" Text="Περιεχόμενα της λίστας του αντικειμένου"/>
+  <StrRes Name="propKeepAspectRatio" Text="Διατήρηση των αρχικών αναλογιών ενός αντικειμένου"/>
+  <StrRes Name="propKeepChild" Text="Καθορίζει αν η Ζώνη θα εκτυπώνεται μαζί με την Ζώνη-Παιδί που την συνοδεύει"/>
+  <StrRes Name="propKeepFooter" Text="Καθορίζει αν η Ζώνη θα εκτυπώνεται μαζί με την Ζώνη-Υποσέλιδο που την συνοδεύει"/>
+  <StrRes Name="propKeepHeader" Text="Καθορίζει αν η Ζώνη θα εκτυπώνεται μαζί με την Ζώνη-Κεφαλίδα που την συνοδεύει"/>
+  <StrRes Name="propKeepTogether" Text="Καθορίζει αν η Ζώνη θα εκτυπώνεται μαζί με όλες τις υπο-Ζώνες που την συνοδεύουν"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Το είδος της μορφοποίησης"/>
+  <StrRes Name="propKind" Text="Το είδος του κουμπιού"/>
+  <StrRes Name="propLargeDesignHeight" Text="Καθορίζει αν μια Σελίδα θα έχει μεγάλο ύψος κατά την διάρκεια της Σχεδίασης"/>
+  <StrRes Name="propLayout" Text="Η διάταξη του εικονιδίου στο κουμπί"/>
+  <StrRes Name="propLeft" Text="Η αριστερή συντεταγμένη του αντικειμένου"/>
+  <StrRes Name="propLeftMargin" Text="Το αριστερό περιθώριο της Σελίδας"/>
+  <StrRes Name="propLines" Text="Το κείμενο του αντικειμένου"/>
+  <StrRes Name="propLineSpacing" Text="Το διάστημα σε pixel ανάμεσα σε δύο γραμμές κειμένου"/>
+  <StrRes Name="propLoginPrompt" Text="Καθορίζει αν θα εμφανίζεται το παράθυρο login"/>
+  <StrRes Name="propMargin" Text="Καθορίζει το διάστημα σε pixels ανάμεσα στην άκρη της εικόνας και την άκρη του κουμπιού"/>
+  <StrRes Name="propMaster" Text="Το master dataset"/>
+  <StrRes Name="propMasterFields" Text="Τα πεδία που συνδέονται για την σχέση master-detail"/>
+  <StrRes Name="propMaxLength" Text="Μέγιστο μήκος του κειμένου"/>
+  <StrRes Name="propMaxWidth" Text="Mέγιστο πλάτος Στήλης"/>
+  <StrRes Name="propMemo" Text="Το κείμενο του αντικειμένου"/>
+  <StrRes Name="propMinWidth" Text="Ελάχιστο πλάτος Στήλης"/>
+  <StrRes Name="propMirrorMargins" Text="Καθρεπτισμός των περιθωρίων της Σελίδας στην Μονή Σελίδα"/>
+  <StrRes Name="propModalResult" Text="Καθορίζει πότε και πως το κουμπί θα κλείνει το παράθυρο τύπου modal"/>
+  <StrRes Name="propName.TFont" Text="Το όνομα της γραμματοσειράς"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Το όνομα της Αναφοράς"/>
+  <StrRes Name="propName" Text="Το όνομα του Αντικειμένου"/>
+  <StrRes Name="propNumGlyphs" Text="Προσδιορίζει τον αριθμό των εικόνων που βρίσκονται στην παράμετρο Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Καθορίζει αν θα ανοίγει ή όχι αυτόματα το datasource"/>
+  <StrRes Name="propOrientation" Text="Ο προσανατολισμός της Σελίδας"/>
+  <StrRes Name="propOutlineText" Text="Το κείμενο που θα εμφανίζεται στην Δομή της Προεπισκόπησης"/>
+  <StrRes Name="propOutlineVisible" Text="Καθορίζει αν θα φαίνεται ή όχι στην Δομή της Προεπισκόπησης"/>
+  <StrRes Name="propOutlineWidth" Text="Το πλάτος του παραθύρου Δομής της Προεπισκόπησης"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Ο αριθμός των Σελίδων προς εκτύπωση"/>
+  <StrRes Name="propPaperHeight" Text="Το ύψος της Σελίδας"/>
+  <StrRes Name="propPaperWidth" Text="Το πλάτος της Σελίδας"/>
+  <StrRes Name="propParagraphGap" Text="Η εσοχή της πρώτης γραμμής κάθε παραγράφου"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Οι Παράμετροι Σύνδεσης με την Βάση Δεδομένων"/>
+  <StrRes Name="propParams" Text="Οι Παράμετροι του Ερωτήματος"/>
+  <StrRes Name="propParentFont" Text="Καθορίζει αν το αντικείμενο θα χρησιμοποιεί την γραμματοσειρά του parent"/>
+  <StrRes Name="propPassword" Text="Ο Κωδικός Ασφαλείας της Αναφοράς"/>
+  <StrRes Name="propPasswordChar" Text="Καθορίζει ποιος θα είναι ο χαρακτήρας που θα εμφανίζεται ώστε να αποκρύπτει τον Κωδικό Ασφαλείας"/>
+  <StrRes Name="propPicture" Text="Η Εικόνα"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Η περιγραφή της Εικόνας στην Αναφορά"/>
+  <StrRes Name="propPosition" Text="Η αρχική θέση του παράθυρου"/>
+  <StrRes Name="propPreviewOptions" Text="Οι Επιλογές Προεπισκόπησης της Αναφοράς"/>
+  <StrRes Name="propPrintable" Text="Καθορίζει αν ένα αντικείμενο θα εκτυπώνεται. Αντικείμενα με τιμή Printable=False θα φαίνονται στην Προεπισκόπηση αλλά δεν θα εκτυπώνονται"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Καθορίζει αν μια Ζώνη-Παιδί θα εκτυπώνεται εάν η συνδεδεμένη μ'αυτό Ζώνη είναι μη ορατή"/>
+  <StrRes Name="propPrinter" Text="Το όνομα του εκτυπωτή που θα επιλέγεται όταν εκτελείται ή ανοίγει μια Αναφορά"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Καθορίζει αν μια Ζώνη Δεδομένων θα εκτυπώνεται αν οι συνδεδεμένες μ'αυτό υπο-Ζώνες είναι κενές"/>
+  <StrRes Name="propPrintIfEmpty" Text="Καθορίζει αν μια Σελίδα θα εκτυπώνεται αν όλα τα datasets είναι κενά"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Καθορίζει αν μια Ζώνη θα εκτυπώνεται στην πρώτη Σελίδα"/>
+  <StrRes Name="propPrintOnLastPage" Text="Καθορίζει αν μια Ζώνη θα εκτυπώνεται στην τελευταία Σελίδα"/>
+  <StrRes Name="propPrintOnParent" Text="Καθορίζει αν μια υπο-Αναφορά μπορεί να εκτυπωθεί επάνω στην Ζώνη που ανήκει"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Determines whether the page can be generated on the free space of previously generated page"/>
+  <StrRes Name="propPrintOptions" Text="Επιλογές εκτύπωσης της Αναφοράς"/>
+  <StrRes Name="propPrintPages" Text="Καθορίζει αν θα εκτυπώνει Όλες, τις Μονές ή τις Ζυγές Σελίδες"/>
+  <StrRes Name="propRangeBegin" Text="Καθορίζει το αρχικό σημείο πλοήγησης μέσα στο dataset"/>
+  <StrRes Name="propRangeEnd" Text="Καθορίζει το τελικό σημείο πλοήγησης μέσα στο dataset"/>
+  <StrRes Name="propRangeEndCount" Text="Καθορίζει τον αριθμό των εγγραφών του dataset εάν η παράμετρος RangeEnd έχει τιμή reCount"/>
+  <StrRes Name="propReadOnly" Text="Καθορίζει αν το αντικείμενο κειμένου είναι μόνο προς ανάγνωση"/>
+  <StrRes Name="propRepeatHeaders" Text="Καθορίζει αν οι επικεφαλίδες των Σειρών και των Στηλών θα εκτυπώνονται σε κάθε Σελίδα"/>
+  <StrRes Name="propReportOptions" Text="Οι Επιλογές της Αναφοράς"/>
+  <StrRes Name="propReprintOnNewPage" Text="Καθορίζει αν η Ζώνη θα  θα εκτυπώνεται σε κάθε Σελίδα"/>
+  <StrRes Name="propRestrictions" Text="Σετ περιοριστικών παραμέτρων"/>
+  <StrRes Name="propRightMargin" Text="Το δεξί περιθώριο της Σελίδας"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Ο προσανατολισμός του barcode"/>
+  <StrRes Name="propRotation" Text="Περιστροφή κειμένου"/>
+  <StrRes Name="propRowCount" Text="Αριθμός ιδεατών εγγραφών στην Ζώνη Δεδομένων"/>
+  <StrRes Name="propRowFields" Text="Αριθμός Πεδίων που αντιπροσωπεύουν τις Διασταυρώμενες Σειρές"/>
+  <StrRes Name="propRowLevels" Text="Αριθμός των Επιπέδων Σειρών"/>
+  <StrRes Name="propRTLReading" Text="Καθορίζει αν το αντικείμενο κειμένου θα εμφανίζει το κείμενο με κατεύθυνση από τα δεξιά προς τα αριστερά"/>
+  <StrRes Name="propSessionName" Text="Το όνομα της BDE σύνδεσης"/>
+  <StrRes Name="propShadowColor" Text="Το χρώμα της Σκιάς"/>
+  <StrRes Name="propShadowWidth" Text="Το πλάτος της Σκιάς"/>
+  <StrRes Name="propShape" Text="Το είδος της Σκιάς"/>
+  <StrRes Name="propShiftMode" Text="Συμπεριφορά Shift του αντικειμένου"/>
+  <StrRes Name="propShowColumnHeader" Text="Καθορίζει αν η Διασταύρωση θα εμφανίζει Κεφαλίδες Στηλών"/>
+  <StrRes Name="propShowColumnTotal" Text="Καθορίζει αν η Διασταύρωση θα εμφανίζει Σύνολα Στηλών"/>
+  <StrRes Name="propShowRowHeader" Text="Καθορίζει αν η Διασταύρωση θα εμφανίζει Κεφαλίδες Σειρών"/>
+  <StrRes Name="propShowRowTotal" Text="Καθορίζει αν η Διασταύρωση θα εμφανίζει Σύνολα Σειρών"/>
+  <StrRes Name="propShowDialog" Text="Καθορίζει αν θα εμφανίζεται το παράθυρο επιλογής εκτυπωτή στην Προεπισκόπηση"/>
+  <StrRes Name="propShowText" Text="Καθορίζει αν το αντικείμενο τύπου barcode θα συνοδεύεται από αναγνώσιμο κείμενο"/>
+  <StrRes Name="propSize" Text="Το μέγεθος της γραμματοσειράς"/>
+  <StrRes Name="propSorted" Text="Καθορίζει αν τα περιεχόμενα είναι ταξινομημένα ή όχι"/>
+  <StrRes Name="propSpacing" Text="Καθορίζει τον αριθμό σε pixel ανάμεσα στην εικόνα και το κείμενο"/>
+  <StrRes Name="propSQL" Text="Κώδικας SQL"/>
+  <StrRes Name="propStartNewPage" Text="Ξεκινά μια νέα Σελίδα πριν εκτυπώσει μία Ζώνη"/>
+  <StrRes Name="propStretch" Text="Τεντώνει την εικόνα ώστε να ταιριάξει ακριβώς στο μέγεθος του αντικειμένου"/>
+  <StrRes Name="propStretched" Text="Καθορίζει αν το αντικείμενο θα είναι τεντωμένο"/>
+  <StrRes Name="propStretchMode" Text="Stretch behavior of the object"/>
+  <StrRes Name="propStyle.TFont" Text="Το Στυλ της γραμματοσειράς"/>
+  <StrRes Name="propStyle" Text="Tο Στυλ του control"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Το Στυλ του Πλαισίου του αντικειμένου"/>
+  <StrRes Name="propSuppressRepeated" Text="Συμπτύσει τις επαναλαμβανόμενες τιμές"/>
+  <StrRes Name="propTableName" Text="Το όνομα του Πίνακα Δεδομένων"/>
+  <StrRes Name="propTag" Text="Αριθμός Tag του αντικειμένου"/>
+  <StrRes Name="propTagStr" Text="Tag string του αντικειμένου"/>
+  <StrRes Name="propText" Text="Το κείμενο του αντικειμένου"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Καθορίζει αν θα εμφανίζει την Κεφαλίδα Αναφοράς πριν από την Κεφαλίδα Σελίδας"/>
+  <StrRes Name="propTop" Text="Συντεταγμένες κορυφής του αντικειμένου"/>
+  <StrRes Name="propTopMargin" Text="Περιθώριο κορυφής της Σελίδας"/>
+  <StrRes Name="propTyp" Text="Τύπος Πλαισίου"/>
+  <StrRes Name="propUnderlines" Text="Καθορίζει αν το αντικείμενο κειμένου θα εμφανίζει γραμμές πλέγματος για κάθε μία γραμμή κειμένου"/>
+  <StrRes Name="propURL" Text="Τοποθεσία URL του αντικειμένου"/>
+  <StrRes Name="propUserName" Text="Όνομα χρήστη για το αντικείμενο δεδομένων. Αυτό το όνομα θα εμφανίζεται στην Δομή Δεδομένων"/>
+  <StrRes Name="propVAlign" Text="Η κάθετη στοίχιση του κειμένου"/>
+  <StrRes Name="propVersionBuild" Text="Έκδοση (build)"/>
+  <StrRes Name="propVersionMajor" Text="Έκδοση (major)"/>
+  <StrRes Name="propVersionMinor" Text="Έκδοση (minor)"/>
+  <StrRes Name="propVersionRelease" Text="Έκδοση (release)"/>
+  <StrRes Name="propVisible" Text="Καθορίζει αν το αντικείμενο θα είναι ορατό ή μη ορατό"/>
+  <StrRes Name="propWidth" Text="Πλάτος του αντικειμένου"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Το πλάτος του Πλαισίου"/>
+  <StrRes Name="propWindowState" Text="Αρχική κατάσταση του παράθυρου"/>
+  <StrRes Name="propWordBreak" Text="Κόψιμο λέξεων"/>
+  <StrRes Name="propWordWrap" Text="Καθορίζει την αναδίπλωση κειμένου"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Μεγεθύνει το barcode"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Εκφραση. Εάν είναι Αληθής, το highlight (ένταση) ενεργοποιείται"/>
+  <StrRes Name="propConnectionName" Text="Ονομα σύνδεσης με την βάση που χρησιμοποιείται στην Αναφορά"/>
+  <StrRes Name="propCurve" Text="Καμπύλη γωνίας αντικειμένου"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="Στυλ Γραμματοσειράς για Dot-matrix"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Απόκρυψη υποσέλιδου αν η ομαδοποίηση έχει μόνο μία εγγραφή"/>
+  <StrRes Name="propOutlineExpand" Text="Καθορίζει αν θα εκτείνεται το περίγραμμα Αναφοράς ή όχι"/>
+  <StrRes Name="propPagesOnSheet" Text="Αριθμός Σελίδων που θα εκτυπωθούν στο χαρτί (1, 2 ή 4 σελίδες)"/>
+  <StrRes Name="propPlainCells" Text="Καθορίζει αν θα εκτυπωθούν πολλαπλά κελιά δίπλα-δίπλα ή κάθετα"/>
+  <StrRes Name="propPrintMode" Text="Τύπος Εκτύπωσης: φυσιολογικός, χώρισμα μεγάλων σελίδων σε μικρές, ή εκτύπωση πολλών μικρών σε μια μεγάλη"/>
+  <StrRes Name="propPrintOnSheet" Text="Μέγεθος χαρτιού εκτύπωσης Αναφοράς. Ισχύει αν ο Τύπος Εκτύπωσης δεν είναι pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Μηδενισμός αριθμού σελίδας στην εκτύπωση ομαδοποίησης. Πρέπει να επιλέγεται και η Νέα Σελίδα στην ομάδα"/>
+  <StrRes Name="propReverse" Text="Καθορίζει αν θα τυπωθούν οι σελίδες ανάστροφη σειρά"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="Εμφάνιση mode του αντικειμένου OLE"/>
+  <StrRes Name="propVersion" Text="Εκδοση του FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Σχέση πλάτους γραμμής για το barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="Καθορίζει την σχεδίαση βέλους στο τέλος της γραμμής"/>
+  <StrRes Name="propArrowLength" Text="Μήκος του βέλους"/>
+  <StrRes Name="propArrowSolid" Text="Καθορίζει αν θα σχεδιάζει ένα γεμάτο χρώμα βέλος"/>
+  <StrRes Name="propArrowStart" Text="Καθορίζει αν θα σχεδιάζει βέλος στην αρχή της γραμμής"/>
+  <StrRes Name="propArrowWidth" Text="Πλάτος του βέλους"/>
+  <StrRes Name="propCloseDataSource" Text="Καθορίζει αν θα κλείνει το dataset όταν ολοκληρωθεί η Αναφορά"/>
+  <StrRes Name="propDatabase" Text="Σύνδεση Βάσης Δεδομένων"/>
+  <StrRes Name="propIndexFieldNames" Text="Ονομα ταξινόμησης πεδίων"/>
+  <StrRes Name="propCommandTimeOut" Text="Απαιτούμενος Χρόνος εκτέλεσης Query"/>
+  <StrRes Name="propExpandDrillDown" Text="Determines whether to expand all drill-down elements at first start of a report"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Καθορίζει αν θα εμφανίζεται ένα κείμενο σε WYSIWYG"/>
+  <StrRes Name="propLeftLine" Text="Αριστερή γραμμή του frame"/>
+  <StrRes Name="propTopLine" Text="Επάνω γραμμή του frame"/>
+  <StrRes Name="propRightLine" Text="Δεξιά γραμμή του frame"/>
+  <StrRes Name="propBottomLine" Text="Κάτω γραμμή του frame"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Το χρώμα της γραμμής"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Το Στυλ της γραμμής"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Το Πλάτος της γραμμής"/>
+  <StrRes Name="propFileLink" Text="Εκφραση ή όνομα αρχείου που περιέχει την εικόνα"/>
+  <StrRes Name="propEndlessWidth" Text="Ατελείωτο πλάτος χαρτιού. Εαν οριστεί, η σελίδα θα μεγαλώνει ανάλογα με τον αριθμό των εγγραφών"/>
+  <StrRes Name="propEndlessHeight" Text="Ατελείωτο ύψος χαρτιού. Εαν οριστεί, η σελίδα θα μεγαλώνει ανάλογα με τον αριθμό των εγγραφών"/>
+  <StrRes Name="propAddHeight" Text="Προσθέτει προκαθορισμένο κενό στο ύψος του κελιού"/>
+  <StrRes Name="propAddWidth" Text="Προσθέτει προκαθορισμένο κενό στο πλάτος του κελιού"/>
+  <StrRes Name="propAllowDuplicates" Text="Καθορίζει αν το κελί θα δέχεται διπλές τιμές τύπου string"/>
+  <StrRes Name="propJoinEqualCells" Text="Καθορίζει αν το crosstab θα ενώνει κελιά με ίδιες τιμές"/>
+  <StrRes Name="propNextCross" Text="Δείκτης του επόμενου crosstab που θα εμφανίζεται δίπλα-δίπλα"/>
+  <StrRes Name="propNextCrossGap" Text="Κενό μεταξύ πλαϊνών crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Καθορίζει αν το crosstab θα εμφανίζει στοιχεία αριστερά επάνω"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

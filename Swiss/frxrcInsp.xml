@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="propActive" Text="Legt fest, ob ein Dataset geöffnet ist"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Legt fest, ob Hervorhebung aktiv ist"/>
+  <StrRes Name="propAliasName" Text="Name des BDE Aliases"/>
+  <StrRes Name="propAlign" Text="Legt die Ausrichtung des Objektes relativ zum Band oder der Seite fest"/>
+  <StrRes Name="propAlignment" Text="Ausrichtung des Textes des Objekts"/>
+  <StrRes Name="propAllowAllUp" Text="Legt fest, ob alle Schalter in der Gruppe zugleich ausgeschaltet sein dürfen"/>
+  <StrRes Name="propAllowEdit" Text="Legt fest, ob fertige Reportseiten bearbeitet werden können"/>
+  <StrRes Name="propAllowExpressions" Text="Legt fest, ob das Textobjekt Ausdrücke im Text enthalten darf"/>
+  <StrRes Name="propAllowGrayed" Text="Erlaubt Grauzustand eines Kontrollkästchens"/>
+  <StrRes Name="propAllowHTMLTags" Text="Legt fest, ob das Textobjekt HTML tags im Text enthalten darf"/>
+  <StrRes Name="propAllowSplit" Text="Legt fest, ob das Band seinen Inhalt über mehrere Seiten aufteilen darf"/>
+  <StrRes Name="propAuthor" Text="Der Autor des Reports"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Legt fest, ob das Bild seine Grösse automatisch berechnet"/>
+  <StrRes Name="propAutoWidth" Text="Legt fest, ob das Textobjekt seine Breite automatisch berechnet"/>
+  <StrRes Name="propBackPicture" Text="Hintergrundbild"/>
+  <StrRes Name="propBarType" Text="Der Typ des Barcodes"/>
+  <StrRes Name="propBevelInner" Text="Der Typ des inneren Rahmens"/>
+  <StrRes Name="propBevelOuter" Text="Der Typ des äusseren Rahmens"/>
+  <StrRes Name="propBevelWidth" Text="Die Breite des Rahmens"/>
+  <StrRes Name="propBorder" Text="Legt fest, ob der äussere Rahmen angezeigt wird"/>
+  <StrRes Name="propBorderStyle" Text="Der Stil des Fensters"/>
+  <StrRes Name="propBottomMargin" Text="Die Grösse des unteren Seitenrandes"/>
+  <StrRes Name="propBrushStyle" Text="Der Pinselstil für den Hintergrund des Objektes"/>
+  <StrRes Name="propCalcCheckSum" Text="Legt fest, ob der Barcode die Checksumme automatisch berechnet"/>
+  <StrRes Name="propCancel" Text="Legt fest, ob der Schalter druch Drücken von Escape aktiviert wird"/>
+  <StrRes Name="propCaption" Text="Beschriftung des Objektes"/>
+  <StrRes Name="propCellFields" Text="Namen der DB Felder repräsentieren die Kreuzzellen"/>
+  <StrRes Name="propCellLevels" Text="Anzahl der Zellebenen"/>
+  <StrRes Name="propCenter" Text="Legt fest, ob das Bild innerhalb des Objektes zentriert wird"/>
+  <StrRes Name="propCharset" Text="Zeichensatz der Schrift"/>
+  <StrRes Name="propCharSpacing" Text="Anzahl der Pixel zwischen zwei Zeichen"/>
+  <StrRes Name="propCheckColor" Text="Farbe des Häkchens"/>
+  <StrRes Name="propChecked" Text="Legt fest, ob das Objekt angehakt ist"/>
+  <StrRes Name="propCheckStyle" Text="Stil des Häkchens"/>
+  <StrRes Name="propChild" Text="Childband mit diesem Band verknüpft"/>
+  <StrRes Name="propClipped" Text="Determines whether the text should be clipped inside the objects bounds"/>
+  <StrRes Name="propCollate" Text="Vorgabeeinstellung der Sortierung"/>
+  <StrRes Name="propColor.TFont" Text="Die Farbe des Textes"/>
+  <StrRes Name="propColor" Text="Die Farbe des Objektes"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Die Farbe des Rahmens"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Legt die Farbe des Objektes fest, wenn Hervorhebung aktiv ist"/>
+  <StrRes Name="propColumnFields" Text="Feldnamen repräsentieren Kreuzspalten"/>
+  <StrRes Name="propColumnGap" Text="Der Abstand zwischen den Spalten"/>
+  <StrRes Name="propColumnLevels" Text="Anzahl der Spaltenebenen"/>
+  <StrRes Name="propColumns" Text="Anzahl der Spalten im Band"/>
+  <StrRes Name="propColumnWidth" Text="Die Breite der Spalte des Bandes"/>
+  <StrRes Name="propCondition" Text="Die Gruppenbedingung. Gruppenumbruch erfolgt, wenn dieser Wert wechselt"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Ausdruck. Wenn dieser Ausdruck wahr ist, wird Hervorhebung aktiviert"/>
+  <StrRes Name="propConnected" Text="Legt fest, ob die Datenbankverbindung aktiv ist"/>
+  <StrRes Name="propConvertNulls" Text="Legt fest, ob Nullwerte in der Datenbank in 0, False oder leere Zeichenkette konvertiert werden"/>
+  <StrRes Name="propCopies" Text="Vorgabewert der Kopienanzahl"/>
+  <StrRes Name="propCursor" Text="Cursor des Objektes"/>
+  <StrRes Name="propDatabaseName" Text="Der Name der Datenbank"/>
+  <StrRes Name="propDataField" Text="Legt das Feld fest, von dem das Objekt die Daten erhält"/>
+  <StrRes Name="propDataSet" Text="Verbindet das Objekt mit dem Dataset, das das Datenfeld enthält"/>
+  <StrRes Name="propDate" Text="Der Datumswert des Objektes"/>
+  <StrRes Name="propDateFormat" Text="Legt fest, ion welchen Format das Datum angezeigt wird"/>
+  <StrRes Name="propDecimalSeparator" Text="Das Dezimaltrennzeichen"/>
+  <StrRes Name="propDefault" Text="Legt fest, ob die Schaltfläche die Standardschaltfläche ist"/>
+  <StrRes Name="propDefHeight" Text="Vorgabe der Zeilenhöhe"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Die Reportbeschreibung"/>
+  <StrRes Name="propDescription" Text="Object's description"/>
+  <StrRes Name="propDiagonal" Text="Legt fest, dass die Linie diagonal verläuft"/>
+  <StrRes Name="propDisplayFormat" Text="Das Anzeigeformat"/>
+  <StrRes Name="propDoublePass" Text="Legt fest, ob die Reportengine zweiten Durchlauf startet"/>
+  <StrRes Name="propDown" Text="Legt fest, ob der Schalter gedrpckt ist"/>
+  <StrRes Name="propDownThenAcross" Text="Legt fest, wie grosse Tabelle auf Seiten aufgeteilt werden"/>
+  <StrRes Name="propDriverName" Text="Der Name des BDE Treibers"/>
+  <StrRes Name="propDropShadow" Text="Legt fest, ob das Objekt einen Schatten hat"/>
+  <StrRes Name="propDuplex" Text="Legt den Duplexmodus für die Seite fest"/>
+  <StrRes Name="propEditMask" Text="Legt die Eingabe-/Anzeigemaske für das Objekt fest"/>
+  <StrRes Name="propEnabled" Text="Legt fest, ob das Objekt abgeblendet ist"/>
+  <StrRes Name="propEngineOptions" Text="Die Engineoptionen für den Repoprt"/>
+  <StrRes Name="propExpression" Text="Der Wert dieses Ausdrucks wird im Objekt angezeigt"/>
+  <StrRes Name="propExpressionDelimiters" Text="Diese Zeichen begrenzen einen Ausdruck im Text"/>
+  <StrRes Name="propFieldAliases" Text="Feldaliase des Datasets"/>
+  <StrRes Name="propFilter" Text="Die Filterbedingung des Datasets"/>
+  <StrRes Name="propFiltered" Text="Legt fest, ob das Dataset die Sätze gemäss Filterbedingung filtert"/>
+  <StrRes Name="propFlowTo" Text="Das Textobjekt, das überzähligen Text anzeigt"/>
+  <StrRes Name="propFont" Text="Die Schriftattribute des Objektes"/>
+  <StrRes Name="propFooterAfterEach" Text="Legt fest, ob das Fussband nach jeder Datenzeile angezeigt wird"/>
+  <StrRes Name="propFormatStr" Text="Die Foramtzeichenkette"/>
+  <StrRes Name="propFrame" Text="Die Rahmeneigenschaften des Objektes"/>
+  <StrRes Name="propGapX" Text="Der linke Abstand des Textes"/>
+  <StrRes Name="propGapY" Text="Der obere Abstand des Textes"/>
+  <StrRes Name="propGlyph" Text="Das Bild des Objektes"/>
+  <StrRes Name="propGroupIndex" Text="Fasst Schalter zu einer Gruppe zusammen"/>
+  <StrRes Name="propHAlign" Text="Die horizontale Ausrichtung des Textes"/>
+  <StrRes Name="propHeight" Text="Die Höhe des Objektes"/>
+  <StrRes Name="propHideZeros" Text="Legt fest, ob Nullwerte unterdrückt werden"/>
+  <StrRes Name="propHighlight" Text="Die Eigenschaften der bedingten Hervorhebung"/>
+  <StrRes Name="propIndexName" Text="Der Name des Index"/>
+  <StrRes Name="propInitString" Text="Drucker init Zeichenkette für dot-matrix Reports"/>
+  <StrRes Name="propItems" Text="Listet die Elemente des Objekts"/>
+  <StrRes Name="propKeepAspectRatio" Text="Behält das Seitenverhältnis des Bildes"/>
+  <StrRes Name="propKeepChild" Text="Legt fest, ob das Band zusammen mit dem Child gedruckt wird"/>
+  <StrRes Name="propKeepFooter" Text="Legt fest, ob das Band zusammen mit dem Fuss gedruckt wird"/>
+  <StrRes Name="propKeepHeader" Text="Determines whether the band will be printed together with its header"/>
+  <StrRes Name="propKeepTogether" Text="Legt fest, ob das Band zusammen mit allen Unterbändern gedruckt wird"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Die Art der Formatierung"/>
+  <StrRes Name="propKind" Text="Die Art der Schaltfläche"/>
+  <StrRes Name="propLargeDesignHeight" Text="Legt fest, ob die Seite im Entwurfsmodus vergössert wird"/>
+  <StrRes Name="propLayout" Text="Anordnung des Bildes auf der Schaltfläche"/>
+  <StrRes Name="propLeft" Text="Die linke Koordinate des Objekts"/>
+  <StrRes Name="propLeftMargin" Text="Die Grösse des linken Seitenrandes"/>
+  <StrRes Name="propLines" Text="Der Text des Objektes"/>
+  <StrRes Name="propLineSpacing" Text="Der Abstand zwischen zwei Textzeilen in Pixel"/>
+  <StrRes Name="propLoginPrompt" Text="Legt fest, ob der Anmeldedialog angezeigt wird"/>
+  <StrRes Name="propMargin" Text="Legt die Anzahl der Pixel zwischen dem Bildrand und dem Rand der Schaltfläche fest"/>
+  <StrRes Name="propMaster" Text="Das Hauptdataset"/>
+  <StrRes Name="propMasterFields" Text="Die Felder, die durch Master-Detailbeziehung verbunden sind"/>
+  <StrRes Name="propMaxLength" Text="Maximale Textlänge"/>
+  <StrRes Name="propMaxWidth" Text="Maximale Breite der Spalte"/>
+  <StrRes Name="propMemo" Text="Der Text des Objektes"/>
+  <StrRes Name="propMinWidth" Text="Minimale Breite der Spalte"/>
+  <StrRes Name="propMirrorMargins" Text="Seitenränder auf geraden Seiten spiegeln"/>
+  <StrRes Name="propModalResult" Text="Legt fest, ob und wie die Schaltfläche das modale Formular schliesst"/>
+  <StrRes Name="propName.TFont" Text="Der Name der Schrift"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Der Name des Reports"/>
+  <StrRes Name="propName" Text="Der Name des Objekts"/>
+  <StrRes Name="propNumGlyphs" Text="Legt die Anzahl der Bilder fest, die in der Grafik sind, die in der Glypheigenschaft definiert ist"/>
+  <StrRes Name="propOpenDataSource" Text="Legt fest, ob die Datasource automatisch geöffnet wird"/>
+  <StrRes Name="propOrientation" Text="Die Ausrichtung der Seite"/>
+  <StrRes Name="propOutlineText" Text="Der Text, der in der Outline des Vorschaufensters angezeigt wird"/>
+  <StrRes Name="propOutlineVisible" Text="Die Sichtbarkeit der Outline im Vorschaufenster"/>
+  <StrRes Name="propOutlineWidth" Text="Die Breite der Outline"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Die Anazhl der Seiten, die gedruckt werden"/>
+  <StrRes Name="propPaperHeight" Text="Die Höhe der Seite"/>
+  <StrRes Name="propPaperWidth" Text="Die Breite der Seite"/>
+  <StrRes Name="propParagraphGap" Text="Der Ertzeileneinzug des Absatzes"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Die Parameter der Verbindung"/>
+  <StrRes Name="propParams" Text="Die Parameter der Abfrage"/>
+  <StrRes Name="propParentFont" Text="Legt fest, ob das Objekt Schrifteinstellungen übernimmt"/>
+  <StrRes Name="propPassword" Text="Das Passwort des Reports"/>
+  <StrRes Name="propPasswordChar" Text="Legt das Zeichen fest, das an Stelle des Originalzeichens bei Passwörtern erscheint"/>
+  <StrRes Name="propPicture" Text="Das Bild"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Die Bioldbeschreibung des Reports"/>
+  <StrRes Name="propPosition" Text="Die Anfangsposition des Fensters"/>
+  <StrRes Name="propPreviewOptions" Text="Die Vorschauoptionen des Reports"/>
+  <StrRes Name="propPrintable" Text="Druckbarkeit des Objektes. Wenn False, wird das Objekt in der Vorschau angezeigt, aber nicht gedruckt"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Legt fest, ob das Childband gedruckt wird, wenn das Hauptband unsichtbar ist"/>
+  <StrRes Name="propPrinter" Text="Der Name des Druckers, der beim Öffnen oder Erstellen des Reports verwendet wird"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Legt fest, ob das Datenband gedruckt wird, wenn sein Unterband leer ist"/>
+  <StrRes Name="propPrintIfEmpty" Text="Legt fest, ob die Seite gedruckt wird, wenn alle Datasets leer sind"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Legt fest, ob das Band auf der ersten Seite gedruckt wird"/>
+  <StrRes Name="propPrintOnLastPage" Text="Legt fest, ob das Band auf der letzten Seite gedruckt wird"/>
+  <StrRes Name="propPrintOnParent" Text="Legt fest, ob der Unterreport auf dem Hauptband gedruckt wird"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Legt fest, ob die Seite auf dem verbleibenden freien Platz der vorigen Seite erzeugt wird"/>
+  <StrRes Name="propPrintOptions" Text="Druckoptionen des Reports"/>
+  <StrRes Name="propPrintPages" Text="Legt fest, ob alle, ungerade oder gerade Seiten gedruckt werden"/>
+  <StrRes Name="propRangeBegin" Text="Legt den Anfang des Datasetdurchlaufes fest"/>
+  <StrRes Name="propRangeEnd" Text="Legt das Ende des Datasetdurchlaufes fest"/>
+  <StrRes Name="propRangeEndCount" Text="Legt die Anzahl der Datensätze fest, wenn das Durchlaufende auf reCount gesetzt ist"/>
+  <StrRes Name="propReadOnly" Text="Legt Nur-Lesen-Eigenschaft des Objektes fest"/>
+  <StrRes Name="propRepeatHeaders" Text="Legt fest, Spalten/Zeilenkopf auf jeder neuen Seite wiederholt wird"/>
+  <StrRes Name="propReportOptions" Text="Die Optionen des Reports"/>
+  <StrRes Name="propReprintOnNewPage" Text="Legt fest, ob das Band auf jeder neuen Seite wiederholt wird"/>
+  <StrRes Name="propRestrictions" Text="Gruppe von Einschränkungen"/>
+  <StrRes Name="propRightMargin" Text="Die Grösse des rechten Randes"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Die Ausrichtung des Barcodes"/>
+  <StrRes Name="propRotation" Text="Die Textdrehung"/>
+  <StrRes Name="propRowCount" Text="Anzahl der virtuellen Sätze im Datenband"/>
+  <StrRes Name="propRowFields" Text="Feldnamen repräsentieren Kreuzzeilen"/>
+  <StrRes Name="propRowLevels" Text="Anzahl der Zeilenebenen"/>
+  <StrRes Name="propRTLReading" Text="Legt fest, ob der Text von rechts nach links dargestellt wird"/>
+  <StrRes Name="propSessionName" Text="Der Name der BDE session"/>
+  <StrRes Name="propShadowColor" Text="Die Farbe des Schattens"/>
+  <StrRes Name="propShadowWidth" Text="Die Breite des Schattens"/>
+  <StrRes Name="propShape" Text="Der Typ der Figur"/>
+  <StrRes Name="propShiftMode" Text="Verschiebeverhalten des Objektes"/>
+  <StrRes Name="propShowColumnHeader" Text="Legt fest, ob Cross-tab Spaltenköpfe anzeigt"/>
+  <StrRes Name="propShowColumnTotal" Text="Legt fest, ob Cross-tab Gesamtsummen der Spalten anzeigt"/>
+  <StrRes Name="propShowRowHeader" Text="Legt fest, ob Cross-tab Zeilenköpfe anzeigt"/>
+  <StrRes Name="propShowRowTotal" Text="Legt fest, ob Cross-tab Gesamtsummen der Zeilen anzeigt"/>
+  <StrRes Name="propShowDialog" Text="Legt fest, ob der Druckdialog im Vorschaufenster angezeigt wird"/>
+  <StrRes Name="propShowText" Text="Legt fest, ob das Barcodeobjekt lesbaren Text anzeigt"/>
+  <StrRes Name="propSize" Text="Die Grösse der Schrift"/>
+  <StrRes Name="propSorted" Text="Legt fest, ob die Elemente sortiert werden"/>
+  <StrRes Name="propSpacing" Text="Determines die Anzahl der Pixel zwischen Bild und Text"/>
+  <StrRes Name="propSQL" Text="Der SQL Befehl"/>
+  <StrRes Name="propStartNewPage" Text="Beginnt eine neue Seite bevor das Band gedruckt wird"/>
+  <StrRes Name="propStretch" Text="Dehnt das Bild bis zur Objektgrösse"/>
+  <StrRes Name="propStretched" Text="Legt fest, ob das Objekt gedehnt werden kann"/>
+  <StrRes Name="propStretchMode" Text="Dehnverhalten des Objektes"/>
+  <StrRes Name="propStyle.TFont" Text="Der Stil der Schrift"/>
+  <StrRes Name="propStyle" Text="Der Stil des Objektes"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Der Rahmenstil des Objektes"/>
+  <StrRes Name="propSuppressRepeated" Text="Wiederholte Werte unterdrücken"/>
+  <StrRes Name="propTableName" Text="Der Name der Datentabelle"/>
+  <StrRes Name="propTag" Text="Tagnummer des Objektes"/>
+  <StrRes Name="propTagStr" Text="Tagzeichenkette des Objektes"/>
+  <StrRes Name="propText" Text="Der Text des Objektes"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Legt fest, ob Reporttitel vor dem Seitenkopf angezeigt wird"/>
+  <StrRes Name="propTop" Text="Die obere Koordinate des Objektes"/>
+  <StrRes Name="propTopMargin" Text="Die Grösse des oberen Seitenrandes"/>
+  <StrRes Name="propTyp" Text="Der Typ des Rahmens"/>
+  <StrRes Name="propUnderlines" Text="Legt fest, ob das Textobjekt Gitterlinien nach jeder Textzeile anzeigt"/>
+  <StrRes Name="propURL" Text="Die URL des Objekts"/>
+  <StrRes Name="propUserName" Text="Username des Datenobjektes. Dieser Name wird im Datenbaum angezeigt"/>
+  <StrRes Name="propVAlign" Text="Die vertikale Ausrichtung des Textes"/>
+  <StrRes Name="propVersionBuild" Text="Versioninfo, build"/>
+  <StrRes Name="propVersionMajor" Text="Versioninfo, major version"/>
+  <StrRes Name="propVersionMinor" Text="Versioninfo, minor version"/>
+  <StrRes Name="propVersionRelease" Text="Versioninfo, release"/>
+  <StrRes Name="propVisible" Text="Sichtbarkeit des Objektes"/>
+  <StrRes Name="propWidth" Text="Breit des Objektes"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Die Breite des Rahmens"/>
+  <StrRes Name="propWindowState" Text="Anfangsanzeigestatus des Fensters"/>
+  <StrRes Name="propWordBreak" Text="Silbentrennung (russisch)"/>
+  <StrRes Name="propWordWrap" Text="Legt fest, ob das Textobjekt weiche Zeilenschaltungen einfügt"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Zoomt den Barcode"/>
+  <StrRes Name="propConnectionName" Text="Name of the connection to the database used in the report"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix font style"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Hide the footer if a group has only one data record"/>
+  <StrRes Name="propOutlineExpand" Text="Determines whether to expand the report outline or not"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="Print mode: normal, split big pages to small one, or print several small pages on a big one"/>
+  <StrRes Name="propPrintOnSheet" Text="Paper size to print report on. Used if PrintMode is not pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Reset page number/total pages numbers when print a group. Should be used with StartNewPage option set to true"/>
+  <StrRes Name="propReverse" Text="Determines whether to print pages in reversed order"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="Display mode of the OLE object"/>
+  <StrRes Name="propVersion" Text="Version of the FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Relative with of wide bars of the barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="Determines whether to draw an arrow at the end of line"/>
+  <StrRes Name="propArrowLength" Text="Length of the arrow"/>
+  <StrRes Name="propArrowSolid" Text="Determines whether to draw a solid-filled arrow"/>
+  <StrRes Name="propArrowStart" Text="Determines whether to draw an arrow at the start of line"/>
+  <StrRes Name="propArrowWidth" Text="Width of the arrow"/>
+  <StrRes Name="propCloseDataSource" Text="Determines whether to close the dataset when report is finished"/>
+  <StrRes Name="propDatabase" Text="Database connection"/>
+  <StrRes Name="propIndexFieldNames" Text="Names of index fields"/>
+  <StrRes Name="propCommandTimeOut" Text="Amount of time needed to execute a query"/>
+  <StrRes Name="propExpandDrillDown" Text="Determines whether to expand all drill-down elements at first start of a report"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Determines whether to display a text in WYSIWYG mode"/>
+  <StrRes Name="propLeftLine" Text="Left line of a frame"/>
+  <StrRes Name="propTopLine" Text="Top line of a frame"/>
+  <StrRes Name="propRightLine" Text="Right line of a frame"/>
+  <StrRes Name="propBottomLine" Text="Bottom line of a frame"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="The color of the frame line"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="The style of the frame line"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="The width of the frame line"/>
+  <StrRes Name="propFileLink" Text="Expression or name of the file containing a picture"/>
+  <StrRes Name="propEndlessWidth" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propEndlessHeight" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propAddHeight" Text="Adds specified amount of space to the cell height"/>
+  <StrRes Name="propAddWidth" Text="Adds specified amount of space to the cell width"/>
+  <StrRes Name="propAllowDuplicates" Text="Determines whether the cell can accept duplicate string values"/>
+  <StrRes Name="propJoinEqualCells" Text="Determines whether the crosstab should join cells with equal values"/>
+  <StrRes Name="propNextCross" Text="Pointer to the next crosstab that will be displayed side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Gap between side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Determines whether the crosstab should display a left-top corner elements"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

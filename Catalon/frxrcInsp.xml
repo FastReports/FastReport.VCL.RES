@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="propActive" Text="Especifica quan una taula estŕ o no oberta"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Especifica quan un ressalt estŕ actiu"/>
+  <StrRes Name="propAliasName" Text="Nom de l'alies del BDE"/>
+  <StrRes Name="propAlign" Text="Determina l'ajust de l'objecta relatiu a la banda o pŕgina"/>
+  <StrRes Name="propAlignment" Text="Ajustament del text"/>
+  <StrRes Name="propAllowAllUp" Text="Especifica quan totes el botons d'un grup poden ser deseleccionats a la vegada"/>
+  <StrRes Name="propAllowEdit" Text="Determina quan l'usuari pot editar el preparador de pŕgines de l'informe"/>
+  <StrRes Name="propAllowExpressions" Text="Determina quan el text pot contenir expressions"/>
+  <StrRes Name="propAllowGrayed" Text="Permetre l'estat gris en els controls checkboxes"/>
+  <StrRes Name="propAllowHTMLTags" Text="Determina quan el text pot contenir codi HTML"/>
+  <StrRes Name="propAllowSplit" Text="Determina si la banda pot dividir-se en varies pŕgines"/>
+  <StrRes Name="propAuthor" Text="Autor de l'informe"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Determina si la imatge es dimensiona automŕticament"/>
+  <StrRes Name="propAutoWidth" Text="Determina si el text es dimensiona l'amplada automŕticament"/>
+  <StrRes Name="propBackPicture" Text="Imatge pel fons de la pŕgina"/>
+  <StrRes Name="propBarType" Text="Tipus de Codi de Barres"/>
+  <StrRes Name="propBevelInner" Text="Tipus de bisell sortit"/>
+  <StrRes Name="propBevelOuter" Text="Tipus de bisell enfonsat"/>
+  <StrRes Name="propBevelWidth" Text="Amplada del bisell"/>
+  <StrRes Name="propBorder" Text="Determina si es mostra la vora o no"/>
+  <StrRes Name="propBorderStyle" Text="Estil de la finestra"/>
+  <StrRes Name="propBottomMargin" Text="Mida del marge inferior de la pŕgina"/>
+  <StrRes Name="propBrushStyle" Text="Estil del pinzell usat pels fons dels objectes"/>
+  <StrRes Name="propCalcCheckSum" Text="Determina si el codi de barres ha de calcular el check de control automŕticament"/>
+  <StrRes Name="propCancel" Text="Determina si s'activa el botó quan es clica la tecla ESC"/>
+  <StrRes Name="propCaption" Text="Títol del control"/>
+  <StrRes Name="propCellFields" Text="Noms dels camps de taula representats en les cel·les"/>
+  <StrRes Name="propCellLevels" Text="Número de nivells de les cel·les"/>
+  <StrRes Name="propCenter" Text="Determina si l'imatge ha de sortir centrada"/>
+  <StrRes Name="propCharset" Text="Tipus de charset"/>
+  <StrRes Name="propCharSpacing" Text="Píxels entre dos carŕcters"/>
+  <StrRes Name="propCheckColor" Text="Color de marc del check"/>
+  <StrRes Name="propChecked" Text="Indica si el check estŕ marcat o no"/>
+  <StrRes Name="propCheckStyle" Text="Estil del check"/>
+  <StrRes Name="propChild" Text="Banda Fill connectat a aquesta banda"/>
+  <StrRes Name="propClipped" Text="Determines whether the text should be clipped inside the objects bounds"/>
+  <StrRes Name="propCollate" Text="Opció per defecte de comparació"/>
+  <StrRes Name="propColor.TFont" Text="Color del text"/>
+  <StrRes Name="propColor" Text="Color de l'objecte"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Color del marc"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Determina el color de l'objecta si el ressaltat és actiu"/>
+  <StrRes Name="propColumnFields" Text="Noms dels camps de taula representats en les files cel·les"/>
+  <StrRes Name="propColumnGap" Text="Espai entre columnes de la banda"/>
+  <StrRes Name="propColumnLevels" Text="Número de nivells de columnes"/>
+  <StrRes Name="propColumns" Text="Número de columnes en la banda"/>
+  <StrRes Name="propColumnWidth" Text="Ampla de les columnes de la banda"/>
+  <StrRes Name="propCondition" Text="Condició de l'agrupació. El grup es separa si el valor d'aquesta expressió canvia"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Cadena d'expressió. Si aquesta expressió es certa, el ressaltat s'activa"/>
+  <StrRes Name="propConnected" Text="Indica si la connexió a la base de dades és activa"/>
+  <StrRes Name="propConvertNulls" Text="Determina si un valor null de la BD es pot convertir a 0, False or cadena buida"/>
+  <StrRes Name="propCopies" Text="El número de cňpies per defecte"/>
+  <StrRes Name="propCursor" Text="Cursor de l'objecte"/>
+  <StrRes Name="propDatabaseName" Text="Nom de la base de dades"/>
+  <StrRes Name="propDataField" Text="Especifica el camp d'on l'objecte obté les dades"/>
+  <StrRes Name="propDataSet" Text="Enllaça ń'objecte a la taula que conté els camps a representar"/>
+  <StrRes Name="propDate" Text="Date del control"/>
+  <StrRes Name="propDateFormat" Text="Especifica el format en que es presenta la data"/>
+  <StrRes Name="propDecimalSeparator" Text="Separador decimal"/>
+  <StrRes Name="propDefault" Text="Determina si el botó és el per defecte"/>
+  <StrRes Name="propDefHeight" Text="Alçada per defecte de la fila"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Descripció de l'informa"/>
+  <StrRes Name="propDescription" Text="Object's description"/>
+  <StrRes Name="propDiagonal" Text="Indica que la línia és una diagonal"/>
+  <StrRes Name="propDisplayFormat" Text="Format del valor a mostrar"/>
+  <StrRes Name="propDoublePass" Text="Determina si es vol fer una doble passada per calcular l'informe"/>
+  <StrRes Name="propDown" Text="Determina si un botó es manté clicat o no"/>
+  <StrRes Name="propDownThenAcross" Text="Determina la llargada de la taula creuada per dividir-la en pŕgines"/>
+  <StrRes Name="propDriverName" Text="Nom del driver pel BDE"/>
+  <StrRes Name="propDropShadow" Text="Determina si l'objecte té ombra"/>
+  <StrRes Name="propDuplex" Text="Especifica el mode duplex (impressió a dos cares) per la pŕgina"/>
+  <StrRes Name="propEditMask" Text="Especifica la mŕscara que representa que el text és vŕlid en control d'edició"/>
+  <StrRes Name="propEnabled" Text="Determina si el control estŕ actiu"/>
+  <StrRes Name="propEngineOptions" Text="Opcions pel cŕlcul de l'informe"/>
+  <StrRes Name="propExpression" Text="Valor d'aquesta expressió que serŕ mostrat en l'objecte"/>
+  <StrRes Name="propExpressionDelimiters" Text="Carŕcters que són usats per tancar l'expressió continguda en el text"/>
+  <StrRes Name="propFieldAliases" Text="Alies pel camp"/>
+  <StrRes Name="propFilter" Text="Condició pel filtre de la taula"/>
+  <StrRes Name="propFiltered" Text="Determina si la taula pot filtrar els registres usant la condició de la propietat Filter"/>
+  <StrRes Name="propFlowTo" Text="L'objecte de text que mostrarŕ el text que no cŕpiga en l'objecte"/>
+  <StrRes Name="propFont" Text="Atributs de la lletra de l'objecte"/>
+  <StrRes Name="propFooterAfterEach" Text="Determina si el peu de la banda s'ha de mostrar a cada fila"/>
+  <StrRes Name="propFormatStr" Text="Cadena de format"/>
+  <StrRes Name="propFrame" Text="Atributs del marc de l'objecte"/>
+  <StrRes Name="propGapX" Text="Espaiat esquerra del text"/>
+  <StrRes Name="propGapY" Text="Espaiat superior del text"/>
+  <StrRes Name="propGlyph" Text="Imatge del control"/>
+  <StrRes Name="propGroupIndex" Text="Permet als botons treballs junts com un grup"/>
+  <StrRes Name="propHAlign" Text="Justificat horitzontal del text"/>
+  <StrRes Name="propHeight" Text="Alçada de l'objecte"/>
+  <StrRes Name="propHideZeros" Text="Determina si l'objecte oculta els valors zero"/>
+  <StrRes Name="propHighlight" Text="Atributs per la condició del ressaltat"/>
+  <StrRes Name="propIndexName" Text="Nom de l'índex"/>
+  <StrRes Name="propInitString" Text="Cadena d'impressió inicial dels informes per impressores d'agulles"/>
+  <StrRes Name="propItems" Text="Llista d'ítems de l'objecte"/>
+  <StrRes Name="propKeepAspectRatio" Text="Mantenir l'aspecte rŕtio original de l'imatge"/>
+  <StrRes Name="propKeepChild" Text="Determina si la banda s'ha d'imprimir junt al seu fill"/>
+  <StrRes Name="propKeepFooter" Text="Determina si la banda s'ha d'imprimir junt al peu"/>
+  <StrRes Name="propKeepTogether" Text="Determina si la banda s'ha d'imprimir junt a la subbanda"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Tipus de valor pel format"/>
+  <StrRes Name="propKind" Text="Tipus de botó"/>
+  <StrRes Name="propLargeDesignHeight" Text="Determina si la pŕgina pot tenir una alçada major en el mode de disseny"/>
+  <StrRes Name="propLayout" Text="Posició de l'imatge del botó"/>
+  <StrRes Name="propLeft" Text="Coordenada esquerra de l'objecte"/>
+  <StrRes Name="propLeftMargin" Text="Mida del marge esquerra de la pŕgina"/>
+  <StrRes Name="propLines" Text="Text de l'objecte"/>
+  <StrRes Name="propLineSpacing" Text="Número de píxels entre dos línies de text"/>
+  <StrRes Name="propLoginPrompt" Text="Determina si s'ha de mostrar un diŕleg"/>
+  <StrRes Name="propMargin" Text="Determina el número de píxels entre la vora de l'imatge i la vora del botó"/>
+  <StrRes Name="propMaster" Text="Taula principal"/>
+  <StrRes Name="propMasterFields" Text="Camps que relacionen un master-detail"/>
+  <StrRes Name="propMaxLength" Text="Longitud mŕxima d'un text"/>
+  <StrRes Name="propMaxWidth" Text="Amplada mŕxima de la columna"/>
+  <StrRes Name="propMemo" Text="Text de l'objecte"/>
+  <StrRes Name="propMinWidth" Text="Amplada mínima de la columna"/>
+  <StrRes Name="propMirrorMargins" Text="Agafar el marge més petit per totes les pŕgines"/>
+  <StrRes Name="propModalResult" Text="Determina si i com el botó tanca un form modal"/>
+  <StrRes Name="propName.TFont" Text="Nom de la lletra"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Nom de l'informe"/>
+  <StrRes Name="propName" Text="Nom de l'objecte"/>
+  <StrRes Name="propNumGlyphs" Text="Indica el número d'imatges que hi ha en el grŕfic en la propietat Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Determina si s'obre automŕticament un datasource"/>
+  <StrRes Name="propOrientation" Text="Orientació de la pŕgina"/>
+  <StrRes Name="propOutlineText" Text="Text que es mostra en el perfil en la vista prčvia"/>
+  <StrRes Name="propOutlineVisible" Text="Perfil visible en la vista prčvia"/>
+  <StrRes Name="propOutlineWidth" Text="Amplada del perfil en la vista prčvia"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Número de pŕgines a imprimir"/>
+  <StrRes Name="propPaperHeight" Text="Alçada de la pŕgina"/>
+  <StrRes Name="propPaperWidth" Text="Amplada de la pŕgina"/>
+  <StrRes Name="propParagraphGap" Text="Espai de la primera línia del parŕgraf"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parŕmetres de la connexió"/>
+  <StrRes Name="propParams" Text="Parŕmetres del query"/>
+  <StrRes Name="propParentFont" Text="Determina si l'objecte usa la lletra del pare"/>
+  <StrRes Name="propPassword" Text="Password de l'informe"/>
+  <StrRes Name="propPasswordChar" Text="Indica el carŕcter, si n'hi ha, es mostren en el lloc dels carŕcters entrats"/>
+  <StrRes Name="propPicture" Text="Imatge"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Descripció de l'imatge de l'informe"/>
+  <StrRes Name="propPosition" Text="Posició inicial de la finestra"/>
+  <StrRes Name="propPreviewOptions" Text="Opcions de la vista prčvia de l'informe"/>
+  <StrRes Name="propPrintable" Text="Impressió de l'objecte. Objectes amb Printable=False es veuran en la vista prčvia perň no s'imprimiran"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Determina si una banda fill és impresa si la seva banda pare és invisible"/>
+  <StrRes Name="propPrinter" Text="Nom de l'impressora que estarŕ seleccionada quan s'obre o s'executa l'informe"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Determines si s'imprimirŕ la banda si la seva subbanda estŕ buida"/>
+  <StrRes Name="propPrintIfEmpty" Text="Determina si s'imprimirŕ la pŕgina si totes les taules són buides"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Determina si s'imprimirŕ la banda en la primera pŕgina"/>
+  <StrRes Name="propPrintOnLastPage" Text="Determina si s'imprimirŕ la banda en l'última pŕgina"/>
+  <StrRes Name="propPrintOnParent" Text="Determina si es pot imprimir el subreport en la banda pare"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Determina si la pŕgina pot ser generada sola o en la pŕgina anterior"/>
+  <StrRes Name="propPrintOptions" Text="Opcions d'impressió de l'informe"/>
+  <StrRes Name="propPrintPages" Text="Determina si s'ha d'imprimir totes les pŕgines, les parells o les senars"/>
+  <StrRes Name="propRangeBegin" Text="Determina el punt inicial per navegar per la taula"/>
+  <StrRes Name="propRangeEnd" Text="Determina el punt final per navegar per la taula"/>
+  <StrRes Name="propRangeEndCount" Text="Determina el número de registres en la taula si RangeEnd és reCount"/>
+  <StrRes Name="propReadOnly" Text="Determina si el text és de sols lectura"/>
+  <StrRes Name="propRepeatHeaders" Text="Determina si la columna i capçalera de files poden reimprimir-se en la nova pŕgina"/>
+  <StrRes Name="propReportOptions" Text="Opcions de l'informe"/>
+  <StrRes Name="propReprintOnNewPage" Text="Determina si la banda s'ha d'imprimir en una nova pŕgina"/>
+  <StrRes Name="propRestrictions" Text="Opcions de restricció"/>
+  <StrRes Name="propRightMargin" Text="Tamany del marge dret de la pŕgina"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Orientació del codi de barres"/>
+  <StrRes Name="propRotation" Text="Rotació del text"/>
+  <StrRes Name="propRowCount" Text="Número de registres virtuals en la banda"/>
+  <StrRes Name="propRowFields" Text="Nom dels camps de la BD representats en les files"/>
+  <StrRes Name="propRowLevels" Text="Número de nivells de files"/>
+  <StrRes Name="propRTLReading" Text="Determina en quina direcció es mostra el text"/>
+  <StrRes Name="propSessionName" Text="Nom de la sessió del BDE"/>
+  <StrRes Name="propShadowColor" Text="Color de l'ombra"/>
+  <StrRes Name="propShadowWidth" Text="Amplada de l'ombra"/>
+  <StrRes Name="propShape" Text="Tipus de la figura"/>
+  <StrRes Name="propShiftMode" Text="Comportament de l'objecte"/>
+  <StrRes Name="propShowColumnHeader" Text="Determina si s'ha de mostrar la capçalera de les columnes"/>
+  <StrRes Name="propShowColumnTotal" Text="Determina si s'ha de mostrar el gran total de les columnes"/>
+  <StrRes Name="propShowRowHeader" Text="Determina si s'ha de mostrar la capçalera de les files"/>
+  <StrRes Name="propShowRowTotal" Text="Determina si s'ha de mostrar el gran total de les files"/>
+  <StrRes Name="propShowDialog" Text="Determina si s'ha de mostrar el diŕleg d'impressió en la vista prčvia"/>
+  <StrRes Name="propShowText" Text="Determina si el codi de barres ha de mostrar el text llegible"/>
+  <StrRes Name="propSize" Text="Mida de la lletra"/>
+  <StrRes Name="propSorted" Text="Determina si els ítems s'han d'ordenar o no"/>
+  <StrRes Name="propSpacing" Text="Determina el número de píxels entre l'imatge i el text"/>
+  <StrRes Name="propSQL" Text="Codi SQL"/>
+  <StrRes Name="propStartNewPage" Text="Iniciar una nova pŕgina abans d'imprimir una banda"/>
+  <StrRes Name="propStretch" Text="Redimensiona l'imatge per encabir-la a l'objecte"/>
+  <StrRes Name="propStretched" Text="Determina si l'objecta pot ser redimensionat"/>
+  <StrRes Name="propStretchMode" Text="Comportament del redimensionament"/>
+  <StrRes Name="propStyle.TFont" Text="Estil de la lletra"/>
+  <StrRes Name="propStyle" Text="Estil del control"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Estil del marc de l'objecte"/>
+  <StrRes Name="propSuppressRepeated" Text="Suprimir valors repetits"/>
+  <StrRes Name="propTableName" Text="Nom de la taula"/>
+  <StrRes Name="propTag" Text="Número d'etiqueta de l'objecte"/>
+  <StrRes Name="propTagStr" Text="Cadena d'etiqueta de l'objecte"/>
+  <StrRes Name="propText" Text="Text de l'objecte"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Determina si s'ha de mostrar el títol de l'informe abans de la capçalera"/>
+  <StrRes Name="propTop" Text="Coordenada superior de l'objecte"/>
+  <StrRes Name="propTopMargin" Text="Mida del marge superior de la pŕgina"/>
+  <StrRes Name="propTyp" Text="Tipus de marc"/>
+  <StrRes Name="propUnderlines" Text="Determina si el text ha de mostrar les línies de la reixa després de cada línia"/>
+  <StrRes Name="propURL" Text="URL de l'objecte"/>
+  <StrRes Name="propUserName" Text="Nom de l'usuari del valor de l'objecte. Aquest nom es mostrarŕ en l'arbre de dades"/>
+  <StrRes Name="propVAlign" Text="Justificat vertical del text"/>
+  <StrRes Name="propVersionBuild" Text="Versió info, build"/>
+  <StrRes Name="propVersionMajor" Text="Versió info, major version"/>
+  <StrRes Name="propVersionMinor" Text="Versió info, minor version"/>
+  <StrRes Name="propVersionRelease" Text="Versió info, release"/>
+  <StrRes Name="propVisible" Text="Si l'objecte és visible"/>
+  <StrRes Name="propWidth" Text="Amplada de l'objecte"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Amplada del marc"/>
+  <StrRes Name="propWindowState" Text="Estat inicial de la finestra"/>
+  <StrRes Name="propWordBreak" Text="Partí paraules en rus"/>
+  <StrRes Name="propWordWrap" Text="Determina si el text pot afegir salts de línia per mantenir el marge dret"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Zoom del codi de barres"/>
+  <StrRes Name="propKeepHeader" Text="Determines whether the band will be printed together with its header"/>
+  <StrRes Name="propConnectionName" Text="Name of the connection to the database used in the report"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix font style"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Hide the footer if a group has only one data record"/>
+  <StrRes Name="propOutlineExpand" Text="Determines whether to expand the report outline or not"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="Print mode: normal, split big pages to small one, or print several small pages on a big one"/>
+  <StrRes Name="propPrintOnSheet" Text="Paper size to print report on. Used if PrintMode is not pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Reset page number/total pages numbers when print a group. Should be used with StartNewPage option set to true"/>
+  <StrRes Name="propReverse" Text="Determines whether to print pages in reversed order"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="Display mode of the OLE object"/>
+  <StrRes Name="propVersion" Text="Version of the FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Relative with of wide bars of the barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="Determines whether to draw an arrow at the end of line"/>
+  <StrRes Name="propArrowLength" Text="Length of the arrow"/>
+  <StrRes Name="propArrowSolid" Text="Determines whether to draw a solid-filled arrow"/>
+  <StrRes Name="propArrowStart" Text="Determines whether to draw an arrow at the start of line"/>
+  <StrRes Name="propArrowWidth" Text="Width of the arrow"/>
+  <StrRes Name="propCloseDataSource" Text="Determines whether to close the dataset when report is finished"/>
+  <StrRes Name="propDatabase" Text="Database connection"/>
+  <StrRes Name="propIndexFieldNames" Text="Names of index fields"/>
+  <StrRes Name="propCommandTimeOut" Text="Amount of time needed to execute a query"/>
+  <StrRes Name="propExpandDrillDown" Text="Determines whether to expand all drill-down elements at first start of a report"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Determines whether to display a text in WYSIWYG mode"/>
+  <StrRes Name="propLeftLine" Text="Left line of a frame"/>
+  <StrRes Name="propTopLine" Text="Top line of a frame"/>
+  <StrRes Name="propRightLine" Text="Right line of a frame"/>
+  <StrRes Name="propBottomLine" Text="Bottom line of a frame"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="The color of the frame line"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="The style of the frame line"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="The width of the frame line"/>
+  <StrRes Name="propFileLink" Text="Expression or name of the file containing a picture"/>
+  <StrRes Name="propEndlessWidth" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propEndlessHeight" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propAddHeight" Text="Adds specified amount of space to the cell height"/>
+  <StrRes Name="propAddWidth" Text="Adds specified amount of space to the cell width"/>
+  <StrRes Name="propAllowDuplicates" Text="Determines whether the cell can accept duplicate string values"/>
+  <StrRes Name="propJoinEqualCells" Text="Determines whether the crosstab should join cells with equal values"/>
+  <StrRes Name="propNextCross" Text="Pointer to the next crosstab that will be displayed side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Gap between side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Determines whether the crosstab should display a left-top corner elements"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

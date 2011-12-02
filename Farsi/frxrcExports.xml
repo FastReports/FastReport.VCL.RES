@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="8000" Text="Excel صدور به فرمت"/>
+  <StrRes Name="8001" Text="نما"/>
+  <StrRes Name="8002" Text="تصاوير"/>
+  <StrRes Name="8003" Text="ادغام سلولها"/>
+  <StrRes Name="8004" Text="صدور سريع"/>
+  <StrRes Name="8005" Text="ويزي ويگ"/>
+  <StrRes Name="8006" Text="بصورت متن"/>
+  <StrRes Name="8007" Text="زمينه"/>
+  <StrRes Name="8008" Text="بعد از صدور Excle اجراي"/>
+  <StrRes Name="8009" Text="پرونده Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Excel صدور به فرمت"/>
+  <StrRes Name="8101" Text="نما"/>
+  <StrRes Name="8102" Text="ويزي ويگ"/>
+  <StrRes Name="8103" Text="زمينه"/>
+  <StrRes Name="8104" Text="بعد از صدور Excle اجراي"/>
+  <StrRes Name="8105" Text="پرونده XML Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="HTML صدور به فرمت"/>
+  <StrRes Name="8201" Text="اجرا بعد از ذخيره سازي"/>
+  <StrRes Name="8202" Text="نما"/>
+  <StrRes Name="8203" Text="تصاوير"/>
+  <StrRes Name="8204" Text="همه در يک پوشه"/>
+  <StrRes Name="8205" Text="پهناي ثابت"/>
+  <StrRes Name="8206" Text="هدايت گر صفحه"/>
+  <StrRes Name="8207" Text="چند صفحه اي"/>
+  <StrRes Name="8208" Text="Mozilla جستجوگر"/>
+  <StrRes Name="8209" Text="زمينه"/>
+  <StrRes Name="8210" Text="پرونده HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="(چاپگر سوزني) Text صدور به فرمت"/>
+  <StrRes Name="8301" Text="پيش نمايش فعال/غيرغعال"/>
+  <StrRes Name="8302" Text=" جزئيات صدور  "/>
+  <StrRes Name="8303" Text="تفکيک صفحه"/>
+  <StrRes Name="8304" Text="OEM کدپیج"/>
+  <StrRes Name="8305" Text="خطوط خالي"/>
+  <StrRes Name="8306" Text="فضاي خالي"/>
+  <StrRes Name="8307" Text="شماره صفحه"/>
+  <StrRes Name="8308" Text="شماره يا محدوده صفحات را که با کاما جدا شده اند وارد کنيد. براي مثال:  1,3,5, 12-6"/>
+  <StrRes Name="8309" Text=" مقياس گذاري "/>
+  <StrRes Name="8310" Text="X مقياس"/>
+  <StrRes Name="8311" Text="Y مقياس"/>
+  <StrRes Name="8312" Text=" چارچوب "/>
+  <StrRes Name="8313" Text="هيچيکدام"/>
+  <StrRes Name="8314" Text="ساده"/>
+  <StrRes Name="8315" Text="گرافيک"/>
+  <StrRes Name="8316" Text="فقط با کدپیج OEM"/>
+  <StrRes Name="8317" Text="چاپ بعد از صدور"/>
+  <StrRes Name="8318" Text="جزئيات ذخيره سازي"/>
+  <StrRes Name="8319" Text=" پيش نمايش "/>
+  <StrRes Name="8320" Text="پهنا:"/>
+  <StrRes Name="8321" Text="ارتفاع:"/>
+  <StrRes Name="8322" Text="صفحه"/>
+  <StrRes Name="8323" Text="بزرگنمائي"/>
+  <StrRes Name="8324" Text="کوچکنمائي"/>
+  <StrRes Name="8325" Text="پرونده Text (چاپگر سوزني)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="چاپ"/>
+  <StrRes Name="8401" Text="چاپگر"/>
+  <StrRes Name="8402" Text="نام"/>
+  <StrRes Name="8403" Text="تنظيمات..."/>
+  <StrRes Name="8404" Text="رونوشت"/>
+  <StrRes Name="8405" Text="تعداد رونوشت"/>
+  <StrRes Name="8406" Text=" تنظيمات چاپگر "/>
+  <StrRes Name="8407" Text="نوع چاپگر"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="الگو راه انداز چاپگر (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="الگو راه انداز چاپگر (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="RTF صدور به فرمت"/>
+  <StrRes Name="8501" Text="تصاوير"/>
+  <StrRes Name="8502" Text="ويزي ويگ"/>
+  <StrRes Name="8503" Text="اجرا بعد از صدور"/>
+  <StrRes Name="8504" Text="پرونده RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="جزئيات صدور"/>
+  <StrRes Name="8601" Text=" جزئيات تصوير "/>
+  <StrRes Name="8602" Text="JPEG کيفيت"/>
+  <StrRes Name="8603" Text="(dpi) وضوح"/>
+  <StrRes Name="8604" Text="فايلهاي مجزا"/>
+  <StrRes Name="8605" Text="کاهش اندازه صفحات"/>
+  <StrRes Name="8606" Text="سياه و سفيد"/>
+  <StrRes Name="8700" Text="PDF صدور به فرمت"/>
+  <StrRes Name="8701" Text="فشرده"/>
+  <StrRes Name="8702" Text="جاسازي فونت"/>
+  <StrRes Name="8703" Text="چاپ بهينه شده"/>
+  <StrRes Name="8704" Text="نماي کلي"/>
+  <StrRes Name="8705" Text="زمينه"/>
+  <StrRes Name="8706" Text="اجرا بعد از صدور"/>
+  <StrRes Name="8707" Text="پرونده Adobe PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="پرونده RTF"/>
+  <StrRes Name="BMPexport" Text="تصوير BMP"/>
+  <StrRes Name="JPEGexport" Text="تصوير JPEG"/>
+  <StrRes Name="TIFFexport" Text="تصوير TIFF "/>
+  <StrRes Name="TextExport" Text="(چاپگر سوزني) Text "/>
+  <StrRes Name="XlsOLEexport" Text="جدول Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="پرونده HTML"/>
+  <StrRes Name="XlsXMLexport" Text="جدول Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="پرونده PDF "/>
+  <StrRes Name="ProgressWait" Text="لطفا صبر کنيد"/>
+  <StrRes Name="ProgressRows" Text="آماده سازي سطرها"/>
+  <StrRes Name="ProgressColumns" Text="آماده سازي ستونها"/>
+  <StrRes Name="ProgressStyles" Text="آماده سازي نما"/>
+  <StrRes Name="ProgressObjects" Text="صدور اشياء"/>
+  <StrRes Name="TIFFexportFilter" Text="تصوير Tiff (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="تصوير BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="تصوير Jpeg (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="اول"/>
+  <StrRes Name="HTMLNavPrev" Text="قبل"/>
+  <StrRes Name="HTMLNavNext" Text="بعد"/>
+  <StrRes Name="HTMLNavLast" Text="آخر"/>
+  <StrRes Name="HTMLNavRefresh" Text="بازبيني"/>
+  <StrRes Name="HTMLNavPrint" Text="چاپ"/>
+  <StrRes Name="HTMLNavTotal" Text="کل صفحات"/>
+  <StrRes Name="8800" Text="Text صدور به فرمت"/>
+  <StrRes Name="8801" Text="پرونده Text (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="پرونده Text"/>
+  <StrRes Name="8850" Text="CSV صدور به فرمت"/>
+  <StrRes Name="8851" Text="پرونده CSV (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="جدا کننده"/>
+  <StrRes Name="CSVExport" Text="پرونده CSV"/>
+  <StrRes Name="8900" Text="E-Mail ارسال"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="دسترسي"/>
+  <StrRes Name="8903" Text="اتصال"/>
+  <StrRes Name="8904" Text="آدرس"/>
+  <StrRes Name="8905" Text="ضميمه"/>
+  <StrRes Name="8906" Text="قالب"/>
+  <StrRes Name="8907" Text="آدرس فرستنده"/>
+  <StrRes Name="8908" Text="نام فرستنده"/>
+  <StrRes Name="8909" Text="ميزبان"/>
+  <StrRes Name="8910" Text="کاربر"/>
+  <StrRes Name="8911" Text="نامه"/>
+  <StrRes Name="8912" Text="پيغام"/>
+  <StrRes Name="8913" Text="متن"/>
+  <StrRes Name="8914" Text="سازمان"/>
+  <StrRes Name="8915" Text="کلمه رمز"/>
+  <StrRes Name="8916" Text="درگاه"/>
+  <StrRes Name="8917" Text="ذخير جزئيات"/>
+  <StrRes Name="8918" Text="فيلد مورد نياز پر نشده است"/>
+  <StrRes Name="8919" Text="جزئيات صدور پيشرفته"/>
+  <StrRes Name="8920" Text="امضاء"/>
+  <StrRes Name="8921" Text="ساختن"/>
+  <StrRes Name="8922" Text="موضوع"/>
+  <StrRes Name="8923" Text="بهترين درود"/>
+  <StrRes Name="8924" Text="فرستادن نامه به"/>
+  <StrRes Name="EmailExport" Text="ارسال E-mail"/>
+  <StrRes Name="FastReportFile" Text="پرونده FastReport"/>
+  <StrRes Name="GifexportFilter" Text="تصوير Gif (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="تصوير Gif"/>
+  <StrRes Name="8950" Text="ادامه"/>
+  <StrRes Name="8951" Text="سربرگ/پاورقي صفحه"/>
+  <StrRes Name="8952" Text="متن"/>
+  <StrRes Name="8953" Text="سربرگ/پاورقي"/>
+  <StrRes Name="8954" Text="هيچ"/>
+  <StrRes Name="ODSExportFilter" Text="پرونده Spreadsheet (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="جدول Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="پرونده Text(*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="جدول Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="امنیت"/>
+  <StrRes Name="8963" Text="تنظیمات امنتیت"/>
+  <StrRes Name="8964" Text="کلمه رمز مالک"/>
+  <StrRes Name="8965" Text="کلمه رمز کاربر"/>
+  <StrRes Name="8966" Text="چاپ پرونده"/>
+  <StrRes Name="8967" Text="تغییر پرونده"/>
+  <StrRes Name="8968" Text="کپی متن و گرافیک"/>
+  <StrRes Name="8969" Text="افزودن یا تغییر ملاحظات"/>
+  <StrRes Name="8970" Text="PDF امنیت"/>
+  <StrRes Name="8971" Text="اطلاعات پرونده"/>
+  <StrRes Name="8972" Text="اطلاعات"/>
+  <StrRes Name="8973" Text="عنوان"/>
+  <StrRes Name="8974" Text="مولف"/>
+  <StrRes Name="8975" Text="موضوع"/>
+  <StrRes Name="8976" Text="کلمات کلیدی"/>
+  <StrRes Name="8977" Text="سازنده"/>
+  <StrRes Name="8978" Text="تهیه کننده"/>
+  <StrRes Name="8979" Text="صحت اعتبار"/>
+  <StrRes Name="8980" Text="مجوز"/>
+  <StrRes Name="8981" Text="ناظر"/>
+  <StrRes Name="8982" Text="برتری ناظر"/>
+  <StrRes Name="8983" Text="مخفی کردن جعبه ابزار"/>
+  <StrRes Name="8984" Text="مخفی کردن فهرست انتخاب"/>
+  <StrRes Name="8985" Text="مخفی کردن پنجره رابط کاربر"/>
+  <StrRes Name="8986" Text="تنظیم پنجره"/>
+  <StrRes Name="8987" Text="پنجره در مرکز"/>
+  <StrRes Name="8988" Text="مقیاس چاپ"/>
+  <StrRes Name="8989" Text="تائید خواندن"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/> 
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

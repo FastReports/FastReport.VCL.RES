@@ -1,0 +1,275 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="propActive" Text="Визначає, чи активний набір даних"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Визначає, чи активно умовне виділення"/>
+  <StrRes Name="propAliasName" Text="Ім'я аліаса BDE"/>
+  <StrRes Name="propAlign" Text="Вирівнювання об'єкта щодо батька"/>
+  <StrRes Name="propAlignment" Text="Вирівнювання тексту об'єкта"/>
+  <StrRes Name="propAllowAllUp" Text="Визначає, чи можуть всі кнопки групи бути віджаті"/>
+  <StrRes Name="propAllowEdit" Text="Визначає, чи може користувач редагувати готовий звіт"/>
+  <StrRes Name="propAllowExpressions" Text="Визначає, чи можуть у тексті об'єкта перебувати вирази"/>
+  <StrRes Name="propAllowGrayed" Text="Дозволяє третій стан чекбоксів"/>
+  <StrRes Name="propAllowHTMLTags" Text="Визначає, чи можуть у тексті об'єкта перебувати HTML-теги"/>
+  <StrRes Name="propAllowSplit" Text="Дозволяє розрив вмісту бенда"/>
+  <StrRes Name="propAuthor" Text="Автор звіту"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Авто-розмір картинки"/>
+  <StrRes Name="propAutoWidth" Text="Авто-ширина тексту"/>
+  <StrRes Name="propBackPicture" Text="Фонова картинка сторінки"/>
+  <StrRes Name="propBarType" Text="Тип штрихкода"/>
+  <StrRes Name="propBevelInner" Text="Тип внутрішньої рамки"/>
+  <StrRes Name="propBevelOuter" Text="Тип зовнішньої рамки"/>
+  <StrRes Name="propBevelWidth" Text="Товщина рамки"/>
+  <StrRes Name="propBorder" Text="Визначає, чи треба показувати зовнішню рамку навколо об'єкта"/>
+  <StrRes Name="propBorderStyle" Text="Стиль вікна"/>
+  <StrRes Name="propBottomMargin" Text="Розмір нижнього поля сторінки"/>
+  <StrRes Name="propBrushStyle" Text="Стиль кисті, використовуваний при малюванні заливки об'єкта"/>
+  <StrRes Name="propCalcCheckSum" Text="Визначає, чи треба обчислювати контрольну суму автоматично"/>
+  <StrRes Name="propCancel" Text="Визначає, чи повинна спрацьовувати кнопка при натисканні клавіші Esc"/>
+  <StrRes Name="propCaption" Text="Заголовок елемента керування"/>
+  <StrRes Name="propCellFields" Text="Імена полів БД, розташованих в чарунках таблиці"/>
+  <StrRes Name="propCellLevels" Text="Кількість рівнів в чарунках таблиці"/>
+  <StrRes Name="propCenter" Text="Визначає, чи треба центрувати картинку всередині об'єкта"/>
+  <StrRes Name="propCharset" Text="Набір символів шрифту"/>
+  <StrRes Name="propCharSpacing" Text="Проміжок між символами"/>
+  <StrRes Name="propCheckColor" Text="Кольори галочки"/>
+  <StrRes Name="propChecked" Text="Визначає, чи відзначений елемент керування"/>
+  <StrRes Name="propCheckStyle" Text="Тип галочки"/>
+  <StrRes Name="propChild" Text="Дочірній бенд, пов'язаний з даним бендом"/>
+  <StrRes Name="propClipped" Text="Визначає, чи потрібно вводити текст тільки всередині обєкта"/>
+  <StrRes Name="propCollate" Text="Визначає, чи треба розбирати по копіях"/>
+  <StrRes Name="propColor.TFont" Text="Кольори шрифту"/>
+  <StrRes Name="propColor" Text="Кольори об'єкта"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Кольори рамки"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Кольори об'єкта, якщо умовне виділення активне"/>
+  <StrRes Name="propColumnFields" Text="Імена полів БД, розташованих у заголовку колонок таблиці"/>
+  <StrRes Name="propColumnGap" Text="Проміжок між колонками бенда"/>
+  <StrRes Name="propColumnLevels" Text="Кількість рівнів у заголовку колонок таблиці"/>
+  <StrRes Name="propColumns" Text="Кількість колонок на бенді"/>
+  <StrRes Name="propColumnWidth" Text="Ширина колонки бенда"/>
+  <StrRes Name="propCondition" Text="!Условие группировки. При изменении значения этого выражения формируется новая группа"/>
+  <StrRes Name="propConnected" Text="Визначає, чи активне підключення до БД"/>
+  <StrRes Name="propConvertNulls" Text="Визначає, чи потрібно порожні значення полів БД конвертувати в 0, False або порожній рядок, залежно від типу поля"/>
+  <StrRes Name="propCopies" Text="Кількість копій"/>
+  <StrRes Name="propCursor" Text="Форма курсору об'єкта"/>
+  <StrRes Name="propDatabaseName" Text="Ім'я бази даних"/>
+  <StrRes Name="propDataField" Text="Ім'я поля БД, до якого прив'язаний об'єкт"/>
+  <StrRes Name="propDataSet" Text="Набір даних, до якого прив'язаний об'єкт"/>
+  <StrRes Name="propDate" Text="Дата"/>
+  <StrRes Name="propDateFormat" Text="Формат дати"/>
+  <StrRes Name="propDecimalSeparator" Text="Роздільник цілої й дробової частин числа"/>
+  <StrRes Name="propDefault" Text="Визначає, чи спрацює кнопка при натисканні клавіші Enter"/>
+  <StrRes Name="propDefHeight" Text="Висота рядка таблиці за замовчуванням"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Опис звіту"/>
+  <StrRes Name="propDescription" Text="Object's description"/>
+  <StrRes Name="propDiagonal" Text="Визначає, чи є лінія діагональною"/>
+  <StrRes Name="propDisplayFormat" Text="Форматування виведених значень"/>
+  <StrRes Name="propDoublePass" Text="Визначає, чи є звіт двухпрохідним"/>
+  <StrRes Name="propDown" Text="Визначає, чи натиснута кнопка"/>
+  <StrRes Name="propDownThenAcross" Text="Визначає, як буде розбита на сторінки більша таблиця"/>
+  <StrRes Name="propDriverName" Text="Ім'я драйвера BDE"/>
+  <StrRes Name="propDropShadow" Text="Визначає, чи показувати тінь"/>
+  <StrRes Name="propDuplex" Text="Режим дуплексного друку"/>
+  <StrRes Name="propEditMask" Text="Маска для редагування тексту"/>
+  <StrRes Name="propEnabled" Text="Визначає, чи дозволений елемент керування"/>
+  <StrRes Name="propEngineOptions" Text="Властивості двигунця звіту"/>
+  <StrRes Name="propExpression" Text="Вираження, значення якого буде відображено в об'єкті"/>
+  <StrRes Name="propExpressionDelimiters" Text="Символи, використовувані для позначення виразів у тексті"/>
+  <StrRes Name="propFieldAliases" Text="Аліаси полів БД"/>
+  <StrRes Name="propFilter" Text="Вирази фільтрації записів набору даних"/>
+  <StrRes Name="propFiltered" Text="Визначає, чи треба використати фільтрацію, зазначену у властивості Filter"/>
+  <StrRes Name="propFlowTo" Text="Об'єкт, що буде показувати текст, що не помістився в даному об'єкті"/>
+  <StrRes Name="propFont" Text="Параметри шрифту"/>
+  <StrRes Name="propFooterAfterEach" Text="Визначає, чи треба показувати підвал після кожного рядка даних"/>
+  <StrRes Name="propFormatStr" Text="Рядок форматування"/>
+  <StrRes Name="propFrame" Text="Параметри рамки"/>
+  <StrRes Name="propGapX" Text="Відступ тексту ліворуч і праворуч від границь об'єкта"/>
+  <StrRes Name="propGapY" Text="Відступ тексту зверху й знизу від границь об'єкта"/>
+  <StrRes Name="propGlyph" Text="Картинка елемента керування"/>
+  <StrRes Name="propGroupIndex" Text="Дозволяє поєднувати кнопки в групу"/>
+  <StrRes Name="propHAlign" Text="Вирівнювання тексту по горизонталі"/>
+  <StrRes Name="propHeight" Text="Висота об'єкта"/>
+  <StrRes Name="propHideZeros" Text="Визначає, чи треба приховувати об'єкти з нульовими значеннями"/>
+  <StrRes Name="propHighlight" Text="Параметри умовного виділення"/>
+  <StrRes Name="propIndexName" Text="Ім'я індексу"/>
+  <StrRes Name="propInitString" Text="Рядок ініціалізації принтера для друку матричних звітів"/>
+  <StrRes Name="propItems" Text="Список рядків об'єкта"/>
+  <StrRes Name="propKeepAspectRatio" Text="Зберігати пропорції зображення"/>
+  <StrRes Name="propKeepChild" Text="Визначає, чи повиннен бенд виводитися на тій же сторінці, що і його child"/>
+  <StrRes Name="propKeepFooter" Text="Визначає, чи повиннен бенд виводитися на тій же сторінці, що і його footer"/>
+  <StrRes Name="propKeepHeader" Text="Визначає, чи повиннен бенд виводитися на тій же сторінці, що і його header"/>
+  <StrRes Name="propKeepTogether" Text="Визначає, чи повинна група бендів виводитися на одній сторінці"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Тип форматування"/>
+  <StrRes Name="propKind" Text="Тип кнопки"/>
+  <StrRes Name="propLargeDesignHeight" Text="Визначає, чи буде сторінка мати більшу висоту в режимі дизайнера"/>
+  <StrRes Name="propLayout" Text="Розміщення картинки"/>
+  <StrRes Name="propLeft" Text="Координата Х об'єкта"/>
+  <StrRes Name="propLeftMargin" Text="Розмір лівого поля сторінки"/>
+  <StrRes Name="propLines" Text="Текст об'єкта"/>
+  <StrRes Name="propLineSpacing" Text="Проміжок між рядками тексту"/>
+  <StrRes Name="propLoginPrompt" Text="Визначає, чи треба показувати діалог з ім'ям/паролем при підключенні до БД"/>
+  <StrRes Name="propMargin" Text="Відстань між картинкою й краєм елемента керування"/>
+  <StrRes Name="propMaster" Text="Головний набір даних, для утворення зв'язків master-detail"/>
+  <StrRes Name="propMasterFields" Text="Зв'язані поля головного й підлеглого набору даних"/>
+  <StrRes Name="propMaxLength" Text="Максимальна довжина тексту"/>
+  <StrRes Name="propMaxWidth" Text="Максимальна ширина колонки"/>
+  <StrRes Name="propMemo" Text="Текст об'єкта"/>
+  <StrRes Name="propMinWidth" Text="Мінімальна ширина колонки"/>
+  <StrRes Name="propMirrorMargins" Text="Дзеркальні поля сторінки"/>
+  <StrRes Name="propModalResult" Text="Визначає, з яким результатом кнопка закриває модальну форму"/>
+  <StrRes Name="propName.TFont" Text="Ім'я шрифту"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Ім'я звіту"/>
+  <StrRes Name="propName" Text="Ім'я об'єкта"/>
+  <StrRes Name="propNumGlyphs" Text="Кількість картинок, заданих у властивості Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Визначає, чи треба автоматично відкривати набір даних"/>
+  <StrRes Name="propOrientation" Text="Орієнтація сторінки"/>
+  <StrRes Name="propOutlineText" Text="Текст, що буде відображений в &#38;#34;Дереві звіту&#38;#34; у вікні попередньому перегляді"/>
+  <StrRes Name="propOutlineVisible" Text="Визначає, чи показувати &#38;#34;Дерево звіту&#38;#34; у вікні попереднього перегляду"/>
+  <StrRes Name="propOutlineWidth" Text="Ширина &#38;#34;Дерева звіту&#38;#34;"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Номера сторінок, які повинні бути надруковані"/>
+  <StrRes Name="propPaperHeight" Text="Висота сторінки"/>
+  <StrRes Name="propPaperWidth" Text="Ширина сторінки"/>
+  <StrRes Name="propParagraphGap" Text="Відступ параграфа"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Параметри підключення до БД"/>
+  <StrRes Name="propParams" Text="Параметри запиту"/>
+  <StrRes Name="propParentFont" Text="Визначає, чи треба використати настроювання шрифту батька"/>
+  <StrRes Name="propPassword" Text="Пароль звіту"/>
+  <StrRes Name="propPasswordChar" Text="Визначає символ, використовуваний при відображенні пароля"/>
+  <StrRes Name="propPicture" Text="Картинка"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Картинка звіту"/>
+  <StrRes Name="propPosition" Text="Позиція вікна за замовчуванням"/>
+  <StrRes Name="propPreviewOptions" Text="Настроювання попереднього перегляду"/>
+  <StrRes Name="propPrintable" Text="Визначає, чи треба друкувати об'єкт. У кожному разі об'єкт буде видний у вікні перегляду"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Визначає, чи треба друкувати дочірній бенд, якщо основний бенд не бачимо"/>
+  <StrRes Name="propPrinter" Text="Принтер, що буде обраний при друку звіту"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Визначає, чи треба друкувати бенд, якщо його підбенди не містять записів"/>
+  <StrRes Name="propPrintIfEmpty" Text="Визначає, чи треба друкувати сторінку, якщо всі її дата-бенди не мають записів"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Визначає, чи треба друкувати бенд на першій сторінці"/>
+  <StrRes Name="propPrintOnLastPage" Text="Визначає, чи треба друкувати бенд на останній сторінці"/>
+  <StrRes Name="propPrintOnParent" Text="Визначає, чи виводити вміст вкладеного звіту на батьківському бенді"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Визначає, чи починати друк чергової сторінки на вільному місці попередньої сторінки"/>
+  <StrRes Name="propPrintOptions" Text="Настроювання печатки"/>
+  <StrRes Name="propPrintPages" Text="Визначає, які сторінки друкувати - всі, непарні або парні"/>
+  <StrRes Name="propRangeBegin" Text="Початкова точка навігації по набору даних"/>
+  <StrRes Name="propRangeEnd" Text="Кінцева крапка навігації по набору даних"/>
+  <StrRes Name="propRangeEndCount" Text="Кількість записів у наборі даних, якщо RangeEnd = reCount"/>
+  <StrRes Name="propReadOnly" Text="Встановлює режим &#38;#34;тільки для читання&#38;#34;"/>
+  <StrRes Name="propRepeatHeaders" Text="Визначає, чи треба повторювати вивід заголовків на всіх сторінках"/>
+  <StrRes Name="propReportOptions" Text="Настроювання звіту"/>
+  <StrRes Name="propReprintOnNewPage" Text="Визначає, чи треба повторювати вивід бенда на всіх сторінках"/>
+  <StrRes Name="propRestrictions" Text="Набір прапорів, що забороняють ті або інші дії"/>
+  <StrRes Name="propRightMargin" Text="Розмір правого поля сторінки"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Орієнтація штрихкода"/>
+  <StrRes Name="propRotation" Text="Орієнтація тексту"/>
+  <StrRes Name="propRowCount" Text="Кількість рядків у дата-бенді, якщо він не підключений до даних"/>
+  <StrRes Name="propRowFields" Text="Імена полів БД, розташованих у заголовку рядків таблиці"/>
+  <StrRes Name="propRowLevels" Text="Кількість рівнів у заголовку рядків таблиці"/>
+  <StrRes Name="propRTLReading" Text="Визначає, чи треба використати напрямок тексту праворуч ліворуч"/>
+  <StrRes Name="propScaleFontWidth" Text="Масштаб ширини шрифту"/>
+  <StrRes Name="propSessionName" Text="Ім'я сесії BDE"/>
+  <StrRes Name="propShadowColor" Text="Кольори тіні"/>
+  <StrRes Name="propShadowWidth" Text="Розмір тіні"/>
+  <StrRes Name="propShape" Text="Тип фігури"/>
+  <StrRes Name="propShiftMode" Text="Режим зсуву об'єкта"/>
+  <StrRes Name="propShowColumnHeader" Text="Визначає, чи показувати заголовки колонок"/>
+  <StrRes Name="propShowColumnTotal" Text="Визначає, чи показувати підсумок по колонках"/>
+  <StrRes Name="propShowDialog" Text="Визначає, чи показувати діалог друку у вікні попереднього перегляду"/>
+  <StrRes Name="propShowRowHeader" Text="Визначає, чи показувати заголовки рядків"/>
+  <StrRes Name="propShowRowTotal" Text="Визначає, чи показувати підсумок по рядках"/>
+  <StrRes Name="propShowText" Text="Визначає, чи показувати текст під штрихкодом"/>
+  <StrRes Name="propSize" Text="Розмір шрифту"/>
+  <StrRes Name="propSorted" Text="Визначає, чи сортувати список"/>
+  <StrRes Name="propSpacing" Text="Проміжок між картинкою й написом"/>
+  <StrRes Name="propSQL" Text="Вираз SQL"/>
+  <StrRes Name="propStartNewPage" Text="Визначає, чи формувати розрив сторінки перед друком бенда"/>
+  <StrRes Name="propStretch" Text="Розтягувати картинку по розмірах об'єкта"/>
+  <StrRes Name="propStretched" Text="Визначає, чи може об'єкт розтягуватися"/>
+  <StrRes Name="propStretchMode" Text="Режим розтягування об'єкта"/>
+  <StrRes Name="propStyle.TFont" Text="Стиль шрифту"/>
+  <StrRes Name="propStyle" Text="Стиль елемента керування"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Стиль рамки"/>
+  <StrRes Name="propSuppressRepeated" Text="Визначає, чи приховувати повторювані значення"/>
+  <StrRes Name="propTableName" Text="Ім'я таблиці"/>
+  <StrRes Name="propTag" Text="Тег об'єкта, число"/>
+  <StrRes Name="propTagStr" Text="Тег об'єкта, вираз"/>
+  <StrRes Name="propText" Text="Текст об'єкта"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Визначає, чи треба показувати заголовок звіту перед заголовком сторінки"/>
+  <StrRes Name="propTop" Text="Координата Y об'єкта"/>
+  <StrRes Name="propTopMargin" Text="Розмір верхньої границі сторінки"/>
+  <StrRes Name="propTyp" Text="Тип рамки"/>
+  <StrRes Name="propUnderlines" Text="Визначає, чи підкреслювати кожен рядок тексту"/>
+  <StrRes Name="propURL" Text="Вираження - URL об'єкта"/>
+  <StrRes Name="propUserName" Text="Користувальницьке ім'я об'єкта"/>
+  <StrRes Name="propVAlign" Text="Вирівнювання тексту по вертикалі"/>
+  <StrRes Name="propVersionBuild" Text="Версія, build"/>
+  <StrRes Name="propVersionMajor" Text="Версія, major version"/>
+  <StrRes Name="propVersionMinor" Text="Версія, minor version"/>
+  <StrRes Name="propVersionRelease" Text="Версія, release"/>
+  <StrRes Name="propVisible" Text="Визначає, чи бачимо об'єкт"/>
+  <StrRes Name="propWidth" Text="Ширина об'єкта"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Товщина рамки"/>
+  <StrRes Name="propWindowState" Text="Початковий стан вікна"/>
+  <StrRes Name="propWordBreak" Text="Розбивати російські слова по складах"/>
+  <StrRes Name="propWordWrap" Text="Визначає, чи треба переносити текст за словами"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Масштаб штрихкода"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Вираз для умовного виділення. Якщо значення цього виразу рівне True, виділення буде активне"/>
+  <StrRes Name="propConnectionName" Text="Імя зєднання до БД, яке використовується в звіті "/>
+  <StrRes Name="propCurve" Text="Степінь округлення кутів округлого прямокутника"/>
+  <StrRes Name="propDrillDown" Text="Визначає, чи є група такою, що розкривається (drill-down) "/>
+  <StrRes Name="propFontStyle" Text="Стиль шрифта Dot-mattrix"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Ховати підвал (footer)группы, якщо в групі тільки одна строка даних"/>
+  <StrRes Name="propOutlineExpand" Text="Визначає, чи потрібно розкривати дерево звіту"/>
+  <StrRes Name="propPlainCells" Text="Вищначає, як друкувати кілька клітинок - рядом чи одна під іншою"/>
+  <StrRes Name="propPrintMode" Text="Режим друку: звичайний, друк з розбивкою велиеих аркушів на малі, друк кількох малих аркушів на великому"/>
+  <StrRes Name="propPrintOnSheet" Text="Размір сторінки для друку. Використовується, якщо PrintMode &#38;#60;&#38;#62; pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Скидати нумерацію сторінок при друці групи. Також необхідно включити параметр StartNewPage "/>
+  <StrRes Name="propReverse" Text="Визначає, чи потрібно друкувати сторінки в зворотньому порядку"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Показувати підвал групм, коли група звернута (drill-down)"/>
+  <StrRes Name="propSizeMode" Text="Режим відображення обєкта OLE"/>
+  <StrRes Name="propVersion" Text="Версія FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Відносна ширина широких полосок штрихкода"/>
+  <StrRes Name="propWysiwyg" Text="Визначає, чи повинен обєкт Rich використовувати канву принтера для форматування тексту. Принтер повинен бути встановленим і готовим."/>
+  <StrRes Name="propArrowEnd" Text="Визначає, чи потрібно малювати стрілку в кінці лінії"/>
+  <StrRes Name="propArrowLength" Text="Довжина стрілки"/>
+  <StrRes Name="propArrowSolid" Text="Визначає, чи потрібно малювати зафарбовану стрілку"/>
+  <StrRes Name="propArrowStart" Text="Визначає, чи потрібно малювати стрілку на початку лінії"/>
+  <StrRes Name="propArrowWidth" Text="Ширина стрілки"/>
+  <StrRes Name="propCloseDataSource" Text="Визначає, чи потрібно закривати набір даних, коли звіт побудовано"/>
+  <StrRes Name="propDatabase" Text="Зєднання з БД"/>
+  <StrRes Name="propIndexFieldNames" Text="Імена індексних полів"/>
+  <StrRes Name="propCommandTimeOut" Text="Кількість часу, потрібного для завершення запиту "/>
+  <StrRes Name="propExpandDrillDown" Text="Визначає, чи потрібно розвернути всі drill-down групи при першому запуску звіту"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Визначає, чи потрібно показувати текст в режимі WYSIWYG"/>
+  <StrRes Name="propLeftLine" Text="Ліва лінія рамки"/>
+  <StrRes Name="propTopLine" Text="Верхня лінія рамки"/>
+  <StrRes Name="propRightLine" Text="Права лінія рамки"/>
+  <StrRes Name="propBottomLine" Text="Нижня лінія рамки"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Колір лінії рамки"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Стиль лінії рамки"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Товщина лінії рамки"/>
+  <StrRes Name="propFileLink" Text="Вираз або імя файла, який містить картинку"/>
+  <StrRes Name="propEndlessWidth" Text="Нескінченна ширина сторінки. Сторінка буде рости вширину в залежності від даних, що виводяться"/>
+  <StrRes Name="propEndlessHeight" Text="Нескінченна висота сторінки. Сторінка буде рости ввисоту в залежності від даних, що виводяться"/>
+  <StrRes Name="propAddHeight" Text="Збільшує висоту клітинки на вказаний розмір"/>
+  <StrRes Name="propAddWidth" Text="Збільшує ширину клітинки на вказаний розмір"/>
+  <StrRes Name="propAllowDuplicates" Text="Визначає, чи може клітинка таблиці містити одинакові строкові значення "/>
+  <StrRes Name="propJoinEqualCells" Text="Визначає, чи потрібно обєднувати одинакові клітинки в строці"/>
+  <StrRes Name="propNextCross" Text="Вказівник на наступний кросс, який буде показаний рядом зправа"/>
+  <StrRes Name="propNextCrossGap" Text="Проміжок між кросс-таблицями"/>
+  <StrRes Name="propShowCorner" Text="Визначає, чи потрібно показувати елементи в лівом верхньому кутку таблиці"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

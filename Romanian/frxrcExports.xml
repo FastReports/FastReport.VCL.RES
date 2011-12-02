@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="8000" Text="Export in format Excel"/>
+  <StrRes Name="8001" Text="Stiluri"/>
+  <StrRes Name="8002" Text="Imagini"/>
+  <StrRes Name="8003" Text="Unire celule"/>
+  <StrRes Name="8004" Text="Fast export"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="As text"/>
+  <StrRes Name="8007" Text="Background"/>
+  <StrRes Name="8008" Text="Lanseaza Excel dupa export"/>
+  <StrRes Name="8009" Text="Fisiere Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Export in format Excel"/>
+  <StrRes Name="8101" Text="Stiluri"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Background"/>
+  <StrRes Name="8104" Text="Lanseaza Excel dupa export"/>
+  <StrRes Name="8105" Text="Fisiere XML Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Export in tabel HTML"/>
+  <StrRes Name="8201" Text="Deschide dupa export"/>
+  <StrRes Name="8202" Text="Stiluri"/>
+  <StrRes Name="8203" Text="Imagini"/>
+  <StrRes Name="8204" Text="Toate intr-un singur director"/>
+  <StrRes Name="8205" Text="Latime fixa"/>
+  <StrRes Name="8206" Text="Navigator pagini"/>
+  <StrRes Name="8207" Text="Multi-pagina"/>
+  <StrRes Name="8208" Text="Browser Mozilla"/>
+  <StrRes Name="8209" Text="Background"/>
+  <StrRes Name="8210" Text="Fisier HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Export in fiser text (imprimanta matriceala)"/>
+  <StrRes Name="8301" Text="Previzualizare da/nu"/>
+  <StrRes Name="8302" Text=" Setari export  "/>
+  <StrRes Name="8303" Text="Despartire pagini"/>
+  <StrRes Name="8304" Text="Pagina cod OEM"/>
+  <StrRes Name="8305" Text="Linii goale"/>
+  <StrRes Name="8306" Text="Spatii de inceput"/>
+  <StrRes Name="8307" Text="Numar pagini"/>
+  <StrRes Name="8308" Text="Introduceti numarul de pagini si/sau intervalul de pagini, separate de virgula. De exemplu: 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Scalare "/>
+  <StrRes Name="8310" Text="Scala X"/>
+  <StrRes Name="8311" Text="Scala Y"/>
+  <StrRes Name="8312" Text=" Cadru "/>
+  <StrRes Name="8313" Text="Fara"/>
+  <StrRes Name="8314" Text="Simplu"/>
+  <StrRes Name="8315" Text="Grafic"/>
+  <StrRes Name="8316" Text="Doar cu pagina de cod OEM"/>
+  <StrRes Name="8317" Text="Listare dupa export"/>
+  <StrRes Name="8318" Text="Setari salvare"/>
+  <StrRes Name="8319" Text=" Previzualizare "/>
+  <StrRes Name="8320" Text="Latime:"/>
+  <StrRes Name="8321" Text="Inaltime:"/>
+  <StrRes Name="8322" Text="Pagina"/>
+  <StrRes Name="8323" Text="Marire"/>
+  <StrRes Name="8324" Text="Micsorare"/>
+  <StrRes Name="8325" Text="Fisier text (imprimanta matriceala)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Print"/>
+  <StrRes Name="8401" Text="Imprimanta"/>
+  <StrRes Name="8402" Text="Nume"/>
+  <StrRes Name="8403" Text="Setari..."/>
+  <StrRes Name="8404" Text="Copii"/>
+  <StrRes Name="8405" Text="Numar copii"/>
+  <StrRes Name="8406" Text=" Initializare imprimanta "/>
+  <StrRes Name="8407" Text="Tip imprimanta"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Sablon initializare imprimanta (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Sablon initializare imprimanta (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Export in format RTF"/>
+  <StrRes Name="8501" Text="Imagini"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Deschide dupa export"/>
+  <StrRes Name="8504" Text="Fisier RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Setari export"/>
+  <StrRes Name="8601" Text=" Setari imagine "/>
+  <StrRes Name="8602" Text="Calitate JPEG"/>
+  <StrRes Name="8603" Text="Rezolutie (dpi)"/>
+  <StrRes Name="8604" Text="Separa fisierele"/>
+  <StrRes Name="8605" Text="Optimizeaza paginile"/>
+  <StrRes Name="8606" Text="Monocrom"/>
+  <StrRes Name="8700" Text="Export in format PDF"/>
+  <StrRes Name="8701" Text="Compresat"/>
+  <StrRes Name="8702" Text="Include fonturi"/>
+  <StrRes Name="8703" Text="Printare optimizata"/>
+  <StrRes Name="8704" Text="Outline"/>
+  <StrRes Name="8705" Text="Background"/>
+  <StrRes Name="8706" Text="Deschide dupa export"/>
+  <StrRes Name="8707" Text="Fisier Adobe PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="Fisier RTF"/>
+  <StrRes Name="BMPexport" Text="Imagine BMP"/>
+  <StrRes Name="JPEGexport" Text="Imagine JPEG"/>
+  <StrRes Name="TIFFexport" Text="Imagine TIFF"/>
+  <StrRes Name="TextExport" Text="Text (imprimanta matriciala)"/>
+  <StrRes Name="XlsOLEexport" Text="Tabel Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="Fisier HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Tabel Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="Fisier PDF"/>
+  <StrRes Name="ProgressWait" Text="Va rog asteptati"/>
+  <StrRes Name="ProgressRows" Text="Setare randuri"/>
+  <StrRes Name="ProgressColumns" Text="Setare coloane"/>
+  <StrRes Name="ProgressStyles" Text="Setare stiluri"/>
+  <StrRes Name="ProgressObjects" Text="Exportare obiecte"/>
+  <StrRes Name="TIFFexportFilter" Text="Imagine Tiff (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="Imagine BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Imagine Jpeg (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Prima"/>
+  <StrRes Name="HTMLNavPrev" Text="Ante"/>
+  <StrRes Name="HTMLNavNext" Text="Urma"/>
+  <StrRes Name="HTMLNavLast" Text="Ultima"/>
+  <StrRes Name="HTMLNavRefresh" Text="Refresh"/>
+  <StrRes Name="HTMLNavPrint" Text="Print"/>
+  <StrRes Name="HTMLNavTotal" Text="Total pagini"/>
+  <StrRes Name="8800" Text="Export in format Text"/>
+  <StrRes Name="8801" Text="Fisier text (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Fisier text"/>
+  <StrRes Name="8850" Text="Export in format CSV"/>
+  <StrRes Name="8851" Text="Fisier CSV (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Separator"/>
+  <StrRes Name="CSVExport" Text="Fisier CSV"/>
+  <StrRes Name="8900" Text="Trimitere prin E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Account"/>
+  <StrRes Name="8903" Text="Conexiune"/>
+  <StrRes Name="8904" Text="Adresa"/>
+  <StrRes Name="8905" Text="Attachment"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Adresa De la"/>
+  <StrRes Name="8908" Text="Nume De la"/>
+  <StrRes Name="8909" Text="Host"/>
+  <StrRes Name="8910" Text="Login"/>
+  <StrRes Name="8911" Text="Mail"/>
+  <StrRes Name="8912" Text="Mesaj"/>
+  <StrRes Name="8913" Text="Text"/>
+  <StrRes Name="8914" Text="Organizatie"/>
+  <StrRes Name="8915" Text="Parola"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Retine propritatile"/>
+  <StrRes Name="8918" Text="Campurile necesare nu sunt introduse"/>
+  <StrRes Name="8919" Text="Setari avasate export"/>
+  <StrRes Name="8920" Text="Semnatura"/>
+  <StrRes Name="8921" Text="Build"/>
+  <StrRes Name="8922" Text="Subiect"/>
+  <StrRes Name="8923" Text="Cele mai bune urari"/>
+  <StrRes Name="8924" Text="Trimite email catre"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="Fisier FastReport"/>
+  <StrRes Name="GifexportFilter" Text="Fisier Gif (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Imagine Gif"/>
+  <StrRes Name="8950" Text="Continuu"/>
+  <StrRes Name="8951" Text="Page Header/Footer"/>
+  <StrRes Name="8952" Text="Text"/>
+  <StrRes Name="8953" Text="Header/Footer"/>
+  <StrRes Name="8954" Text="None"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

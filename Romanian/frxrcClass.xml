@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Anuleaza"/>
+  <StrRes Name="3" Text="Toate"/>
+  <StrRes Name="4" Text="Pagina curenta"/>
+  <StrRes Name="5" Text="Pagini:"/>
+  <StrRes Name="6" Text="Despartire pagini"/>
+  <StrRes Name="7" Text="Interval pagini"/>
+  <StrRes Name="8" Text="Setari export"/>
+  <StrRes Name="9" Text="Introduceti numarul de pagini si/sau intervalul de pagini, separate de virgula. De exemplu: 1,3,5-12"/>
+  <StrRes Name="100" Text="Previzualizare"/>
+  <StrRes Name="101" Text="Listeaza"/>
+  <StrRes Name="102" Text="Listeaza"/>
+  <StrRes Name="103" Text="Deschide"/>
+  <StrRes Name="104" Text="Deschide"/>
+  <StrRes Name="105" Text="Salveaza"/>
+  <StrRes Name="106" Text="Salveaza"/>
+  <StrRes Name="107" Text="Export"/>
+  <StrRes Name="108" Text="Export"/>
+  <StrRes Name="109" Text="Cauta"/>
+  <StrRes Name="110" Text="Cauta"/>
+  <StrRes Name="111" Text="Intreaga pagina"/>
+  <StrRes Name="112" Text="Intreaga pagina"/>
+  <StrRes Name="113" Text="Latime pagina"/>
+  <StrRes Name="114" Text="Latime pagina"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Doua pagini"/>
+  <StrRes Name="118" Text="Doua pagini"/>
+  <StrRes Name="119" Text="Scalare"/>
+  <StrRes Name="120" Text="Margini"/>
+  <StrRes Name="121" Text="Margini"/>
+  <StrRes Name="122" Text="Contur"/>
+  <StrRes Name="123" Text="Contur"/>
+  <StrRes Name="124" Text="Zoom In"/>
+  <StrRes Name="125" Text="Zoom In"/>
+  <StrRes Name="126" Text="Zoom Out"/>
+  <StrRes Name="127" Text="Zoom Out"/>
+  <StrRes Name="128" Text="Outline"/>
+  <StrRes Name="129" Text="Report outline"/>
+  <StrRes Name="130" Text="Thumbnails"/>
+  <StrRes Name="131" Text="Thumbnails"/>
+  <StrRes Name="132" Text="Editeaza"/>
+  <StrRes Name="133" Text="Editeaza pagina"/>
+  <StrRes Name="134" Text="Prima"/>
+  <StrRes Name="135" Text="Prima pagina"/>
+  <StrRes Name="136" Text="Anterior"/>
+  <StrRes Name="137" Text="Pagina anterioara"/>
+  <StrRes Name="138" Text="Urmator"/>
+  <StrRes Name="139" Text="Pagina urmatoare"/>
+  <StrRes Name="140" Text="Ultima"/>
+  <StrRes Name="141" Text="Ultima pagina"/>
+  <StrRes Name="142" Text="Numar pagina"/>
+  <StrRes Name="150" Text="Tot ecranul"/>
+  <StrRes Name="151" Text="Export in format PDF"/>
+  <StrRes Name="152" Text="Trimite prin e-mail"/>
+  <StrRes Name="zmPageWidth" Text="Latime pagina"/>
+  <StrRes Name="zmWholePage" Text="Intreaga pagina"/>
+  <StrRes Name="200" Text="Print"/>
+  <StrRes Name="201" Text="Imprimanta"/>
+  <StrRes Name="202" Text="Paginile"/>
+  <StrRes Name="203" Text="Numarul de copii"/>
+  <StrRes Name="204" Text="Ordonare"/>
+  <StrRes Name="205" Text="Copii "/>
+  <StrRes Name="206" Text="Listeaza"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Conditie:"/>
+  <StrRes Name="209" Text="Proprietati..."/>
+  <StrRes Name="210" Text="Listeaza in fisier"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Nume:"/>
+  <StrRes Name="213" Text="Mod listare"/>
+  <StrRes Name="214" Text="Listare pe o foaie"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Toate paginile"/>
+  <StrRes Name="ppOdd" Text="Paginile impare"/>
+  <StrRes Name="ppEven" Text="Paginile pare"/>
+  <StrRes Name="pgDefault" Text="Implicit"/>
+  <StrRes Name="pmDefault" Text="Implicit"/>
+  <StrRes Name="pmSplit" Text="Imparte paginile mari"/>
+  <StrRes Name="pmJoin" Text="Uneste paginile mici"/>
+  <StrRes Name="pmScale" Text="Scala"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Cauta text"/>
+  <StrRes Name="301" Text="Text de cautat:"/>
+  <StrRes Name="302" Text="Optiuni cautare  "/>
+  <StrRes Name="303" Text="Inlocuieste cu"/>
+  <StrRes Name="304" Text="Cauta de la inceput"/>
+  <StrRes Name="305" Text="Senzitiv MAJUSCULE"/>
+  <StrRes Name="400" Text="Setari pagina"/>
+  <StrRes Name="401" Text="Latime"/>
+  <StrRes Name="402" Text="Inaltime"/>
+  <StrRes Name="403" Text="Dimensiune"/>
+  <StrRes Name="404" Text="Orientare  "/>
+  <StrRes Name="405" Text="Stanga"/>
+  <StrRes Name="406" Text="Sus"/>
+  <StrRes Name="407" Text="Dreapta"/>
+  <StrRes Name="408" Text="Jos"/>
+  <StrRes Name="409" Text="Margini"/>
+  <StrRes Name="410" Text="Portret"/>
+  <StrRes Name="411" Text="Peisaj"/>
+  <StrRes Name="412" Text="Alte "/>
+  <StrRes Name="413" Text="Aplica la pagina curenta"/>
+  <StrRes Name="414" Text="Aplica la toate paginile"/>
+  <StrRes Name="500" Text="Print"/>
+  <StrRes Name="501" Text="Imprimanta"/>
+  <StrRes Name="502" Text="Pagini  "/>
+  <StrRes Name="503" Text="Copii "/>
+  <StrRes Name="504" Text="Numarul de copii"/>
+  <StrRes Name="505" Text="Optiuni"/>
+  <StrRes Name="506" Text="Comenzi ESC "/>
+  <StrRes Name="507" Text="Listeaza in fisier"/>
+  <StrRes Name="508" Text="Pagina de cod OEM"/>
+  <StrRes Name="509" Text="Pseudografic"/>
+  <StrRes Name="510" Text="Fisier imprimanta (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Confirmare"/>
+  <StrRes Name="mbError" Text="Eroare"/>
+  <StrRes Name="mbInfo" Text="Informare"/>
+  <StrRes Name="xrCantFindClass" Text="Nu pot gasi clasa"/>
+  <StrRes Name="prVirtual" Text="Virtual"/>
+  <StrRes Name="prDefault" Text="Implicit"/>
+  <StrRes Name="prCustom" Text="Personalizat"/>
+  <StrRes Name="enUnconnHeader" Text="Header/footer neconectat"/>
+  <StrRes Name="enUnconnGroup" Text="Nu exista banda de date pentru grup"/>
+  <StrRes Name="enUnconnGFooter" Text="Nu exista group header pentru"/>
+  <StrRes Name="enBandPos" Text="Pozitie incorecta a benzii:"/>
+  <StrRes Name="dbNotConn" Text="Dataset-ul %s nu este conectat la date"/>
+  <StrRes Name="dbFldNotFound" Text="Campul nu a fost gasit:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset-ul nu este inclus in Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Variabila sau camp de date necunoscut:"/>
+  <StrRes Name="clScrError" Text="Eroare in script la %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset-ul &#38;#34;%s&#38;#34; nu exista"/>
+  <StrRes Name="clErrors" Text="A aparut urmatoarea eroare:"/>
+  <StrRes Name="clExprError" Text="Eroare in expresie"/>
+  <StrRes Name="clFP3files" Text="Raport pregatit"/>
+  <StrRes Name="clSaving" Text="Salvare fisier..."/>
+  <StrRes Name="clCancel" Text="Anuleaza"/>
+  <StrRes Name="clClose" Text="Inchide"/>
+  <StrRes Name="clPrinting" Text="Listare pagina"/>
+  <StrRes Name="clLoading" Text="Incarcare fisier ..."/>
+  <StrRes Name="clPageOf" Text="Pagina %d din %d"/>
+  <StrRes Name="clFirstPass" Text="Prima trecere: pagina "/>
+  <StrRes Name="clNoPrinters" Text="Nu exista nici o imprimanta instalata in sistem"/>
+  <StrRes Name="clDecompressError" Text="Eroare la decompresare stream"/>
+  <StrRes Name="crFillMx" Text="Incarcare cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Construire cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Prima trecere: page %d"/>
+  <StrRes Name="prRunning" Text="Pregatire pagina %d"/>
+  <StrRes Name="prPrinting" Text="Tiparire pagina %d"/>
+  <StrRes Name="prExporting" Text="Exportare pagina %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Implicit"/>
+  <StrRes Name="dupVert" Text="Vertical"/>
+  <StrRes Name="dupHorz" Text="Orizontal"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Limbajul '%s' nu a fost gasit"/>
+  <StrRes Name="SInvalidLanguage" Text="Definitie incorecta a limbajului"/>
+  <StrRes Name="SIdRedeclared" Text="Identificator redeclarat: "/>
+  <StrRes Name="SUnknownType" Text="Tip necunoscut: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Tipuri incompatibile"/>
+  <StrRes Name="SIdUndeclared" Text="Identificator nedeclarat: "/>
+  <StrRes Name="SClassRequired" Text="Tipul clasei este necesar"/>
+  <StrRes Name="SIndexRequired" Text="Index necesar"/>
+  <StrRes Name="SStringError" Text="String-urile nu au proprietati sau metode"/>
+  <StrRes Name="SClassError" Text="Clasa %s nu are o proprietate implicita"/>
+  <StrRes Name="SArrayRequired" Text="Tipul matricei este necesar"/>
+  <StrRes Name="SVarRequired" Text="Variabila necesara"/>
+  <StrRes Name="SNotEnoughParams" Text="Insuficienti parametri"/>
+  <StrRes Name="STooManyParams" Text="Prea multi parametri"/>
+  <StrRes Name="SLeftCantAssigned" Text="Partea din stanga nu poate fi atribuita catre"/>
+  <StrRes Name="SForError" Text="Variabila din bucla For trebuie sa fie numerica"/>
+  <StrRes Name="SEventError" Text="Descriptorul de evenimente handler trebuie sa fie o procedura"/>
+  <StrRes Name="600" Text="Extinde toate"/>
+  <StrRes Name="601" Text="Strange toate"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

@@ -1,0 +1,4 @@
+Language Resources for FastReport 3
+Language: Czech
+Translator: Josef Duštíra  (Josef Dustira)
+E-mail: jdmail@seznam.cz 

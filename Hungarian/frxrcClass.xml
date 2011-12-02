@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Mégsem"/>
+  <StrRes Name="3" Text="Mindet"/>
+  <StrRes Name="4" Text="Jelenlegi oldal"/>
+  <StrRes Name="5" Text="Oldalak:"/>
+  <StrRes Name="6" Text="Oldaltörések"/>
+  <StrRes Name="7" Text="Oldaltartomány"/>
+  <StrRes Name="8" Text="Exportálás beállítása"/>
+  <StrRes Name="9" Text="Adjon meg oldalszámokat vagy tartományokat, vesszővel elválasztva. Például 1,3,5-12"/>
+  <StrRes Name="100" Text="Előkép"/>
+  <StrRes Name="101" Text="Nyomtat"/>
+  <StrRes Name="102" Text="Nyomtat"/>
+  <StrRes Name="103" Text="Megnyit"/>
+  <StrRes Name="104" Text="Megnyit"/>
+  <StrRes Name="105" Text="Ment"/>
+  <StrRes Name="106" Text="Ment"/>
+  <StrRes Name="107" Text="Exportál"/>
+  <StrRes Name="108" Text="Exportál"/>
+  <StrRes Name="109" Text="Keres"/>
+  <StrRes Name="110" Text="Keres"/>
+  <StrRes Name="111" Text="Teljes oldal"/>
+  <StrRes Name="112" Text="Teljes oldal"/>
+  <StrRes Name="113" Text="Oldalszélesség"/>
+  <StrRes Name="114" Text="Oldalszélesség"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Két oldal"/>
+  <StrRes Name="118" Text="Két oldal"/>
+  <StrRes Name="119" Text="Nagyít"/>
+  <StrRes Name="120" Text="Margók"/>
+  <StrRes Name="121" Text="Margók"/>
+  <StrRes Name="122" Text="Körvonal"/>
+  <StrRes Name="123" Text="Körvonal"/>
+  <StrRes Name="124" Text="Nagyít"/>
+  <StrRes Name="125" Text="Nagyít"/>
+  <StrRes Name="126" Text="Kicsinyít"/>
+  <StrRes Name="127" Text="Kicsinyít"/>
+  <StrRes Name="128" Text="Körvonal"/>
+  <StrRes Name="129" Text="Jelentés körvonal"/>
+  <StrRes Name="130" Text="Előkép"/>
+  <StrRes Name="131" Text="Előkép"/>
+  <StrRes Name="132" Text="Szerkeszt"/>
+  <StrRes Name="133" Text="Lapot szerkeszt"/>
+  <StrRes Name="134" Text="Első"/>
+  <StrRes Name="135" Text="Első oldal"/>
+  <StrRes Name="136" Text="Előző"/>
+  <StrRes Name="137" Text="Előző oldal"/>
+  <StrRes Name="138" Text="Következő"/>
+  <StrRes Name="139" Text="Következő oldal"/>
+  <StrRes Name="140" Text="Utolsó"/>
+  <StrRes Name="141" Text="Utolsó oldal"/>
+  <StrRes Name="142" Text="Oldalszám"/>
+  <StrRes Name="150" Text="Teljes képernyő"/>
+  <StrRes Name="151" Text="Exportálás PDF-be"/>
+  <StrRes Name="152" Text="E-mail küldés"/>
+  <StrRes Name="zmPageWidth" Text="Oldal széles"/>
+  <StrRes Name="zmWholePage" Text="Teljes oldal"/>
+  <StrRes Name="200" Text="Nyomtat"/>
+  <StrRes Name="201" Text="Nyomtató"/>
+  <StrRes Name="202" Text="Oldalak"/>
+  <StrRes Name="203" Text="Másolatok száma"/>
+  <StrRes Name="204" Text="Gyűjt"/>
+  <StrRes Name="205" Text="Másolatok"/>
+  <StrRes Name="206" Text="Nyomtat"/>
+  <StrRes Name="207" Text="Other"/>
+  <StrRes Name="208" Text="Hol:"/>
+  <StrRes Name="209" Text="Tulajdonságok..."/>
+  <StrRes Name="210" Text="Fájlba nyomtat"/>
+  <StrRes Name="211" Text="Fordított sorrendben"/>
+  <StrRes Name="212" Text="Név:"/>
+  <StrRes Name="213" Text="Nyomtatási mód"/>
+  <StrRes Name="214" Text="Lapra nyomtat"/>
+  <StrRes Name="216" Text="Kétoldalas"/>
+  <StrRes Name="ppAll" Text="Minden oldal"/>
+  <StrRes Name="ppOdd" Text="Páratlan oldalak"/>
+  <StrRes Name="ppEven" Text="Páros oldalak"/>
+  <StrRes Name="pgDefault" Text="Alapértelmezett"/>
+  <StrRes Name="pmDefault" Text="Alapértelmezett"/>
+  <StrRes Name="pmSplit" Text="Nagyméretű lapok osztása"/>
+  <StrRes Name="pmJoin" Text="Kisméretű lapok összevonása"/>
+  <StrRes Name="pmScale" Text="Méretarány"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Szövegkereső"/>
+  <StrRes Name="301" Text="Keresendő szöveg:"/>
+  <StrRes Name="302" Text="Keresési opciók"/>
+  <StrRes Name="303" Text="Cserél"/>
+  <StrRes Name="304" Text="Elölről keres"/>
+  <StrRes Name="305" Text="Kis-, nagybetűérzékenyen"/>
+  <StrRes Name="400" Text="Oldalbeállítás"/>
+  <StrRes Name="401" Text="Szélesség"/>
+  <StrRes Name="402" Text="Magasság"/>
+  <StrRes Name="403" Text="Méret"/>
+  <StrRes Name="404" Text="Irány"/>
+  <StrRes Name="405" Text="Bal"/>
+  <StrRes Name="406" Text="Felül"/>
+  <StrRes Name="407" Text="Jobb"/>
+  <StrRes Name="408" Text="Lent"/>
+  <StrRes Name="409" Text="Margók"/>
+  <StrRes Name="410" Text="Portré"/>
+  <StrRes Name="411" Text="Tájkép"/>
+  <StrRes Name="412" Text="Egyéb"/>
+  <StrRes Name="413" Text="Jelenlegi lapra alkalmaz"/>
+  <StrRes Name="414" Text="Minden lapra alkalmaz"/>
+  <StrRes Name="500" Text="Nyomtat"/>
+  <StrRes Name="501" Text="Nyomtató"/>
+  <StrRes Name="502" Text="Oldalak"/>
+  <StrRes Name="503" Text="Másolatok"/>
+  <StrRes Name="504" Text="Másolatok száma"/>
+  <StrRes Name="505" Text="Opciók"/>
+  <StrRes Name="506" Text="Escape kódok"/>
+  <StrRes Name="507" Text="Fájlba nyomtat"/>
+  <StrRes Name="508" Text="OEM kódlap"/>
+  <StrRes Name="509" Text="Grafikus"/>
+  <StrRes Name="510" Text="Nyomtatófájl (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Megerősít"/>
+  <StrRes Name="mbError" Text="Hiba"/>
+  <StrRes Name="mbInfo" Text="Információ"/>
+  <StrRes Name="xrCantFindClass" Text="Nem találom az osztályt"/>
+  <StrRes Name="prVirtual" Text="Virtuális"/>
+  <StrRes Name="prDefault" Text="Alapértelmezett"/>
+  <StrRes Name="prCustom" Text="Egyéni"/>
+  <StrRes Name="enUnconnHeader" Text="Független fej-, lábléc"/>
+  <StrRes Name="enUnconnGroup" Text="A csoportnak nincs adatsávja"/>
+  <StrRes Name="enUnconnGFooter" Text="Nincs fejléc"/>
+  <StrRes Name="enBandPos" Text="Hibás sávpozició:"/>
+  <StrRes Name="dbNotConn" Text="%s DataSet nincs adathoz csatlakoztatva"/>
+  <StrRes Name="dbFldNotFound" Text="Nincs ilyen mező:"/>
+  <StrRes Name="clDSNotIncl" Text="(adatkészlet nincs a Report.DataSets-ben)"/>
+  <StrRes Name="clUnknownVar" Text="Ismeretlen mező vagy változó:"/>
+  <StrRes Name="clScrError" Text="Script hiba %s: %s-nél"/>
+  <StrRes Name="clDSNotExist" Text="A(z) &#38;#34;%s&#38;#34; DataSet nem létezik"/>
+  <StrRes Name="clErrors" Text="A következő hiba történt:"/>
+  <StrRes Name="clExprError" Text="Hiba a kifejezésben"/>
+  <StrRes Name="clFP3files" Text="Előkészített riport"/>
+  <StrRes Name="clSaving" Text="Fájl mentése..."/>
+  <StrRes Name="clCancel" Text="Mégsem"/>
+  <StrRes Name="clClose" Text="Bezár"/>
+  <StrRes Name="clPrinting" Text="Oldal nyomtatása"/>
+  <StrRes Name="clLoading" Text="Fájl betöltése..."/>
+  <StrRes Name="clPageOf" Text="%d. oldal %d oldalból"/>
+  <StrRes Name="clFirstPass" Text="Első menet: oldal"/>
+  <StrRes Name="clNoPrinters" Text="Nincs nyomtató telepítve"/>
+  <StrRes Name="clDecompressError" Text="Stream kitömörítés hiba"/>
+  <StrRes Name="crFillMx" Text="Kereszttábla kitöltése..."/>
+  <StrRes Name="crBuildMx" Text="Kereszttábla felépítése..."/>
+  <StrRes Name="prRunningFirst" Text="Első lépés: %d oldal"/>
+  <StrRes Name="prRunning" Text="A %d oldal létrehozása"/>
+  <StrRes Name="prPrinting" Text="A %d oldal nyomtatása"/>
+  <StrRes Name="prExporting" Text="A %d oldal exportálása"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Alapért."/>
+  <StrRes Name="dupVert" Text="Függőleges"/>
+  <StrRes Name="dupHorz" Text="Vizszintes"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="A '%s' nyelv nem található"/>
+  <StrRes Name="SInvalidLanguage" Text="Hibás nyelv definíció"/>
+  <StrRes Name="SIdRedeclared" Text="Ismétel változódeklarálás:"/>
+  <StrRes Name="SUnknownType" Text="Ismeretlen típus:"/>
+  <StrRes Name="SIncompatibleTypes" Text="Nem kompatibilis típusok"/>
+  <StrRes Name="SIdUndeclared" Text="Ismeretlen változó:"/>
+  <StrRes Name="SClassRequired" Text="Osztály típus szükséges"/>
+  <StrRes Name="SIndexRequired" Text="Index required"/>
+  <StrRes Name="SStringError" Text="Stringek amelyeknek nincs tulajdonsága vagy metódusa"/>
+  <StrRes Name="SClassError" Text="A %s osztály nem rendelkezik alapértelmezett tulajdonsággal"/>
+  <StrRes Name="SArrayRequired" Text="Tömb típus szükséges"/>
+  <StrRes Name="SVarRequired" Text="Változó szükséges"/>
+  <StrRes Name="SNotEnoughParams" Text="Nem elegendő a paraméter"/>
+  <StrRes Name="STooManyParams" Text="Túl sok paraméter"/>
+  <StrRes Name="SLeftCantAssigned" Text="A bal oldallal nem tehető egyenlővé"/>
+  <StrRes Name="SForError" Text="A cilkusváltozónak számnak kell lennie"/>
+  <StrRes Name="SEventError" Text="Az eseménykezelőnek eljárásnak (procedure) kell lennie."/>
+  <StrRes Name="600" Text="Kibont mind"/>
+  <StrRes Name="601" Text="Bezár mind"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

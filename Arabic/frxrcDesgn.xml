@@ -1,0 +1,844 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="2000" Text="محرر الخصائص"/>
+  <StrRes Name="oiProp" Text="خاصية"/>
+  <StrRes Name="oiEvent" Text="حدث"/>
+  <StrRes Name="2100" Text="فهرس البيانات"/>
+  <StrRes Name="2101" Text="بيانات"/>
+  <StrRes Name="2102" Text="متغيرات"/>
+  <StrRes Name="2103" Text="دوال"/>
+  <StrRes Name="2104" Text="إنشاء حقل"/>
+  <StrRes Name="2105" Text="إنشاء تسمية"/>
+  <StrRes Name="2106" Text="فصائل"/>
+  <StrRes Name="dtNoData" Text="لا يوجد بيانات"/>
+  <StrRes Name="dtNoData1" Text="اذهب إلى قائمة &#38;#34;تقرير|بيانات...&#38;#34; لإضافة مصدر بيانات إلى تقريرك, أو انتقل إلى تبويب &#38;#34;بيانات&#38;#34; لإنشاء مصدر بيانات جديد."/>
+  <StrRes Name="dtData" Text="بيانات"/>
+  <StrRes Name="dtSysVar" Text="متغيرات النظام"/>
+  <StrRes Name="dtVar" Text="متغيرات"/>
+  <StrRes Name="dtFunc" Text="دوال"/>
+  <StrRes Name="2200" Text="فهرس التقرير"/>
+  <StrRes Name="2300" Text="فتح ملف الوحدة النمطية"/>
+  <StrRes Name="2301" Text="حفظ الوحدة النمطية"/>
+  <StrRes Name="2302" Text="تنفيذ"/>
+  <StrRes Name="2303" Text="تتبع إلى"/>
+  <StrRes Name="2304" Text="إيقاف تشغيل"/>
+  <StrRes Name="2305" Text="فحص قيمة"/>
+  <StrRes Name="2306" Text="لغة البرمجة:"/>
+  <StrRes Name="2307" Text="محاذاة"/>
+  <StrRes Name="2308" Text="يسار"/>
+  <StrRes Name="2309" Text="توسيط"/>
+  <StrRes Name="2310" Text="يمين"/>
+  <StrRes Name="2311" Text="أعلى"/>
+  <StrRes Name="2312" Text="وسط"/>
+  <StrRes Name="2313" Text="سفلي"/>
+  <StrRes Name="2314" Text="مساواة أفقية"/>
+  <StrRes Name="2315" Text="مساواة عمودية"/>
+  <StrRes Name="2316" Text="توسيط أفقي"/>
+  <StrRes Name="2317" Text="توسيط عمودي"/>
+  <StrRes Name="2318" Text="مساواة العرض"/>
+  <StrRes Name="2319" Text="مساواة الارتفاع"/>
+  <StrRes Name="2320" Text="النص"/>
+  <StrRes Name="2321" Text="النمط"/>
+  <StrRes Name="2322" Text="اسم الخط"/>
+  <StrRes Name="2323" Text="حجم الخط"/>
+  <StrRes Name="2324" Text="غامق"/>
+  <StrRes Name="2325" Text="مائل"/>
+  <StrRes Name="2326" Text="تسطير"/>
+  <StrRes Name="2327" Text="لون الخط"/>
+  <StrRes Name="2328" Text="تنسيق مشروط"/>
+  <StrRes Name="2329" Text="استدارة النص"/>
+  <StrRes Name="2330" Text="محاذاة إلى اليسار"/>
+  <StrRes Name="2331" Text="توسيط"/>
+  <StrRes Name="2332" Text="محاذاة إلى اليمين"/>
+  <StrRes Name="2333" Text="ضبط"/>
+  <StrRes Name="2334" Text="محاذاة إلى الأعلى"/>
+  <StrRes Name="2335" Text="توسيط"/>
+  <StrRes Name="2336" Text="محاذاة إلى الأسفل"/>
+  <StrRes Name="2337" Text="نمط الخط"/>
+  <StrRes Name="2338" Text="حد علوي"/>
+  <StrRes Name="2339" Text="حد سفلي"/>
+  <StrRes Name="2340" Text="حد أيسر"/>
+  <StrRes Name="2341" Text="حد أيمن"/>
+  <StrRes Name="2342" Text="حد خارجي"/>
+  <StrRes Name="2343" Text="بلا حدود"/>
+  <StrRes Name="2344" Text="مظلل"/>
+  <StrRes Name="2345" Text="لون التعبئة"/>
+  <StrRes Name="2346" Text="لون الحد"/>
+  <StrRes Name="2347" Text="نمط الحد"/>
+  <StrRes Name="2348" Text="عرض الحد"/>
+  <StrRes Name="2349" Text="افتراضي"/>
+  <StrRes Name="2350" Text="تقرير جديد"/>
+  <StrRes Name="2351" Text="فتح تقرير"/>
+  <StrRes Name="2352" Text="حفظ تقرير"/>
+  <StrRes Name="2353" Text="معاينة"/>
+  <StrRes Name="2354" Text="صفحة جديدة"/>
+  <StrRes Name="2355" Text="نموذج حوار جديد"/>
+  <StrRes Name="2356" Text="حذف صفحة"/>
+  <StrRes Name="2357" Text="إعدادات الصفحة"/>
+  <StrRes Name="2358" Text="المتغيرات"/>
+  <StrRes Name="2359" Text="قص"/>
+  <StrRes Name="2360" Text="نسخ"/>
+  <StrRes Name="2361" Text="لصق"/>
+  <StrRes Name="2362" Text="نسخ التنسيق"/>
+  <StrRes Name="2363" Text="تراجع"/>
+  <StrRes Name="2364" Text="إعادة"/>
+  <StrRes Name="2365" Text="تجميع"/>
+  <StrRes Name="2366" Text="فك التجميع"/>
+  <StrRes Name="2367" Text="إظهار الشبكة"/>
+  <StrRes Name="2368" Text="محاذاة إلى الشبكة"/>
+  <StrRes Name="2369" Text="الحجم إلى الشبكة"/>
+  <StrRes Name="2370" Text="تكبير/تصغير"/>
+  <StrRes Name="2371" Text="أدوات إضافية"/>
+  <StrRes Name="2372" Text="تحديد كائنات"/>
+  <StrRes Name="2373" Text="أداة التحريك"/>
+  <StrRes Name="2374" Text="تكبير/تصغير"/>
+  <StrRes Name="2375" Text="تحديد نص"/>
+  <StrRes Name="2376" Text="أداة نسخ التنسيق"/>
+  <StrRes Name="2377" Text="إضافة مقطع"/>
+  <StrRes Name="2378" Text="&amp;ملف"/>
+  <StrRes Name="2379" Text="&amp;تحرير"/>
+  <StrRes Name="2380" Text="بحث..."/>
+  <StrRes Name="2381" Text="بحث عن التالي"/>
+  <StrRes Name="2382" Text="استبدال..."/>
+  <StrRes Name="2383" Text="&amp;تقرير"/>
+  <StrRes Name="2384" Text="بيانات..."/>
+  <StrRes Name="2385" Text="خيارات..."/>
+  <StrRes Name="2386" Text="أشكال..."/>
+  <StrRes Name="2387" Text="&amp;عرض"/>
+  <StrRes Name="2388" Text="شريط الأدوات"/>
+  <StrRes Name="2389" Text="قياسي"/>
+  <StrRes Name="2390" Text="تنسيق"/>
+  <StrRes Name="2391" Text="حدود"/>
+  <StrRes Name="2392" Text="لوحة المحاذاة"/>
+  <StrRes Name="2393" Text="أشرطة أدوات إضافية"/>
+  <StrRes Name="2394" Text="خصائص"/>
+  <StrRes Name="2395" Text="فهرس البيانات"/>
+  <StrRes Name="2396" Text="فهرس التقرير"/>
+  <StrRes Name="2397" Text="المسطرة"/>
+  <StrRes Name="2398" Text="علامات"/>
+  <StrRes Name="2399" Text="حذف العلامات"/>
+  <StrRes Name="2400" Text="خيارات..."/>
+  <StrRes Name="2401" Text="&amp;تعليمات"/>
+  <StrRes Name="2402" Text="مواضيع التعليمات..."/>
+  <StrRes Name="2403" Text="حول مصمم التقارير..."/>
+  <StrRes Name="2404" Text="ترتيب الجدولة..."/>
+  <StrRes Name="2405" Text="تراجع"/>
+  <StrRes Name="2406" Text="إعادة"/>
+  <StrRes Name="2407" Text="قص"/>
+  <StrRes Name="2408" Text="نسخ"/>
+  <StrRes Name="2409" Text="لصق"/>
+  <StrRes Name="2410" Text="تجميع"/>
+  <StrRes Name="2411" Text="فك التجميع"/>
+  <StrRes Name="2412" Text="حذف"/>
+  <StrRes Name="2413" Text="حذف الصفحة"/>
+  <StrRes Name="2414" Text="تحديد الكل"/>
+  <StrRes Name="2415" Text="تحرير..."/>
+  <StrRes Name="2416" Text="إحضار إلى المقدمة"/>
+  <StrRes Name="2417" Text="إرسال إلى الخلف"/>
+  <StrRes Name="2418" Text="جديد..."/>
+  <StrRes Name="2419" Text="تقرير جديد"/>
+  <StrRes Name="2420" Text="صفحة جديدة"/>
+  <StrRes Name="2421" Text="نموذج حوار جديد"/>
+  <StrRes Name="2422" Text="فتح..."/>
+  <StrRes Name="2423" Text="حفظ"/>
+  <StrRes Name="2424" Text="حفظ باسم..."/>
+  <StrRes Name="2425" Text="متغيرات..."/>
+  <StrRes Name="2426" Text="إعدادات الصفحة..."/>
+  <StrRes Name="2427" Text="معاينة"/>
+  <StrRes Name="2428" Text="خروج"/>
+  <StrRes Name="2429" Text="رأس التقرير"/>
+  <StrRes Name="2430" Text="تذييل التقرير"/>
+  <StrRes Name="2431" Text="رأس الصفحة"/>
+  <StrRes Name="2432" Text="تذييل الصفحة"/>
+  <StrRes Name="2433" Text="رأس"/>
+  <StrRes Name="2434" Text="تذييل"/>
+  <StrRes Name="2435" Text="بيانات رئيسية"/>
+  <StrRes Name="2436" Text="بيانات تفصيلية"/>
+  <StrRes Name="2437" Text="بيانات تفصيلية فرعية"/>
+  <StrRes Name="2438" Text="بيانات مستوى 4"/>
+  <StrRes Name="2439" Text="بيانات مستوى 5"/>
+  <StrRes Name="2440" Text="بيانات مستوى 6"/>
+  <StrRes Name="2441" Text="رأس تجميع"/>
+  <StrRes Name="2442" Text="تذييل تجميع"/>
+  <StrRes Name="2443" Text="تابع"/>
+  <StrRes Name="2444" Text="رأس عمود"/>
+  <StrRes Name="2445" Text="تذييل عمود"/>
+  <StrRes Name="2446" Text="طبقة"/>
+  <StrRes Name="2447" Text="مقاطع عمودية"/>
+  <StrRes Name="2448" Text="رأس"/>
+  <StrRes Name="2449" Text="تذييل"/>
+  <StrRes Name="2450" Text="بيانات رئيسية"/>
+  <StrRes Name="2451" Text="بيانات تفصيلية"/>
+  <StrRes Name="2452" Text="بيانات تفصيلية فرعية"/>
+  <StrRes Name="2453" Text="رأس تجميع"/>
+  <StrRes Name="2454" Text="تذييل تجميع"/>
+  <StrRes Name="2455" Text="تابع"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="إعدادات الخط"/>
+  <StrRes Name="2462" Text="غامق"/>
+  <StrRes Name="2463" Text="مائل"/>
+  <StrRes Name="2464" Text="تسطير"/>
+  <StrRes Name="2465" Text="كتابة علوية"/>
+  <StrRes Name="2466" Text="كتابة سفلية"/>
+  <StrRes Name="2467" Text="مكثف"/>
+  <StrRes Name="2468" Text="عريض"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="تقرير (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="ملفات Pascal (*.pas)|*.pas|C++ ملفات (*.cpp)|*.cpp|JavaScript ملفات (*.js)|*.js|Basic ملفات (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2473" Text="ملفات Pascal (*.pas)|*.pas|C++ ملفات (*.cpp)|*.cpp|JavaScript ملفات (*.js)|*.js|Basic ملفات (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2474" Text="روابط بيانات..."/>
+  <StrRes Name="2475" Text="اللغة"/>
+  <StrRes Name="2476" Text="تعيين نقطة توقف"/>
+  <StrRes Name="2477" Text="تنفيذ حتى المؤشر"/>
+  <StrRes Name="2478" Text="إضافة مقطع تابع"/>
+  <StrRes Name="dsCm" Text="سنتيمتر"/>
+  <StrRes Name="dsInch" Text="بوصة"/>
+  <StrRes Name="dsPix" Text="بكسل"/>
+  <StrRes Name="dsChars" Text="حرف"/>
+  <StrRes Name="dsCode" Text="وحدة برمجية"/>
+  <StrRes Name="dsData" Text="بيانات"/>
+  <StrRes Name="dsPage" Text="صفحة"/>
+  <StrRes Name="dsRepFilter" Text="تقرير (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="ملف مضغوط (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="هل تريد حفظ التغييرات على ملف المعاينة?"/>
+  <StrRes Name="dsSaveChangesTo" Text="حفظ التغييرات إلى"/>
+  <StrRes Name="dsCantLoad" Text="لا يمكن تحميل الملف"/>
+  <StrRes Name="dsStyleFile" Text="نمط"/>
+  <StrRes Name="dsCantFindProc" Text="لا يمكن إيجاد الإجراء الرئيسي"/>
+  <StrRes Name="dsClearScript" Text="هل تريد حذف جميع التعليمات البرمجية?"/>
+  <StrRes Name="dsNoStyle" Text="بدون نمط"/>
+  <StrRes Name="dsStyleSample" Text="معاينة النمط"/>
+  <StrRes Name="dsTextNotFound" Text="النص '%s' غير موجود"/>
+  <StrRes Name="dsReplace" Text="استبدال '%s' الحالي?"/>
+  <StrRes Name="2600" Text="حول مصمم التقارير"/>
+  <StrRes Name="2601" Text="قم بزيارة موقع مصمم التقارير:"/>
+  <StrRes Name="2602" Text="المبيعات:"/>
+  <StrRes Name="2603" Text="الدعم الفني:"/>
+  <StrRes Name="2700" Text="خيارات الصفحة"/>
+  <StrRes Name="2701" Text="الورق"/>
+  <StrRes Name="2702" Text="العرض"/>
+  <StrRes Name="2703" Text="الارتفاع"/>
+  <StrRes Name="2704" Text="حجم الورق"/>
+  <StrRes Name="2705" Text="الاتجاه"/>
+  <StrRes Name="2706" Text="يسار"/>
+  <StrRes Name="2707" Text="أعلى"/>
+  <StrRes Name="2708" Text="يمين"/>
+  <StrRes Name="2709" Text="أسفل"/>
+  <StrRes Name="2710" Text="هوامش"/>
+  <StrRes Name="2711" Text="مصدر الورق"/>
+  <StrRes Name="2712" Text="الصفحة الأولى"/>
+  <StrRes Name="2713" Text="الصفحات الأخرى"/>
+  <StrRes Name="2714" Text="عمودي"/>
+  <StrRes Name="2715" Text="أفقي"/>
+  <StrRes Name="2716" Text="خيارات أخرى"/>
+  <StrRes Name="2717" Text="أعمدة"/>
+  <StrRes Name="2718" Text="عدد الأعمدة"/>
+  <StrRes Name="2719" Text="عرض العمود"/>
+  <StrRes Name="2720" Text="مواقع الأعمدة"/>
+  <StrRes Name="2721" Text="أخرى"/>
+  <StrRes Name="2722" Text="صفحات متعددة"/>
+  <StrRes Name="2723" Text="طباعة على الصفحة السابقة"/>
+  <StrRes Name="2724" Text="هوامش معكوسة"/>
+  <StrRes Name="2725" Text="ارتفاع كبير في التصميم"/>
+  <StrRes Name="2726" Text="عرض الصفحة المتواصلة"/>
+  <StrRes Name="2727" Text="ارتفاع الصفحة المتواصلة"/>
+  <StrRes Name="2800" Text="اختيار مصدر البيانات"/>
+  <StrRes Name="2900" Text="تحرير المتغيرات"/>
+  <StrRes Name="2901" Text="تصنيف"/>
+  <StrRes Name="2902" Text="متغير"/>
+  <StrRes Name="2903" Text="تحرير"/>
+  <StrRes Name="2904" Text="حذف"/>
+  <StrRes Name="2905" Text="قائمة"/>
+  <StrRes Name="2906" Text="تحميل"/>
+  <StrRes Name="2907" Text="حفظ"/>
+  <StrRes Name="2908" Text="تعبير:"/>
+  <StrRes Name="2909" Text="قاموس (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="قاموس (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(لا يوجد متغيرات معرفة)"/>
+  <StrRes Name="vaVar" Text="متغيرات"/>
+  <StrRes Name="vaDupName" Text="اسم مكرر"/>
+  <StrRes Name="3000" Text="خيارات المصمم"/>
+  <StrRes Name="3001" Text="الشبكة"/>
+  <StrRes Name="3002" Text="النوع"/>
+  <StrRes Name="3003" Text="الحجم"/>
+  <StrRes Name="3004" Text="نموذج حوار:"/>
+  <StrRes Name="3005" Text="أخرى"/>
+  <StrRes Name="3006" Text="الخطوط"/>
+  <StrRes Name="3007" Text="محرر الوحدة البرمجية"/>
+  <StrRes Name="3008" Text="محرر الفقرات"/>
+  <StrRes Name="3009" Text="الحجم"/>
+  <StrRes Name="3010" Text="الحجم"/>
+  <StrRes Name="3011" Text="الألوان"/>
+  <StrRes Name="3012" Text="المسافة بين مقاطع التقرير:"/>
+  <StrRes Name="3013" Text="سم"/>
+  <StrRes Name="3014" Text="&#34;"/>
+  <StrRes Name="3015" Text="نقطة"/>
+  <StrRes Name="3016" Text="نقطة"/>
+  <StrRes Name="3017" Text="نقطة"/>
+  <StrRes Name="3018" Text="سنتيمتر:"/>
+  <StrRes Name="3019" Text="بوصة:"/>
+  <StrRes Name="3020" Text="بكسل:"/>
+  <StrRes Name="3021" Text="إظهار الشبكة"/>
+  <StrRes Name="3022" Text="محاذاة إلى الشبكة"/>
+  <StrRes Name="3023" Text="إظهار المحرر بعد الإضافة"/>
+  <StrRes Name="3024" Text="استخدام إعدادات خطوط الكائنات"/>
+  <StrRes Name="3025" Text="مساحة العمل"/>
+  <StrRes Name="3026" Text="خلفية نوافذ الأدوات"/>
+  <StrRes Name="3027" Text="لون الشبكة"/>
+  <StrRes Name="3028" Text="تحريك حر للمقاطع"/>
+  <StrRes Name="3029" Text="إظهار قائمة بأسماء الحقول"/>
+  <StrRes Name="3030" Text="إظهار شاشة البداية"/>
+  <StrRes Name="3031" Text="استعادة الافتراضي"/>
+  <StrRes Name="3032" Text="إظهار تسمية المقطع"/>
+  <StrRes Name="3100" Text="اختيار مصدر البيانات"/>
+  <StrRes Name="3101" Text="عدد السجلات:"/>
+  <StrRes Name="dbNotAssigned" Text="[غير محدد]"/>
+  <StrRes Name="3200" Text="فرز وتجميع"/>
+  <StrRes Name="3201" Text="فاصل عند"/>
+  <StrRes Name="3202" Text="خيارات"/>
+  <StrRes Name="3203" Text="حقل البيانات"/>
+  <StrRes Name="3204" Text="تعبير"/>
+  <StrRes Name="3205" Text="الإبقاء معاً"/>
+  <StrRes Name="3206" Text="فرض صفحة جديدة"/>
+  <StrRes Name="3207" Text="إظهار في فهرس المعاينة"/>
+  <StrRes Name="3300" Text="مفكرة نظام"/>
+  <StrRes Name="3301" Text="مقطع البيانات"/>
+  <StrRes Name="3302" Text="مصدر البيانات"/>
+  <StrRes Name="3303" Text="الحقل"/>
+  <StrRes Name="3304" Text="الدالة"/>
+  <StrRes Name="3305" Text="التعبير"/>
+  <StrRes Name="3306" Text="مجاميع"/>
+  <StrRes Name="3307" Text="متغير نظام"/>
+  <StrRes Name="3308" Text="حساب المقاطع المخفية"/>
+  <StrRes Name="3309" Text="النص"/>
+  <StrRes Name="3310" Text="المجموع التراكمي"/>
+  <StrRes Name="agAggregate" Text="إدراج مجاميع"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="صفحة [PAGE#] من [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE كائن"/>
+  <StrRes Name="3401" Text="إدراج..."/>
+  <StrRes Name="3402" Text="تحرير..."/>
+  <StrRes Name="3403" Text="إغلاق"/>
+  <StrRes Name="olStretched" Text="ممتد"/>
+  <StrRes Name="3500" Text="محرر الباركود"/>
+  <StrRes Name="3501" Text="التعبير"/>
+  <StrRes Name="3502" Text="النوع"/>
+  <StrRes Name="3503" Text="حجم:"/>
+  <StrRes Name="3504" Text="خيارات"/>
+  <StrRes Name="3505" Text="استدارة"/>
+  <StrRes Name="3506" Text="فحص حساب المجاميع"/>
+  <StrRes Name="3507" Text="النص"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="فحص حساب المجاميع"/>
+  <StrRes Name="bcShowText" Text="إظهار النص"/>
+  <StrRes Name="3600" Text="تحرير التسمية البديلة"/>
+  <StrRes Name="3601" Text="الرجاء ضغط زر إدخال للتحرير"/>
+  <StrRes Name="3602" Text="تسمية بديلة لمصدر البيانات"/>
+  <StrRes Name="3603" Text="تسمية بديلة للحقل"/>
+  <StrRes Name="3604" Text="إعادة تعيين"/>
+  <StrRes Name="3605" Text="تحديث"/>
+  <StrRes Name="alUserName" Text="اسم المستخدم"/>
+  <StrRes Name="alOriginal" Text="الاسم الحقيقي"/>
+  <StrRes Name="3700" Text="محرر المتغيرات"/>
+  <StrRes Name="qpName" Text="الاسم"/>
+  <StrRes Name="qpDataType" Text="نوع البيانات"/>
+  <StrRes Name="qpValue" Text="القيمة"/>
+  <StrRes Name="3800" Text="رابط رئيسي-تفصيل"/>
+  <StrRes Name="3801" Text="حقول تفاصيل"/>
+  <StrRes Name="3802" Text="حقول رئيسية"/>
+  <StrRes Name="3803" Text="حقول ربط"/>
+  <StrRes Name="3804" Text="إضافة"/>
+  <StrRes Name="3805" Text="جديد"/>
+  <StrRes Name="3900" Text="المحرر"/>
+  <StrRes Name="3901" Text="إدراج تعبير"/>
+  <StrRes Name="3902" Text="إدراج مجاميع"/>
+  <StrRes Name="3903" Text="إدراج تنسيق"/>
+  <StrRes Name="3904" Text="التفاف النص"/>
+  <StrRes Name="3905" Text="نص"/>
+  <StrRes Name="3906" Text="تنسيق"/>
+  <StrRes Name="3907" Text="تنسيق مشروط"/>
+  <StrRes Name="4000" Text="صورة"/>
+  <StrRes Name="4001" Text="تحميل"/>
+  <StrRes Name="4002" Text="نسخ"/>
+  <StrRes Name="4003" Text="لصق"/>
+  <StrRes Name="4004" Text="جديد"/>
+  <StrRes Name="piEmpty" Text="فارغ"/>
+  <StrRes Name="4100" Text="منشئ الرسوم البيانية"/>
+  <StrRes Name="4101" Text="إضافة سلاسل"/>
+  <StrRes Name="4102" Text="حذف سلاسل"/>
+  <StrRes Name="4103" Text="بيانات من قاعدة البيانات"/>
+  <StrRes Name="4104" Text="مصدر البيانات للمقطع"/>
+  <StrRes Name="4105" Text="بيانات محددة"/>
+  <StrRes Name="4106" Text="مصدر السجل"/>
+  <StrRes Name="4107" Text="مقطع البيانات"/>
+  <StrRes Name="4108" Text="قيم س"/>
+  <StrRes Name="4109" Text="قيم ص"/>
+  <StrRes Name="4114" Text="خيارات أخرى"/>
+  <StrRes Name="4115" Text="TopN قيم"/>
+  <StrRes Name="4116" Text="TopN تسمية"/>
+  <StrRes Name="4117" Text="ترتيب الفرز"/>
+  <StrRes Name="4126" Text="محور س"/>
+  <StrRes Name="ch3D" Text="ثلاثي الأبعاد"/>
+  <StrRes Name="chAxis" Text="إظهار المحاور"/>
+  <StrRes Name="chsoNone" Text="بدون"/>
+  <StrRes Name="chsoAscending" Text="تصاعدي"/>
+  <StrRes Name="chsoDescending" Text="تنازلي"/>
+  <StrRes Name="chxtText" Text="نص"/>
+  <StrRes Name="chxtNumber" Text="رقم"/>
+  <StrRes Name="chxtDate" Text="تاريخ"/>
+  <StrRes Name="4200" Text="محرر النص المنسق"/>
+  <StrRes Name="4201" Text="فتح ملف"/>
+  <StrRes Name="4202" Text="حفظ ملف"/>
+  <StrRes Name="4203" Text="تراجع"/>
+  <StrRes Name="4204" Text="الخط"/>
+  <StrRes Name="4205" Text="إدراج تعبير"/>
+  <StrRes Name="4206" Text="غامق"/>
+  <StrRes Name="4207" Text="مائل"/>
+  <StrRes Name="4208" Text="مسطر"/>
+  <StrRes Name="4209" Text="محاذاة إلى اليسار"/>
+  <StrRes Name="4210" Text="توسيط"/>
+  <StrRes Name="4211" Text="محاذاة إلى اليمين"/>
+  <StrRes Name="4212" Text="ضبط"/>
+  <StrRes Name="4213" Text="تعداد نقطي"/>
+  <StrRes Name="4300" Text="منشئ التقارير المتقاطعة"/>
+  <StrRes Name="4301" Text="مصدر البيانات"/>
+  <StrRes Name="4302" Text="الأبعاد"/>
+  <StrRes Name="4303" Text="السطور"/>
+  <StrRes Name="4304" Text="الأعمدة"/>
+  <StrRes Name="4305" Text="الخلايا"/>
+  <StrRes Name="4306" Text="بنية التقرير"/>
+  <StrRes Name="4307" Text="رأس السطر"/>
+  <StrRes Name="4308" Text="رأس العمود"/>
+  <StrRes Name="4309" Text="مجموع السطر"/>
+  <StrRes Name="4310" Text="مجموع العمود"/>
+  <StrRes Name="4311" Text="تبديل سطور/أعمدة"/>
+  <StrRes Name="4312" Text="النمط"/>
+  <StrRes Name="4313" Text="إعدادات الخط"/>
+  <StrRes Name="4314" Text="محاذاة إلى اليسار"/>
+  <StrRes Name="4315" Text="توسيط"/>
+  <StrRes Name="4316" Text="محاذاة إلى اليمين"/>
+  <StrRes Name="4317" Text="تدوير النص"/>
+  <StrRes Name="4318" Text="تنسيق مشروط"/>
+  <StrRes Name="4319" Text="التنسيق"/>
+  <StrRes Name="4320" Text="إعدادات الحد"/>
+  <StrRes Name="4321" Text="لون التعبئة"/>
+  <StrRes Name="4322" Text="بدون"/>
+  <StrRes Name="4323" Text="المجموع"/>
+  <StrRes Name="4324" Text="أدنى قيمة"/>
+  <StrRes Name="4325" Text="أقصى قيمة"/>
+  <StrRes Name="4326" Text="المعدل"/>
+  <StrRes Name="4327" Text="العدد"/>
+  <StrRes Name="4328" Text="تصاعدي (أ-ي)"/>
+  <StrRes Name="4329" Text="تنازلي (ي-أ)"/>
+  <StrRes Name="4330" Text="بدون فرز"/>
+  <StrRes Name="crStName" Text="ادخل اسم النمط:"/>
+  <StrRes Name="crResize" Text="لتغيير حجم التقرير الجدولي, يجب ضبط خاصية &#38;#34;AutoSize&#38;#34; إلى False."/>
+  <StrRes Name="crSubtotal" Text="المجموع"/>
+  <StrRes Name="crNone" Text="بدون"/>
+  <StrRes Name="crSum" Text="جمع"/>
+  <StrRes Name="crMin" Text="أدنى"/>
+  <StrRes Name="crMax" Text="أقصى"/>
+  <StrRes Name="crAvg" Text="متوسط حسابي"/>
+  <StrRes Name="crCount" Text="عدد"/>
+  <StrRes Name="crAsc" Text="أ-ي"/>
+  <StrRes Name="crDesc" Text="ي-أ"/>
+  <StrRes Name="4400" Text="منشئ التعبير"/>
+  <StrRes Name="4401" Text="التعبير:"/>
+  <StrRes Name="4500" Text="إظهار التنسيق"/>
+  <StrRes Name="4501" Text="التصنيف"/>
+  <StrRes Name="4502" Text="التنسيق"/>
+  <StrRes Name="4503" Text="نص التنسيق:"/>
+  <StrRes Name="4504" Text="الفاصلة العشرية:"/>
+  <StrRes Name="fkText" Text="نص (بلا تنسيق)"/>
+  <StrRes Name="fkNumber" Text="رقم"/>
+  <StrRes Name="fkDateTime" Text="تاريخ/وقت"/>
+  <StrRes Name="fkBoolean" Text="منطقي"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="لا,نعم;لا,نعم"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="تنسيق مشروط"/>
+  <StrRes Name="4601" Text="اللون..."/>
+  <StrRes Name="4602" Text="اللون..."/>
+  <StrRes Name="4603" Text="الشروط"/>
+  <StrRes Name="4604" Text="الخط"/>
+  <StrRes Name="4605" Text="لون التعبئة"/>
+  <StrRes Name="4606" Text="غامق"/>
+  <StrRes Name="4607" Text="مائل"/>
+  <StrRes Name="4608" Text="مسطر"/>
+  <StrRes Name="4609" Text="شفاف"/>
+  <StrRes Name="4610" Text="أخرى"/>
+  <StrRes Name="4700" Text="إعدادات التقرير"/>
+  <StrRes Name="4701" Text="عام"/>
+  <StrRes Name="4702" Text="إعدادات الطابعة"/>
+  <StrRes Name="4703" Text="عدد النسخ"/>
+  <StrRes Name="4704" Text="عام"/>
+  <StrRes Name="4705" Text="كلمة المرور"/>
+  <StrRes Name="4706" Text="ترتيب النسخ"/>
+  <StrRes Name="4707" Text="تهيئة مزدوجة"/>
+  <StrRes Name="4708" Text="طباعة فارغ"/>
+  <StrRes Name="4709" Text="الوصف"/>
+  <StrRes Name="4710" Text="الاسم"/>
+  <StrRes Name="4711" Text="الوصف"/>
+  <StrRes Name="4712" Text="الصورة"/>
+  <StrRes Name="4713" Text="المؤلف"/>
+  <StrRes Name="4714" Text="رئيسي"/>
+  <StrRes Name="4715" Text="فرعي"/>
+  <StrRes Name="4716" Text="نسخة"/>
+  <StrRes Name="4717" Text="بناء"/>
+  <StrRes Name="4718" Text="أنشئ في"/>
+  <StrRes Name="4719" Text="عدل في"/>
+  <StrRes Name="4720" Text="الوصف"/>
+  <StrRes Name="4721" Text="الإصدار"/>
+  <StrRes Name="4722" Text="استعراض..."/>
+  <StrRes Name="4723" Text="خيارات الارتباط"/>
+  <StrRes Name="4724" Text="حدد الاختيار:"/>
+  <StrRes Name="4725" Text="لا تغير"/>
+  <StrRes Name="4726" Text="فصل التقرير الرئيسي"/>
+  <StrRes Name="4727" Text="ارتباط مع التقرير الرئيسي:"/>
+  <StrRes Name="4728" Text="ارتباط"/>
+  <StrRes Name="rePrnOnPort" Text="تشغيل"/>
+  <StrRes Name="riNotInherited" Text="هذا التقرير غير مرتبط."/>
+  <StrRes Name="riInherited" Text="هذا التقرير مرتبط مع التقرير الرئيسي: %s"/>
+  <StrRes Name="4800" Text="سطور"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="منشئ الاستعلامات"/>
+  <StrRes Name="5000" Text="كلمة المرور"/>
+  <StrRes Name="5001" Text="أدخل كلمة المرور:"/>
+  <StrRes Name="5100" Text="محرر الأنماط"/>
+  <StrRes Name="5101" Text="اللون..."/>
+  <StrRes Name="5102" Text="الخط..."/>
+  <StrRes Name="5103" Text="الحد..."/>
+  <StrRes Name="5104" Text="إضافة"/>
+  <StrRes Name="5105" Text="حذف"/>
+  <StrRes Name="5106" Text="تحرير"/>
+  <StrRes Name="5107" Text="تحميل"/>
+  <StrRes Name="5108" Text="حفظ"/>
+  <StrRes Name="5200" Text="محرر الحدود"/>
+  <StrRes Name="5201" Text="الحد"/>
+  <StrRes Name="5202" Text="شكل الحد"/>
+  <StrRes Name="5203" Text="تظليل"/>
+  <StrRes Name="5204" Text="حد علوي"/>
+  <StrRes Name="5205" Text="حد أسفل"/>
+  <StrRes Name="5206" Text="حد أيسر"/>
+  <StrRes Name="5207" Text="حد أيمن"/>
+  <StrRes Name="5208" Text="حد خارجي"/>
+  <StrRes Name="5209" Text="بدون حد"/>
+  <StrRes Name="5210" Text="لون الحد"/>
+  <StrRes Name="5211" Text="نمط الحد"/>
+  <StrRes Name="5212" Text="سمك الحد"/>
+  <StrRes Name="5213" Text="تظليل"/>
+  <StrRes Name="5214" Text="لون التظليل"/>
+  <StrRes Name="5215" Text="سمك التظليل"/>
+  <StrRes Name="5300" Text="عنصر حديد"/>
+  <StrRes Name="5301" Text="عناصر"/>
+  <StrRes Name="5302" Text="قوالب"/>
+  <StrRes Name="5303" Text="ربط التقرير"/>
+  <StrRes Name="5400" Text="ترتيب الجدولة"/>
+  <StrRes Name="5401" Text="الأدوات المدرجة في قائمة الجدول:"/>
+  <StrRes Name="5402" Text="تحريك لأعلى"/>
+  <StrRes Name="5403" Text="تحريك لأسفل"/>
+  <StrRes Name="5500" Text="التقييم"/>
+  <StrRes Name="5501" Text="التعبير"/>
+  <StrRes Name="5502" Text="النتيجة"/>
+  <StrRes Name="5600" Text="معالج التقارير"/>
+  <StrRes Name="5601" Text="البيانات"/>
+  <StrRes Name="5602" Text="الحقول"/>
+  <StrRes Name="5603" Text="المجموعات"/>
+  <StrRes Name="5604" Text="المظهر"/>
+  <StrRes Name="5605" Text="النمط"/>
+  <StrRes Name="5606" Text="خطوة 1. حدد مصدر البيانات."/>
+  <StrRes Name="5607" Text="خطوة 2. حدد الحقول المرغوبة."/>
+  <StrRes Name="5608" Text="خطوة 3. إنشاء مجموعات (اختياري)."/>
+  <StrRes Name="5609" Text="خطوة 4. اتجاه الصفحة والمظهر."/>
+  <StrRes Name="5610" Text="خطوة 5. حدد نمط التقرير."/>
+  <StrRes Name="5611" Text="إضافة &#62;"/>
+  <StrRes Name="5612" Text="إضافة الكل &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; إزالة"/>
+  <StrRes Name="5614" Text="&#60;&#60; إزالة الكل"/>
+  <StrRes Name="5615" Text="إضافة &#62;"/>
+  <StrRes Name="5616" Text="&#60; إزالة"/>
+  <StrRes Name="5617" Text="الحقول المحددة:"/>
+  <StrRes Name="5618" Text="الحقول المتاحة:"/>
+  <StrRes Name="5619" Text="فرز وتجميع:"/>
+  <StrRes Name="5620" Text="الاتجاه"/>
+  <StrRes Name="5621" Text="المظهر"/>
+  <StrRes Name="5622" Text="عمودي"/>
+  <StrRes Name="5623" Text="أفقي"/>
+  <StrRes Name="5624" Text="جدولي"/>
+  <StrRes Name="5625" Text="عمودي"/>
+  <StrRes Name="5626" Text="ضبط عرض الحقول لتحتويها الصفحة"/>
+  <StrRes Name="5627" Text="&#60;&#60; السابق"/>
+  <StrRes Name="5628" Text="التالي &#62;&#62;"/>
+  <StrRes Name="5629" Text="إنهاء"/>
+  <StrRes Name="5630" Text="جدول جديد..."/>
+  <StrRes Name="5631" Text="استعلام جديد..."/>
+  <StrRes Name="5632" Text="اختيار طريقة الاتصال:"/>
+  <StrRes Name="5633" Text="اختيار جدول:"/>
+  <StrRes Name="5634" Text="أو"/>
+  <StrRes Name="5635" Text="إنشاء استعلام..."/>
+  <StrRes Name="5636" Text="تهيئة الاتصال"/>
+  <StrRes Name="wzStd" Text="معالج التقارير القياسية"/>
+  <StrRes Name="wzDMP" Text="معالج تقارير الطابعات النقطية"/>
+  <StrRes Name="wzStdEmpty" Text="تقرير قياسي"/>
+  <StrRes Name="wzDMPEmpty" Text="تقرير طابعة نقطية"/>
+  <StrRes Name="5700" Text="معالج الاتصال بمصدر البيانات"/>
+  <StrRes Name="5701" Text="ارتباط"/>
+  <StrRes Name="5702" Text="حدد نوع الاتصال:"/>
+  <StrRes Name="5703" Text="حدد قاعدة البيانات:"/>
+  <StrRes Name="5704" Text="اسم المستخدم"/>
+  <StrRes Name="5705" Text="كلمة المرور"/>
+  <StrRes Name="5706" Text="المطالبة بكلمة المرور"/>
+  <StrRes Name="5707" Text="اسم المستخدم/كلمة المرور:"/>
+  <StrRes Name="5708" Text="الجدول"/>
+  <StrRes Name="5709" Text="حدد اسم الجدول:"/>
+  <StrRes Name="5710" Text="حقول التصفية:"/>
+  <StrRes Name="5711" Text="الاستعلام"/>
+  <StrRes Name="5712" Text="SQL أوامر:"/>
+  <StrRes Name="5713" Text="منشئ الاستعلامات"/>
+  <StrRes Name="5714" Text="محرر معايير الاستعلام"/>
+  <StrRes Name="ftAllFiles" Text="كل الملفات"/>
+  <StrRes Name="ftPictures" Text="ملف صور"/>
+  <StrRes Name="ftDB" Text="ملف قاعدة بيانات"/>
+  <StrRes Name="ftRichFile" Text="ملف نص منسق"/>
+  <StrRes Name="ftTextFile" Text="ملف نصي"/>
+  <StrRes Name="prNotAssigned" Text="(غير محدد)"/>
+  <StrRes Name="prInvProp" Text="قيمة غير صحيحة"/>
+  <StrRes Name="prDupl" Text="اسم مكرر"/>
+  <StrRes Name="prPict" Text="(صورة)"/>
+  <StrRes Name="mvExpr" Text="السماح بالتعبيرات"/>
+  <StrRes Name="mvStretch" Text="تمديد"/>
+  <StrRes Name="mvStretchToMax" Text="تمديد إلى أعلى ارتفاع"/>
+  <StrRes Name="mvShift" Text="إزاحة"/>
+  <StrRes Name="mvShiftOver" Text="إزاحة عند التخطي"/>
+  <StrRes Name="mvVisible" Text="ظاهر"/>
+  <StrRes Name="mvPrintable" Text="قابل للطباعة"/>
+  <StrRes Name="mvFont" Text="الخط..."/>
+  <StrRes Name="mvFormat" Text="تنسيق..."/>
+  <StrRes Name="mvClear" Text="مسح المحتوى"/>
+  <StrRes Name="mvAutoWidth" Text="عرض تلقائي"/>
+  <StrRes Name="mvWWrap" Text="التفاف النص"/>
+  <StrRes Name="mvSuppress" Text="إخفاء القيم المكررة"/>
+  <StrRes Name="mvHideZ" Text="إخفاء القيم الصفرية"/>
+  <StrRes Name="mvHTML" Text="السماح بتعليمات هتمل"/>
+  <StrRes Name="lvDiagonal" Text="خط حر"/>
+  <StrRes Name="pvAutoSize" Text="حجم تلقائي"/>
+  <StrRes Name="pvCenter" Text="توسيط"/>
+  <StrRes Name="pvAspect" Text="المحافظة على الأبعاد"/>
+  <StrRes Name="bvSplit" Text="السماح بالفصل"/>
+  <StrRes Name="bvKeepChild" Text="إبقاء التابع معاً"/>
+  <StrRes Name="bvPrintChild" Text="طباعة التابع إذا كان مخفياً"/>
+  <StrRes Name="bvStartPage" Text="فرض صفحة جديدة"/>
+  <StrRes Name="bvPrintIfEmpty" Text="طباعة مقطع التفاصيل إذا كان فارغاً"/>
+  <StrRes Name="bvKeepDetail" Text="إبقاء التفاصيل معاً"/>
+  <StrRes Name="bvKeepFooter" Text="إبقاء التذييل معاً"/>
+  <StrRes Name="bvReprint" Text="إعادة الطباعة على الصفحة الجديدة"/>
+  <StrRes Name="bvOnFirst" Text="الطباعة على الصفحة الأولى"/>
+  <StrRes Name="bvOnLast" Text="الطباعة على الصفحة الأخيرة"/>
+  <StrRes Name="bvKeepGroup" Text="الإبقاء معاً"/>
+  <StrRes Name="bvFooterAfterEach" Text="التذييل بعد كل سطر"/>
+  <StrRes Name="bvDrillDown" Text="تمديد لأسفل"/>
+  <StrRes Name="bvResetPageNo" Text="تصفير أرقام الصفحات"/>
+  <StrRes Name="srParent" Text="الطباعة على المتبوع"/>
+  <StrRes Name="bvKeepHeader" Text="إبقاء الرأس معاً"/>
+  <StrRes Name="obCatDraw" Text="رسم"/>
+  <StrRes Name="obCatOther" Text="كائنات أخرى"/>
+  <StrRes Name="obCatOtherControls" Text="أدوات أخرى"/>
+  <StrRes Name="obDiagLine" Text="خط حر"/>
+  <StrRes Name="obRect" Text="مربع"/>
+  <StrRes Name="obRoundRect" Text="مربع بزوايا مستديرة"/>
+  <StrRes Name="obEllipse" Text="قطع دائري"/>
+  <StrRes Name="obTrian" Text="مثلث"/>
+  <StrRes Name="obDiamond" Text="متوازي أضلاع"/>
+  <StrRes Name="obLabel" Text="تسمية"/>
+  <StrRes Name="obEdit" Text="مربع نص"/>
+  <StrRes Name="obMemoC" Text="مفكرة"/>
+  <StrRes Name="obButton" Text="زر أمر"/>
+  <StrRes Name="obChBoxC" Text="مربع تحديد"/>
+  <StrRes Name="obRButton" Text="زر اختيار"/>
+  <StrRes Name="obLBox" Text="مربع قائمة"/>
+  <StrRes Name="obCBox" Text="قائمة سرد"/>
+  <StrRes Name="obDateEdit" Text="مربع بيانات لا"/>
+  <StrRes Name="obImageC" Text="صورة"/>
+  <StrRes Name="obPanel" Text="لوحة"/>
+  <StrRes Name="obGrBox" Text="مجموعة خيارات"/>
+  <StrRes Name="obBBtn" Text="زر صورة"/>
+  <StrRes Name="obSBtn" Text="زر تبديل"/>
+  <StrRes Name="obMEdit" Text="مربع نص مشروط"/>
+  <StrRes Name="obChLB" Text="قائمة مربع تحديد"/>
+  <StrRes Name="obDBLookup" Text="قائمة سرد مرتبطة بجدول"/>
+  <StrRes Name="obBevel" Text="تأثير غاطس"/>
+  <StrRes Name="obShape" Text="أشكال هندسية"/>
+  <StrRes Name="obText" Text="مربع نص"/>
+  <StrRes Name="obSysText" Text="مربع نص معرف"/>
+  <StrRes Name="obLine" Text="خط"/>
+  <StrRes Name="obPicture" Text="صورة"/>
+  <StrRes Name="obBand" Text="مقطع"/>
+  <StrRes Name="obDataBand" Text="مقطع بيانات"/>
+  <StrRes Name="obSubRep" Text="تقرير فرعي"/>
+  <StrRes Name="obDlgPage" Text="نموذج حوار"/>
+  <StrRes Name="obRepPage" Text="صفحة"/>
+  <StrRes Name="obReport" Text="تقرير"/>
+  <StrRes Name="obRich" Text="نص منسق"/>
+  <StrRes Name="obOLE" Text="OLE كائن"/>
+  <StrRes Name="obChBox" Text="مربع تحديد"/>
+  <StrRes Name="obChart" Text="رسوم بيانية"/>
+  <StrRes Name="obBarC" Text="باركود"/>
+  <StrRes Name="obCross" Text="تقرير متقاطع"/>
+  <StrRes Name="obDBCross" Text="تقرير متقاطع مرتبط"/>
+  <StrRes Name="obGrad" Text="تدرج لوني"/>
+  <StrRes Name="obDMPText" Text="مربع نص للطابعة النقطية"/>
+  <StrRes Name="obDMPLine" Text="خط للطابعة النقطية"/>
+  <StrRes Name="obDMPCmd" Text="أمر للطابعة النقطية"/>
+  <StrRes Name="obBDEDB" Text="BDE قاعدة بيانات"/>
+  <StrRes Name="obBDETb" Text="BDE جدول"/>
+  <StrRes Name="obBDEQ" Text="BDE استعلام"/>
+  <StrRes Name="obBDEComps" Text="BDE أدوات"/>
+  <StrRes Name="obIBXDB" Text="IBX قاعدة بيانات"/>
+  <StrRes Name="obIBXTb" Text="IBX جدول"/>
+  <StrRes Name="obIBXQ" Text="IBX استعلام"/>
+  <StrRes Name="obIBXComps" Text="IBX أدوات"/>
+  <StrRes Name="obADODB" Text="ADO قاعدة بيانات"/>
+  <StrRes Name="obADOTb" Text="ADO جدول"/>
+  <StrRes Name="obADOQ" Text="ADO استعلام"/>
+  <StrRes Name="obADOComps" Text="ADO أدوات"/>
+  <StrRes Name="obDBXDB" Text="DBX قاعدة بيانات"/>
+  <StrRes Name="obDBXTb" Text="DBX جدول"/>
+  <StrRes Name="obDBXQ" Text="DBX استعلام"/>
+  <StrRes Name="obDBXComps" Text="DBX أدوات"/>
+  <StrRes Name="obFIBDB" Text="FIB قاعدة بيانات"/>
+  <StrRes Name="obFIBTb" Text="FIB جدول"/>
+  <StrRes Name="obFIBQ" Text="FIB استعلام"/>
+  <StrRes Name="obFIBComps" Text="FIB أدوات"/>
+  <StrRes Name="ctString" Text="نصية"/>
+  <StrRes Name="ctDate" Text="وقت و تاريخ"/>
+  <StrRes Name="ctConv" Text="تحويل"/>
+  <StrRes Name="ctFormat" Text="تنسيق"/>
+  <StrRes Name="ctMath" Text="حسابية"/>
+  <StrRes Name="ctOther" Text="أخرى"/>
+  <StrRes Name="IntToStr" Text="تحول رقم صحيح إلى نص"/>
+  <StrRes Name="FloatToStr" Text="تحول رقم بفاصلة عشرية إلى نص"/>
+  <StrRes Name="DateToStr" Text="تحول تاريخ إلى نص"/>
+  <StrRes Name="TimeToStr" Text="تحول وقت إلى نص"/>
+  <StrRes Name="DateTimeToStr" Text="تحويل وقت وتاريخ إلى نص"/>
+  <StrRes Name="VarToStr" Text="تحويل قيمة متعددة إلى نص"/>
+  <StrRes Name="StrToInt" Text="تحول نص إلى عدد صحيح"/>
+  <StrRes Name="StrToInt64" Text="تحول نص إلى عدد صحيح طويل"/>
+  <StrRes Name="StrToFloat" Text="تحول نص إلى رقم بفاصلة عشرية"/>
+  <StrRes Name="StrToDate" Text="تحول نص إلى تاريخ"/>
+  <StrRes Name="StrToTime" Text="تحول نص إلى وقت"/>
+  <StrRes Name="StrToDateTime" Text="تحول نص إلى صيغة وقت وتاريخ"/>
+  <StrRes Name="Format" Text="ترجع نص منسق من سلسلة متغيرات في مصفوفة"/>
+  <StrRes Name="FormatFloat" Text="تنسيق رقم بفاصلة عشرية"/>
+  <StrRes Name="FormatDateTime" Text="تنسق قيمة وقت وتاريخ"/>
+  <StrRes Name="FormatMaskText" Text="ترجع نص منسق باستخدام قناع"/>
+  <StrRes Name="EncodeDate" Text="ترجع نوع تاريخ/وقت لسنة،شهر،يوم"/>
+  <StrRes Name="DecodeDate" Text="ترجع سنة، شهر، يوم من نوع تاريخ/وقت"/>
+  <StrRes Name="EncodeTime" Text="ترجع نوع تاريخ/وقت لساعد، دقيقة، ثانية وأجزاء من الثانية"/>
+  <StrRes Name="DecodeTime" Text="ترجع ساعد، دقيقة، ثانية وأجزاء من الثانية من نوع تاريخ/وقت"/>
+  <StrRes Name="Date" Text="ترجع التاريخ الحالي"/>
+  <StrRes Name="Time" Text="ترجع الوقت الحالي"/>
+  <StrRes Name="Now" Text="ترجع الوقت والتاريخ الحاليين"/>
+  <StrRes Name="DayOfWeek" Text="ترجع اسم اليوم من تاريخ محدد"/>
+  <StrRes Name="IsLeapYear" Text="ترجع هل السنة كبيسة أم لا"/>
+  <StrRes Name="DaysInMonth" Text="ترجع عدد الأيام في شهر محدد"/>
+  <StrRes Name="Length" Text="ترجع طول نص"/>
+  <StrRes Name="Copy" Text="ترجع جزء من نص"/>
+  <StrRes Name="Pos" Text="ترجع موقع نص في نص آخر"/>
+  <StrRes Name="Delete" Text="إزالة جز من نص"/>
+  <StrRes Name="Insert" Text="إدراج نص إلى نص آخر"/>
+  <StrRes Name="Uppercase" Text="تحول جميع الحروف في نص إلى كبيرة"/>
+  <StrRes Name="Lowercase" Text="تحول جميع الحروف في نص إلى صغيرة"/>
+  <StrRes Name="Trim" Text="تحذف جميع الفراغات من بداية ونهاية نص"/>
+  <StrRes Name="NameCase" Text="تحول الحرف الأول من كلمة إلى كبير"/>
+  <StrRes Name="CompareText" Text="تقارن بين نصين"/>
+  <StrRes Name="Chr" Text="ترجع الحرف للرقم المقترن بترميز الأحرف المحدد"/>
+  <StrRes Name="Ord" Text="ترجع الرقم للحرف المقترن بترميز الأحرف المحدد"/>
+  <StrRes Name="SetLength" Text="تنشئ طول النص"/>
+  <StrRes Name="Round" Text="ترجع رقم يتم تقريبه إلى أقرب عدد صحيح من المنازل العشرية"/>
+  <StrRes Name="Trunc" Text="ترجع الرقم الصحيح من رقم بفاصلة عشرية"/>
+  <StrRes Name="Int" Text="ترجع العدد الصحيح الرقم بفاصلة عشرية"/>
+  <StrRes Name="Frac" Text="ترجع الأعداد العشرية لرقم بفاصلة عشرية"/>
+  <StrRes Name="Sqrt" Text="ترجع الجذر التربيعي لرقم"/>
+  <StrRes Name="Abs" Text="ترجع القيمة المطلقة"/>
+  <StrRes Name="Sin" Text="ترجع جيب الزاوية"/>
+  <StrRes Name="Cos" Text="ترجع تمام الزاوية"/>
+  <StrRes Name="ArcTan" Text="ترجع قوس المماس"/>
+  <StrRes Name="Tan" Text="ترجع مماس الزاوية"/>
+  <StrRes Name="Exp" Text="ترجع مرفوعاً إلى أس"/>
+  <StrRes Name="Ln" Text="ترجع اللوغاريتم الطبيعي لتعبير حقيقي"/>
+  <StrRes Name="Pi" Text="ترجع 3.1415926"/>
+  <StrRes Name="Inc" Text="تزيد قيمة"/>
+  <StrRes Name="Dec" Text="تنقص قيمة"/>
+  <StrRes Name="RaiseException" Text="تحدث خطأ"/>
+  <StrRes Name="ShowMessage" Text="تظهر نافذة رسائل"/>
+  <StrRes Name="Randomize" Text="تشغيل مكون الأرقام العشوائية"/>
+  <StrRes Name="Random" Text="ترجع رقم عشوائي"/>
+  <StrRes Name="ValidInt" Text="ترجع True إذا كانت النص يحتوي على رقم صحيح"/>
+  <StrRes Name="ValidFloat" Text="ترجع True إذا كانت النص يحتوي على رقم بفاصلة عشرية"/>
+  <StrRes Name="ValidDate" Text="ترجع True إذا كانت النص يحتوي على تاريخ"/>
+  <StrRes Name="IIF" Text="ترجع TrueValue إذا تحقق Expr, و FalseValue في غير ذلك"/>
+  <StrRes Name="Get" Text="للاستخدام الداخلي فقط"/>
+  <StrRes Name="Set" Text="للاستخدام الداخلي فقط"/>
+  <StrRes Name="InputBox" Text="تظهر نافذة حوار تمكن المستخدم من إدخال قيمة"/>
+  <StrRes Name="InputQuery" Text="تظهر نافذة حوار تمكن المستخدم من إدخال قيمة"/>
+  <StrRes Name="MessageDlg" Text="تظهر نافذة رسائل"/>
+  <StrRes Name="CreateOleObject" Text="تنشئ كائن OLE"/>
+  <StrRes Name="VarArrayCreate" Text="تنشئ مصفوفة نوع متعدد"/>
+  <StrRes Name="VarType" Text="ترجع نوع قيمة المتغير المتعدد"/>
+  <StrRes Name="DayOf" Text="ترجع رقم اليوم (1..31) من تاريخ محدد"/>
+  <StrRes Name="MonthOf" Text="ترجع رقم الشهر (1..12) من تاريخ محدد"/>
+  <StrRes Name="YearOf" Text="ترجع رقم السنة من تاريخ محدد"/>
+  <StrRes Name="ctAggregate" Text="مجاميع"/>
+  <StrRes Name="Sum" Text="تقوم بإرجاع المجموع الخاص بمجموعة من القيم الموجودة في مقطع"/>
+  <StrRes Name="Avg" Text="تقوم بحساب المتوسط الحسابي لمجموعة من القيم الموجودة في مقطع"/>
+  <StrRes Name="Min" Text="تقوم بإرجاع الحد الأدنى لمجموعة من القيم الموجودة في مقطع"/>
+  <StrRes Name="Max" Text="تقوم بإرجاع الحد الأقصى لمجموعة من القيم الموجودة في مقطع"/>
+  <StrRes Name="Count" Text="تقوم بحساب عدد السجلات التي يرجعها مصدر السجل"/>
+  <StrRes Name="wzDBConn" Text="معالج إنشاء اتصال"/>
+  <StrRes Name="wzDBTable" Text="معالج إنشاء جدول"/>
+  <StrRes Name="wzDBQuery" Text="معالج إنشاء استعلام"/>
+  <StrRes Name="5800" Text="إعدادات الاتصال"/>
+  <StrRes Name="5801" Text="جديد"/>
+  <StrRes Name="5802" Text="حذف"/>
+  <StrRes Name="cpName" Text="الاسم"/>
+  <StrRes Name="cpConnStr" Text="نص الاتصال"/>
+  <StrRes Name="startCreateNew" Text="إنشاء تقرير جديد"/>
+  <StrRes Name="startCreateBlank" Text="إنشاء تقرير فارغ"/>
+  <StrRes Name="startOpenReport" Text="فتح تقرير"/>
+  <StrRes Name="startOpenLast" Text="فتح آخر تقرير"/>
+  <StrRes Name="startEditAliases" Text="تحرير مسميات الاتصال"/>
+  <StrRes Name="startHelp" Text="تعليمات"/>
+  <StrRes Name="5900" Text="مراقبة"/>
+  <StrRes Name="5901" Text="إضافة مراقبة"/>
+  <StrRes Name="5902" Text="حذف مراقبة"/>
+  <StrRes Name="5903" Text="تحرير مراقبة"/>
+  <StrRes Name="6000" Text="خطأ في الارتباط"/>
+  <StrRes Name="6001" Text="يوجد في التقرير الرئيسي والمرتبط عناصر مكررة. ما هو العمل?"/>
+  <StrRes Name="6002" Text="حذف المتكرر"/>
+  <StrRes Name="6003" Text="إعادة تسمية المتكرر"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

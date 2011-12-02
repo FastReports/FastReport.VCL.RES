@@ -1,0 +1,275 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="propActive" Text="Upućuje da li je dataset otvoren ili nije"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Upućuje da li je osvjetljeno aktivno ili nije"/>
+  <StrRes Name="propAliasName" Text="Ime BDE aliasa"/>
+  <StrRes Name="propAlign" Text="Određuje poravnavanje predmeta relativno na traku ili stranicu"/>
+  <StrRes Name="propAlignment" Text="Poravnava teksta u predmetu"/>
+  <StrRes Name="propAllowAllUp" Text="Upućuje da li su svi Speed gumbi u grupi neizabrani u istom trenutku"/>
+  <StrRes Name="propAllowEdit" Text="Određuje da li korisnik uređuje pripremljen izvještaj"/>
+  <StrRes Name="propAllowExpressions" Text="Određuje da li predmet sadrži izraz u tekstu"/>
+  <StrRes Name="propAllowGrayed" Text="Dozvola neodređenog stanja CheckBox-a"/>
+  <StrRes Name="propAllowHTMLTags" Text="Određuje da li tekst sadrži HTML oznake"/>
+  <StrRes Name="propAllowSplit" Text="Određuje da li traka dijeli svoj sadržaj na više stranica"/>
+  <StrRes Name="propAuthor" Text="Autor izvještaja"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Određuje da li se velićina slike automatski prilagođava"/>
+  <StrRes Name="propAutoWidth" Text="Određuje da li se širina predmeta Tekst automatski prilagođava"/>
+  <StrRes Name="propBackPicture" Text="Slika podloge stranice"/>
+  <StrRes Name="propBarType" Text="Tip bar koda"/>
+  <StrRes Name="propBevelInner" Text="Tip unutaranjega bevel-a"/>
+  <StrRes Name="propBevelOuter" Text="Tip vanjskoga bevel-a"/>
+  <StrRes Name="propBevelWidth" Text="Širina bevel-a"/>
+  <StrRes Name="propBorder" Text="Određuje da li će biti prikazana vanjska granica"/>
+  <StrRes Name="propBorderStyle" Text="Stil prozora"/>
+  <StrRes Name="propBottomMargin" Text="Veličina donjeg ruba stranice"/>
+  <StrRes Name="propBrushStyle" Text="BrushStyle uporabljen za pozadinu"/>
+  <StrRes Name="propCalcCheckSum" Text="Određuje da li će biti kontrolni znak bar koda automatski izračunat"/>
+  <StrRes Name="propCancel" Text="Određuje da li će gumb biti aktiviran pri pritisku na tipku Esc"/>
+  <StrRes Name="propCaption" Text="Natpis kontrole"/>
+  <StrRes Name="propCellFields" Text="Imena ZP polja, koja predstavljaju ćeliju u cross izvještaju"/>
+  <StrRes Name="propCellLevels" Text="Broj razina ćelija"/>
+  <StrRes Name="propCenter" Text="Određuje da li će slika biti centrirana unutar kontrole"/>
+  <StrRes Name="propCharset" Text="Nabor znakova pisma"/>
+  <StrRes Name="propCharSpacing" Text="Količina točaka između dva znaka"/>
+  <StrRes Name="propCheckColor" Text="Boja oznake"/>
+  <StrRes Name="propChecked" Text="Upućuje da li je kontrola označena"/>
+  <StrRes Name="propCheckStyle" Text="Stil znaka oznake"/>
+  <StrRes Name="propChild" Text="Child traka povezana na tu traku"/>
+  <StrRes Name="propClipped" Text="Određuje da li će tekst biti smješten unutar granica objekta"/>
+  <StrRes Name="propCollate" Text="Preuzete postavke abecednog uređenja"/>
+  <StrRes Name="propColor.TFont" Text="Boja teksta"/>
+  <StrRes Name="propColor" Text="Boja predmeta"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Boja okvira"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Određuje boju predmeta, ako je osvjetljenje aktivno"/>
+  <StrRes Name="propColumnFields" Text="Imena ZP polja, koja predstavljaju stupce u cross izvještaju"/>
+  <StrRes Name="propColumnGap" Text="Razmak između stupaca u traci"/>
+  <StrRes Name="propColumnLevels" Text="Broj razina stupaca"/>
+  <StrRes Name="propColumns" Text="Broj stupaca u traci"/>
+  <StrRes Name="propColumnWidth" Text="Širina stupca u traci"/>
+  <StrRes Name="propCondition" Text="Uvjet grupiranja. Stvoriti će se nova grupa, ako se promijeni vrijednost"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Niz izraza. Ako je izraz True, osvjetljeno će biti aktivno"/>
+  <StrRes Name="propConnected" Text="Upućuje da li je veza do zbirke podataka aktivna"/>
+  <StrRes Name="propConvertNulls" Text="Određuje da li da se NULL vrijednosti promijene u 0"/>
+  <StrRes Name="propCopies" Text="Uzeti broj kopija"/>
+  <StrRes Name="propCursor" Text="Kursor predmeta"/>
+  <StrRes Name="propDatabaseName" Text="Ime zbirke podataka"/>
+  <StrRes Name="propDataField" Text="Navodi polje iz kojega predmet dobiva podatke"/>
+  <StrRes Name="propDataSet" Text="Predmet povezuje s dataset-om, koji sadrži polje za prikaz"/>
+  <StrRes Name="propDate" Text="Vrijednost Datuma"/>
+  <StrRes Name="propDateFormat" Text="Određuje oblik prikazanog datuma"/>
+  <StrRes Name="propDecimalSeparator" Text="Decimalni razdjelnik"/>
+  <StrRes Name="propDefault" Text="Određuje da li je gumb uzeti gumb"/>
+  <StrRes Name="propDefHeight" Text="Uzeta visina reda"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Opis izvještaja"/>
+  <StrRes Name="propDescription" Text="Opis objekta"/>
+  <StrRes Name="propDiagonal" Text="Navodi da li je crta dijagonalna"/>
+  <StrRes Name="propDisplayFormat" Text="Oblik prikaza vrijednosti"/>
+  <StrRes Name="propDoublePass" Text="Određuje da li da se izvještaj izvede u dva prethodna"/>
+  <StrRes Name="propDown" Text="Određuje da li je speed gumb pritisnut ili ne"/>
+  <StrRes Name="propDownThenAcross" Text="Određije kako će biti velika tablica razdijeljena na više stranica"/>
+  <StrRes Name="propDriverName" Text="Ime BDE pokretača"/>
+  <StrRes Name="propDropShadow" Text="Određuje da li ima predmet senco"/>
+  <StrRes Name="propDuplex" Text="Određuje dvostrani način stranica"/>
+  <StrRes Name="propEditMask" Text="Određuje masku koja određuje ispravan unos teksta"/>
+  <StrRes Name="propEnabled" Text="određuje da li je kontrola omogućena"/>
+  <StrRes Name="propEngineOptions" Text="Mogućnosti programa za izradu izvještaja"/>
+  <StrRes Name="propExpression" Text="Vrijednost toga izraza će biti prikazana u predmetu"/>
+  <StrRes Name="propExpressionDelimiters" Text="Znakovi koji će biti upotrebljeni za određenje izraza u tekstu"/>
+  <StrRes Name="propFieldAliases" Text="Aliasi polja u Dataset-u"/>
+  <StrRes Name="propFilter" Text="Uvjeti filtriranja u dataset-u"/>
+  <StrRes Name="propFiltered" Text="Određuje da li će dataset biti filtriran s uporabom osobina Filter"/>
+  <StrRes Name="propFlowTo" Text="Predmet Text, koji će prikazati tekst, ako ovaj ne pristaje tomu predmetu"/>
+  <StrRes Name="propFont" Text="Osobine pisma predmeta"/>
+  <StrRes Name="propFooterAfterEach" Text="Određuje da li će Podnožje biti ispisano za svaki red podataka"/>
+  <StrRes Name="propFormatStr" Text="Niz oblikovanja"/>
+  <StrRes Name="propFrame" Text="Osobine okvira predmeta"/>
+  <StrRes Name="propGapX" Text="Lijevo privlačenje teksta"/>
+  <StrRes Name="propGapY" Text="Gornje privlačenje teksta"/>
+  <StrRes Name="propGlyph" Text="Slika kontrole"/>
+  <StrRes Name="propGroupIndex" Text="Dozvoljava speed gumbom djelovanje u grupi"/>
+  <StrRes Name="propHAlign" Text="Vodoravno poravnavanje teksta"/>
+  <StrRes Name="propHeight" Text="Visina teksta"/>
+  <StrRes Name="propHideZeros" Text="Određuje da li će predmet Tekst sakriti nula vrijednosti"/>
+  <StrRes Name="propHighlight" Text="Osobine uvjetnih osvjetljenja"/>
+  <StrRes Name="propIndexName" Text="Ime indeksa"/>
+  <StrRes Name="propInitString" Text="Inicializacijski niz za matrični pisač"/>
+  <StrRes Name="propItems" Text="Lista elemenata predmeta"/>
+  <StrRes Name="propKeepAspectRatio" Text="Sačuva originalni razmjer između širine i visine slike"/>
+  <StrRes Name="propKeepChild" Text="Određuje da li će traka biti ispisana zajedno s njezinim Child-om"/>
+  <StrRes Name="propKeepFooter" Text="Određuje da li će traka biti ispisana zajedno s njezinim Podnožjem"/>
+  <StrRes Name="propKeepHeader" Text="Određuje da li će traka biti ispisana zajedno s njezinim Zaglavljem"/>
+  <StrRes Name="propKeepTogether" Text="Određuje da li će traka biti ispisana zajedno sa svim njezinim podtrakama"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Vrsta oblikovanja"/>
+  <StrRes Name="propKind" Text="Vrsta gumba"/>
+  <StrRes Name="propLargeDesignHeight" Text="Određuje da li stranica imati veliku visinu u oblikovnom načinu"/>
+  <StrRes Name="propLayout" Text="Položaj slike na gumbu"/>
+  <StrRes Name="propLeft" Text="Lijeva koordinata predmeta"/>
+  <StrRes Name="propLeftMargin" Text="Veličina lijevoga ruba stranice"/>
+  <StrRes Name="propLines" Text="Tekst predmeta"/>
+  <StrRes Name="propLineSpacing" Text="Količina točaka između dva reda teksta"/>
+  <StrRes Name="propLoginPrompt" Text="Određuje da li da se prikaže dijalog za prijavu"/>
+  <StrRes Name="propMargin" Text="Određuje broj točaka između rubova slike i gumba"/>
+  <StrRes Name="propMaster" Text="Master dataset"/>
+  <StrRes Name="propMasterFields" Text="Polja veze u Master-detail odnosu"/>
+  <StrRes Name="propMaxLength" Text="Najveća dužina teksta"/>
+  <StrRes Name="propMaxWidth" Text="Najveća širina stupca"/>
+  <StrRes Name="propMemo" Text="Tekst predmeta"/>
+  <StrRes Name="propMinWidth" Text="Najmanja širina stupca"/>
+  <StrRes Name="propMirrorMargins" Text="Zrcali rubove stranice na parne stranice"/>
+  <StrRes Name="propModalResult" Text="Određuje da li i kako se gumb zatvara u modalnom dijalogu"/>
+  <StrRes Name="propName.TFont" Text="Naziv vrste pisma"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Naziv izvještaja"/>
+  <StrRes Name="propName" Text="Naziv predmeta"/>
+  <StrRes Name="propNumGlyphs" Text="Određuje broj slika koje se nalaze u osobini Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Određuje da li će se datasource otvoriti automatski ili ne"/>
+  <StrRes Name="propOrientation" Text="Usmerjenost stranica"/>
+  <StrRes Name="propOutlineText" Text="Tekst, koji će biti prikazan u predmetu kontura u predpogledu"/>
+  <StrRes Name="propOutlineVisible" Text="Vidljivost kontura u predpogledu"/>
+  <StrRes Name="propOutlineWidth" Text="Širina kontura u predpogledu"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Broj stranica, koje neka se ispišu"/>
+  <StrRes Name="propPaperHeight" Text="Visina stranica"/>
+  <StrRes Name="propPaperWidth" Text="Širina stranica"/>
+  <StrRes Name="propParagraphGap" Text="Pomak prvog reda od stavke"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parametri povezivanja"/>
+  <StrRes Name="propParams" Text="Parametri query-ja"/>
+  <StrRes Name="propParentFont" Text="Određuje da li da predmet koristi pismo parent-a"/>
+  <StrRes Name="propPassword" Text="Zaporka izvještaja"/>
+  <StrRes Name="propPasswordChar" Text="Određuje znak, koji će se prikazati umjesto otkucanoga znaka"/>
+  <StrRes Name="propPicture" Text="Slika"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Opis slike izvještaja"/>
+  <StrRes Name="propPosition" Text="Početni položaj prozora"/>
+  <StrRes Name="propPreviewOptions" Text="Mogućnosti predpogleda izvještaja"/>
+  <StrRes Name="propPrintable" Text="Ispisivost predmeta. Predmet s Printable=False će biti u predpogledu, ali neće biti ispisan"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Određuje da li će Child biti ispisan u slučaju ako je njegov parent nevidljiv"/>
+  <StrRes Name="propPrinter" Text="Ime pisača koji će biti automatski izabran za prikaz izvještaja"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Određuje da li će traka podataka biti ispisana u slučaju da je njegov detail prazan"/>
+  <StrRes Name="propPrintIfEmpty" Text="Određuje da li će stranica biti ispisana u slučaju da su svi podaci prazni"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Određuje da li će traka biti ispisana na prvoj stranici izvještaja"/>
+  <StrRes Name="propPrintOnLastPage" Text="Određuje da li će traka biti ispisana na zadnjoj stranici izvještaja"/>
+  <StrRes Name="propPrintOnParent" Text="Određuje da li će subreport biti ispisan na parent traci"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Određuje da li je stranica ispisana na slobodnom prostoru prethodne stranice"/>
+  <StrRes Name="propPrintOptions" Text="Mogućnosti ispisa izvještaja"/>
+  <StrRes Name="propPrintPages" Text="Određuje da li da se ispisuju sve parne ili neparne stranice"/>
+  <StrRes Name="propRangeBegin" Text="Određuje početnu točku dataset-a"/>
+  <StrRes Name="propRangeEnd" Text="Određuje konačnu točku dataset-a"/>
+  <StrRes Name="propRangeEndCount" Text="Određuje broj zapisa u dataset-u, ako je RangeEnd = reCount"/>
+  <StrRes Name="propReadOnly" Text="Određuje da li je predmet Tekst samo-za-čitanje"/>
+  <StrRes Name="propRepeatHeaders" Text="Određuje da li će zaglavlje biti ispisano također na novim stranicama"/>
+  <StrRes Name="propReportOptions" Text="Mogućnosti izvještaja"/>
+  <StrRes Name="propReprintOnNewPage" Text="Određuje da li će traka biti ispisana također na novim stranicama"/>
+  <StrRes Name="propRestrictions" Text="Postava pravila izvještaja"/>
+  <StrRes Name="propRightMargin" Text="Veličina desnog ruba stranice"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Usmjerenost bar koda"/>
+  <StrRes Name="propRotation" Text="Zakretanje teksta"/>
+  <StrRes Name="propRowCount" Text="Broj nevidljivih zapisa u traci podataka"/>
+  <StrRes Name="propRowFields" Text="Imena ZP polja, koja predstavljaju cross redove"/>
+  <StrRes Name="propRowLevels" Text="Broj razina redova"/>
+  <StrRes Name="propRTLReading" Text="Određuje da li će predmet Tekst biti prikazan od desna na lijevo"/>
+  <StrRes Name="propSessionName" Text="Ime BDE sjednice"/>
+  <StrRes Name="propShadowColor" Text="Boja sjene"/>
+  <StrRes Name="propShadowWidth" Text="Širina sjene"/>
+  <StrRes Name="propShape" Text="Tip lika"/>
+  <StrRes Name="propShiftMode" Text="Način pomicanja objekta"/>
+  <StrRes Name="propShowColumnHeader" Text="Određuje da li će zaglavlje stupaca biti prikazano u cross izvještaju"/>
+  <StrRes Name="propShowColumnTotal" Text="Određuje da li će biti prikazana suma po stupcima u cross izvještaju"/>
+  <StrRes Name="propShowRowHeader" Text="Određuje da li će biti prikazana zaglavlja redova u cross izvještaju"/>
+  <StrRes Name="propShowRowTotal" Text="Određuje da li će biti prikazana suma po redovima u cross izvještaju"/>
+  <StrRes Name="propShowDialog" Text="Određuje da li će u predpogledu biti prikazan dijalog za ispis"/>
+  <StrRes Name="propShowText" Text="Određuje da li će pored bar koda biti ispisan i tekst"/>
+  <StrRes Name="propSize" Text="Veličina fonta"/>
+  <StrRes Name="propSorted" Text="Određuje da li su elementi sortirani ili ne"/>
+  <StrRes Name="propSpacing" Text="Određuje broj točaka između slike i teksta"/>
+  <StrRes Name="propSQL" Text="SQL stavka"/>
+  <StrRes Name="propStartNewPage" Text="Počinje novu stranicu prije početka ispisa trake"/>
+  <StrRes Name="propStretch" Text="Razvlači sliku, da se prilagodi granicama predmeta"/>
+  <StrRes Name="propStretched" Text="Određuje da li se da se predmeti rastežu"/>
+  <StrRes Name="propStretchMode" Text="Način rastezanja predmeta"/>
+  <StrRes Name="propStyle.TFont" Text="Stil fonta"/>
+  <StrRes Name="propStyle" Text="Stil kontrole"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Stil okvira predmeta"/>
+  <StrRes Name="propSuppressRepeated" Text="Sprečava ponavljanje vrijednosti"/>
+  <StrRes Name="propTableName" Text="Naziv tablice podataka"/>
+  <StrRes Name="propTag" Text="Broj oznake (Tag) predmeta"/>
+  <StrRes Name="propTagStr" Text="Niz oznake predmeta"/>
+  <StrRes Name="propText" Text="Tekst predmeta"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Određuje dali da se Naslov izvještaja ispiše ispred Zaglavlja stranice"/>
+  <StrRes Name="propTop" Text="Gornja koordinata predmeta"/>
+  <StrRes Name="propTopMargin" Text="Veličina gornjag ruba stranice"/>
+  <StrRes Name="propTyp" Text="Tip okvira"/>
+  <StrRes Name="propUnderlines" Text="Određuje da li će predmet Tekst prikazati crtu za svaki red teksta"/>
+  <StrRes Name="propURL" Text="URL predmeta"/>
+  <StrRes Name="propUserName" Text="Korisničko ime predmeta podataka. To će ime biti prikazano u drvu podataka."/>
+  <StrRes Name="propVAlign" Text="Okomito poravnavanje teksta"/>
+  <StrRes Name="propVersionBuild" Text="Info inačice, build"/>
+  <StrRes Name="propVersionMajor" Text="Info inačice, major"/>
+  <StrRes Name="propVersionMinor" Text="Info inačice, minor"/>
+  <StrRes Name="propVersionRelease" Text="Info inačice, release"/>
+  <StrRes Name="propVisible" Text="Vidljivost predmeta"/>
+  <StrRes Name="propWidth" Text="Širina predmeta"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Širina okvira"/>
+  <StrRes Name="propWindowState" Text="Početno stanje prozora"/>
+  <StrRes Name="propWordBreak" Text="Podjela ruskog teksta"/>
+  <StrRes Name="propWordWrap" Text="Određuje da li da predmet Tekst stavi meke prelaze u novi red"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Povećava bar kod"/>
+  <StrRes Name="propConnectionName" Text="Naziv veze prema bazi podataka upotrebljen u izvještaju"/>
+  <StrRes Name="propCurve" Text="Zaobljenost kutova pravokutnika"/>
+  <StrRes Name="propDrillDown" Text="Određuje da li grupa može biti drilana"/>
+  <StrRes Name="propFontStyle" Text="Dot-Pismo za matrični pisač"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Sakrij podnožje ako grupa ima samo jedan zapis"/>
+  <StrRes Name="propOutlineExpand" Text="Određuje da li da proširi konture izvještaja ili ne"/>
+  <StrRes Name="propPagesOnSheet" Text="Broj stranica za ispis na listu (1, 2 ili 4 stranice)"/>
+  <StrRes Name="propPlainCells" Text="Određuje da li će ispis ćelija biti jedna pored druge ili jedna ispod druge"/>
+  <StrRes Name="propPrintMode" Text="Način ispisa: običan, dijeli velike stranice na manje, ili spaja više malih stranica na jednu veliku"/>
+  <StrRes Name="propPrintOnSheet" Text="Veličina papira za ispis izvještaja. Koristi se ako PrintMode nije pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Postavlja na početak broj stranice/brojeve svih stranica ako ispisuje grupu. Treba se koristiti s uključenom opcijom StartNewPage"/>
+  <StrRes Name="propReverse" Text="Određuje da li da ispis stranica bude obrnutim redoslijedom"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Određuje da li da prikaže podnožje grupe, ako je grupa drilana"/>
+  <StrRes Name="propSizeMode" Text="Prikaži oblik OLE objekta"/>
+  <StrRes Name="propVersion" Text="Inačica FastReport-a"/>
+  <StrRes Name="propWideBarRatio" Text="Relativna širina crta bar koda"/>
+  <StrRes Name="propWysiwyg" Text="Određuje da li će obogaćeni objekt koristiti pisač za oblikovanje teksta. Pisač treba biti instaliran i podešen."/>
+  <StrRes Name="propArrowEnd" Text="Određuje da li da se iscrta strijelica na kraju crte"/>
+  <StrRes Name="propArrowLength" Text="Duljina strijelice"/>
+  <StrRes Name="propArrowSolid" Text="Određuje da li da se iscrta popunjena strijelica"/>
+  <StrRes Name="propArrowStart" Text="Određuje da li da se iscrta strijelica na početku crte"/>
+  <StrRes Name="propArrowWidth" Text="Širina strijelice"/>
+  <StrRes Name="propCloseDataSource" Text="Određuje da li da se zatvori dataset kada se izvještaj završi"/>
+  <StrRes Name="propDatabase" Text="Veze baze podataka"/>
+  <StrRes Name="propIndexFieldNames" Text="Nazivi indeksnih polja"/>
+  <StrRes Name="propCommandTimeOut" Text="Vrijeme potrebno za izvršenje upita"/>
+  <StrRes Name="propExpandDrillDown" Text="Određuje da li da se svi drilani elementi rašire pri prvom sxtartu izvještaja"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Određuje da li da se prikaže tekst u WYSIWYG načinu"/>
+  <StrRes Name="propLeftLine" Text="Lijeva crta okvira"/>
+  <StrRes Name="propTopLine" Text="Gornja crta okvira"/>
+  <StrRes Name="propRightLine" Text="Desna crta okvira"/>
+  <StrRes Name="propBottomLine" Text="Donja crta okvira"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Boja crte okvira"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Tip crte okvira"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Širina crte okvira"/>
+  <StrRes Name="propFileLink" Text="Izraz ili naziv datoteke, koja sadrži sliku"/>
+  <StrRes Name="propEndlessWidth" Text="Način beskonačne stranice. Ako je true, stranica će rasti ovisno o broju zapisa na njoj"/>
+  <StrRes Name="propEndlessHeight" Text="Način beskonačne stranice. Ako je true, stranica će rasti ovisno o broju zapisa na njoj"/>
+  <StrRes Name="propAddHeight" Text="Dodaje određeni prostor za visinu ćelije"/>
+  <StrRes Name="propAddWidth" Text="Dodaje određeni prostor za širinu ćelije"/>
+  <StrRes Name="propAllowDuplicates" Text="Određuje da li ćelija može prihvatiti dvostruku vrijednos niza"/>
+  <StrRes Name="propJoinEqualCells" Text="Određuje da li da crosstab spoji ćelije s jednakim vrijednostima"/>
+  <StrRes Name="propNextCross" Text="Pokazivač na slijedeći crosstab koji će biti prikazan sa strane"/>
+  <StrRes Name="propNextCrossGap" Text="Razmak između dva susjedna crosstab-a"/>
+  <StrRes Name="propShowCorner" Text="Određuje da li će crosstab prikazati elemente lijevog-gornjeg kuta"/>
+  <StrRes Name="propSuppressNullRecords" Text="Određuje da li da crosstab potisne zapise s NULL vrijednostima"/>
+  <StrRes Name="propShowTitle" Text="Određuje da li da crosstab prikaže naslov"/>
+  <StrRes Name="propAutoSize" Text="Određuje da li da crosstab automatski postavi veličinu"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

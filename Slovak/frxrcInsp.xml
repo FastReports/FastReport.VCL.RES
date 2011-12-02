@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="propActive" Text="Špecifikuje, či je databáza otvorená"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Špecifikuje, či je zvýraznenie aktívne"/>
+  <StrRes Name="propAliasName" Text="Názov BDE aliasu"/>
+  <StrRes Name="propAlign" Text="Určuje zarovnanie objektu relatívne k pruhu, alebo strane"/>
+  <StrRes Name="propAlignment" Text="Zarovnanie objektu textu"/>
+  <StrRes Name="propAllowAllUp" Text="Špecifikuje, či všetky rýchle tlačítka v skupine môžu byť nevybraté v tom istom okamihu"/>
+  <StrRes Name="propAllowEdit" Text="Určuje, či môže užívateľ upravovať predpripravené strany reportu"/>
+  <StrRes Name="propAllowExpressions" Text="Určuje, či môže textový objekt v texte obsahovať výrazy"/>
+  <StrRes Name="propAllowGrayed" Text="Povoluje šedý stav riadiacich spínačov"/>
+  <StrRes Name="propAllowHTMLTags" Text="Určuje, či môže textový objekt v texte obsahovať HTML tagy"/>
+  <StrRes Name="propAllowSplit" Text="Určuje, či môže pruh rozdelovať svoj obsah v rámci strany"/>
+  <StrRes Name="propAuthor" Text="Autor reportu"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Určuje, či môže obrázok meniť svoj veľkosť automaticky"/>
+  <StrRes Name="propAutoWidth" Text="Určuje, či môže text meniť svoju šírku automaticky"/>
+  <StrRes Name="propBackPicture" Text="Obrázok v pozadí strany"/>
+  <StrRes Name="propBarType" Text="Typ čiarového kódu"/>
+  <StrRes Name="propBevelInner" Text="Typ vnútorného sklonu"/>
+  <StrRes Name="propBevelOuter" Text="Typ vonkajšieho sklonu"/>
+  <StrRes Name="propBevelWidth" Text="Šírka sklonu"/>
+  <StrRes Name="propBorder" Text="Určuje, či treba zobraziť vonkajší okraj alebo nie"/>
+  <StrRes Name="propBorderStyle" Text="Štýl okna"/>
+  <StrRes Name="propBottomMargin" Text="Veľkosť spodného okraja strany"/>
+  <StrRes Name="propBrushStyle" Text="Štýl štetca použitého pre pozadie objektu"/>
+  <StrRes Name="propCalcCheckSum" Text="Určuje, či bude čiarový kód počítať kontrolné číslo automaticky"/>
+  <StrRes Name="propCancel" Text="Určuje, či bude aktivovaná klávesa pri stlačení ESC"/>
+  <StrRes Name="propCaption" Text="Názov objektu"/>
+  <StrRes Name="propCellFields" Text="Názvy DB polí reprezentujúce krížové bunky"/>
+  <StrRes Name="propCellLevels" Text="Počet úrovní buniek"/>
+  <StrRes Name="propCenter" Text="Určuje, či bude obrázok v objekte zarovnaný na stred"/>
+  <StrRes Name="propCharset" Text="Font"/>
+  <StrRes Name="propCharSpacing" Text="Počet pixelov medzi dvoma znakmi"/>
+  <StrRes Name="propCheckColor" Text="Farba spínača"/>
+  <StrRes Name="propChecked" Text="Indikuje, či je spínač zapnutý"/>
+  <StrRes Name="propCheckStyle" Text="Štýl spínača"/>
+  <StrRes Name="propChild" Text="Pruh dieťa spojený s týmto pruhom"/>
+  <StrRes Name="propClipped" Text="Indikuje, či bude text vložený medzi hranice objektu"/>
+  <StrRes Name="propCollate" Text="Základné nastavenia usporiadania"/>
+  <StrRes Name="propColor.TFont" Text="Farba textu"/>
+  <StrRes Name="propColor" Text="Farba objektu"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Farba rámčeku"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Určuje farbu objektu pokiaľ je zvýraznenie aktívne"/>
+  <StrRes Name="propColumnFields" Text="Názvy DB polí reprezentujúce krížové stľpce"/>
+  <StrRes Name="propColumnGap" Text="Medzera medzi pruhmi stľpcov"/>
+  <StrRes Name="propColumnLevels" Text="Počet úrovní stľpcov"/>
+  <StrRes Name="propColumns" Text="Počet stľpcov v pruhu"/>
+  <StrRes Name="propColumnWidth" Text="Šírka pruhu stľpca"/>
+  <StrRes Name="propCondition" Text="Skupinová podmienka. Skupina bude zrušená pokiaľ sa zmení hodnota tohoto výrazu"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Reťazec výrazu. Pokiaľ bude výraz pravdivý, bude aktivované zvýraznenie"/>
+  <StrRes Name="propConnected" Text="Indikuje, či je pripojenie s databázou aktívne"/>
+  <StrRes Name="propConvertNulls" Text="Určuje, či budú NULL hodnoty DB prevedené na 0, false, alebo na prázdny reťazec"/>
+  <StrRes Name="propCopies" Text="Predvolený počet kópií"/>
+  <StrRes Name="propCursor" Text="Kurzor objektu"/>
+  <StrRes Name="propDatabaseName" Text="Názov databázy"/>
+  <StrRes Name="propDataField" Text="Špecifikuje zdroj dát pre daný objekt"/>
+  <StrRes Name="propDataSet" Text="Dataset, ktorý obsahuje zdroj dát pripojeného objektu"/>
+  <StrRes Name="propDate" Text="Dátum objektu"/>
+  <StrRes Name="propDateFormat" Text="Formát dátumu"/>
+  <StrRes Name="propDecimalSeparator" Text="Oddelovač desatinných čísiel"/>
+  <StrRes Name="propDefault" Text="Príznak predvoleného tlačítka"/>
+  <StrRes Name="propDefHeight" Text="Predvolená výška riadku"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Popis reportu"/>
+  <StrRes Name="propDescription" Text="Popis objektu"/>
+  <StrRes Name="propDiagonal" Text="Indikuje, či je čiara uhlopriečna"/>
+  <StrRes Name="propDisplayFormat" Text="Formát zobrazovanej hodnoty"/>
+  <StrRes Name="propDoublePass" Text="Určuje, či report bude dvoj-prechodový"/>
+  <StrRes Name="propDown" Text="Určuje, či je rýchle tlačítko stlačené"/>
+  <StrRes Name="propDownThenAcross" Text="Určuje, či budú veľké krížové tabuľky rozdelené na strany"/>
+  <StrRes Name="propDriverName" Text="Názov BDE ovládača"/>
+  <StrRes Name="propDropShadow" Text="Určuje, či má objekt tieň"/>
+  <StrRes Name="propDuplex" Text="Špecifikuje duplexný mód pre stranu"/>
+  <StrRes Name="propEditMask" Text="Editačná maska"/>
+  <StrRes Name="propEnabled" Text="Určuje, či je objekt povolený"/>
+  <StrRes Name="propEngineOptions" Text="Nastavenia reportu"/>
+  <StrRes Name="propExpression" Text="Hodnota zobrazená v objekte"/>
+  <StrRes Name="propExpressionDelimiters" Text="Znak pre oddelenie výrazov v texte"/>
+  <StrRes Name="propFieldAliases" Text="Aliasy polí datasetu"/>
+  <StrRes Name="propFilter" Text="Podmienky filtrovania pre dataset"/>
+  <StrRes Name="propFiltered" Text="Indikuje, či je filtrovanie zapnuté"/>
+  <StrRes Name="propFlowTo" Text="Textový objekt zobrazujúci text, ktorý sa nezmestí do objektu"/>
+  <StrRes Name="propFont" Text="Vlastnosti písmena objektu"/>
+  <StrRes Name="propFooterAfterEach" Text="Určuje, či bude zobrazená päta po každom riadku"/>
+  <StrRes Name="propFormatStr" Text="Formátovací reťazec"/>
+  <StrRes Name="propFrame" Text="Vlastnosti orámovania objektu"/>
+  <StrRes Name="propGapX" Text="Vzdialenosť textu zľava"/>
+  <StrRes Name="propGapY" Text="Vzdialenosť textu zhora"/>
+  <StrRes Name="propGlyph" Text="Obrázok objektu"/>
+  <StrRes Name="propGroupIndex" Text="Skupinové správanie sa pre rýchle tlačítka"/>
+  <StrRes Name="propHAlign" Text="Vodorovné zarovnávanie textu"/>
+  <StrRes Name="propHeight" Text="Výška objektu"/>
+  <StrRes Name="propHideZeros" Text="Určuje, či objekt zobrazí 0 hodnoty"/>
+  <StrRes Name="propHighlight" Text="Vlastnosti podmieneného zvýraznenia"/>
+  <StrRes Name="propIndexName" Text="Názov indexu"/>
+  <StrRes Name="propInitString" Text="Inicializačný reťazec pre ihličkové tlačiarne"/>
+  <StrRes Name="propItems" Text="Zoznam položiek objektu"/>
+  <StrRes Name="propKeepAspectRatio" Text="Dodržať pôvodný pomery obrázku"/>
+  <StrRes Name="propKeepChild" Text="Určuje, či bude pruh vytlačený spolu s jeho dieťaťom"/>
+  <StrRes Name="propKeepFooter" Text="Určuje, či bude pruh vytlačený spolu s jeho pätou"/>
+  <StrRes Name="propKeepHeader" Text="Určuje, či bude pruh vytlačený spolu s jeho hlavičkou"/>
+  <StrRes Name="propKeepTogether" Text="Určuje, či bude pruh vytlačený spolu so všetkými jeho podradenými pruhmi"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Druh formátovania"/>
+  <StrRes Name="propKind" Text="Druh tlačítka"/>
+  <StrRes Name="propLargeDesignHeight" Text="Určuje, či bude mať stránka veľkú výšku v móde úprav"/>
+  <StrRes Name="propLayout" Text="Usporiadanie obrázku tlačítka"/>
+  <StrRes Name="propLeft" Text="Ľavá súradnica objektu"/>
+  <StrRes Name="propLeftMargin" Text="Ľavý okraj stránky"/>
+  <StrRes Name="propLines" Text="Text objektu"/>
+  <StrRes Name="propLineSpacing" Text="Počet pixelov medzi riadkami textu"/>
+  <StrRes Name="propLoginPrompt" Text="Určuje, či zobraziť dialóg pri prihlásení"/>
+  <StrRes Name="propMargin" Text="Určuje počet pixelov medzi okrajom obrázku a okrajom tlačítka"/>
+  <StrRes Name="propMaster" Text="Hlavný dataset"/>
+  <StrRes Name="propMasterFields" Text="Pole viazané reláciou master-detail"/>
+  <StrRes Name="propMaxLength" Text="Max. dľžka textu"/>
+  <StrRes Name="propMaxWidth" Text="Max. šírka stľpca"/>
+  <StrRes Name="propMemo" Text="Text objektu"/>
+  <StrRes Name="propMinWidth" Text="Min. šírka stľpca"/>
+  <StrRes Name="propMirrorMargins" Text="Zrkadlí okraje stránky na všetky ďalšie stránky"/>
+  <StrRes Name="propModalResult" Text="Určuje ako a akou hodnotu uzavre tlačítko modálný formulár"/>
+  <StrRes Name="propName.TFont" Text="Názov písma"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Názov reportu"/>
+  <StrRes Name="propName" Text="Názov objektu"/>
+  <StrRes Name="propNumGlyphs" Text="Indikuje počet obrázkov vo vlastnosti Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Určuje, či automaticky otvoriť zdroj dát"/>
+  <StrRes Name="propOrientation" Text="Orientácia strany"/>
+  <StrRes Name="propOutlineText" Text="Text, ktorý bude zobrazený v prehľade obsahu"/>
+  <StrRes Name="propOutlineVisible" Text="Viditeľnosť prehľadu obsahu"/>
+  <StrRes Name="propOutlineWidth" Text="Šírka prehľadu obsahu"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Počet strán na tlač"/>
+  <StrRes Name="propPaperHeight" Text="Výška strany"/>
+  <StrRes Name="propPaperWidth" Text="Šírka strany"/>
+  <StrRes Name="propParagraphGap" Text="Vzdialenosť textu prvého riadku odstavca"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parametre pripojenia"/>
+  <StrRes Name="propParams" Text="Parametre dotazu"/>
+  <StrRes Name="propParentFont" Text="Určuje, či bude objekt používať písmo rodiča"/>
+  <StrRes Name="propPassword" Text="Heslo reportu"/>
+  <StrRes Name="propPasswordChar" Text="Zobrazený znak pri zadávaní hesla"/>
+  <StrRes Name="propPicture" Text="Obrázok"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Popisný obrázok reportu"/>
+  <StrRes Name="propPosition" Text="Štartovacia pozícia okna"/>
+  <StrRes Name="propPreviewOptions" Text="Nastavenia prehľadu reportu"/>
+  <StrRes Name="propPrintable" Text="Ak False, objekt sa zobrazí v prehľade ale nebude sa tlačiť"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Určuje, či bude pruh dieťaťa vytlačený, pokiaľ je jeho  rodičovský pruh neviditeľný"/>
+  <StrRes Name="propPrinter" Text="Predvolená tlačiareň"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Tlačiť dátový pruh aj v prípade, že jeho dcérske pruhy  sú prázdne"/>
+  <StrRes Name="propPrintIfEmpty" Text="Tlačiť stranu aj v prípade, že všetky jej datasety sú prázdne"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Určuje, či bude pruh vytlačený na prvej strane"/>
+  <StrRes Name="propPrintOnLastPage" Text="Určuje, či bude pruh vytlačený na poslednej strane"/>
+  <StrRes Name="propPrintOnParent" Text="Určuje, či sa môže vytlačiť subreport do rodičovského pruhu"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Určuje, či môže byť strana vygenerovaná do voľného miesta predchádzajúcej vygenerovanej strany"/>
+  <StrRes Name="propPrintOptions" Text="Nastavenia tlače reportu"/>
+  <StrRes Name="propPrintPages" Text="Určuje, či budú vytlačené všetky alebo len párne, nepárne strany"/>
+  <StrRes Name="propRangeBegin" Text="Určuje počiatočný bod v navigácií datasetu"/>
+  <StrRes Name="propRangeEnd" Text="Určuje koncový bod v navigácií datasetu"/>
+  <StrRes Name="propRangeEndCount" Text="Určuje počet záznamov datasetu v prípade že RangeEnd je reCount"/>
+  <StrRes Name="propReadOnly" Text="Určuje, či je textový objekt len pre čítanie"/>
+  <StrRes Name="propRepeatHeaders" Text="Určuje, či hlavičky a stľpcov a riadkov budú vytlačené na každej strane"/>
+  <StrRes Name="propReportOptions" Text="Nastavenia reportu"/>
+  <StrRes Name="propReprintOnNewPage" Text="Určuje, či bude pruh vytlačený na každej strane"/>
+  <StrRes Name="propRestrictions" Text="Sada príznakov obmedzení"/>
+  <StrRes Name="propRightMargin" Text="Pravý okraj strany"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Orientácia čiarového kódu"/>
+  <StrRes Name="propRotation" Text="Otáčanie textu"/>
+  <StrRes Name="propRowCount" Text="Počet virtuálnych záznamov v pruhu dát"/>
+  <StrRes Name="propRowFields" Text="Názvy DB polí reprezentujúcich krížové riadky"/>
+  <StrRes Name="propRowLevels" Text="Počet úrovní riadku"/>
+  <StrRes Name="propRTLReading" Text="Určuje, či zobrazí textový objekt svoj text v smere zprava do ľava"/>
+  <StrRes Name="propSessionName" Text="Názov sekcie BDE"/>
+  <StrRes Name="propShadowColor" Text="Farba tiene"/>
+  <StrRes Name="propShadowWidth" Text="Šírka tiene"/>
+  <StrRes Name="propShape" Text="Typ tvaru"/>
+  <StrRes Name="propShiftMode" Text="Funkcia posunu objektu"/>
+  <StrRes Name="propShowColumnHeader" Text="Určuje, či kríž zobrazí stľpcovú hlavičku"/>
+  <StrRes Name="propShowColumnTotal" Text="Určuje, či kríž zobrazí stľpcové celkové súčty"/>
+  <StrRes Name="propShowRowHeader" Text="Určuje, či kíž zobrazí riadkové hlavičky"/>
+  <StrRes Name="propShowRowTotal" Text="Určuje, či kríž zobrazí riadkové celkové súčty"/>
+  <StrRes Name="propShowDialog" Text="Určuje, či bude tlačový dialóg zobrazený v okne prehľadu"/>
+  <StrRes Name="propShowText" Text="Určuje, či bude zobrazovať čiarový kód čitateľný text"/>
+  <StrRes Name="propSize" Text="Veľkosť písma"/>
+  <StrRes Name="propSorted" Text="Určuje, či budú položky usporiadané"/>
+  <StrRes Name="propSpacing" Text="Určuje počet pixelov medzi obrázkom a textom"/>
+  <StrRes Name="propSQL" Text="SQL výraz"/>
+  <StrRes Name="propStartNewPage" Text="Pred tlačou pruhu začne novú stranu"/>
+  <StrRes Name="propStretch" Text="Prispôsobí obrázok hraniciam objektu"/>
+  <StrRes Name="propStretched" Text="Určuje, či môže byť veľkosť objektu prispôsobený"/>
+  <StrRes Name="propStretchMode" Text="Typ prispôsobenia veľkosti objektu"/>
+  <StrRes Name="propStyle.TFont" Text="Štýl písma"/>
+  <StrRes Name="propStyle" Text="Štýl ovládania"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Štýl rámčeku objektu"/>
+  <StrRes Name="propSuppressRepeated" Text="Potlačenie opakovaných hodnôt"/>
+  <StrRes Name="propTableName" Text="Názov dátovej tabuľky"/>
+  <StrRes Name="propTag" Text="Číslo Tagu objektu"/>
+  <StrRes Name="propTagStr" Text="Reťazec Tagu objektu"/>
+  <StrRes Name="propText" Text="Text objektu"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Určuje, či bude zobrazený názov reportu pred hlavičkou strany"/>
+  <StrRes Name="propTop" Text="Horné súradnice objektu"/>
+  <StrRes Name="propTopMargin" Text="Horný okraj"/>
+  <StrRes Name="propTyp" Text="Typ rámčeku"/>
+  <StrRes Name="propUnderlines" Text="Určuje, či textový objekt zobrazí mriežkové čiary po každom textovom riadku"/>
+  <StrRes Name="propURL" Text="URL objektu"/>
+  <StrRes Name="propUserName" Text="Užívateľský názov dátového objektu. Tento názov bude zobrazovany v dátovom strome"/>
+  <StrRes Name="propVAlign" Text="Zvyslé zarovnávanie textu"/>
+  <StrRes Name="propVersionBuild" Text="Verzia build-u"/>
+  <StrRes Name="propVersionMajor" Text="Verzia major"/>
+  <StrRes Name="propVersionMinor" Text="Verzia minor"/>
+  <StrRes Name="propVersionRelease" Text="Verzia vydania"/>
+  <StrRes Name="propVisible" Text="Viditeľnosť objektu"/>
+  <StrRes Name="propWidth" Text="Šírka objektu"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Šírka rámčeku"/>
+  <StrRes Name="propWindowState" Text="Počiatočný stav okna"/>
+  <StrRes Name="propWordBreak" Text="Rozdelovanie ruských slov"/>
+  <StrRes Name="propWordWrap" Text="Určuje, či textový objekt vloží mäkký prechod na nový riadok tak, že sa text zalomí k pravému okraju"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Zväčší čiarový kód"/>
+  <StrRes Name="propConnectionName" Text="Názov pripojenia v databáze, ktorá je používaná v reporte"/>
+  <StrRes Name="propCurve" Text="Zatáčanie rohu objektu roundrectangle"/>
+  <StrRes Name="propDrillDown" Text="Určuje, či skupinu je možné rozbaliť"/>
+  <StrRes Name="propFontStyle" Text="Štýl písmena Dot-matrix"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Skryť pätu ak skupina obsahuje len jeden záznam"/>
+  <StrRes Name="propOutlineExpand" Text="Určuje, či treba rozbaliť navigátor reportu alebo nie"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="Spôsob tlače: normálny, rozdeliť veľké strany na malé, alebo tlačiť malé strany na jednu veľkú"/>
+  <StrRes Name="propPrintOnSheet" Text="Veľkosť papiera. Používa sa, ak PrintMode nie je pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Vynulovanie čísla strany/počet strán pri tlači skupiny. Odporúča sa používať spolu s StartNewPage = true"/>
+  <StrRes Name="propReverse" Text="Určuje, či sa budú tlačiť strany v opačnom poradí."/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Určuje, či ukazovať pätu skupiny ak skupina je rozbalená."/>
+  <StrRes Name="propSizeMode" Text="Spôsob zobrazenia OLE objektov."/>
+  <StrRes Name="propVersion" Text="Verzia FastReport-u."/>
+  <StrRes Name="propWideBarRatio" Text="Relatívna šírka stľpcov čiarového kódu."/>
+  <StrRes Name="propWysiwyg" Text="Určuje, či sa bude používať plátno tlačiarne na formátovanie objektu &#38;#34;Rich Object&#38;#34;. Tlačiareň musí byť nainštalovaná a pripravená."/>
+  <StrRes Name="propArrowEnd" Text="Určuje, či treba kresliť šípku na koniec čiary."/>
+  <StrRes Name="propArrowLength" Text="Dľžka šípky."/>
+  <StrRes Name="propArrowSolid" Text="Určuje, či treba kresliť solídne vyplnenú šípku."/>
+  <StrRes Name="propArrowStart" Text="Určuje, či treba kresliť šípku na začiatok čiary."/>
+  <StrRes Name="propArrowWidth" Text="Šírka šípky."/>
+  <StrRes Name="propCloseDataSource" Text="Určuje, či treba uzavrieť zdroj dát po ukončení reportu."/>
+  <StrRes Name="propDatabase" Text="Pripojenie k databáze."/>
+  <StrRes Name="propIndexFieldNames" Text="Názvy indexových polí."/>
+  <StrRes Name="propCommandTimeOut" Text="Čas potrebný na vykonanie SQL príkazu."/>
+  <StrRes Name="propExpandDrillDown" Text="Určuje, či treba rozbaliť všetky rozbalovacie prvky pri štarte reportu."/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Určuje, či zobraziť text v režime WYSIWYG"/>
+  <StrRes Name="propLeftLine" Text="Ĺavá čiara rámčeku"/>
+  <StrRes Name="propTopLine" Text="Horná čiara rámčeku"/>
+  <StrRes Name="propRightLine" Text="Pravá čiara rámčeku"/>
+  <StrRes Name="propBottomLine" Text="Dolná čiara rámčeku"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Farba čiary rámčeku"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Štýl čiarky rámčeku"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Šírka čiarky rámčeku"/>
+  <StrRes Name="propFileLink" Text="Výraz alebo názov súboru, ktorý obsahuje obrázok"/>
+  <StrRes Name="propEndlessWidth" Text="Spôsob nekonečnej strany (šírka). Ak je zapnutý, strana sa bude zväčšovať v závislosti od množstva údajov"/>
+  <StrRes Name="propEndlessHeight" Text="Spôsob nekonečnej strany (výška). Ak je zapnutý, strana sa bude zväčšovať v závislosti od množstva údajov"/>
+  <StrRes Name="propAddHeight" Text="Pridá určité množstvo medzery k výške bunky"/>
+  <StrRes Name="propAddWidth" Text="Pridá určité množstvo medzery k šírke bunky"/>
+  <StrRes Name="propAllowDuplicates" Text="Určuje, či bunka bude akceptovať duplicitné reťazové hodnoty"/>
+  <StrRes Name="propJoinEqualCells" Text="Určuje, čí krížová tabuľka môže spojiť bunky s rovnakými hodnotami"/>
+  <StrRes Name="propNextCross" Text="Ukazovateľ na ďalšiu krížovú tabuľku, ktorý bude zobrazovaný v režime side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Medzera medzi krížovými tabuľkami side-by-side"/>
+  <StrRes Name="propShowCorner" Text="Určuje, či krížová tabuľka bude zobrazovať prvky v ľavom-hornom rohu"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

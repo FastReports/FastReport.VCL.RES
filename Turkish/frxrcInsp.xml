@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1254">
+  <StrRes Name="propActive" Text="Dataset'in açık olup olmadığını belirler"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Yüksek karşıtlık açık"/>
+  <StrRes Name="propAliasName" Text="BDE'nin görünen adı"/>
+  <StrRes Name="propAlign" Text="Bir band veya sayfaya bağlı nesnelerin düzenini belirler"/>
+  <StrRes Name="propAlignment" Text="Nesnenin metninin hizası"/>
+  <StrRes Name="propAllowAllUp" Text="Grup içindeki tüm Speed Button'larının aynı anda seçilmesine olanak sağlar"/>
+  <StrRes Name="propAllowEdit" Text="Kullanıcının hazırlanmış rapor sayfalarını düzenlemesine olanak sağlar"/>
+  <StrRes Name="propAllowExpressions" Text="Metin nesnelerinin anlatım ifadeleri içermelerine olanak sağlar"/>
+  <StrRes Name="propAllowGrayed" Text="CheckBox'ların durumunun gri olmasına izin verir"/>
+  <StrRes Name="propAllowHTMLTags" Text="Metin nesnelerinin HTML kodu içermelerine olanak sağlar"/>
+  <StrRes Name="propAllowSplit" Text="Bir sayfaya sığmayan, bir sayfadan daha uzun metinlerin, bölünerek birden fazla sayfada gösterilmesine olanak sağlar"/>
+  <StrRes Name="propAuthor" Text="Raporun yazarı"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Resimlerin otomatik ölçülendirilmesine olanak sağlar"/>
+  <StrRes Name="propAutoWidth" Text="Metin nesnelerinin genişliklerinin otomatik ölçülendirilmesine olanak sağlar"/>
+  <StrRes Name="propBackPicture" Text="Sayfa arkaplan resmi"/>
+  <StrRes Name="propBarType" Text="Barkod tipi"/>
+  <StrRes Name="propBevelInner" Text="Bevel'in iç tipi"/>
+  <StrRes Name="propBevelOuter" Text="Bevel'in dış tipi"/>
+  <StrRes Name="propBevelWidth" Text="Bevel'in genişliği"/>
+  <StrRes Name="propBorder" Text="Dış çerçeve çizgilerinin görünmesine olanak sağlar"/>
+  <StrRes Name="propBorderStyle" Text="Pencerenin stili"/>
+  <StrRes Name="propBottomMargin" Text="Sayfa alt boşluğunun ölçüsü"/>
+  <StrRes Name="propBrushStyle" Text="Nesnelerin arkaplanında kullanılan fırçanın stili"/>
+  <StrRes Name="propCalcCheckSum" Text="Barkod'un kontrol rakamını otomatik olarak hesaplayabilesine olanak sağlar"/>
+  <StrRes Name="propCancel" Text="ESC tuşuna basıldığında button'un aktif olmasına olanak sağlar"/>
+  <StrRes Name="propCaption" Text="Nesnenin başlığı"/>
+  <StrRes Name="propCellFields" Text="Hücreyi temsil eden sahanın adı"/>
+  <StrRes Name="propCellLevels" Text="Hücre sayısı"/>
+  <StrRes Name="propCenter" Text="Resmin nesneyi ortalamasına olanak sağlar"/>
+  <StrRes Name="propCharset" Text="Yazı tipi seti"/>
+  <StrRes Name="propCharSpacing" Text="İki karakter arasındaki Pixel sayısı"/>
+  <StrRes Name="propCheckColor" Text="Onay işaretinin rengi"/>
+  <StrRes Name="propChecked" Text="Nesnenin işaretli olduğunu belirtir"/>
+  <StrRes Name="propCheckStyle" Text="Onay işaretinin stili"/>
+  <StrRes Name="propChild" Text="Çocuk band bu banda bağlandı"/>
+  <StrRes Name="propClipped" Text="Nesne etrafındaki text kesilebilir."/>
+  <StrRes Name="propCollate" Text="Varsayılan düzenleme ayarları"/>
+  <StrRes Name="propColor.TFont" Text="Yazı rengi"/>
+  <StrRes Name="propColor" Text="Nesne rengi"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Çerçeve rengi"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Vurgu rengi aktif olduğunda Nesne rengini belirler"/>
+  <StrRes Name="propColumnFields" Text="Kolonları temsil eden sahanın adı"/>
+  <StrRes Name="propColumnGap" Text="Band kolonları arasındaki boşluk"/>
+  <StrRes Name="propColumnLevels" Text="Kolon seviyelerinin sayısı"/>
+  <StrRes Name="propColumns" Text="Band'ın içindeki kolonların sayısı"/>
+  <StrRes Name="propColumnWidth" Text="Band kolonunun genişliği"/>
+  <StrRes Name="propCondition" Text="Gruplama durumu. Eğer bu ifadenin değeri değişirse, grup iptal olacaktır"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="İfade metni. Eğer bu ifade &#38;#34;True&#38;#34; ise, vurgu aktif olacaktır"/>
+  <StrRes Name="propConnected" Text="Veritabanının açık olup olmadığını belirler"/>
+  <StrRes Name="propConvertNulls" Text="Veritabanındaki boş sahaların 0, &#38;#34;False&#38;#34; veya &#38;#60;boş&#38;#62; ifadelerine dönüştürmesine olanak sağlar"/>
+  <StrRes Name="propCopies" Text="Varsayılan kopya sayısı"/>
+  <StrRes Name="propCursor" Text="Farenin nesne üstündeki şekli"/>
+  <StrRes Name="propDatabaseName" Text="Veritabanının adı"/>
+  <StrRes Name="propDataField" Text="Nesneye bağlanan veritabanı sahası"/>
+  <StrRes Name="propDataSet" Text="Nesneye bağlanan, veritabanı sahalarını içeren veri tablosu"/>
+  <StrRes Name="propDate" Text="Nesnenin tarih değeri"/>
+  <StrRes Name="propDateFormat" Text="Tarih formatı"/>
+  <StrRes Name="propDecimalSeparator" Text="Ondalık ayracı"/>
+  <StrRes Name="propDefault" Text="ENTER tuşuna basıldığında button'un aktif olmasına olanak sağlar"/>
+  <StrRes Name="propDefHeight" Text="Varsayılan satır yüksekliği"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Rapor açıklaması"/>
+  <StrRes Name="propDescription" Text="Nesne açıklaması"/>
+  <StrRes Name="propDiagonal" Text="Çizgilerin çapraz olmasına olanak sağlar"/>
+  <StrRes Name="propDisplayFormat" Text="Görünen değerin formatı"/>
+  <StrRes Name="propDoublePass" Text="Rapor motorunun ikinci geçiş yapıp yapmamasını belirler"/>
+  <StrRes Name="propDown" Text="Speed Button'un basılı olup olmadığını belirler"/>
+  <StrRes Name="propDownThenAcross" Text="Büyük tablonun ne şekilde parçalara ayrılacağını belirler"/>
+  <StrRes Name="propDriverName" Text="BDE sürücüsünün adı"/>
+  <StrRes Name="propDropShadow" Text="Nesnelerin gölgesinin olup olmadığını belirler"/>
+  <StrRes Name="propDuplex" Text="Sayfanın çift yönlü kullanılmasını sağlar"/>
+  <StrRes Name="propEditMask" Text="Metin nesnesi için geçerli olan format şekli"/>
+  <StrRes Name="propEnabled" Text="Nesnenin kullanılabilir olup olmadığını belirler"/>
+  <StrRes Name="propEngineOptions" Text="Raporun motor seçenekleri"/>
+  <StrRes Name="propExpression" Text="Nesnede gösterilecek ifade"/>
+  <StrRes Name="propExpressionDelimiters" Text="Nesnenin içindeki ifadeyi ayırmak için kullanacak ayraç"/>
+  <StrRes Name="propFieldAliases" Text="Sahanın görünen adı"/>
+  <StrRes Name="propFilter" Text="Dataset'in filitre koşulu"/>
+  <StrRes Name="propFiltered" Text="Dataset'in filitre özelliğindeki koşul kullanılarak kayıtların filtrelenmesine olanak sağlar"/>
+  <StrRes Name="propFlowTo" Text="Sığmayan metnin üzerinde gösterileceği nesne"/>
+  <StrRes Name="propFont" Text="Nesnenin yazı tipi özellikleri"/>
+  <StrRes Name="propFooterAfterEach" Text="Sayfa altı bandının her bir veri satırından sonra gösterilmesine olanak sağlar"/>
+  <StrRes Name="propFormatStr" Text="Yazı biçimi"/>
+  <StrRes Name="propFrame" Text="Nesnenin çerçeve özellikleri"/>
+  <StrRes Name="propGapX" Text="Metnin soldan bırakılacak boşluğu"/>
+  <StrRes Name="propGapY" Text="Metnin üstten bırakılacak boşluğu"/>
+  <StrRes Name="propGlyph" Text="Nesne resmi"/>
+  <StrRes Name="propGroupIndex" Text="Speed button'ların bir grup olarak çalışabilmesine olanak sağlar"/>
+  <StrRes Name="propHAlign" Text="Metnin yatay hizalaması"/>
+  <StrRes Name="propHeight" Text="Nesnenin yüksekliği"/>
+  <StrRes Name="propHideZeros" Text="Metin nesnelerinde SIFIR değerinin gösterilip gösterilmeyeceğini belirler"/>
+  <StrRes Name="propHighlight" Text="Koşula bağlı vurgu özellikleri"/>
+  <StrRes Name="propIndexName" Text="Indeks adı"/>
+  <StrRes Name="propInitString" Text="Nokta-vuruşlu raporlar için yazıcı başlangıç metni"/>
+  <StrRes Name="propItems" Text="Nesnenin madde listesi"/>
+  <StrRes Name="propKeepAspectRatio" Text="Resmin orjinal görünüm oranını korur"/>
+  <StrRes Name="propKeepChild" Text="Band'ın çocukları ile birlikte yazdırılmasına olanak sağlar"/>
+  <StrRes Name="propKeepFooter" Text="Band'ın alt başlıkları ile birlikte yazdırılmasına olanak sağlar"/>
+  <StrRes Name="propKeepHeader" Text="Determines whether the band will be printed together with its header"/>
+  <StrRes Name="propKeepTogether" Text="Band'ın tüm altband'larla birlikte yazdırılmasına olanak sağlar"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Biçimlendirme şekli"/>
+  <StrRes Name="propKind" Text="Button şekli"/>
+  <StrRes Name="propLargeDesignHeight" Text="Dizayn aşamasında sayfaların büyük uzunlukta olmasına olanak sağlar"/>
+  <StrRes Name="propLayout" Text="Button resminin alanı"/>
+  <StrRes Name="propLeft" Text="Nesnenin sol koordinatı"/>
+  <StrRes Name="propLeftMargin" Text="Sayfa sol boşluğu"/>
+  <StrRes Name="propLines" Text="Nesnenin metni"/>
+  <StrRes Name="propLineSpacing" Text="İki satır arasındaki pixel sayısı"/>
+  <StrRes Name="propLoginPrompt" Text="Bağlanma ekranının görünüp görünmemesini sağlar"/>
+  <StrRes Name="propMargin" Text="Button kenar çizgisi ile resim kenar çizgisi arasındaki pixel sayısı"/>
+  <StrRes Name="propMaster" Text="Asıl dataset"/>
+  <StrRes Name="propMasterFields" Text="Asıl-Detay ilişkisinde bağlanacak sahalar"/>
+  <StrRes Name="propMaxLength" Text="Metnin maksimum uzunluğu"/>
+  <StrRes Name="propMaxWidth" Text="Kolonun maksimum genişliği"/>
+  <StrRes Name="propMemo" Text="Nesnenin metni"/>
+  <StrRes Name="propMinWidth" Text="Kolonun minimum genişliği"/>
+  <StrRes Name="propMirrorMargins" Text="Çift sayfalara aynı sayfa ayarlarını yansıtır"/>
+  <StrRes Name="propModalResult" Text="En üstteki pencere button ile kapatıldığında döndürülen değer"/>
+  <StrRes Name="propName.TFont" Text="Yazı tipinin adı"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Raporun adı"/>
+  <StrRes Name="propName" Text="Nesnenin adı"/>
+  <StrRes Name="propNumGlyphs" Text="Glyph özelliğindeki kendine ait grafiğin içindeki resim sayısını belirler"/>
+  <StrRes Name="propOpenDataSource" Text="Datasource'nin otomatik açılıp açılmayacağını belirler"/>
+  <StrRes Name="propOrientation" Text="Sayfa yönlendirmesi"/>
+  <StrRes Name="propOutlineText" Text="Önizleme penceresinde ana hat içinde gösterilecek olan metin"/>
+  <StrRes Name="propOutlineVisible" Text="Önizleme penceresinin ana hattının görünürlüğü"/>
+  <StrRes Name="propOutlineWidth" Text="Önizleme penceresinin ana hattının genişliği"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Yazdırılacak sayfa sayısı"/>
+  <StrRes Name="propPaperHeight" Text="Sayfa yüksekliği"/>
+  <StrRes Name="propPaperWidth" Text="Sayfa genişliği"/>
+  <StrRes Name="propParagraphGap" Text="Paragraf başı girintisi"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Bağlantı parametreleri"/>
+  <StrRes Name="propParams" Text="Sorgu parametreleri"/>
+  <StrRes Name="propParentFont" Text="Nesnenin, üzerinde bulunduğu nesnenin yazı tipini kullanıp kulanmayacağını belirler"/>
+  <StrRes Name="propPassword" Text="Rapor şifresi"/>
+  <StrRes Name="propPasswordChar" Text="Şifre karakteri. Girilen karakterlerin her birinin bu şekilde gösterilmesini sağlar"/>
+  <StrRes Name="propPicture" Text="Resim"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Raporun açıklama resmi"/>
+  <StrRes Name="propPosition" Text="Pencerenin başlangıç pozisyonu"/>
+  <StrRes Name="propPreviewOptions" Text="Raporun önizleme özellikleri"/>
+  <StrRes Name="propPrintable" Text="Nesnenin yazılabilirliği. Eğer &#38;#34;False&#38;#34; olarak işaretlenmişse nesneler görüntülenir ama yazdırılmaz"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Üzerinde bulunduğu bandın görünmez olduğu durumda, çocuk bandın yazdırılmasına olanak sağlar"/>
+  <StrRes Name="propPrinter" Text="Bu rapor açıldığında veya çalıştırıldığında seçili olacak yazıcının adı"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Altband'ı boş olan band'ların yazdırılmasına olanak sağlar"/>
+  <StrRes Name="propPrintIfEmpty" Text="Tüm Dataset'ler boş olsa bile sayfanın yazdırılmasını sağlar"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Band'ın ilk sayfada yazdırılmasını sağlar"/>
+  <StrRes Name="propPrintOnLastPage" Text="Band'ın son sayfada yazdırılmasını sağlar"/>
+  <StrRes Name="propPrintOnParent" Text="Altraporun, üzerinde bulunduğu band'da yazdırılmasını sağlar"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Sayfanın, daha önce oluşturulmuş olan sayfaların boşluğunda oluşturulmasını sağlar"/>
+  <StrRes Name="propPrintOptions" Text="Raporun yazdırma ayarları"/>
+  <StrRes Name="propPrintPages" Text="Tek, Çift veya Tüm sayfaların yazdırılmasını sağlar"/>
+  <StrRes Name="propRangeBegin" Text="Dataset'teki gezintinin başladığı nokta"/>
+  <StrRes Name="propRangeEnd" Text="Dataset'teki gezintinin bittiği nokta"/>
+  <StrRes Name="propRangeEndCount" Text="&#38;#34;RangeEnd&#38;#34;, &#38;#34;reCount&#38;#34; olduğunda; Dataset'ten okunacak kayıt sayısı"/>
+  <StrRes Name="propReadOnly" Text="Metin nesnesinin Salt-Okunur olup olmamasını sağlar"/>
+  <StrRes Name="propRepeatHeaders" Text="Satır ve Kolon başlıklarının her sayfada tekrar yazılıp yazılmayacağını belirler"/>
+  <StrRes Name="propReportOptions" Text="Rapor seçenekleri"/>
+  <StrRes Name="propReprintOnNewPage" Text="Band'ın her sayfada tekrar yazılıp yazılmayacağını belirler"/>
+  <StrRes Name="propRestrictions" Text="Kısıtlama ayarları"/>
+  <StrRes Name="propRightMargin" Text="Sayfa sağ boşluğu"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Barkod yönlendirmesi"/>
+  <StrRes Name="propRotation" Text="Metin döndürme açısı"/>
+  <StrRes Name="propRowCount" Text="Band'daki gerçek kayıt sayısı"/>
+  <StrRes Name="propRowFields" Text="Satırı temsil eden sahanın adı"/>
+  <StrRes Name="propRowLevels" Text="Satır seviyelerinin sayısı"/>
+  <StrRes Name="propRTLReading" Text="Metin nesnelerinin yazılarının sağdan sola doğru görüntülenmesini sağlar"/>
+  <StrRes Name="propSessionName" Text="BDE oturum adı"/>
+  <StrRes Name="propShadowColor" Text="Gölge rengi"/>
+  <StrRes Name="propShadowWidth" Text="Gölge genişliği"/>
+  <StrRes Name="propShape" Text="Şekil nesnesinin biçimi"/>
+  <StrRes Name="propShiftMode" Text="Nesnenin kaydırma durumu"/>
+  <StrRes Name="propShowColumnHeader" Text="Kolon başlıklarının görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propShowColumnTotal" Text="Kolon genel toplamının görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propShowRowHeader" Text="Satır başlıklarının görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propShowRowTotal" Text="Satır genel toplamının görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propShowDialog" Text="Önizleme penceresinde yazdırma penceresinin görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propShowText" Text="Barkod nesnelerindeki okunabilir yazının görüntülenip görüntülenmemesini sağlar"/>
+  <StrRes Name="propSize" Text="Yazı tipi boyu"/>
+  <StrRes Name="propSorted" Text="Maddelerin sıralanıp sıralanmamasını sağlar"/>
+  <StrRes Name="propSpacing" Text="Metin ile resim arasındaki pixel sayısı"/>
+  <StrRes Name="propSQL" Text="SQL cümleciği"/>
+  <StrRes Name="propStartNewPage" Text="Band'ı yazdırmadan önce yeni sayfaya başlar"/>
+  <StrRes Name="propStretch" Text="Resmi, nesnenin boyutlarına uzatır"/>
+  <StrRes Name="propStretched" Text="Nesnenin uzatılabilmesine olanak sağlar"/>
+  <StrRes Name="propStretchMode" Text="Nesnenin uzatılabilirliliği"/>
+  <StrRes Name="propStyle.TFont" Text="Yazı tipi biçimi"/>
+  <StrRes Name="propStyle" Text="Nesne biçimi"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Nesnenin çerçeve biçimi"/>
+  <StrRes Name="propSuppressRepeated" Text="Tekrarlanan değerlerin gizlenmesini sağlar"/>
+  <StrRes Name="propTableName" Text="Veri tablosunun adı"/>
+  <StrRes Name="propTag" Text="Nesnenin Tag'ının rakamsal değeri"/>
+  <StrRes Name="propTagStr" Text="Nesnenin Tag'ının metin değeri"/>
+  <StrRes Name="propText" Text="Nesnenin metni"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Sayfa başlığından önce rapor başlığının görüntülenip görüntülemeceğini belirler"/>
+  <StrRes Name="propTop" Text="Nesnenin üst koordinatı"/>
+  <StrRes Name="propTopMargin" Text="Sayfa üst boşluğu"/>
+  <StrRes Name="propTyp" Text="Çerçeve şekli"/>
+  <StrRes Name="propUnderlines" Text="Metin nesnelerinde her bir satırın altını çizer"/>
+  <StrRes Name="propURL" Text="Nesnenin kaynağı"/>
+  <StrRes Name="propUserName" Text="Veri nesnesinin kullanıcı adı. Bu isim veri ağacında görünecektir"/>
+  <StrRes Name="propVAlign" Text="Metnin dikey hizalaması"/>
+  <StrRes Name="propVersionBuild" Text="Versiyon bilgisi, derleme"/>
+  <StrRes Name="propVersionMajor" Text="Versiyon bilgisi, asıl versiyon"/>
+  <StrRes Name="propVersionMinor" Text="Versiyon bilgisi, alt versiyon"/>
+  <StrRes Name="propVersionRelease" Text="Versiyon bilgisi, sunum"/>
+  <StrRes Name="propVisible" Text="Nesnenin görünebilirliliği"/>
+  <StrRes Name="propWidth" Text="Nesnenin genişliği"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Çerçevenin genişliği"/>
+  <StrRes Name="propWindowState" Text="Pencerenin başlangıç durumu"/>
+  <StrRes Name="propWordBreak" Text="Rusça kelimeleri kes"/>
+  <StrRes Name="propWordWrap" Text="Sığmayan kelimeleri alt satıra kaydırır"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Barkodu yakınlaştırır"/>
+  <StrRes Name="propConnectionName" Text="Name of the connection to the database used in the report"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Grup aşağı açılabilir tanımlayıcı"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix font tipi"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Grup tek bir kayıta sahip olduğunda altbilgi gizle"/>
+  <StrRes Name="propOutlineExpand" Text="Rapor çerçevesini genişletmek için tanımlayıcı"/>
+  <StrRes Name="propPlainCells" Text="Yanyana veya üstüste birkaç hücre yaz"/>
+  <StrRes Name="propPrintMode" Text="Baskmı modu: normal, Büyük sayfaları tek bir sayfaya, yada bir kaç küçük sayfayı tek sayfaya"/>
+  <StrRes Name="propPrintOnSheet" Text="Rapor yazdırmak için kağıt boyu. Eğer PrintMode &#38;#34;pmDefault&#38;#34; değilse kullanılır."/>
+  <StrRes Name="propResetPageNumbers" Text="Grup yazdırırken sayfa no/toplam sayfa sayısı sıfırla. StartNewPage seçeneği true iken kullanılmalıdır."/>
+  <StrRes Name="propReverse" Text="Sayfaları Tersten yazdır"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Eğer grup açıksa altbilgi görüntüle"/>
+  <StrRes Name="propSizeMode" Text="OLE nesnesi görüntü şekli"/>
+  <StrRes Name="propVersion" Text="Fast report versiyonu"/>
+  <StrRes Name="propWideBarRatio" Text="Barkodun gerçek genişliği"/>
+  <StrRes Name="propWysiwyg" Text="Zengin (Rich) nesneler yazıcıda yazdırmak için kullanılabilir, bunun için bir yazıcı kurulu olmalı.(nasıl görüyorsan öyle bas)"/>
+  <StrRes Name="propArrowEnd" Text="Bir çizginin sonuna ok tanımla"/>
+  <StrRes Name="propArrowLength" Text="Ok uzunluğu"/>
+  <StrRes Name="propArrowSolid" Text="Oku tam doldur (solid)"/>
+  <StrRes Name="propArrowStart" Text="Bir çizginin başına ok tanımla"/>
+  <StrRes Name="propArrowWidth" Text="Ok kalınlığı"/>
+  <StrRes Name="propCloseDataSource" Text="Rapor bittiğinde verikaynağını(dataset,tablo vs.) kapat."/>
+  <StrRes Name="propDatabase" Text="Veri tabanı bağlantısı"/>
+  <StrRes Name="propIndexFieldNames" Text="İndeks sahaları isimleri"/>
+  <StrRes Name="propCommandTimeOut" Text="Bir sorguyu çalıştırmak için gereken zaman miktarı"/>
+  <StrRes Name="propExpandDrillDown" Text="İlk sayfada tüm açılabilir nesneleri aç"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Metin WYSIWYG (göründüğü şekilde) modun"/>
+  <StrRes Name="propLeftLine" Text="Çerçevenin sol çizgisi"/>
+  <StrRes Name="propTopLine" Text="Çerçevenin üst çizgisi"/>
+  <StrRes Name="propRightLine" Text="Çerçevenin sağ çizgisi"/>
+  <StrRes Name="propBottomLine" Text="Çerçevenin alt çizgisi"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Çerçevenin çizgi rengi"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Çerçevenin çizgi stili"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Çerçevenin çizgi kalınlığı"/>
+  <StrRes Name="propFileLink" Text="Bir resim içeren dosya ismi yada ifade"/>
+  <StrRes Name="propEndlessWidth" Text="Sonsuz sayfa genişliği. Eğer true ise sayfa gerektiği kadar genişletilecek."/>
+  <StrRes Name="propEndlessHeight" Text="Sonsuz sayfa uzunluğu. Eğer true ise sayfa gerektiği kadar uzatılacak."/>
+  <StrRes Name="propAddHeight" Text="Hücre yüksekliği kadar ekle"/>
+  <StrRes Name="propAddWidth" Text="Hücre genişliği kadar ekle"/>
+  <StrRes Name="propAllowDuplicates" Text="Hücrenin string değerleri çift almasına izin ver"/>
+  <StrRes Name="propJoinEqualCells" Text="Eşit değer ile çapraz tablo birleşebilir"/>
+  <StrRes Name="propNextCross" Text="Sonraki çapraz tablo yanyana görüntülenecek"/>
+  <StrRes Name="propNextCrossGap" Text="Yanyana çapraz tablo aralığı"/>
+  <StrRes Name="propShowCorner" Text="Çapraz tablo solüst elemanı görüntülensin"/>
+  <StrRes Name="propSuppressNullRecords" Text="Çapraz tablodaki tüm kayıtları NULL değerler ile görüntüle"/>
+  <StrRes Name="propShowTitle" Text="Çapraz tablo başlığı görüntüle"/>
+  <StrRes Name="propAutoSize" Text="Çapraz tablo otomatik boyutlandır"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

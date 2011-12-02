@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="950">
+  <StrRes Name="1" Text="確定"/>
+  <StrRes Name="2" Text="取消"/>
+  <StrRes Name="3" Text="全部"/>
+  <StrRes Name="4" Text="本頁"/>
+  <StrRes Name="5" Text="頁:"/>
+  <StrRes Name="6" Text="分頁"/>
+  <StrRes Name="7" Text="頁數範圍"/>
+  <StrRes Name="8" Text="匯出設定"/>
+  <StrRes Name="9" Text="輸入頁數/文件範圍，並以逗號分隔(例如:1,3,5-12)"/>
+  <StrRes Name="100" Text="預覽"/>
+  <StrRes Name="101" Text="列印"/>
+  <StrRes Name="102" Text="列印"/>
+  <StrRes Name="103" Text="開啟"/>
+  <StrRes Name="104" Text="開啟"/>
+  <StrRes Name="105" Text="儲存"/>
+  <StrRes Name="106" Text="儲存"/>
+  <StrRes Name="107" Text="匯出"/>
+  <StrRes Name="108" Text="匯出"/>
+  <StrRes Name="109" Text="尋找"/>
+  <StrRes Name="110" Text="尋找"/>
+  <StrRes Name="111" Text="整頁"/>
+  <StrRes Name="112" Text="整頁"/>
+  <StrRes Name="113" Text="頁寬"/>
+  <StrRes Name="114" Text="頁寬"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="兩頁"/>
+  <StrRes Name="118" Text="兩頁"/>
+  <StrRes Name="119" Text="顯示比例"/>
+  <StrRes Name="120" Text="頁面設定"/>
+  <StrRes Name="121" Text="頁面設定"/>
+  <StrRes Name="122" Text="綱要"/>
+  <StrRes Name="123" Text="綱要"/>
+  <StrRes Name="124" Text="縮小"/>
+  <StrRes Name="125" Text="縮小"/>
+  <StrRes Name="126" Text="放大"/>
+  <StrRes Name="127" Text="放大"/>
+  <StrRes Name="128" Text="縮圖"/>
+  <StrRes Name="129" Text="報表縮圖"/>
+  <StrRes Name="130" Text="縮圖"/>
+  <StrRes Name="131" Text="縮圖"/>
+  <StrRes Name="132" Text="編輯頁"/>
+  <StrRes Name="133" Text="編輯頁"/>
+  <StrRes Name="134" Text="首頁"/>
+  <StrRes Name="135" Text="首頁"/>
+  <StrRes Name="136" Text="前頁"/>
+  <StrRes Name="137" Text="前頁"/>
+  <StrRes Name="138" Text="次頁"/>
+  <StrRes Name="139" Text="次頁"/>
+  <StrRes Name="140" Text="末頁"/>
+  <StrRes Name="141" Text="末頁"/>
+  <StrRes Name="142" Text="頁數"/>
+  <StrRes Name="150" Text="全螢幕"/>
+  <StrRes Name="151" Text="匯出PDF文件"/>
+  <StrRes Name="152" Text="傳送到電子郵件"/>
+  <StrRes Name="zmPageWidth" Text="頁寬"/>
+  <StrRes Name="zmWholePage" Text="整頁"/>
+  <StrRes Name="200" Text="列印"/>
+  <StrRes Name="201" Text="印表機"/>
+  <StrRes Name="202" Text="頁 "/>
+  <StrRes Name="203" Text="列印份數"/>
+  <StrRes Name="204" Text="自動分頁(&amp;T)"/>
+  <StrRes Name="205" Text="份數(&amp;C)"/>
+  <StrRes Name="206" Text="列印"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="位置:"/>
+  <StrRes Name="209" Text="內容(&amp;P)"/>
+  <StrRes Name="210" Text="列印至檔案(&amp;L)"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="名稱:"/>
+  <StrRes Name="213" Text="列印模式"/>
+  <StrRes Name="214" Text="單面列印"/>
+  <StrRes Name="216" Text="雙面列印"/>
+  <StrRes Name="ppAll" Text="範圍內全部頁面"/>
+  <StrRes Name="ppOdd" Text="奇數頁"/>
+  <StrRes Name="ppEven" Text="偶數頁"/>
+  <StrRes Name="pgDefault" Text="預設值"/>
+  <StrRes Name="pmDefault" Text="預設值"/>
+  <StrRes Name="pmSplit" Text="分割大頁面"/>
+  <StrRes Name="pmJoin" Text="合併小頁面"/>
+  <StrRes Name="pmScale" Text="大小"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="尋找文字"/>
+  <StrRes Name="301" Text="尋找目標:"/>
+  <StrRes Name="302" Text="選項"/>
+  <StrRes Name="303" Text="取代"/>
+  <StrRes Name="304" Text="起點"/>
+  <StrRes Name="305" Text="區分大小寫"/>
+  <StrRes Name="400" Text="頁面設定"/>
+  <StrRes Name="401" Text="寬度"/>
+  <StrRes Name="402" Text="高度"/>
+  <StrRes Name="403" Text="紙張大小"/>
+  <StrRes Name="404" Text="列印方向"/>
+  <StrRes Name="405" Text="左"/>
+  <StrRes Name="406" Text="上"/>
+  <StrRes Name="407" Text="右"/>
+  <StrRes Name="408" Text="下"/>
+  <StrRes Name="409" Text="邊界"/>
+  <StrRes Name="410" Text="直印"/>
+  <StrRes Name="411" Text="橫印"/>
+  <StrRes Name="412" Text="其他"/>
+  <StrRes Name="413" Text="套用本頁"/>
+  <StrRes Name="414" Text="套用全部"/>
+  <StrRes Name="500" Text="列印"/>
+  <StrRes Name="501" Text="印表機"/>
+  <StrRes Name="502" Text="頁"/>
+  <StrRes Name="503" Text="份數"/>
+  <StrRes Name="504" Text="份數"/>
+  <StrRes Name="505" Text="選項"/>
+  <StrRes Name="506" Text="Escape 指令"/>
+  <StrRes Name="507" Text="列印至檔案"/>
+  <StrRes Name="508" Text="OEM 頁碼"/>
+  <StrRes Name="509" Text="擴充的圖形字元"/>
+  <StrRes Name="510" Text="印表機檔 (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="確認"/>
+  <StrRes Name="mbError" Text="錯誤"/>
+  <StrRes Name="mbInfo" Text="資訊"/>
+  <StrRes Name="xrCantFindClass" Text="不明的類別"/>
+  <StrRes Name="prVirtual" Text="虛擬"/>
+  <StrRes Name="prDefault" Text="預設"/>
+  <StrRes Name="prCustom" Text="自定"/>
+  <StrRes Name="enUnconnHeader" Text="未連接至表首/尾"/>
+  <StrRes Name="enUnconnGroup" Text="群組未連接至資料庫"/>
+  <StrRes Name="enUnconnGFooter" Text="沒有群組表尾"/>
+  <StrRes Name="enBandPos" Text="Band的位置錯誤:"/>
+  <StrRes Name="dbNotConn" Text="資料集 %s 未連接至資料庫"/>
+  <StrRes Name="dbFldNotFound" Text="欄位不存在:"/>
+  <StrRes Name="clDSNotIncl" Text="(資料集未加入至 Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="未知的變數或資料庫欄位:"/>
+  <StrRes Name="clScrError" Text="Script 錯誤在 %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="資料集 &#38;#34;%s&#38;#34; 不存在"/>
+  <StrRes Name="clErrors" Text="發生下列的錯誤:"/>
+  <StrRes Name="clExprError" Text="運算式錯誤"/>
+  <StrRes Name="clFP3files" Text="報表檔"/>
+  <StrRes Name="clSaving" Text="儲存檔案..."/>
+  <StrRes Name="clCancel" Text="取消"/>
+  <StrRes Name="clClose" Text="結束"/>
+  <StrRes Name="clPrinting" Text="列印頁"/>
+  <StrRes Name="clLoading" Text="載入檔案..."/>
+  <StrRes Name="clPageOf" Text="頁 %d / %d"/>
+  <StrRes Name="clFirstPass" Text="第一次處理過程: 頁 "/>
+  <StrRes Name="clNoPrinters" Text="你的系統尚未安裝印表機"/>
+  <StrRes Name="clDecompressError" Text="Stream 解壓縮發生錯誤"/>
+  <StrRes Name="crFillMx" Text="填入交叉報表..."/>
+  <StrRes Name="crBuildMx" Text="建立交叉報表..."/>
+  <StrRes Name="prRunningFirst" Text="第一次處理: 第 %d 頁"/>
+  <StrRes Name="prRunning" Text="產生第 %d 頁"/>
+  <StrRes Name="prPrinting" Text="列印第 %d 頁"/>
+  <StrRes Name="prExporting" Text="匯出第 %d 頁"/>
+  <StrRes Name="uCm" Text="公分"/>
+  <StrRes Name="uInch" Text="英吋"/>
+  <StrRes Name="uPix" Text="點"/>
+  <StrRes Name="uChar" Text="字元"/>
+  <StrRes Name="dupDefault" Text="預設值"/>
+  <StrRes Name="dupVert" Text="垂直"/>
+  <StrRes Name="dupHorz" Text="水平"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="找不到 '%s' 語言"/>
+  <StrRes Name="SInvalidLanguage" Text="不合法的語言定義"/>
+  <StrRes Name="SIdRedeclared" Text="識別字重複宣告: "/>
+  <StrRes Name="SUnknownType" Text="未知的型態: "/>
+  <StrRes Name="SIncompatibleTypes" Text="不相容的型態"/>
+  <StrRes Name="SIdUndeclared" Text="識別字未宣告: "/>
+  <StrRes Name="SClassRequired" Text="此處需要類別(Class)型態"/>
+  <StrRes Name="SIndexRequired" Text="此處需要索引(Index)"/>
+  <StrRes Name="SStringError" Text="Strings沒有屬性(properties)或方法(methods)"/>
+  <StrRes Name="SClassError" Text="類別(Class) %s 沒有預設的屬性"/>
+  <StrRes Name="SArrayRequired" Text="此處需要陣列型態"/>
+  <StrRes Name="SVarRequired" Text="此處需要變數"/>
+  <StrRes Name="SNotEnoughParams" Text="實際的參數個數不符"/>
+  <StrRes Name="STooManyParams" Text="參數個數太多"/>
+  <StrRes Name="SLeftCantAssigned" Text="左邊的變數不能指定新的值"/>
+  <StrRes Name="SForError" Text="for..loop變數必須是數值變數"/>
+  <StrRes Name="SEventError" Text="事件處理程式必須是程序(procedure)"/>
+  <StrRes Name="600" Text="展開"/>
+  <StrRes Name="601" Text="摺疊"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

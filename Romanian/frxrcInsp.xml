@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="propActive" Text="Specifica daca dataset-ul este sau nu deschis"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Specifica daca evidentierea sintaxei este sau nu activa"/>
+  <StrRes Name="propAliasName" Text="Numele aliasului BDE"/>
+  <StrRes Name="propAlign" Text="Determina alinierea obiectului relativ la banda sau pagina"/>
+  <StrRes Name="propAlignment" Text="Alinierea textului obiectului"/>
+  <StrRes Name="propAllowAllUp" Text="Specifica daca toate butoanele de acces dintr-un grup pot fi deselectate in acelasi timp"/>
+  <StrRes Name="propAllowEdit" Text="Determina daca utilizatorul poate edita paginile dintr-un raport pregatit de listare"/>
+  <StrRes Name="propAllowExpressions" Text="Determina daca un obiect text poate contine expresii in cadrul textului"/>
+  <StrRes Name="propAllowGrayed" Text="Permite a 3-a stare (greyed)pentru controalele de tip checkbox"/>
+  <StrRes Name="propAllowHTMLTags" Text="Determina daca un obiect text poate contine tag-uri HTML in cadrul textului"/>
+  <StrRes Name="propAllowSplit" Text="Determina daca o banda isi poate intinde continutul pe suprafata paginilor"/>
+  <StrRes Name="propAuthor" Text="Autorul raportului"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Determina daca imaginea ar trebui sa-si determine automat dimensiunile"/>
+  <StrRes Name="propAutoWidth" Text="Determina daca obiectul text ar trebui sa-si determine automat dimensiunile"/>
+  <StrRes Name="propBackPicture" Text="Imaginea de fundal a paginii"/>
+  <StrRes Name="propBarType" Text="Tipul de cod de bare"/>
+  <StrRes Name="propBevelInner" Text="Tip bevel interior"/>
+  <StrRes Name="propBevelOuter" Text="Tip bevel exterior"/>
+  <StrRes Name="propBevelWidth" Text="Latime bevel"/>
+  <StrRes Name="propBorder" Text="Determina daca bordura exterioara este sau nu vizibila"/>
+  <StrRes Name="propBorderStyle" Text="Stilul ferestrei"/>
+  <StrRes Name="propBottomMargin" Text="Dimensiunea marginii de jos a paginii"/>
+  <StrRes Name="propBrushStyle" Text="Stilul pensulei utilizate pentru fundalul obiectului"/>
+  <StrRes Name="propCalcCheckSum" Text="Determina daca va fi calculata suma de control pentru codul de bare"/>
+  <StrRes Name="propCancel" Text="Determina daca butonul va fi activat la apasarea tastei ESC"/>
+  <StrRes Name="propCaption" Text="Titlul controlului"/>
+  <StrRes Name="propCellFields" Text="Numele campurilor DB reprezentand celulele incrucisate"/>
+  <StrRes Name="propCellLevels" Text="Numarul de nivele ale celulelor"/>
+  <StrRes Name="propCenter" Text="Determina daca imaginea trebuie centrata in interiorul controlului"/>
+  <StrRes Name="propCharset" Text="Setul de caractere al fontului"/>
+  <StrRes Name="propCharSpacing" Text="Numarul de pixeli dintre doua caractere"/>
+  <StrRes Name="propCheckColor" Text="Culoarea semnului de selectare"/>
+  <StrRes Name="propChecked" Text="Indica daca controlul este selectat"/>
+  <StrRes Name="propCheckStyle" Text="Stilul semnului de selectare"/>
+  <StrRes Name="propChild" Text="Benzile copil conectate la aceasta banda"/>
+  <StrRes Name="propClipped" Text="Determina daca textul trebuie sa fie prins in limitele obiectului"/>
+  <StrRes Name="propCollate" Text="Setarile implicite pentru collation"/>
+  <StrRes Name="propColor.TFont" Text="Culoarea textului"/>
+  <StrRes Name="propColor" Text="Culoarea obiectului"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Culoarea cadrului"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Determina culoarea obiectului daca evidentierea este activa"/>
+  <StrRes Name="propColumnFields" Text="Numele campurilor DB reprezentand coloanele incrucisate"/>
+  <StrRes Name="propColumnGap" Text="Distanta intre coloanele benzii"/>
+  <StrRes Name="propColumnLevels" Text="Numarul de nivele ale coloanelor"/>
+  <StrRes Name="propColumns" Text="Numarul de coloane in cadrul benzii"/>
+  <StrRes Name="propColumnWidth" Text="Latimea coloanelor benzii"/>
+  <StrRes Name="propCondition" Text="Conditia de grupare. Grupul se va desparti daca valoarea acestei expresii se modifica"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Text expresie. Daca expresia este adevarat, evidentierea va fi activa"/>
+  <StrRes Name="propConnected" Text="Indica daca conexiunea cu baza de date este activa"/>
+  <StrRes Name="propConvertNulls" Text="Determina daca valorile null vor fi convertite la 0, Fals sau sirul vid"/>
+  <StrRes Name="propCopies" Text="Numarul implicit de copii"/>
+  <StrRes Name="propCursor" Text="Cursorul obiectului"/>
+  <StrRes Name="propDatabaseName" Text="Numele bazei de date"/>
+  <StrRes Name="propDataField" Text="Specifica campurile din care obiectul va citi datele"/>
+  <StrRes Name="propDataSet" Text="Leaga obiectul de dataset-ul care contine campul pe care il reprezinta"/>
+  <StrRes Name="propDate" Text="Valoarea tip data a controlului"/>
+  <StrRes Name="propDateFormat" Text="Specifica formatul in care data va fi afisata"/>
+  <StrRes Name="propDecimalSeparator" Text="Separatorul zecimal"/>
+  <StrRes Name="propDefault" Text="Determina daca butonul este implicit"/>
+  <StrRes Name="propDefHeight" Text="Inaltimea implicita a randului"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Descrierea raportului"/>
+  <StrRes Name="propDescription" Text="Descrierea obiectului"/>
+  <StrRes Name="propDiagonal" Text="Indica faptul ca linia este diagonala"/>
+  <StrRes Name="propDisplayFormat" Text="Formatul de afisare al valorilor"/>
+  <StrRes Name="propDoublePass" Text="Determina daca trebuie realizata o a doua analiza a raportului"/>
+  <StrRes Name="propDown" Text="Determina daca butonul de acces rapid este apasat sau nu"/>
+  <StrRes Name="propDownThenAcross" Text="Determina cat de mult va fi impartit un cross table de-a lungul paginilor"/>
+  <StrRes Name="propDriverName" Text="Numele driver-ului BDE"/>
+  <StrRes Name="propDropShadow" Text="Determina daca obiectul are umbra"/>
+  <StrRes Name="propDuplex" Text="Specifica modul duplex al paginii"/>
+  <StrRes Name="propEditMask" Text="Specifica masca care reprezinta ce text este valid pentru controlul de editare cu masca"/>
+  <StrRes Name="propEnabled" Text="Determina daca controlul este functional"/>
+  <StrRes Name="propEngineOptions" Text="Optiunile pentru motorul raportului"/>
+  <StrRes Name="propExpression" Text="Valoarea expresiei va fi afisata in acest obiect"/>
+  <StrRes Name="propExpressionDelimiters" Text="Caracterul ce va fi utilizat pentru a delimita expresiile continute in text"/>
+  <StrRes Name="propFieldAliases" Text="Aliasurile campurilor dataset-ului"/>
+  <StrRes Name="propFilter" Text="Conditia de filtrare a dataset-ului"/>
+  <StrRes Name="propFiltered" Text="Determina daca dataset-ul trebuie sa filtreze inregistrarile utilizand conditia specificata in proprietatea Filter"/>
+  <StrRes Name="propFlowTo" Text="Obiectul text care va afisa textul care nu incape in obiect"/>
+  <StrRes Name="propFont" Text="Atributele de font ale obiectului"/>
+  <StrRes Name="propFooterAfterEach" Text="Determina daca banda de subsol trebuie afisata dupa fiecare rand de date"/>
+  <StrRes Name="propFormatStr" Text="Sirul de caractere de formatare"/>
+  <StrRes Name="propFrame" Text="Atributele de contur ale obiectului"/>
+  <StrRes Name="propGapX" Text="Spatierea stanga a paragrafului"/>
+  <StrRes Name="propGapY" Text="Spatierea sus a paragrafului"/>
+  <StrRes Name="propGlyph" Text="Imaginea controlului"/>
+  <StrRes Name="propGroupIndex" Text="Permite butoanelor de acces rapid sa lucreze ca un grup"/>
+  <StrRes Name="propHAlign" Text="Alinierea orizontala a textului"/>
+  <StrRes Name="propHeight" Text="Inaltimea obiectului"/>
+  <StrRes Name="propHideZeros" Text="Determina daca obiectul text va ascunde valorile es whether the text object will hide the zero values"/>
+  <StrRes Name="propHighlight" Text="Atributele de evidentiere conditionala"/>
+  <StrRes Name="propIndexName" Text="Numele indexului"/>
+  <StrRes Name="propInitString" Text="Sirul de initializare al imprimantei pentru rapoartele listate pe imprimante matriciale"/>
+  <StrRes Name="propItems" Text="Elementele listei obiectului"/>
+  <StrRes Name="propKeepAspectRatio" Text="Pastreaza proportiile originale ale imaginii"/>
+  <StrRes Name="propKeepChild" Text="Determina daca banda va fi tiparita impreuna cu fiii"/>
+  <StrRes Name="propKeepFooter" Text="Determina daca banda va fi tiparita impreuna cu subsolul"/>
+  <StrRes Name="propKeepHeader" Text="Determina daca banda va fi tiparita impreuna cu antetul"/>
+  <StrRes Name="propKeepTogether" Text="Determina daca banda va fi tiparita impreuna cu toate sub-benzile"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Tipul formatarii"/>
+  <StrRes Name="propKind" Text="Tipul butonului"/>
+  <StrRes Name="propLargeDesignHeight" Text="Determina daca pagina va avea inaltime mare in modul design"/>
+  <StrRes Name="propLayout" Text="Asezarea imaginii butonului"/>
+  <StrRes Name="propLeft" Text="Coordonata stanga a obiectului"/>
+  <StrRes Name="propLeftMargin" Text="Dimensiunea marginii stanga a paginii"/>
+  <StrRes Name="propLines" Text="Textul obiectului"/>
+  <StrRes Name="propLineSpacing" Text="Numarul de pixeli dintre doua linii text"/>
+  <StrRes Name="propLoginPrompt" Text="Determina daca trebuie afisat dialogul de autentificare"/>
+  <StrRes Name="propMargin" Text="Determina numarul de pixeli dintre marginea imaginii si marginea butonului"/>
+  <StrRes Name="propMaster" Text="Dataset-ul principal"/>
+  <StrRes Name="propMasterFields" Text="Campurile legate printr-o relatie master-detail"/>
+  <StrRes Name="propMaxLength" Text="Lungimea maxima a textului"/>
+  <StrRes Name="propMaxWidth" Text="Latimea maxima a unei coloane"/>
+  <StrRes Name="propMemo" Text="Textul obiectului"/>
+  <StrRes Name="propMinWidth" Text="Latimea minima a unei coloane"/>
+  <StrRes Name="propMirrorMargins" Text="Oglideste marginile paginii pe paginile pare"/>
+  <StrRes Name="propModalResult" Text="Determinea cum si cand va inchide butonul forma sa modala"/>
+  <StrRes Name="propName.TFont" Text="Numele fontului"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Numele raportului"/>
+  <StrRes Name="propName" Text="Numele obiectului"/>
+  <StrRes Name="propNumGlyphs" Text="Indica numarul de imagini existente in imaginea specificata in proprietatea Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Determina daca sursa de date va fi deschisa automata sau nu"/>
+  <StrRes Name="propOrientation" Text="Orientarea paginii"/>
+  <StrRes Name="propOutlineText" Text="Textul care va fi afisat in controlul de previzualizare outline"/>
+  <StrRes Name="propOutlineVisible" Text="Vizibilitatea controlului de previzualizare outline"/>
+  <StrRes Name="propOutlineWidth" Text="Latimea controlului de previzualizare outline"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Numarul de pagini care va fi tiparit"/>
+  <StrRes Name="propPaperHeight" Text="Inaltimea paginii"/>
+  <StrRes Name="propPaperWidth" Text="Latimea paginii"/>
+  <StrRes Name="propParagraphGap" Text="Inceputul primei linii a paragrafului"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parametrii conexiunii"/>
+  <StrRes Name="propParams" Text="Parametrii interogarii"/>
+  <StrRes Name="propParentFont" Text="Determina daca obiectul va folosi fontul parintelui"/>
+  <StrRes Name="propPassword" Text="Parola raportului"/>
+  <StrRes Name="propPasswordChar" Text="Indica ce caracter, daca exista, va fi afisat in locul caracterelor introduse in control"/>
+  <StrRes Name="propPicture" Text="Imagine"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Descrierea imaginii raportului"/>
+  <StrRes Name="propPosition" Text="Pozitia initiala a ferestrei"/>
+  <StrRes Name="propPreviewOptions" Text="Optiunile de previzualizare a raportului"/>
+  <StrRes Name="propPrintable" Text="Tiparibilitatea obiectului. Obiectele care au setata proprietatea Printable=False vor fi previzualizate, dar nu vor fi tiparite"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Determina daca banda fiu va fi tiparita daca parintele sau este invizibila"/>
+  <StrRes Name="propPrinter" Text="Numele imprimantei care va fi selectata la deschiderea sau rularea raportului"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Determina daca banda de date va fi tiparita in cazul in care sub-banda sa este goala"/>
+  <StrRes Name="propPrintIfEmpty" Text="Determina daca pagina va fi tiparita in cazul cand toate dataset-urile sunt goale"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Determina daca banda va fi tiparita pe prima pagina"/>
+  <StrRes Name="propPrintOnLastPage" Text="Determina daca banda va fi tiparita pe ultima pagina"/>
+  <StrRes Name="propPrintOnParent" Text="Determina daca subraportul se va tipari pe banda parinte"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Determina daca pagina poate fi generata spatiul liber al paginii generate anterior"/>
+  <StrRes Name="propPrintOptions" Text="Optiunile de listare a raportului"/>
+  <StrRes Name="propPrintPages" Text="Determina daca vor fi listate toate paginile, cele pare sau impare"/>
+  <StrRes Name="propRangeBegin" Text="Determina punctul de inceput al navigatorului de date"/>
+  <StrRes Name="propRangeEnd" Text="Determina punctul de sfarsit al navigatorului de date"/>
+  <StrRes Name="propRangeEndCount" Text="Determina numarul de inregistrari in dataset daca RageEnd este reCount"/>
+  <StrRes Name="propReadOnly" Text="Determina daca obiectul text este read-only"/>
+  <StrRes Name="propRepeatHeaders" Text="Determina daca coloana si randul antet vor fi retiparite pe o pagina noua"/>
+  <StrRes Name="propReportOptions" Text="Optiunile raportului"/>
+  <StrRes Name="propReprintOnNewPage" Text="Determina daca banda va fi retiparita pe o pagina noua"/>
+  <StrRes Name="propRestrictions" Text="Setul de indicatori de restrictie"/>
+  <StrRes Name="propRightMargin" Text="Dimensiunea marginii din dreapta a paginii"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Orientarea codului de bare"/>
+  <StrRes Name="propRotation" Text="Rotirea textului"/>
+  <StrRes Name="propRowCount" Text="Numarul de inregistrari virtuale din banda de date"/>
+  <StrRes Name="propRowFields" Text="Numarul de campuri DB care reprezinta randurile incrucisate"/>
+  <StrRes Name="propRowLevels" Text="Numarul de nivele ale randurilor"/>
+  <StrRes Name="propRTLReading" Text="Determina daca obiectul text isi va afisa textul in directie dreapta-la-stanga"/>
+  <StrRes Name="propSessionName" Text="Numele sesiunii BDE"/>
+  <StrRes Name="propShadowColor" Text="Culoarea umbrei"/>
+  <StrRes Name="propShadowWidth" Text="Latimea umbrei"/>
+  <StrRes Name="propShape" Text="Tipul formei"/>
+  <StrRes Name="propShiftMode" Text="Comportamentul de mutare al obiectului"/>
+  <StrRes Name="propShowColumnHeader" Text="Determina daca se va afisa antetul coloanei"/>
+  <StrRes Name="propShowColumnTotal" Text="Determina daca se va afisa totalul general al coloanei"/>
+  <StrRes Name="propShowRowHeader" Text="Determina daca se va afisa antetul randului"/>
+  <StrRes Name="propShowRowTotal" Text="Determina daca se va afisa totalul general al randului"/>
+  <StrRes Name="propShowDialog" Text="Determina daca dialogul de listare va fi afisat in fereastra de previzualizare"/>
+  <StrRes Name="propShowText" Text="Determina daca obiectul cod de bare va afisa text vizibil"/>
+  <StrRes Name="propSize" Text="Dimensiunea font-ului"/>
+  <StrRes Name="propSorted" Text="Determina daca elementele vor fi sortate sau nu"/>
+  <StrRes Name="propSpacing" Text="Determina numarul de pixeli dintre imagine si text"/>
+  <StrRes Name="propSQL" Text="Interogarea SQL"/>
+  <StrRes Name="propStartNewPage" Text="Incepe o pagina noua inainte de a tipari o banda"/>
+  <StrRes Name="propStretch" Text="Redimensioneaza imaginea pentru a se incadra in limitele obiectului"/>
+  <StrRes Name="propStretched" Text="Determina daca obiectul va fi redimensionat"/>
+  <StrRes Name="propStretchMode" Text="Comportamentul de redimensionare al obiectului"/>
+  <StrRes Name="propStyle.TFont" Text="Stilul fontului"/>
+  <StrRes Name="propStyle" Text="Stilul controlului"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Stilul cadrului obiectului"/>
+  <StrRes Name="propSuppressRepeated" Text="Elimina valorile repetate"/>
+  <StrRes Name="propTableName" Text="Numele tabelei de date"/>
+  <StrRes Name="propTag" Text="Numarul de identificare al obiectului"/>
+  <StrRes Name="propTagStr" Text="Textul de identificare al obiectului"/>
+  <StrRes Name="propText" Text="Textul obiectului"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Determina daca titlul raportului va fi afisat inainte de antetul paginii"/>
+  <StrRes Name="propTop" Text="Coordonata sus al obiectului"/>
+  <StrRes Name="propTopMargin" Text="Dimensiunea marginii de sus a paginii"/>
+  <StrRes Name="propTyp" Text="Tipul cadrului"/>
+  <StrRes Name="propUnderlines" Text="Determina daca obiectul text va afisa linia de ghidare dupa fiecare linie de text"/>
+  <StrRes Name="propURL" Text="Adresa URL a obiectului"/>
+  <StrRes Name="propUserName" Text="Numele utilizatorului din obiectul de date. Acest nume va fi afisat in arborele de date"/>
+  <StrRes Name="propVAlign" Text="Alinierea verticala a textului"/>
+  <StrRes Name="propVersionBuild" Text="Informatii de versiune, build"/>
+  <StrRes Name="propVersionMajor" Text="Informatii de versiune, versiunea majora"/>
+  <StrRes Name="propVersionMinor" Text="Informatii de versiune, versiunea minora"/>
+  <StrRes Name="propVersionRelease" Text="Informatii de versiune, release"/>
+  <StrRes Name="propVisible" Text="Vizibilitatea obiectului"/>
+  <StrRes Name="propWidth" Text="Latimea obiectului"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Latimea cadrului"/>
+  <StrRes Name="propWindowState" Text="Starea initiala a ferestrei"/>
+  <StrRes Name="propWordBreak" Text="Desparte cuvintele rusesti"/>
+  <StrRes Name="propWordWrap" Text="Determina daca obiectul text va insera caractere de linie noua pentru a desparte cuvintele din partea dreapta"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Scalare cod de bare"/>
+  <StrRes Name="propConnectionName" Text="Numele conexiunii la baza de date folosita in raport"/>
+  <StrRes Name="propCurve" Text="Curbura marginilor dreptunghiurilor rotunjite"/>
+  <StrRes Name="propDrillDown" Text="Determina daca grupul poate fi &#38;#34;drilled down&#38;#34;"/>
+  <StrRes Name="propFontStyle" Text="Stil font listare matriciala"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Ascunde footer daca grupul are doar o inregistrare"/>
+  <StrRes Name="propOutlineExpand" Text="Determina daca vor fi extinse sau nu contururile raportului"/>
+  <StrRes Name="propPlainCells" Text="Determina daca se vor lista celulele una langa aslta sau suprapuse"/>
+  <StrRes Name="propPrintMode" Text="Mod de listare: normal, impartire pagini mari pe pagini mai mici, sau listare cateva pagini mici pe o pagina mare"/>
+  <StrRes Name="propPrintOnSheet" Text="Dimensiunea hartiei pe care se va lista. Utilizata daca modul de listare nu este cel implicit"/>
+  <StrRes Name="propResetPageNumbers" Text="Reseteaza numarul paginii/total paginii la listarea unui grup. Se va utiliza cu optiunea StartNewPage setata"/>
+  <StrRes Name="propReverse" Text="Determina daca paginile se vor lista in ordine inversa"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determina daca group footer-ul va fi afisat daca grupul este drilldown"/>
+  <StrRes Name="propSizeMode" Text="Modul de afisare al obiectelor OLE"/>
+  <StrRes Name="propVersion" Text="Versiunea FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Latimea relativa a obiectelor cod de bare"/>
+  <StrRes Name="propWysiwyg" Text="Determina daca obiectele rich trebuie sa foloseasca setarile de imprimanta pentru formatarea textului. Imprimanta trebuie sa fie instalata si activa."/>
+  <StrRes Name="propArrowEnd" Text="Determina daca linia va avea o sageata in capatul ei"/>
+  <StrRes Name="propArrowLength" Text="Lungimea sagetii"/>
+  <StrRes Name="propArrowSolid" Text="Determina daca varful sagetii va fi umplut"/>
+  <StrRes Name="propArrowStart" Text="Determina daca linia va avea o sageata la inceputul ei"/>
+  <StrRes Name="propArrowWidth" Text="Latimea sagetii"/>
+  <StrRes Name="propCloseDataSource" Text="Determina daca datasetul va fi inchis atunci la finalizarea raportului"/>
+  <StrRes Name="propDatabase" Text="Conexiunea la baza de date"/>
+  <StrRes Name="propIndexFieldNames" Text="Numele campurilor index"/>
+  <StrRes Name="propCommandTimeOut" Text="Inteval de timp necesar executiei unei interogari"/>
+  <StrRes Name="propExpandDrillDown" Text="Determina daca se vor expanda toate elementele drill-down la primul start al raportului"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Determina daca textul va fi afisat in modul WYSIWYG"/>
+  <StrRes Name="propLeftLine" Text="Marginea stanga a unui cadru"/>
+  <StrRes Name="propTopLine" Text="Marginea de sus a unui cadru"/>
+  <StrRes Name="propRightLine" Text="Marginea dreapta a unui cadru"/>
+  <StrRes Name="propBottomLine" Text="Marginea de jos a unui cadru"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Culoarea cadrului"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Stilul cadrului"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Latimea cadrului"/>
+  <StrRes Name="propFileLink" Text="Expresia sau numele fisierului ce contine o imagine"/>
+  <StrRes Name="propEndlessWidth" Text="Mod &#38;#34;Hartie continua&#38;#34;. Daca este adevarat, pagina va creste in functie de numarul de inregistrari continut pe aceasta"/>
+  <StrRes Name="propEndlessHeight" Text="Mod &#38;#34;Hartie continua&#38;#34;. Daca este adevarat, pagina va creste in functie de numarul de inregistrari continut pe aceasta"/>
+  <StrRes Name="propAddHeight" Text="Adauga spatiul specificat la inaltimea celulei"/>
+  <StrRes Name="propAddWidth" Text="Adauga spatiul specificat la latimea celulei"/>
+  <StrRes Name="propAllowDuplicates" Text="Determina daca celula poate accepta valori duplicate ale sirului"/>
+  <StrRes Name="propJoinEqualCells" Text="Determina daca un crosstab poate uni celulele cu valori egale"/>
+  <StrRes Name="propNextCross" Text="Pointer la urmatorul crosstabcare va fi afisat side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Spatiul dintre crosstabs-urile side-by-side"/>
+  <StrRes Name="propShowCorner" Text="Determina daca crosstab-ul ar trebui sa afiseze elementele stanga-sus"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

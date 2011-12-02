@@ -1,0 +1,230 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="1" Text="Aceptar"/>
+  <StrRes Name="2" Text="Cancelar"/>
+  <StrRes Name="3" Text="Todo"/>
+  <StrRes Name="4" Text="Página actual"/>
+  <StrRes Name="5" Text="Páginas:"/>
+  <StrRes Name="6" Text="Separador de página"/>
+  <StrRes Name="7" Text="Rango de Páginas"/>
+  <StrRes Name="8" Text="Opciones de Exportar"/>
+  <StrRes Name="9" Text="Indique los números de página y/o un rango, separado por comas. Por ejemplo: 1,3,5-12"/>
+  <StrRes Name="100" Text="Vista Previa"/>
+  <StrRes Name="101" Text="Imprimir"/>
+  <StrRes Name="102" Text="Imprimir"/>
+  <StrRes Name="103" Text="Abrir"/>
+  <StrRes Name="104" Text="Abrir"/>
+  <StrRes Name="105" Text="Guardar"/>
+  <StrRes Name="106" Text="Guardar"/>
+  <StrRes Name="107" Text="Exportar"/>
+  <StrRes Name="108" Text="Exportar"/>
+  <StrRes Name="109" Text="Buscar"/>
+  <StrRes Name="110" Text="Buscar"/>
+  <StrRes Name="111" Text="Ver página completa"/>
+  <StrRes Name="112" Text="Ver página completa"/>
+  <StrRes Name="113" Text="Ajustar al ancho"/>
+  <StrRes Name="114" Text="Ajustar al ancho"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Dos páginas"/>
+  <StrRes Name="118" Text="Dos páginas"/>
+  <StrRes Name="119" Text="Zoom"/>
+  <StrRes Name="120" Text="Márgenes"/>
+  <StrRes Name="121" Text="Márgenes"/>
+  <StrRes Name="122" Text="Resumen"/>
+  <StrRes Name="123" Text="Resumen"/>
+  <StrRes Name="124" Text="Acercar"/>
+  <StrRes Name="125" Text="Acercar"/>
+  <StrRes Name="126" Text="Alejar"/>
+  <StrRes Name="127" Text="Alejar"/>
+  <StrRes Name="128" Text="Indice"/>
+  <StrRes Name="129" Text="Indice del Informe"/>
+  <StrRes Name="130" Text="Diapositivas"/>
+  <StrRes Name="131" Text="Diapositivas"/>
+  <StrRes Name="132" Text="Editar"/>
+  <StrRes Name="133" Text="Editar Página"/>
+  <StrRes Name="134" Text="Primera"/>
+  <StrRes Name="135" Text="Primera página"/>
+  <StrRes Name="136" Text="Anterior"/>
+  <StrRes Name="137" Text="Página anterior"/>
+  <StrRes Name="138" Text="Siguiente"/>
+  <StrRes Name="139" Text="Página siguiente"/>
+  <StrRes Name="140" Text="Ultima"/>
+  <StrRes Name="141" Text="Ultima página"/>
+  <StrRes Name="142" Text="Ir a la página"/>
+  <StrRes Name="150" Text="Pantalla completa"/>
+  <StrRes Name="151" Text="Exportar a PDF"/>
+  <StrRes Name="152" Text="Enviar por E-mail"/>
+  <StrRes Name="zmPageWidth" Text="Ajustar al ancho"/>
+  <StrRes Name="zmWholePage" Text="Ver página completa"/>
+  <StrRes Name="200" Text="Imprimir"/>
+  <StrRes Name="201" Text="Impresora"/>
+  <StrRes Name="202" Text="Páginas"/>
+  <StrRes Name="203" Text="Número de copias"/>
+  <StrRes Name="204" Text="Intercalar"/>
+  <StrRes Name="205" Text="Copias"/>
+  <StrRes Name="206" Text="Imprimir"/>
+  <StrRes Name="207" Text="Otra"/>
+  <StrRes Name="208" Text="Condición:"/>
+  <StrRes Name="209" Text="Propiedades..."/>
+  <StrRes Name="210" Text="Imprimir en fichero"/>
+  <StrRes Name="211" Text="Orden"/>
+  <StrRes Name="212" Text="Nombre:"/>
+  <StrRes Name="213" Text="Modo de Impresión"/>
+  <StrRes Name="214" Text="Tamaño del papel"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Todas las páginas"/>
+  <StrRes Name="ppOdd" Text="Páginas impares"/>
+  <StrRes Name="ppEven" Text="Páginas impares"/>
+  <StrRes Name="pgDefault" Text="Predefinido"/>
+  <StrRes Name="pmDefault" Text="Predefinido"/>
+  <StrRes Name="pmSplit" Text="Partir páginas grandes"/>
+  <StrRes Name="pmJoin" Text="Unir páginas pequeñas"/>
+  <StrRes Name="pmScale" Text="Escala"/>
+  <StrRes Name="poDirect" Text="Directo (1-9)"/>
+  <StrRes Name="poReverse" Text="Inverso (9-1)"/>
+  <StrRes Name="300" Text="Buscar texto"/>
+  <StrRes Name="301" Text="Texto a buscar:"/>
+  <StrRes Name="302" Text="Opciones de búsqueda"/>
+  <StrRes Name="303" Text="Reemplazar con"/>
+  <StrRes Name="304" Text="Desde el principio"/>
+  <StrRes Name="305" Text="Distinguir Mayus/Minus."/>
+  <StrRes Name="400" Text="Configurar página"/>
+  <StrRes Name="401" Text="Ancho"/>
+  <StrRes Name="402" Text="Largo"/>
+  <StrRes Name="403" Text="Tamaño"/>
+  <StrRes Name="404" Text="Orientación"/>
+  <StrRes Name="405" Text="Izquierda"/>
+  <StrRes Name="406" Text="Arriba"/>
+  <StrRes Name="407" Text="Derecha"/>
+  <StrRes Name="408" Text="Abajo"/>
+  <StrRes Name="409" Text="Márgenes"/>
+  <StrRes Name="410" Text="Vertical"/>
+  <StrRes Name="411" Text="Horizontal"/>
+  <StrRes Name="412" Text="Otros"/>
+  <StrRes Name="413" Text="Aplicar a la página actual"/>
+  <StrRes Name="414" Text="Aplicar a todas las páginas"/>
+  <StrRes Name="500" Text="Imprimir"/>
+  <StrRes Name="501" Text="Impresora"/>
+  <StrRes Name="502" Text="Páginas"/>
+  <StrRes Name="503" Text="Copias"/>
+  <StrRes Name="504" Text="Número de copias"/>
+  <StrRes Name="505" Text="Opciones"/>
+  <StrRes Name="506" Text="Códigos de Escape"/>
+  <StrRes Name="507" Text="Imprimir en archivo"/>
+  <StrRes Name="508" Text="Códigos de página OEM"/>
+  <StrRes Name="509" Text="Pseudo graficos"/>
+  <StrRes Name="510" Text="Archivos de impresora (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Confirmar"/>
+  <StrRes Name="mbError" Text="Error"/>
+  <StrRes Name="mbInfo" Text="Información"/>
+  <StrRes Name="xrCantFindClass" Text="Clase no encontrada"/>
+  <StrRes Name="prVirtual" Text="Virtual"/>
+  <StrRes Name="prDefault" Text="Por defecto"/>
+  <StrRes Name="prCustom" Text="Personalizar"/>
+  <StrRes Name="enUnconnHeader" Text="Cabecera/Pie no conectadas"/>
+  <StrRes Name="enUnconnGroup" Text="No hay banda de datos para el grupo"/>
+  <StrRes Name="enUnconnGFooter" Text="No hay cabecera de grupo para"/>
+  <StrRes Name="enBandPos" Text="Posición incorrecta para la banda:"/>
+  <StrRes Name="dbNotConn" Text="El DataSet %s no está conectado a datos"/>
+  <StrRes Name="dbFldNotFound" Text="Campo no encontrado:"/>
+  <StrRes Name="clDSNotIncl" Text="(El Dataset no está incluido en los dataset del informe)"/>
+  <StrRes Name="clUnknownVar" Text="Variable o campo desconocido:"/>
+  <StrRes Name="clScrError" Text="Error en el script en %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="El Dataset &#38;#34;%s&#38;#34; no existe"/>
+  <StrRes Name="clErrors" Text="Ha ocurrido el siguiente error:"/>
+  <StrRes Name="clExprError" Text="Error en la expresión"/>
+  <StrRes Name="clFP3files" Text="Preparando el informe"/>
+  <StrRes Name="clSaving" Text="Guardando archivo..."/>
+  <StrRes Name="clCancel" Text="Cancelar"/>
+  <StrRes Name="clClose" Text="Cerrar"/>
+  <StrRes Name="clPrinting" Text="Imprimiendo página"/>
+  <StrRes Name="clLoading" Text="Cargando archivo..."/>
+  <StrRes Name="clPageOf" Text="Página %d de %d"/>
+  <StrRes Name="clFirstPass" Text="Primera pasada: página"/>
+  <StrRes Name="clNoPrinters" Text="No hay impresoras instaladas en su sistema"/>
+  <StrRes Name="clDecompressError" Text="Error al descomprimir el contenedor"/>
+  <StrRes Name="prRunningFirst" Text="Primera pasada: página %d"/>
+  <StrRes Name="prRunning" Text="Preparando página %d"/>
+  <StrRes Name="prPrinting" Text="Imprimiendo página %d"/>
+  <StrRes Name="prExporting" Text="Exportando página %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Predeterminada"/>
+  <StrRes Name="dupVert" Text="Vertical"/>
+  <StrRes Name="dupHorz" Text="Horizontal"/>
+  <StrRes Name="dupSimpl" Text="Simple"/>
+  <StrRes Name="crFillMx" Text="Llenando los datos cruzados"/>
+  <StrRes Name="crBuildMx" Text="Construyendo los datos cruzados"/>
+  <StrRes Name="SLangNotFound" Text="Lenguaje '%s' no encontrado"/>
+  <StrRes Name="SInvalidLanguage" Text="Lenguaje no válido"/>
+  <StrRes Name="SIdRedeclared" Text="Identificador redeclarado:"/>
+  <StrRes Name="SUnknownType" Text="Tipo desconocido: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Tipos incompatibles"/>
+  <StrRes Name="SIdUndeclared" Text="Identificador no declarado: "/>
+  <StrRes Name="SClassRequired" Text="Se requiere el tipo de la clase"/>
+  <StrRes Name="SIndexRequired" Text="Se requiere un índice"/>
+  <StrRes Name="SStringError" Text="La cadena no está entre las propiedades o métodos"/>
+  <StrRes Name="SClassError" Text="La clase %s no tiene propiedad por defecto"/>
+  <StrRes Name="SArrayRequired" Text="Se requiere un Array"/>
+  <StrRes Name="SVarRequired" Text="Variable requirida"/>
+  <StrRes Name="SNotEnoughParams" Text="Faltan parámetros"/>
+  <StrRes Name="STooManyParams" Text="Sobran parámetros"/>
+  <StrRes Name="SLeftCantAssigned" Text="El lado izquierdo no se puede asignar a"/>
+  <StrRes Name="SForError" Text="Los bucles For necesitan una variable numérica"/>
+  <StrRes Name="SEventError" Text="El manejador del evento ha de ser un procedimiento"/>
+  <StrRes Name="600" Text="Expandir todo"/>
+  <StrRes Name="601" Text="Contraer todo"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

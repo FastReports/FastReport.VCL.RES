@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="8000" Text="Ekspor ke Excel"/>
+  <StrRes Name="8001" Text="Gaya"/>
+  <StrRes Name="8002" Text="Gambar"/>
+  <StrRes Name="8003" Text="Gabung sel"/>
+  <StrRes Name="8004" Text="Ekspor cepat"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Sebagai teks"/>
+  <StrRes Name="8007" Text="Latar belakang"/>
+  <StrRes Name="8008" Text="Buka Excel setelah ekspor"/>
+  <StrRes Name="8009" Text="File Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Ekspor ke Excel"/>
+  <StrRes Name="8101" Text="Gaya"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Latar belakang"/>
+  <StrRes Name="8104" Text="Buka Excel setelah ekspor"/>
+  <StrRes Name="8105" Text="File XML Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Ekspor ke tabel HTML"/>
+  <StrRes Name="8201" Text="Buka setelah ekspor"/>
+  <StrRes Name="8202" Text="Gaya"/>
+  <StrRes Name="8203" Text="Gambar"/>
+  <StrRes Name="8204" Text="Semua dalam satu folder"/>
+  <StrRes Name="8205" Text="Panjang tetap"/>
+  <StrRes Name="8206" Text="Navigator halaman"/>
+  <StrRes Name="8207" Text="Multi halaman"/>
+  <StrRes Name="8208" Text="Mozilla browser"/>
+  <StrRes Name="8209" Text="Latar belakang"/>
+  <StrRes Name="8210" Text="File HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Ekspor ke teks (dot-matrix printer)"/>
+  <StrRes Name="8301" Text="Preview hidup/mati"/>
+  <StrRes Name="8302" Text=" Properti Ekspor"/>
+  <StrRes Name="8303" Text="Pemisah halaman"/>
+  <StrRes Name="8304" Text="Kode halaman OEM"/>
+  <StrRes Name="8305" Text="Baris kosong"/>
+  <StrRes Name="8306" Text="Didahului spasi"/>
+  <StrRes Name="8307" Text="Nomor halaman"/>
+  <StrRes Name="8308" Text="Masukkan angka dan/atau jarak halaman, dipisahkan oleh koma. Contoh: 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Skala"/>
+  <StrRes Name="8310" Text="Skala X"/>
+  <StrRes Name="8311" Text="Skala Y"/>
+  <StrRes Name="8312" Text=" Frames "/>
+  <StrRes Name="8313" Text="Tidak ada"/>
+  <StrRes Name="8314" Text="Sederhana"/>
+  <StrRes Name="8315" Text="Grafik"/>
+  <StrRes Name="8316" Text="Hanya dengan kode OEM"/>
+  <StrRes Name="8317" Text="Cetak setelah ekspor"/>
+  <StrRes Name="8318" Text="Simpan seting"/>
+  <StrRes Name="8319" Text=" Preview "/>
+  <StrRes Name="8320" Text="Panjang:"/>
+  <StrRes Name="8321" Text="Tinggi:"/>
+  <StrRes Name="8322" Text="Halaman"/>
+  <StrRes Name="8323" Text="Zoom in"/>
+  <StrRes Name="8324" Text="Zoom out"/>
+  <StrRes Name="8325" Text="File teks (dot-matrix printer)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Cetak"/>
+  <StrRes Name="8401" Text="Printer"/>
+  <StrRes Name="8402" Text="Nama"/>
+  <StrRes Name="8403" Text="Setup..."/>
+  <StrRes Name="8404" Text="Duplikat"/>
+  <StrRes Name="8405" Text="Jumlah duplikat"/>
+  <StrRes Name="8406" Text=" Setup init Printer"/>
+  <StrRes Name="8407" Text="Tipe Printer"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Printer init template (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Printer init template (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Ekspor ke RTF"/>
+  <StrRes Name="8501" Text="Gambar"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Buka setelah ekspor"/>
+  <StrRes Name="8504" Text="File RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Seting Ekspor"/>
+  <StrRes Name="8601" Text=" Seting Gambar"/>
+  <StrRes Name="8602" Text="Kualitas JPEG"/>
+  <StrRes Name="8603" Text="Resolusi (dpi)"/>
+  <StrRes Name="8604" Text="Pisahkan file"/>
+  <StrRes Name="8605" Text="Potong halaman"/>
+  <StrRes Name="8606" Text="Monokrom"/>
+  <StrRes Name="8700" Text="Ekspor ke PDF"/>
+  <StrRes Name="8701" Text="Dipadatkan"/>
+  <StrRes Name="8702" Text="Fonts disertakan"/>
+  <StrRes Name="8703" Text="Cetak dioptimasi"/>
+  <StrRes Name="8704" Text="Outline"/>
+  <StrRes Name="8705" Text="Latar belakang"/>
+  <StrRes Name="8706" Text="Buka setelah ekspor"/>
+  <StrRes Name="8707" Text="Adobe PDF file (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="File RTF"/>
+  <StrRes Name="BMPexport" Text="Gambar BMP"/>
+  <StrRes Name="JPEGexport" Text="Gambar JPEG"/>
+  <StrRes Name="TIFFexport" Text="Gambar TIFF"/>
+  <StrRes Name="TextExport" Text="Teks (matrix printer)"/>
+  <StrRes Name="XlsOLEexport" Text="Tabel Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="File HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Tabel Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="File PDF"/>
+  <StrRes Name="ProgressWait" Text="Silahkan menunggu"/>
+  <StrRes Name="ProgressRows" Text="Menyiapkan baris"/>
+  <StrRes Name="ProgressColumns" Text="Menyiapkan kolom"/>
+  <StrRes Name="ProgressStyles" Text="Menyiapkan gaya"/>
+  <StrRes Name="ProgressObjects" Text="Mengekspor obyek"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff image (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP image (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Jpeg image (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Pertama"/>
+  <StrRes Name="HTMLNavPrev" Text="Sebelum"/>
+  <StrRes Name="HTMLNavNext" Text="Berikut"/>
+  <StrRes Name="HTMLNavLast" Text="Terakhir"/>
+  <StrRes Name="HTMLNavRefresh" Text="Segarkan"/>
+  <StrRes Name="HTMLNavPrint" Text="Cetak"/>
+  <StrRes Name="HTMLNavTotal" Text="Total halaman"/>
+  <StrRes Name="8800" Text="Ekspor ke teks"/>
+  <StrRes Name="8801" Text="Text file (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Text file"/>
+  <StrRes Name="8850" Text="Ekspor ke CSV"/>
+  <StrRes Name="8851" Text="CSV file (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Pemisah"/>
+  <StrRes Name="CSVExport" Text="CSV file"/>
+  <StrRes Name="8900" Text="Kirim dengan E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Akun"/>
+  <StrRes Name="8903" Text="Koneksi"/>
+  <StrRes Name="8904" Text="Alamat"/>
+  <StrRes Name="8905" Text="Lampiran"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Dari Alamat"/>
+  <StrRes Name="8908" Text="Dari Nama"/>
+  <StrRes Name="8909" Text="Host"/>
+  <StrRes Name="8910" Text="Masuk"/>
+  <StrRes Name="8911" Text="Surat"/>
+  <StrRes Name="8912" Text="Pesan"/>
+  <StrRes Name="8913" Text="Teks"/>
+  <StrRes Name="8914" Text="Organisasi"/>
+  <StrRes Name="8915" Text="Kata sandi"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Ingat properti"/>
+  <StrRes Name="8918" Text="Field yang diperlukan tidak diisi"/>
+  <StrRes Name="8919" Text="Seting ekspor Lanjutan"/>
+  <StrRes Name="8920" Text="Tanda tangan"/>
+  <StrRes Name="8921" Text="Buat"/>
+  <StrRes Name="8922" Text="Subyek"/>
+  <StrRes Name="8923" Text="Salam hangat"/>
+  <StrRes Name="8924" Text="Kirim surat ke"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="FastReport file"/>
+  <StrRes Name="GifexportFilter" Text="Gif file (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif image"/>
+  <StrRes Name="8950" Text="Continuous"/>
+  <StrRes Name="8951" Text="Page Header/Footer"/>
+  <StrRes Name="8952" Text="Text"/>
+  <StrRes Name="8953" Text="Header/Footer"/>
+  <StrRes Name="8954" Text="None"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

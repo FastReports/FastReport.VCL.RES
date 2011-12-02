@@ -1,0 +1,846 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="2000" Text="Inspektor obiektów"/>
+  <StrRes Name="oiProp" Text="Właściwości"/>
+  <StrRes Name="oiEvent" Text="Zdarzenia"/>
+  <StrRes Name="2100" Text="Drzewo danych"/>
+  <StrRes Name="2101" Text="Dane"/>
+  <StrRes Name="2102" Text="Zmienne"/>
+  <StrRes Name="2103" Text="Funkcje"/>
+  <StrRes Name="2104" Text="Twórz pole"/>
+  <StrRes Name="2105" Text="Twórz opis"/>
+  <StrRes Name="2106" Text="Classes"/>
+  <StrRes Name="dtNoData" Text="Dane niedostępne."/>
+  <StrRes Name="dtNoData1" Text="Go &#38;#34;Report|Data...&#38;#34; menu to add an existing datasets to your report, or switch to &#38;#34;Data&#38;#34; tab and create new datasets."/>
+  <StrRes Name="dtData" Text="Dane"/>
+  <StrRes Name="dtSysVar" Text="Zmienne systemowe"/>
+  <StrRes Name="dtVar" Text="Zmienne"/>
+  <StrRes Name="dtFunc" Text="Funkcje"/>
+  <StrRes Name="2200" Text="Drzewo raportu"/>
+  <StrRes Name="2300" Text="Otwórz plik skryptu"/>
+  <StrRes Name="2301" Text="Zapisz plik skryptu"/>
+  <StrRes Name="2302" Text="Uruchom skrypt"/>
+  <StrRes Name="2303" Text="Uruchom krokowo"/>
+  <StrRes Name="2304" Text="Przerwij wykonywanie skryptu"/>
+  <StrRes Name="2305" Text="Ustalenie wartości"/>
+  <StrRes Name="2306" Text="Język:"/>
+  <StrRes Name="2307" Text="Położenie"/>
+  <StrRes Name="2308" Text="Do lewej"/>
+  <StrRes Name="2309" Text="Środek poziomo"/>
+  <StrRes Name="2310" Text="Do prawej"/>
+  <StrRes Name="2311" Text="U góry"/>
+  <StrRes Name="2312" Text="Środek pionowo"/>
+  <StrRes Name="2313" Text="Na dole"/>
+  <StrRes Name="2314" Text="Rozmieść poziomo"/>
+  <StrRes Name="2315" Text="Rozmieść pionowo"/>
+  <StrRes Name="2316" Text="Centruj poziomo na wstędze"/>
+  <StrRes Name="2317" Text="Centruj pionowo na wstędze"/>
+  <StrRes Name="2318" Text="Taka sama szerokość"/>
+  <StrRes Name="2319" Text="Taka sama wysokość"/>
+  <StrRes Name="2320" Text="Tekst"/>
+  <StrRes Name="2321" Text="Styl"/>
+  <StrRes Name="2322" Text="Nazwa czcionki"/>
+  <StrRes Name="2323" Text="Rozmiar czcionki"/>
+  <StrRes Name="2324" Text="Pogrubienie"/>
+  <StrRes Name="2325" Text="Pochylenie"/>
+  <StrRes Name="2326" Text="Podkreślenie"/>
+  <StrRes Name="2327" Text="Kolor czcionki"/>
+  <StrRes Name="2328" Text="Wyróżnienie"/>
+  <StrRes Name="2329" Text="Obrót tekstu"/>
+  <StrRes Name="2330" Text="Wyrównanie do lewej"/>
+  <StrRes Name="2331" Text="Wyśrodkowanie poziome"/>
+  <StrRes Name="2332" Text="Wyrównanie do prawej"/>
+  <StrRes Name="2333" Text="Justowanie"/>
+  <StrRes Name="2334" Text="Wyrównanie do góry"/>
+  <StrRes Name="2335" Text="Wyśrodkowanie pionowe"/>
+  <StrRes Name="2336" Text="Wyrównanie do dołu"/>
+  <StrRes Name="2337" Text="Ramka"/>
+  <StrRes Name="2338" Text="Górna linia"/>
+  <StrRes Name="2339" Text="Dolna linia"/>
+  <StrRes Name="2340" Text="Lewa linia"/>
+  <StrRes Name="2341" Text="Prawa linia"/>
+  <StrRes Name="2342" Text="Wszystkie linie ramki"/>
+  <StrRes Name="2343" Text="Bez ramki"/>
+  <StrRes Name="2344" Text="Cień"/>
+  <StrRes Name="2345" Text="Kolor tła"/>
+  <StrRes Name="2346" Text="Kolor ramki"/>
+  <StrRes Name="2347" Text="Styl ramki"/>
+  <StrRes Name="2348" Text="Grubość ramki"/>
+  <StrRes Name="2349" Text="Standard"/>
+  <StrRes Name="2350" Text="Nowy Raport"/>
+  <StrRes Name="2351" Text="Otwórz Raport"/>
+  <StrRes Name="2352" Text="Zapisz Raport"/>
+  <StrRes Name="2353" Text="Podgląd"/>
+  <StrRes Name="2354" Text="Nowa Strona Raportu"/>
+  <StrRes Name="2355" Text="Nowa Strona Dialogowa"/>
+  <StrRes Name="2356" Text="Usuń Stronę"/>
+  <StrRes Name="2357" Text="Ustawienia Strony"/>
+  <StrRes Name="2358" Text="Zmienne"/>
+  <StrRes Name="2359" Text="Wytnij"/>
+  <StrRes Name="2360" Text="Kopiuj"/>
+  <StrRes Name="2361" Text="Wklej"/>
+  <StrRes Name="2362" Text="Kopiuj formatowanie"/>
+  <StrRes Name="2363" Text="Cofnij"/>
+  <StrRes Name="2364" Text="Ponów"/>
+  <StrRes Name="2365" Text="Grupuj"/>
+  <StrRes Name="2366" Text="Rozgrupuj"/>
+  <StrRes Name="2367" Text="Pokaż Siatkę"/>
+  <StrRes Name="2368" Text="Przyciągaj do siatki"/>
+  <StrRes Name="2369" Text="Wpasuj w siatkę"/>
+  <StrRes Name="2370" Text="Powiększenie"/>
+  <StrRes Name="2371" Text="Dodatkowe narzędzia"/>
+  <StrRes Name="2372" Text="Wskaźnik"/>
+  <StrRes Name="2373" Text="Rączka"/>
+  <StrRes Name="2374" Text="Lupa"/>
+  <StrRes Name="2375" Text="Edycja tekstu"/>
+  <StrRes Name="2376" Text="Kopiowanie formatu"/>
+  <StrRes Name="2377" Text="Wstawianie wstęgi"/>
+  <StrRes Name="2378" Text="&amp;Plik"/>
+  <StrRes Name="2379" Text="&amp;Edycja"/>
+  <StrRes Name="2380" Text="Znajdź..."/>
+  <StrRes Name="2381" Text="Znajdź następne"/>
+  <StrRes Name="2382" Text="Zamień..."/>
+  <StrRes Name="2383" Text="&amp;Raport"/>
+  <StrRes Name="2384" Text="Dane..."/>
+  <StrRes Name="2385" Text="Opcje..."/>
+  <StrRes Name="2386" Text="Style..."/>
+  <StrRes Name="2387" Text="&amp;Widok"/>
+  <StrRes Name="2388" Text="Paski narzędzi"/>
+  <StrRes Name="2389" Text="Standardowy"/>
+  <StrRes Name="2390" Text="Tekst"/>
+  <StrRes Name="2391" Text="Ramka"/>
+  <StrRes Name="2392" Text="Rozmieszczenie"/>
+  <StrRes Name="2393" Text="Dodatkowe narzędzia"/>
+  <StrRes Name="2394" Text="Inspektor obiektów"/>
+  <StrRes Name="2395" Text="Drzewo danych"/>
+  <StrRes Name="2396" Text="Drzewo raportu"/>
+  <StrRes Name="2397" Text="Linijki"/>
+  <StrRes Name="2398" Text="Prowadnice"/>
+  <StrRes Name="2399" Text="Usuń prowadnice"/>
+  <StrRes Name="2400" Text="Opcje..."/>
+  <StrRes Name="2401" Text="&amp;Pomoc"/>
+  <StrRes Name="2402" Text="Pomoc kontekstowa..."/>
+  <StrRes Name="2403" Text="O FastReport..."/>
+  <StrRes Name="2404" Text="Porządek tabulacji..."/>
+  <StrRes Name="2405" Text="Cofnij"/>
+  <StrRes Name="2406" Text="Ponów"/>
+  <StrRes Name="2407" Text="Wytnij"/>
+  <StrRes Name="2408" Text="Kopiuj"/>
+  <StrRes Name="2409" Text="Wklej"/>
+  <StrRes Name="2410" Text="Grupuj"/>
+  <StrRes Name="2411" Text="Rozgrupuj"/>
+  <StrRes Name="2412" Text="Usuń"/>
+  <StrRes Name="2413" Text="Usuń stronę"/>
+  <StrRes Name="2414" Text="Wybierz wszystko"/>
+  <StrRes Name="2415" Text="Edytuj..."/>
+  <StrRes Name="2416" Text="Przesuń na wierzch"/>
+  <StrRes Name="2417" Text="Schowaj pod spód"/>
+  <StrRes Name="2418" Text="Nowy..."/>
+  <StrRes Name="2419" Text="Nowy raport"/>
+  <StrRes Name="2420" Text="Nowa strona"/>
+  <StrRes Name="2421" Text="Nowy dialog"/>
+  <StrRes Name="2422" Text="Otwórz..."/>
+  <StrRes Name="2423" Text="Zapisz"/>
+  <StrRes Name="2424" Text="Zapisz jako..."/>
+  <StrRes Name="2425" Text="Zmienne..."/>
+  <StrRes Name="2426" Text="Ustawienia strony..."/>
+  <StrRes Name="2427" Text="Podgląd"/>
+  <StrRes Name="2428" Text="Wyjście"/>
+  <StrRes Name="2429" Text="Nagłówek raportu"/>
+  <StrRes Name="2430" Text="Podsumowanie raportu"/>
+  <StrRes Name="2431" Text="Nagłówek strony"/>
+  <StrRes Name="2432" Text="Stopka strony"/>
+  <StrRes Name="2433" Text="Nagłówek"/>
+  <StrRes Name="2434" Text="Stopka"/>
+  <StrRes Name="2435" Text="Główne dane"/>
+  <StrRes Name="2436" Text="Szczegółowe dane"/>
+  <StrRes Name="2437" Text="Szczegółowe dane 3.poziom"/>
+  <StrRes Name="2438" Text="Szczegółowe dane 4.poziom"/>
+  <StrRes Name="2439" Text="Szczegółowe dane 5.poziom"/>
+  <StrRes Name="2440" Text="Szczegółowe dane 6.poziom"/>
+  <StrRes Name="2441" Text="Nagłówek grupy"/>
+  <StrRes Name="2442" Text="Stopka grupy"/>
+  <StrRes Name="2443" Text="Wstęga podrzędna"/>
+  <StrRes Name="2444" Text="Nagłówek kolumny"/>
+  <StrRes Name="2445" Text="Stopka kolumny"/>
+  <StrRes Name="2446" Text="Nakładka"/>
+  <StrRes Name="2447" Text="Pionowe wstęgi"/>
+  <StrRes Name="2448" Text="Nagłówek"/>
+  <StrRes Name="2449" Text="Stopka"/>
+  <StrRes Name="2450" Text="Glówne dane"/>
+  <StrRes Name="2451" Text="Szczegółowe dane"/>
+  <StrRes Name="2452" Text="Szczegółowe dane 3.poziom"/>
+  <StrRes Name="2453" Text="Nagłówek grupy"/>
+  <StrRes Name="2454" Text="Stopka grupy"/>
+  <StrRes Name="2455" Text="Wstęga podrzędna"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Ustawienia czcionki"/>
+  <StrRes Name="2462" Text="Pogrubienie"/>
+  <StrRes Name="2463" Text="Pochylenie"/>
+  <StrRes Name="2464" Text="Podkreślenie"/>
+  <StrRes Name="2465" Text="Super Skrypt"/>
+  <StrRes Name="2466" Text="Podskrypt"/>
+  <StrRes Name="2467" Text="Zagęszczone"/>
+  <StrRes Name="2468" Text="Szerokie"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Raport (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="pliki Pascal (*.pas)|*.pas|pliki C++ (*.cpp)|*.cpp|pliki JavaScript (*.js)|*.js|pliki Basic (*.vb)|*.vb|Wszystkie|*.*"/>
+  <StrRes Name="2473" Text="pliki Pascal (*.pas)|*.pas|pliki C++ (*.cpp)|*.cpp|pliki JavaScript (*.js)|*.js|pliki Basic (*.vb)|*.vb|Wszystkie|*.*"/>
+  <StrRes Name="2474" Text="Połączenia..."/>
+  <StrRes Name="2475" Text="Język"/>
+  <StrRes Name="2476" Text="Przelącznik punktu kontrolnego"/>
+  <StrRes Name="2477" Text="Przejź do kursora"/>
+  <StrRes Name="2478" Text="!Dodaj pasek"/>
+  <StrRes Name="dsCm" Text="Centymetry"/>
+  <StrRes Name="dsInch" Text="Cale"/>
+  <StrRes Name="dsPix" Text="Piksele"/>
+  <StrRes Name="dsChars" Text="Znaki"/>
+  <StrRes Name="dsCode" Text="Kod"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Strona"/>
+  <StrRes Name="dsRepFilter" Text="Raport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Skompresowany raport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Zapisz zmiany w przeglądanej stronie?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Zapisz zmiany do "/>
+  <StrRes Name="dsCantLoad" Text="Nie można wczytać pliku"/>
+  <StrRes Name="dsStyleFile" Text="Styl"/>
+  <StrRes Name="dsCantFindProc" Text="Nie można znaleźć głównej proc"/>
+  <StrRes Name="dsClearScript" Text="Wszystkie kody zostaną usunięte. Czy chcesz kontynuować ?"/>
+  <StrRes Name="dsNoStyle" Text="Brak stylu"/>
+  <StrRes Name="dsStyleSample" Text="Przykład stylu"/>
+  <StrRes Name="dsTextNotFound" Text="Tekst '%s' nie został znaleziony"/>
+  <StrRes Name="dsReplace" Text="Czy zamienić to wystąpienie '%s'?"/>
+  <StrRes Name="2600" Text="O FastReport"/>
+  <StrRes Name="2601" Text="Więcej informacji na naszej stronie:"/>
+  <StrRes Name="2602" Text="Sprzedaż:"/>
+  <StrRes Name="2603" Text="Wsparcie:"/>
+  <StrRes Name="2700" Text="Opcje strony"/>
+  <StrRes Name="2701" Text="Papier"/>
+  <StrRes Name="2702" Text="Szerokość"/>
+  <StrRes Name="2703" Text="Wysokość"/>
+  <StrRes Name="2704" Text="Rozmiar"/>
+  <StrRes Name="2705" Text="Orientacja"/>
+  <StrRes Name="2706" Text="Lewy"/>
+  <StrRes Name="2707" Text="Górny"/>
+  <StrRes Name="2708" Text="Prawy"/>
+  <StrRes Name="2709" Text="Dolny"/>
+  <StrRes Name="2710" Text="Marginesy"/>
+  <StrRes Name="2711" Text="Źródło papieru"/>
+  <StrRes Name="2712" Text="Pierwsza strona"/>
+  <StrRes Name="2713" Text="Pozostałe strony"/>
+  <StrRes Name="2714" Text="Pionowa"/>
+  <StrRes Name="2715" Text="Pozioma"/>
+  <StrRes Name="2716" Text="Pozostałe"/>
+  <StrRes Name="2717" Text="Kolumny"/>
+  <StrRes Name="2718" Text="Ilość"/>
+  <StrRes Name="2719" Text="Szerokość"/>
+  <StrRes Name="2720" Text="Pozycje"/>
+  <StrRes Name="2721" Text="Inne"/>
+  <StrRes Name="2722" Text="Duplex"/>
+  <StrRes Name="2723" Text="Drukuj do poprzedniej strony"/>
+  <StrRes Name="2724" Text="Marginesy lustrzane"/>
+  <StrRes Name="2725" Text="Duża wysokość strony w trybie projektowania"/>
+  <StrRes Name="2726" Text="Nieskończona szerokośc strony"/>
+  <StrRes Name="2727" Text="Nieskończona wysokość strony"/>
+  <StrRes Name="2800" Text="Wybór źródeł danych raportu"/>
+  <StrRes Name="2900" Text="Edycja zmiennych"/>
+  <StrRes Name="2901" Text="Kategoria"/>
+  <StrRes Name="2902" Text="Zmienna"/>
+  <StrRes Name="2903" Text="Edytuj"/>
+  <StrRes Name="2904" Text="Usuń"/>
+  <StrRes Name="2905" Text="Lista"/>
+  <StrRes Name="2906" Text="Wczytaj"/>
+  <StrRes Name="2907" Text="Zapisz"/>
+  <StrRes Name="2908" Text=" Wyrażenie:"/>
+  <StrRes Name="2909" Text="Słownik (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Słownik (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(brak zdefiniowanych zmiennych)"/>
+  <StrRes Name="vaVar" Text="Zmienne"/>
+  <StrRes Name="vaDupName" Text="Zmienna o tej nazwie już występuje"/>
+  <StrRes Name="3000" Text="Opcje konstruktora raportów"/>
+  <StrRes Name="3001" Text="Siatka"/>
+  <StrRes Name="3002" Text="Rodzaj miary"/>
+  <StrRes Name="3003" Text="Rozmiar"/>
+  <StrRes Name="3004" Text="Okno dialogowe:"/>
+  <StrRes Name="3005" Text="Inne"/>
+  <StrRes Name="3006" Text="Czcionki"/>
+  <StrRes Name="3007" Text="Okno kodu"/>
+  <StrRes Name="3008" Text="Edytor tekstu"/>
+  <StrRes Name="3009" Text="Rozmiar"/>
+  <StrRes Name="3010" Text="Rozmiar"/>
+  <StrRes Name="3011" Text="Kolory"/>
+  <StrRes Name="3012" Text="Przerwa pomiędzy wstęgami:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Centymetry:"/>
+  <StrRes Name="3019" Text="Cale:"/>
+  <StrRes Name="3020" Text="Pixele:"/>
+  <StrRes Name="3021" Text="Pokazuj siatkę"/>
+  <StrRes Name="3022" Text="Przyciągaj do siatki"/>
+  <StrRes Name="3023" Text="Wyświetl edytor po dopisaniu"/>
+  <StrRes Name="3024" Text="Użyj ustawień czcionki w obiektach"/>
+  <StrRes Name="3025" Text="Okno konstruktora"/>
+  <StrRes Name="3026" Text="Okna narzędziowe"/>
+  <StrRes Name="3027" Text="Kolor siatki dla monitora LCD"/>
+  <StrRes Name="3028" Text="Dowolne rozmieszczanie wstęg"/>
+  <StrRes Name="3029" Text="Show drop-down fields list"/>
+  <StrRes Name="3030" Text="Show startup screen"/>
+  <StrRes Name="3031" Text="Przywróć domyślne"/>
+  <StrRes Name="3032" Text="Wyświetlanie opisów wstęg"/>
+  <StrRes Name="3100" Text="Wybór źródła danych"/>
+  <StrRes Name="3101" Text="Ilość rekordów:"/>
+  <StrRes Name="dbNotAssigned" Text="[brak źródła]"/>
+  <StrRes Name="3200" Text="Grupa"/>
+  <StrRes Name="3201" Text="Warunek grupowania"/>
+  <StrRes Name="3202" Text="Opcje"/>
+  <StrRes Name="3203" Text="Pole danych"/>
+  <StrRes Name="3204" Text="Wyrażenie"/>
+  <StrRes Name="3205" Text="Nie dziel krótkich grupy na strony"/>
+  <StrRes Name="3206" Text="Rozpocznij od nowej strony"/>
+  <StrRes Name="3207" Text="Wyświetl w oknie zakładek"/>
+  <StrRes Name="3300" Text="Kontrolka systemowa"/>
+  <StrRes Name="3301" Text="Wstęga danych"/>
+  <StrRes Name="3302" Text="Źródło danych"/>
+  <StrRes Name="3303" Text="Pole tabeli"/>
+  <StrRes Name="3304" Text="Funkcja"/>
+  <StrRes Name="3305" Text="Wyrażenie"/>
+  <StrRes Name="3306" Text="Wartość łączna"/>
+  <StrRes Name="3307" Text="Wartość systemowa"/>
+  <StrRes Name="3308" Text="Zliczanie niewidocznych wstęg"/>
+  <StrRes Name="3309" Text="Tekst"/>
+  <StrRes Name="3310" Text="Suma ogólna"/>
+  <StrRes Name="3311" Text="Suma ogólna"/>
+  <StrRes Name="agAggregate" Text="Wstaw łączną wartość"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] z [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="Obiekt OLE"/>
+  <StrRes Name="3401" Text="Wstaw..."/>
+  <StrRes Name="3402" Text="Edytuj..."/>
+  <StrRes Name="3403" Text="Zamknij"/>
+  <StrRes Name="olStretched" Text="Dopasowanie"/>
+  <StrRes Name="3500" Text="Edytor kodu kreskowego"/>
+  <StrRes Name="3501" Text="Kod"/>
+  <StrRes Name="3502" Text="Rodzaj kodu"/>
+  <StrRes Name="3503" Text="Powiększenie:"/>
+  <StrRes Name="3504" Text="Opcje"/>
+  <StrRes Name="3505" Text="Obrót"/>
+  <StrRes Name="3506" Text="Suma kontrolna "/>
+  <StrRes Name="3507" Text="Text"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Suma kontrolna"/>
+  <StrRes Name="bcShowText" Text="Pokaż tekst"/>
+  <StrRes Name="3600" Text="Edytor aliasów"/>
+  <StrRes Name="3601" Text="Naciśnij Enter aby poprawić pozycję"/>
+  <StrRes Name="3602" Text="Alias źródła danych"/>
+  <StrRes Name="3603" Text="Alias pola"/>
+  <StrRes Name="3604" Text="Reset"/>
+  <StrRes Name="3605" Text="Update"/>
+  <StrRes Name="alUserName" Text="Nazwa użytkownika"/>
+  <StrRes Name="alOriginal" Text="Nazwa oryginalna"/>
+  <StrRes Name="3700" Text="Parameters Editor"/>
+  <StrRes Name="qpName" Text="Nazwa"/>
+  <StrRes Name="qpDataType" Text="Typ danych"/>
+  <StrRes Name="qpValue" Text="Wartość"/>
+  <StrRes Name="3800" Text="Połączenie główne-szczegółowe źródło"/>
+  <StrRes Name="3801" Text="Pola szczeg."/>
+  <StrRes Name="3802" Text="Pola głównego"/>
+  <StrRes Name="3803" Text="Pola powiązane"/>
+  <StrRes Name="3804" Text="Dodaj"/>
+  <StrRes Name="3805" Text="Wyczyść"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Wstaw wyrażenie"/>
+  <StrRes Name="3902" Text="Wstaw wyliczenie"/>
+  <StrRes Name="3903" Text="Wstaw formatowanie"/>
+  <StrRes Name="3904" Text="Przenoszenie wyrazów"/>
+  <StrRes Name="3905" Text="Text"/>
+  <StrRes Name="3906" Text="Format"/>
+  <StrRes Name="3907" Text="Highlight"/>
+  <StrRes Name="4000" Text="Obraz"/>
+  <StrRes Name="4001" Text="Wczytaj"/>
+  <StrRes Name="4002" Text="Kopiuj"/>
+  <StrRes Name="4003" Text="Wklej"/>
+  <StrRes Name="4004" Text="Wyczyść"/>
+  <StrRes Name="piEmpty" Text="Pusty"/>
+  <StrRes Name="4100" Text="Edytor wykresu"/>
+  <StrRes Name="4101" Text="Dodaj serię danych"/>
+  <StrRes Name="4102" Text="Usuń serię danych"/>
+  <StrRes Name="4103" Text="Edytuj wykres"/>
+  <StrRes Name="4104" Text="Dane ze wstęgi"/>
+  <StrRes Name="4105" Text="Dane stałe"/>
+  <StrRes Name="4106" Text="Źródło danych"/>
+  <StrRes Name="4107" Text="Data Source"/>
+  <StrRes Name="4108" Text="Wartości"/>
+  <StrRes Name="4109" Text="Wybierz wykres z lity lub dodaj nowy."/>
+  <StrRes Name="4114" Text="Inne opcje"/>
+  <StrRes Name="4115" Text="Pokazuj N pierwszych wartości"/>
+  <StrRes Name="4116" Text="Opis"/>
+  <StrRes Name="4117" Text="Rodzaj sortowania"/>
+  <StrRes Name="4126" Text="X Axis"/>
+  <StrRes Name="ch3D" Text="Widok 3D"/>
+  <StrRes Name="chAxis" Text="Pokazuj osie"/>
+  <StrRes Name="chsoNone" Text="Brak"/>
+  <StrRes Name="chsoAscending" Text="Rosnąco"/>
+  <StrRes Name="chsoDescending" Text="Malejąco"/>
+  <StrRes Name="chxtText" Text="Text"/>
+  <StrRes Name="chxtNumber" Text="Numeric"/>
+  <StrRes Name="chxtDate" Text="Date"/>
+  <StrRes Name="4200" Text="Edytor obiektu Rich"/>
+  <StrRes Name="4201" Text="Otwórz plik"/>
+  <StrRes Name="4202" Text="Zapisz do pliku"/>
+  <StrRes Name="4203" Text="Wstecz"/>
+  <StrRes Name="4204" Text="Czcionka"/>
+  <StrRes Name="4205" Text="Wstaw wyrażenie"/>
+  <StrRes Name="4206" Text="Pogrubienie"/>
+  <StrRes Name="4207" Text="Pochylenie"/>
+  <StrRes Name="4208" Text="Podkreślenie"/>
+  <StrRes Name="4209" Text="Wyrównanie do lewej"/>
+  <StrRes Name="4210" Text="Centrowanie"/>
+  <StrRes Name="4211" Text="Wyrównanie do prawej"/>
+  <StrRes Name="4212" Text="Justowanie"/>
+  <StrRes Name="4213" Text="Wypunktowanie"/>
+  <StrRes Name="4300" Text="Edytor tabeli przestawnej"/>
+  <StrRes Name="4301" Text="Źródło danych"/>
+  <StrRes Name="4302" Text="Wymiary"/>
+  <StrRes Name="4303" Text="Wiersze"/>
+  <StrRes Name="4304" Text="Kolumny"/>
+  <StrRes Name="4305" Text="Komórki"/>
+  <StrRes Name="4306" Text="Struktura tabeli przestawnej"/>
+  <StrRes Name="4307" Text="Nagłówek wiersza"/>
+  <StrRes Name="4308" Text="Nagłówek kolumny"/>
+  <StrRes Name="4309" Text="Suma wiersza"/>
+  <StrRes Name="4310" Text="Suma kolumny"/>
+  <StrRes Name="4311" Text="Zamiana wiersze/kolumny"/>
+  <StrRes Name="4312" Text="!Wybierz styl"/>
+  <StrRes Name="4313" Text="!Zapisz bieżący styl..."/>
+  <StrRes Name="4314" Text="!Pokaż tytuł"/>
+  <StrRes Name="4315" Text="!Pokaż narożnik"/>
+  <StrRes Name="4316" Text="!Wstaw nagłówki na nowej stronie"/>
+  <StrRes Name="4317" Text="!Automatyczny rozmiar"/>
+  <StrRes Name="4318" Text="!Obramowanie komórek"/>
+  <StrRes Name="4319" Text="!Drukuj w dół a następnie w poprzek"/>
+  <StrRes Name="4320" Text="!Komórki obok siebie"/>
+  <StrRes Name="4321" Text="!Połącz równe komórki"/>
+  <StrRes Name="4322" Text="Brak"/>
+  <StrRes Name="4323" Text="Suma"/>
+  <StrRes Name="4324" Text="Minimum"/>
+  <StrRes Name="4325" Text="Maksimum"/>
+  <StrRes Name="4326" Text="Średnia"/>
+  <StrRes Name="4327" Text="Licznik"/>
+  <StrRes Name="4328" Text="Rosnąco (A-Z)"/>
+  <StrRes Name="4329" Text="Malejąco (Z-A)"/>
+  <StrRes Name="4330" Text="Brak sortowania"/>
+  <StrRes Name="crStName" Text="!Wprowadź nazwę stylu:"/>
+  <StrRes Name="crResize" Text="!Aby zmienić rozmiar tabeli krzyżowej, ustawić właściwość&#38;#34;AutoSize&#38;#34; na False (Fałsz)."/>
+  <StrRes Name="crSubtotal" Text="Podsumy"/>
+  <StrRes Name="crNone" Text="Brak"/>
+  <StrRes Name="crSum" Text="Sum"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Max"/>
+  <StrRes Name="crAvg" Text="Śred"/>
+  <StrRes Name="crCount" Text="Licz"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Edytor wyrażenia"/>
+  <StrRes Name="4401" Text="Wyrażenie:"/>
+  <StrRes Name="4500" Text="Format wyświetlania"/>
+  <StrRes Name="4501" Text="Kategoria"/>
+  <StrRes Name="4502" Text="Format"/>
+  <StrRes Name="4503" Text="Maska formatowania:"/>
+  <StrRes Name="4504" Text="Separator dziesiętny:"/>
+  <StrRes Name="fkText" Text="Tekst (nieformatowany)"/>
+  <StrRes Name="fkNumber" Text="Liczbowe"/>
+  <StrRes Name="fkDateTime" Text="Data/Czas"/>
+  <StrRes Name="fkBoolean" Text="Logiczne"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="28.11.2002;dd.mm.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 lis 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="28 Listopad 2002;dd mmmm yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="28.11.2002 02:14;dd.mm.yyyy hh:mm"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Nie,Tak;Nie,Tak"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="Fałsz,Prawda;Fałsz,Prawda"/>
+  <StrRes Name="4600" Text="Wyróżnienie"/>
+  <StrRes Name="4601" Text="Kolor..."/>
+  <StrRes Name="4602" Text="Kolor..."/>
+  <StrRes Name="4603" Text="Warunek"/>
+  <StrRes Name="4604" Text="Czcionka"/>
+  <StrRes Name="4605" Text="Tło"/>
+  <StrRes Name="4606" Text="Pogrubienie"/>
+  <StrRes Name="4607" Text="Pochylenie"/>
+  <StrRes Name="4608" Text="Podkreślenie"/>
+  <StrRes Name="4609" Text="Przezroczystość"/>
+  <StrRes Name="4610" Text="Inne"/>
+  <StrRes Name="4700" Text="Ustawienia raportu"/>
+  <StrRes Name="4701" Text="Ogólne"/>
+  <StrRes Name="4702" Text="Ustawienia drukarki"/>
+  <StrRes Name="4703" Text="Kopie"/>
+  <StrRes Name="4704" Text="Ogólne"/>
+  <StrRes Name="4705" Text="Hasło"/>
+  <StrRes Name="4706" Text="srtowanie kopii"/>
+  <StrRes Name="4707" Text="Podwójny przebieg"/>
+  <StrRes Name="4708" Text="Drukuj jeśli pusty"/>
+  <StrRes Name="4709" Text="Informacyjne"/>
+  <StrRes Name="4710" Text="Name"/>
+  <StrRes Name="4711" Text="Opis"/>
+  <StrRes Name="4712" Text="Ikona raportu"/>
+  <StrRes Name="4713" Text="Autor"/>
+  <StrRes Name="4714" Text="Nadrz."/>
+  <StrRes Name="4715" Text="Podrz."/>
+  <StrRes Name="4716" Text="Wydanie"/>
+  <StrRes Name="4717" Text="Kompil."/>
+  <StrRes Name="4718" Text="Utworzony"/>
+  <StrRes Name="4719" Text="Zmodyfikowany"/>
+  <StrRes Name="4720" Text="Opis"/>
+  <StrRes Name="4721" Text="Wersja"/>
+  <StrRes Name="4722" Text="Przeglądaj..."/>
+  <StrRes Name="4723" Text="Ustawienia dziedziczenia"/>
+  <StrRes Name="4724" Text="Wybierz opcję:"/>
+  <StrRes Name="4725" Text="Nie zmieniaj"/>
+  <StrRes Name="4726" Text="Odłącz raport bazowy"/>
+  <StrRes Name="4727" Text="Dziedzicz z raportu bazowego:"/>
+  <StrRes Name="4728" Text="Dziedziczenie"/>
+  <StrRes Name="rePrnOnPort" Text="włączony"/>
+  <StrRes Name="riNotInherited" Text="This report is not inherited."/>
+  <StrRes Name="riInherited" Text="Raport nie jest dziedziczony: %s"/>
+  <StrRes Name="4800" Text="Linie"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="Hasło"/>
+  <StrRes Name="5001" Text="Podaj hasło:"/>
+  <StrRes Name="5100" Text=" Edytor Styli"/>
+  <StrRes Name="5101" Text="Kolor..."/>
+  <StrRes Name="5102" Text="Czcionka..."/>
+  <StrRes Name="5103" Text="Ramka..."/>
+  <StrRes Name="5104" Text="Dodaj"/>
+  <StrRes Name="5105" Text="Usuń"/>
+  <StrRes Name="5106" Text="Edytuj"/>
+  <StrRes Name="5107" Text="Wczytaj"/>
+  <StrRes Name="5108" Text="Zapisz"/>
+  <StrRes Name="5200" Text="Edytor ramki"/>
+  <StrRes Name="5201" Text="Ramka"/>
+  <StrRes Name="5202" Text="Linia ramki"/>
+  <StrRes Name="5203" Text="Cień"/>
+  <StrRes Name="5204" Text="Górna linia"/>
+  <StrRes Name="5205" Text="Dolna linia"/>
+  <StrRes Name="5206" Text="Lewa linia"/>
+  <StrRes Name="5207" Text="Prawa linia"/>
+  <StrRes Name="5208" Text="Wszystkie linie"/>
+  <StrRes Name="5209" Text="Brak obramowania"/>
+  <StrRes Name="5210" Text="Kolor ramki"/>
+  <StrRes Name="5211" Text="Rodzaj ramki"/>
+  <StrRes Name="5212" Text="Grubość ramki"/>
+  <StrRes Name="5213" Text="Cień"/>
+  <StrRes Name="5214" Text="Kolor cienia"/>
+  <StrRes Name="5215" Text="Szerokość cienia"/>
+  <StrRes Name="5300" Text="Nowa pozycja"/>
+  <StrRes Name="5301" Text="Pozycje"/>
+  <StrRes Name="5302" Text="Przykłady"/>
+  <StrRes Name="5303" Text="Dziedziczyć raport"/>
+  <StrRes Name="5400" Text="Porządek Tab"/>
+  <StrRes Name="5401" Text="Lista elementów kontrolnych Tab:"/>
+  <StrRes Name="5402" Text="Przesuń do góry"/>
+  <StrRes Name="5403" Text="Przesuń na dół"/>
+  <StrRes Name="5500" Text="Wartość obliczana"/>
+  <StrRes Name="5501" Text="Wyrażenie"/>
+  <StrRes Name="5502" Text="Wynik"/>
+  <StrRes Name="5600" Text="Kreator raportu"/>
+  <StrRes Name="5601" Text="Dane"/>
+  <StrRes Name="5602" Text="Pola"/>
+  <StrRes Name="5603" Text="Grupowanie"/>
+  <StrRes Name="5604" Text="Rozmieszczenie"/>
+  <StrRes Name="5605" Text="Rodzaj raportu"/>
+  <StrRes Name="5606" Text="Step 1. Wybierz zbiór danych."/>
+  <StrRes Name="5607" Text="Step 2. Wybierz wyświetlane pola."/>
+  <StrRes Name="5608" Text="Step 3. Utwórz grupy (opcjanalnie)."/>
+  <StrRes Name="5609" Text="Step 4. Definiuj orientację strony i układ danych ."/>
+  <StrRes Name="5610" Text="Step 5. Wybierz styl raportu."/>
+  <StrRes Name="5611" Text="Dodaj &#62;"/>
+  <StrRes Name="5612" Text="Dodaj wszystkie &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Usuń"/>
+  <StrRes Name="5614" Text="&#60;&#60; Usuń wszystkie"/>
+  <StrRes Name="5615" Text="Dodaj &#62;"/>
+  <StrRes Name="5616" Text="&#60; Usuń"/>
+  <StrRes Name="5617" Text="Wybrane pola:"/>
+  <StrRes Name="5618" Text="Dostępne pola:"/>
+  <StrRes Name="5619" Text="Grupy:"/>
+  <StrRes Name="5620" Text="Orientacja strony"/>
+  <StrRes Name="5621" Text="Rozmieszczenie pól"/>
+  <StrRes Name="5622" Text="Pionowa"/>
+  <StrRes Name="5623" Text="Pozioma"/>
+  <StrRes Name="5624" Text="Tabularyczny"/>
+  <StrRes Name="5625" Text="Kolumnowy"/>
+  <StrRes Name="5626" Text="Dopasuj pola do szerokości strony"/>
+  <StrRes Name="5627" Text="&#60;&#60; Back"/>
+  <StrRes Name="5628" Text="Next &#62;&#62;"/>
+  <StrRes Name="5629" Text="Zakończ"/>
+  <StrRes Name="5630" Text="Nowa tabela..."/>
+  <StrRes Name="5631" Text="Nowe zapytanie..."/>
+  <StrRes Name="5632" Text="Wybierz połączenie bazy danych:"/>
+  <StrRes Name="5633" Text="Wybierz tabelę:"/>
+  <StrRes Name="5634" Text="lub"/>
+  <StrRes Name="5635" Text="Utwórz zapytanie..."/>
+  <StrRes Name="5636" Text="Konfiguruj połączenia"/>
+  <StrRes Name="wzStd" Text="Kreator raportu standardowego"/>
+  <StrRes Name="wzDMP" Text="Kreator raportu dla drukarek igłowych"/>
+  <StrRes Name="wzStdEmpty" Text="Raport standardowy"/>
+  <StrRes Name="wzDMPEmpty" Text="Raport dla drukarek igłowych"/>
+  <StrRes Name="5700" Text="Kreator połączeń"/>
+  <StrRes Name="5701" Text="Połączenie"/>
+  <StrRes Name="5702" Text="Wybierz typ połączenia:"/>
+  <StrRes Name="5703" Text="Wybierz bazę danych:"/>
+  <StrRes Name="5704" Text="Login"/>
+  <StrRes Name="5705" Text="Hasło"/>
+  <StrRes Name="5706" Text="Znak zgłoszenia loginu"/>
+  <StrRes Name="5707" Text="Login/hasło użytkownika:"/>
+  <StrRes Name="5708" Text="Tabela"/>
+  <StrRes Name="5709" Text="Wybierz nazwę tabeli:"/>
+  <StrRes Name="5710" Text="Filtruj rekordy:"/>
+  <StrRes Name="5711" Text="Zapytanie"/>
+  <StrRes Name="5712" Text="Instrukcja SQL:"/>
+  <StrRes Name="5713" Text="Query Builder"/>
+  <StrRes Name="5714" Text="Edytuj parametry zapytania"/>
+  <StrRes Name="ftAllFiles" Text="Wszystkie pliki"/>
+  <StrRes Name="ftPictures" Text="Obrazy"/>
+  <StrRes Name="ftDB" Text="Bazy danych"/>
+  <StrRes Name="ftRichFile" Text="Dokument RichText"/>
+  <StrRes Name="ftTextFile" Text="Dokument tekstowy"/>
+  <StrRes Name="prNotAssigned" Text="(Brak)"/>
+  <StrRes Name="prInvProp" Text="Nieprawidłowa wartość właściowości"/>
+  <StrRes Name="prDupl" Text="Nazwa jest już użyta"/>
+  <StrRes Name="prPict" Text="(Obraz)"/>
+  <StrRes Name="mvExpr" Text="Zezwól na wyrażenia"/>
+  <StrRes Name="mvStretch" Text="Dopasuj"/>
+  <StrRes Name="mvStretchToMax" Text="Dopasuj do maks.wysokości"/>
+  <StrRes Name="mvShift" Text="Przesuń"/>
+  <StrRes Name="mvShiftOver" Text="Przesuń jeśli się nakłada"/>
+  <StrRes Name="mvVisible" Text="Widoczny"/>
+  <StrRes Name="mvPrintable" Text="Dobry do druku"/>
+  <StrRes Name="mvFont" Text="Czcionka..."/>
+  <StrRes Name="mvFormat" Text="Format wyświetlania..."/>
+  <StrRes Name="mvClear" Text="Wyczyść zawartość"/>
+  <StrRes Name="mvAutoWidth" Text="Automatyczna szerokość"/>
+  <StrRes Name="mvWWrap" Text="Zawijaj wiersze"/>
+  <StrRes Name="mvSuppress" Text="Ukryj powtarzające się wartości"/>
+  <StrRes Name="mvHideZ" Text="Ukryj zera"/>
+  <StrRes Name="mvHTML" Text="Zezwól na znaczniki HTML"/>
+  <StrRes Name="lvDiagonal" Text="Skośne"/>
+  <StrRes Name="pvAutoSize" Text="Rozmiar automatyczny"/>
+  <StrRes Name="pvCenter" Text="Centrowanie"/>
+  <StrRes Name="pvAspect" Text="Zachowaj proporcje"/>
+  <StrRes Name="bvSplit" Text="Zezwól na dzielenie"/>
+  <StrRes Name="bvKeepChild" Text="W całości ze wstęgami powiązanymi"/>
+  <StrRes Name="bvPrintChild" Text="Drukuj powiązane jeśli niewidoczne"/>
+  <StrRes Name="bvStartPage" Text="Zacznij od nowej strony"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Drukuj jeśli szczegóły puste"/>
+  <StrRes Name="bvKeepDetail" Text="W całości ze wstęgami szczegółów"/>
+  <StrRes Name="bvKeepFooter" Text="W całości ze stopką"/>
+  <StrRes Name="bvReprint" Text="Powtórz na stronach"/>
+  <StrRes Name="bvOnFirst" Text="Drukuj na pierwszej str."/>
+  <StrRes Name="bvOnLast" Text="Drukuj na ostatniej str."/>
+  <StrRes Name="bvKeepGroup" Text="W całości"/>
+  <StrRes Name="bvFooterAfterEach" Text="Stopka po każdym wierszu"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Resetuj numery stron"/>
+  <StrRes Name="srParent" Text="Drukuj w nadrzędnym"/>
+  <StrRes Name="bvKeepHeader" Text="W całości z nagłówkiem"/>
+  <StrRes Name="obCatDraw" Text="Rysuj"/>
+  <StrRes Name="obCatOther" Text="Inne obiekty"/>
+  <StrRes Name="obCatOtherControls" Text="Inne kontrolki"/>
+  <StrRes Name="obDiagLine" Text="Linia skośna"/>
+  <StrRes Name="obRect" Text="Prostokąt"/>
+  <StrRes Name="obRoundRect" Text="Zaokrąglony prostokąt"/>
+  <StrRes Name="obEllipse" Text="Elipsa"/>
+  <StrRes Name="obTrian" Text="Trójkąt"/>
+  <StrRes Name="obDiamond" Text="Romb"/>
+  <StrRes Name="obLabel" Text="Etykieta"/>
+  <StrRes Name="obEdit" Text="Pole tekstowe"/>
+  <StrRes Name="obMemoC" Text="Pole Memo"/>
+  <StrRes Name="obButton" Text="Przycisk"/>
+  <StrRes Name="obChBoxC" Text="Pole zaznaczenia"/>
+  <StrRes Name="obRButton" Text="Pole wyboru"/>
+  <StrRes Name="obLBox" Text="Lista"/>
+  <StrRes Name="obCBox" Text="Lista rozwijana"/>
+  <StrRes Name="obDateEdit" Text="Pole daty"/>
+  <StrRes Name="obImageC" Text="Obraz"/>
+  <StrRes Name="obPanel" Text="Panel"/>
+  <StrRes Name="obGrBox" Text="Obszar grupy"/>
+  <StrRes Name="obBBtn" Text="Przycisk modalny"/>
+  <StrRes Name="obSBtn" Text="Przycisk (SpeedBtn)"/>
+  <StrRes Name="obMEdit" Text="Pole maski"/>
+  <StrRes Name="obChLB" Text="Lista wyboru"/>
+  <StrRes Name="obDBLookup" Text="Lista wyszukiwania"/>
+  <StrRes Name="obBevel" Text="Płaszczyzna"/>
+  <StrRes Name="obShape" Text="Kształt"/>
+  <StrRes Name="obText" Text="Tekst"/>
+  <StrRes Name="obSysText" Text="Tekst systemowy"/>
+  <StrRes Name="obLine" Text="Linia"/>
+  <StrRes Name="obPicture" Text="Obraz"/>
+  <StrRes Name="obBand" Text="Wstęga"/>
+  <StrRes Name="obDataBand" Text="Wstęga danych"/>
+  <StrRes Name="obSubRep" Text="Podraport"/>
+  <StrRes Name="obDlgPage" Text="Okno dialogowe"/>
+  <StrRes Name="obRepPage" Text="Strona raportu"/>
+  <StrRes Name="obReport" Text="Raport"/>
+  <StrRes Name="obRich" Text="Obiekt RichText"/>
+  <StrRes Name="obOLE" Text="Obiekt OLE"/>
+  <StrRes Name="obChBox" Text="Zaznaczenie"/>
+  <StrRes Name="obChart" Text="Wykres"/>
+  <StrRes Name="obBarC" Text="Kod kreskowy"/>
+  <StrRes Name="obCross" Text="Tabela przestawna"/>
+  <StrRes Name="obDBCross" Text="Tabela przestawna bazy danych"/>
+  <StrRes Name="obGrad" Text="Cieniowanie"/>
+  <StrRes Name="obDMPText" Text="Tekst-drukarka igłowa"/>
+  <StrRes Name="obDMPLine" Text="Linia-drukarka igłowa"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Command object"/>
+  <StrRes Name="obBDEDB" Text="Baza BDE"/>
+  <StrRes Name="obBDETb" Text="Tabela BDE"/>
+  <StrRes Name="obBDEQ" Text="Zapytanie BDE"/>
+  <StrRes Name="obBDEComps" Text="Komponenty BDE"/>
+  <StrRes Name="obIBXDB" Text="Baza IBX"/>
+  <StrRes Name="obIBXTb" Text="Tabela IBX"/>
+  <StrRes Name="obIBXQ" Text="Zapytanie IBX"/>
+  <StrRes Name="obIBXComps" Text="Komponenty IBX"/>
+  <StrRes Name="obADODB" Text="Baza ADO"/>
+  <StrRes Name="obADOTb" Text="Tabela ADO"/>
+  <StrRes Name="obADOQ" Text="Zapytanie ADO"/>
+  <StrRes Name="obADOComps" Text="Komponenty ADO"/>
+  <StrRes Name="obDBXDB" Text="Baza DBX"/>
+  <StrRes Name="obDBXTb" Text="Tabela DBX"/>
+  <StrRes Name="obDBXQ" Text="Zapytanie DBX"/>
+  <StrRes Name="obDBXComps" Text="Komponenty DBX"/>
+  <StrRes Name="obFIBDB" Text="FIB Database"/>
+  <StrRes Name="obFIBTb" Text="FIB Table"/>
+  <StrRes Name="obFIBQ" Text="FIB Query"/>
+  <StrRes Name="obFIBComps" Text="FIB Components"/>
+  <StrRes Name="ctString" Text="Tekstowe"/>
+  <StrRes Name="ctDate" Text="Data i czas"/>
+  <StrRes Name="ctConv" Text="Konwersja"/>
+  <StrRes Name="ctFormat" Text="Formatowanie"/>
+  <StrRes Name="ctMath" Text="Matematyczne"/>
+  <StrRes Name="ctOther" Text="Pozostałe"/>
+  <StrRes Name="IntToStr" Text="Zamiana wartości całkowitej na tekst"/>
+  <StrRes Name="FloatToStr" Text="Zamiana liczby na tekst"/>
+  <StrRes Name="DateToStr" Text="Zamiana daty na tekst"/>
+  <StrRes Name="TimeToStr" Text="Zamiana czasu na tekst"/>
+  <StrRes Name="DateTimeToStr" Text="Zamiana daty i czasu na tekst"/>
+  <StrRes Name="VarToStr" Text="Zamiana zmiennej na tekst"/>
+  <StrRes Name="StrToInt" Text="Zamiana tekstu na wartość całkowitą"/>
+  <StrRes Name="StrToInt64" Text="Convertuj string do wartości Int64 "/>
+  <StrRes Name="StrToFloat" Text="Zamiana tekstu na liczbę zmiennoprzecinkową"/>
+  <StrRes Name="StrToDate" Text="Zamiana tekstu na datę"/>
+  <StrRes Name="StrToTime" Text="Zamiana tekstu na czas"/>
+  <StrRes Name="StrToDateTime" Text="Zamiana tekstu na datę i czas"/>
+  <StrRes Name="Format" Text="Zwraca sformatowany tekst złożony z z serii elementów tablicy"/>
+  <StrRes Name="FormatFloat" Text="Formatuje wartość zmiennoprzecinkową"/>
+  <StrRes Name="FormatDateTime" Text="Formatuje wartość daty i czasu"/>
+  <StrRes Name="FormatMaskText" Text="Zwraca tekst sformatowany przy użyciu maski"/>
+  <StrRes Name="EncodeDate" Text="Zwraca wartość Daty i czasu (TDateTime) na podstawie roku, miesiąca i dnia"/>
+  <StrRes Name="DecodeDate" Text="Zwraca rok, miesiąc i dzień z podanej daty"/>
+  <StrRes Name="EncodeTime" Text="Zwraca czas (TDateTime) na podstawie godzin, minut, sekund i milisekund"/>
+  <StrRes Name="DecodeTime" Text="Zwraca godziny, minuty, sekundy i milisekundy z podanego czasu"/>
+  <StrRes Name="Date" Text="Zwraca bieżąca datę"/>
+  <StrRes Name="Time" Text="Zwraca bieżący czas"/>
+  <StrRes Name="Now" Text="Zwraca bieżącą datę i czas"/>
+  <StrRes Name="DayOfWeek" Text="Zwraca dzień tygodnia z podanej daty"/>
+  <StrRes Name="IsLeapYear" Text="Wskazuje czy podany rok jest rokiem przestępnym"/>
+  <StrRes Name="DaysInMonth" Text="Zwraca ilość dni w podanym miesiącu"/>
+  <StrRes Name="Length" Text="Zwraca długość tekstu"/>
+  <StrRes Name="Copy" Text="Zwraca podciąg z ciągu znaków"/>
+  <StrRes Name="Pos" Text="Zwraca pozycję wystąpienia podciągu w ciągu znaków"/>
+  <StrRes Name="Delete" Text="Usuwa podciąg z ciągu znaków"/>
+  <StrRes Name="Insert" Text="Wstawia podciąg do ciągu znaków"/>
+  <StrRes Name="Uppercase" Text="Zamienia wszystkie litery w tekście na duże"/>
+  <StrRes Name="Lowercase" Text="Zamienia wszystkie litery w tekście na małe"/>
+  <StrRes Name="Trim" Text="Usuwa wszystkie spacje wiodące i końcowe z tekstu"/>
+  <StrRes Name="NameCase" Text="Zamienia pierwszy znak w słowie na dużą literę"/>
+  <StrRes Name="CompareText" Text="Porównuje dwa teksty"/>
+  <StrRes Name="Chr" Text="Zamienia wartość całkowitą na znak"/>
+  <StrRes Name="Ord" Text="Zamienia znak na wartość całkowitą"/>
+  <StrRes Name="SetLength" Text="Ustawia długość ciągu znaków"/>
+  <StrRes Name="Round" Text="Zaokrągla liczbę zmiennoprzecinkową do najbliższej wartości całkowitej"/>
+  <StrRes Name="Trunc" Text="Zamienia liczbę zmiennoprzecinkową na całkowitą odrzucając część ułamkową"/>
+  <StrRes Name="Int" Text="Zwraca część całkowitą liczby rzeczywistej"/>
+  <StrRes Name="Frac" Text="Zwraca część ułamkową liczby rzeczywistej"/>
+  <StrRes Name="Sqrt" Text="Zwraca pierwiastek kwadratowy z podanej liczby"/>
+  <StrRes Name="Abs" Text="Zwraca wartość bezwzględną z podanej liczby"/>
+  <StrRes Name="Sin" Text="Zwraca sinus kąta (w radianach)"/>
+  <StrRes Name="Cos" Text="Zwraca cosinus kąta (w radianach)"/>
+  <StrRes Name="ArcTan" Text="Zwraca arc tangens"/>
+  <StrRes Name="Tan" Text="Zwraca tangens"/>
+  <StrRes Name="Exp" Text="Funkcja wykładniczej"/>
+  <StrRes Name="Ln" Text="Zwraca logarytm naturalny z wyrażenia rzeczywistego"/>
+  <StrRes Name="Pi" Text="Zwraca liczbę 3.1415926..."/>
+  <StrRes Name="Inc" Text="Zwiększa wartość"/>
+  <StrRes Name="Dec" Text="Zmniejsza wartość"/>
+  <StrRes Name="RaiseException" Text="Generuje wyjątek"/>
+  <StrRes Name="ShowMessage" Text="Wyświetla okno komunikatu"/>
+  <StrRes Name="Randomize" Text="Startuje generator liczb pseudolosowych"/>
+  <StrRes Name="Random" Text="Zwraca liczbę pseudolosową"/>
+  <StrRes Name="ValidInt" Text="Zwraca prawdę jeżeli podany tekst zawiera prawidłową liczbę całkowitą"/>
+  <StrRes Name="ValidFloat" Text="Zwraca prawdę jeżeli podany tekst zawiera prawidłową liczbę"/>
+  <StrRes Name="ValidDate" Text="Zwraca prawdę jeżeli podany tekst zawiera prawidłową datę"/>
+  <StrRes Name="IIF" Text="Zwraca TrueValue jeśli podane wyrażenie jest prawdą, w przeciwnym wypadku zwraca FalseValue"/>
+  <StrRes Name="Get" Text="Tylko do użytku wewnętrznego"/>
+  <StrRes Name="Set" Text="Tylko do użytku wewnętrznego"/>
+  <StrRes Name="InputBox" Text="Wyświetla okno dialogowe do wprowadzania danych pozwalając użytkownikowi na wprowadzenie tekstu"/>
+  <StrRes Name="InputQuery" Text="Wyświetla okno dialogowe do wprowadzania danych pozwalając użytkownikowi na wprowadzenie tekstu"/>
+  <StrRes Name="MessageDlg" Text="Wyświetla okno komunikatu"/>
+  <StrRes Name="CreateOleObject" Text="Tworzy obiekt OLE"/>
+  <StrRes Name="VarArrayCreate" Text="Tworzy tablicę zmiennych"/>
+  <StrRes Name="VarType" Text="Zwraca typ zmiennej"/>
+  <StrRes Name="DayOf" Text="Zwraca numer dnia (1..31) na podstawie podanej daty"/>
+  <StrRes Name="MonthOf" Text="Zwraca numer miesiąca (1..12) na podstawie podanej daty"/>
+  <StrRes Name="YearOf" Text="Zwraca rok na podstawie podanej daty"/>
+  <StrRes Name="ctAggregate" Text="Łączna wartość"/>
+  <StrRes Name="Sum" Text="Oblicza sumę wyrażenia dla wierszy wstęgi"/>
+  <StrRes Name="Avg" Text="Oblicza wartość średnią wyrażenia dla wierszy wstęgi"/>
+  <StrRes Name="Min" Text="Oblicza wartość minimalną wyrażenia dla wierszy wstęgi"/>
+  <StrRes Name="Max" Text="Oblicza wartość maksymalną wyrażenia dla wierszy wstęgi"/>
+  <StrRes Name="Count" Text="Oblicza ilość wierszy"/>
+  <StrRes Name="wzDBConn" Text="Kreator nowego połączenia"/>
+  <StrRes Name="wzDBTable" Text="Kreator nowej tabeli"/>
+  <StrRes Name="wzDBQuery" Text="Kreator nowego zapytania"/>
+  <StrRes Name="5800" Text="Połączenia"/>
+  <StrRes Name="5801" Text="Nowe"/>
+  <StrRes Name="5802" Text="Usuń"/>
+  <StrRes Name="cpName" Text="Nazwa"/>
+  <StrRes Name="cpConnStr" Text="Ciąg znaków połączenia"/>
+  <StrRes Name="startCreateNew" Text="Utwórz nowy raport"/>
+  <StrRes Name="startCreateBlank" Text="Utwórz pusty raport"/>
+  <StrRes Name="startOpenReport" Text="Otwórz raport"/>
+  <StrRes Name="startOpenLast" Text="Otwórz ostatni raport"/>
+  <StrRes Name="startEditAliases" Text="Edytuj aliasy połączenia"/>
+  <StrRes Name="startHelp" Text="Pomoc"/>
+  <StrRes Name="5900" Text="Czujki"/>
+  <StrRes Name="5901" Text="Dodaj czujkę"/>
+  <StrRes Name="5902" Text="Usuń czujkę"/>
+  <StrRes Name="5903" Text="Edytuj czujkę"/>
+  <StrRes Name="6000" Text="Dziedzicz błąd"/>
+  <StrRes Name="6001" Text="Raporty bazowe i dziedziczone posiadają zduplikowane obiekty. Co robić?"/>
+  <StrRes Name="6002" Text="Usuń duplikaty"/>
+  <StrRes Name="6003" Text="Zmień nazwę duplikatów"/>
+  <StrRes Name="6003" Text="Sortuj po nazwie"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

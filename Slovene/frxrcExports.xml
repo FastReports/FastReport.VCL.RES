@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="8000" Text="Izvoz v Excel"/>
+  <StrRes Name="8001" Text="Stili"/>
+  <StrRes Name="8002" Text="Slike"/>
+  <StrRes Name="8003" Text="Spoji celice"/>
+  <StrRes Name="8004" Text="Hitri izvoz"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Kot besedilo"/>
+  <StrRes Name="8007" Text="Ozadje"/>
+  <StrRes Name="8008" Text="Odpri Excel po izvozu"/>
+  <StrRes Name="8009" Text="Excel datoteka (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Izvoz v Excel"/>
+  <StrRes Name="8101" Text="Stili"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Ozadje"/>
+  <StrRes Name="8104" Text="Odpri Excel po izvozu"/>
+  <StrRes Name="8105" Text="XML Excel datoteka (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Izvoz v HTML tabelo"/>
+  <StrRes Name="8201" Text="Odpri po izvozu"/>
+  <StrRes Name="8202" Text="Stili"/>
+  <StrRes Name="8203" Text="Slike"/>
+  <StrRes Name="8204" Text="Vse v isto mapo"/>
+  <StrRes Name="8205" Text="Fiksna širina"/>
+  <StrRes Name="8206" Text="Navigator za strani"/>
+  <StrRes Name="8207" Text="Večstransko"/>
+  <StrRes Name="8208" Text="Mozilla brskalnik"/>
+  <StrRes Name="8209" Text="Ozadje"/>
+  <StrRes Name="8210" Text="HTML datoteka (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Izvoz v tekstovno datoteko (matrični tiskalnik)"/>
+  <StrRes Name="8301" Text="Predogled vkl/izkl"/>
+  <StrRes Name="8302" Text=" Lastnosti izvoza  "/>
+  <StrRes Name="8303" Text="Prelomi strani"/>
+  <StrRes Name="8304" Text="OEM kodna stran"/>
+  <StrRes Name="8305" Text="Prezne vrstice"/>
+  <StrRes Name="8306" Text="Vodilni presledki"/>
+  <StrRes Name="8307" Text="Številke strani"/>
+  <StrRes Name="8308" Text="Vnesite številke in/ali obsege strani ločene z vejicami. Na primer: 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Skaliranje "/>
+  <StrRes Name="8310" Text="X vrednost"/>
+  <StrRes Name="8311" Text="Y vrednost"/>
+  <StrRes Name="8312" Text=" Okviri "/>
+  <StrRes Name="8313" Text="Brez"/>
+  <StrRes Name="8314" Text="Enostaven"/>
+  <StrRes Name="8315" Text="Grafičen"/>
+  <StrRes Name="8316" Text="Samo z OEM kodno stranjo"/>
+  <StrRes Name="8317" Text="Natisni po izvozu"/>
+  <StrRes Name="8318" Text="Shrani nastavitve"/>
+  <StrRes Name="8319" Text=" Predogled "/>
+  <StrRes Name="8320" Text="Širina:"/>
+  <StrRes Name="8321" Text="Višina:"/>
+  <StrRes Name="8322" Text="Stran"/>
+  <StrRes Name="8323" Text="Približaj"/>
+  <StrRes Name="8324" Text="Oddalji"/>
+  <StrRes Name="8325" Text="Tekstovna datoteka (matrični tiskalnik)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Print"/>
+  <StrRes Name="8401" Text="Tiskalnik"/>
+  <StrRes Name="8402" Text="Ime"/>
+  <StrRes Name="8403" Text="Nastavitve..."/>
+  <StrRes Name="8404" Text="Kopije"/>
+  <StrRes Name="8405" Text="Število kopij"/>
+  <StrRes Name="8406" Text=" Nastavitve tiskalnika "/>
+  <StrRes Name="8407" Text="Tip tiskalnika"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Predloga tiskalnika (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Predloga tiskalnika (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Izvoz v RTF"/>
+  <StrRes Name="8501" Text="Slike"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Odpri po izvozu"/>
+  <StrRes Name="8504" Text="RTF datoteka (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Nastavitev izvoza"/>
+  <StrRes Name="8601" Text=" Nastavitev slike "/>
+  <StrRes Name="8602" Text="JPEG kvaliteta"/>
+  <StrRes Name="8603" Text="Ločljivost (dpi)"/>
+  <StrRes Name="8604" Text="Ločene datoteke"/>
+  <StrRes Name="8605" Text="Obrez strani"/>
+  <StrRes Name="8606" Text="Črno-belo"/>
+  <StrRes Name="8700" Text="Izvoz v PDF"/>
+  <StrRes Name="8701" Text="Stisnjeno"/>
+  <StrRes Name="8702" Text="Vstavljene pisave"/>
+  <StrRes Name="8703" Text="Print optimized"/>
+  <StrRes Name="8704" Text="Ozadje"/>
+  <StrRes Name="8705" Text="Odpri po izvozu"/>
+  <StrRes Name="8706" Text="Obris"/>
+  <StrRes Name="8707" Text="Adobe PDF datoteka (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="RTF datoteka"/>
+  <StrRes Name="BMPexport" Text="BMP slika"/>
+  <StrRes Name="JPEGexport" Text="JPEG slika"/>
+  <StrRes Name="TIFFexport" Text="TIFF slika"/>
+  <StrRes Name="TextExport" Text="Text (matrični tiskalnik)"/>
+  <StrRes Name="XlsOLEexport" Text="Excel tabela (OLE)"/>
+  <StrRes Name="HTMLexport" Text="HTML datoteka"/>
+  <StrRes Name="XlsXMLexport" Text="Excel tabela (XML)"/>
+  <StrRes Name="PDFexport" Text="PDF datoteka"/>
+  <StrRes Name="ProgressWait" Text="Prismo, počakajte"/>
+  <StrRes Name="ProgressRows" Text="Nastavljanje vrstic"/>
+  <StrRes Name="ProgressColumns" Text="Nastavljanje stolpcev"/>
+  <StrRes Name="ProgressStyles" Text="Nastavljanje stilov"/>
+  <StrRes Name="ProgressObjects" Text="Izvažanje predmetov"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff slika (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP slika (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Jpeg slika (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Prva"/>
+  <StrRes Name="HTMLNavPrev" Text="Prejšnja"/>
+  <StrRes Name="HTMLNavNext" Text="Naslednja"/>
+  <StrRes Name="HTMLNavLast" Text="Zadnja"/>
+  <StrRes Name="HTMLNavRefresh" Text="Osveži"/>
+  <StrRes Name="HTMLNavPrint" Text="Natisni"/>
+  <StrRes Name="HTMLNavTotal" Text="Vseh strani"/>
+  <StrRes Name="8800" Text="Izvozi v besedilo"/>
+  <StrRes Name="8801" Text="Besedilna datoteka (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Besedilna datoteka"/>
+  <StrRes Name="8850" Text="Izvozi v CSV"/>
+  <StrRes Name="8851" Text="CSV datoteka (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Ločilo"/>
+  <StrRes Name="CSVExport" Text="CSV datoteka"/>
+  <StrRes Name="8900" Text="Pošlji po e-pošti"/>
+  <StrRes Name="8901" Text="E-pošta"/>
+  <StrRes Name="8902" Text="Račun"/>
+  <StrRes Name="8903" Text="Povezava"/>
+  <StrRes Name="8904" Text="Naslov"/>
+  <StrRes Name="8905" Text="Priloga"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Z naslova"/>
+  <StrRes Name="8908" Text="Ime pošiljatelja"/>
+  <StrRes Name="8909" Text="Gostitelj"/>
+  <StrRes Name="8910" Text="Prijava"/>
+  <StrRes Name="8911" Text="Pošta"/>
+  <StrRes Name="8912" Text="Sporočilo"/>
+  <StrRes Name="8913" Text="Besedilo"/>
+  <StrRes Name="8914" Text="Podjetje"/>
+  <StrRes Name="8915" Text="Geslo"/>
+  <StrRes Name="8916" Text="Vrata"/>
+  <StrRes Name="8917" Text="Zapomni si nastavitve"/>
+  <StrRes Name="8918" Text="Zahtevanba polja niso izpolnjena"/>
+  <StrRes Name="8919" Text="Napredne nastavitve"/>
+  <StrRes Name="8920" Text="Podpis"/>
+  <StrRes Name="8921" Text="Različica"/>
+  <StrRes Name="8922" Text="Predmet"/>
+  <StrRes Name="8923" Text="Lep pozdrav"/>
+  <StrRes Name="8924" Text="Pošlji pošto"/>
+  <StrRes Name="EmailExport" Text="E-pošta"/>
+  <StrRes Name="FastReportFile" Text="FastReport datoteka"/>
+  <StrRes Name="GifexportFilter" Text="Gif datoteka (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif slika"/>
+  <StrRes Name="8950" Text="Nadaljujoče"/>
+  <StrRes Name="8951" Text="Glava/noga strani"/>
+  <StrRes Name="8952" Text="Besedilo"/>
+  <StrRes Name="8953" Text="Glava/noga"/>
+  <StrRes Name="8954" Text="Brez"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/> 
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

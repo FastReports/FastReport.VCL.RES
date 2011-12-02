@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Отказ"/>
+  <StrRes Name="3" Text="Всички"/>
+  <StrRes Name="4" Text="Текуща страница"/>
+  <StrRes Name="5" Text="Страници:"/>
+  <StrRes Name="6" Text="Разделители на страници"/>
+  <StrRes Name="7" Text="Интервал страници"/>
+  <StrRes Name="8" Text="Настройки за експорт"/>
+  <StrRes Name="9" Text="Въведете номер на страници и/или интервал страници, разделени със запетаи. Напр. 1,3,5-12"/>
+  <StrRes Name="100" Text="Преглед"/>
+  <StrRes Name="101" Text="Печат"/>
+  <StrRes Name="102" Text="Печат"/>
+  <StrRes Name="103" Text="Отвори"/>
+  <StrRes Name="104" Text="Отвори"/>
+  <StrRes Name="105" Text="Запиши"/>
+  <StrRes Name="106" Text="Запиши"/>
+  <StrRes Name="107" Text="Експорт"/>
+  <StrRes Name="108" Text="Експорт"/>
+  <StrRes Name="109" Text="Търсене"/>
+  <StrRes Name="110" Text="Търсене"/>
+  <StrRes Name="111" Text="Цяла страница"/>
+  <StrRes Name="112" Text="Цяла страница"/>
+  <StrRes Name="113" Text="На ширината на страницата"/>
+  <StrRes Name="114" Text="На ширината на страницата"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Две страници"/>
+  <StrRes Name="118" Text="Две страници"/>
+  <StrRes Name="119" Text="Увеличение"/>
+  <StrRes Name="120" Text="Марж на страница"/>
+  <StrRes Name="121" Text="Марж на страница"/>
+  <StrRes Name="122" Text="Контури"/>
+  <StrRes Name="123" Text="Контури"/>
+  <StrRes Name="124" Text="Увеличи"/>
+  <StrRes Name="125" Text="Увеличи"/>
+  <StrRes Name="126" Text="Отдалечи"/>
+  <StrRes Name="127" Text="Отдалечи"/>
+  <StrRes Name="128" Text="Очертание"/>
+  <StrRes Name="129" Text="Очертание на отчета"/>
+  <StrRes Name="130" Text="Thumbnails"/>
+  <StrRes Name="131" Text="Thumbnails"/>
+  <StrRes Name="132" Text="Редактирай"/>
+  <StrRes Name="133" Text="Редактирай страница"/>
+  <StrRes Name="134" Text="Първа"/>
+  <StrRes Name="135" Text="Първа страница"/>
+  <StrRes Name="136" Text="Предишна"/>
+  <StrRes Name="137" Text="Предишна страница"/>
+  <StrRes Name="138" Text="Следваща"/>
+  <StrRes Name="139" Text="Следваща страница"/>
+  <StrRes Name="140" Text="Последна"/>
+  <StrRes Name="141" Text="Последна страница"/>
+  <StrRes Name="142" Text="Страница номер"/>
+  <StrRes Name="150" Text="Цял екран"/>
+  <StrRes Name="151" Text="Export към PDF"/>
+  <StrRes Name="152" Text="Изпрати по e-mail"/>
+  <StrRes Name="zmPageWidth" Text="На ширината на страницата"/>
+  <StrRes Name="zmWholePage" Text="Цяла страница"/>
+  <StrRes Name="200" Text="Печат"/>
+  <StrRes Name="201" Text="Принтер"/>
+  <StrRes Name="202" Text="Страници"/>
+  <StrRes Name="203" Text="Брой копия"/>
+  <StrRes Name="204" Text="Сверяване"/>
+  <StrRes Name="205" Text="Копия"/>
+  <StrRes Name="206" Text="Печат"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Цел:"/>
+  <StrRes Name="209" Text="Свойства..."/>
+  <StrRes Name="210" Text="Печат във файл"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Име:"/>
+  <StrRes Name="213" Text="Режим на принтиране"/>
+  <StrRes Name="214" Text="Печат на хартия"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Всички страници"/>
+  <StrRes Name="ppOdd" Text="Нечетни страници"/>
+  <StrRes Name="ppEven" Text="Четни страници"/>
+  <StrRes Name="pgDefault" Text="По подразбиране"/>
+  <StrRes Name="pmDefault" Text="По подразбиране"/>
+  <StrRes Name="pmSplit" Text="Раздели големите страници"/>
+  <StrRes Name="pmJoin" Text="Обедини малките страници"/>
+  <StrRes Name="pmScale" Text="Оразмери"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Намери текст"/>
+  <StrRes Name="301" Text="Текст за търсене:"/>
+  <StrRes Name="302" Text="Настройки за търсене"/>
+  <StrRes Name="303" Text="Замени с"/>
+  <StrRes Name="304" Text="Търси от началото"/>
+  <StrRes Name="305" Text="Различавай набора"/>
+  <StrRes Name="400" Text="Настройки страница"/>
+  <StrRes Name="401" Text="Ширина"/>
+  <StrRes Name="402" Text="Височина"/>
+  <StrRes Name="403" Text="Размер"/>
+  <StrRes Name="404" Text="Ориентация"/>
+  <StrRes Name="405" Text="Вляво"/>
+  <StrRes Name="406" Text="Отгоре"/>
+  <StrRes Name="407" Text="Вдясно"/>
+  <StrRes Name="408" Text="Отдолу"/>
+  <StrRes Name="409" Text="Марж"/>
+  <StrRes Name="410" Text="Портрет"/>
+  <StrRes Name="411" Text="Пейзаж"/>
+  <StrRes Name="412" Text="Други"/>
+  <StrRes Name="413" Text="Приложи на текущата страница"/>
+  <StrRes Name="414" Text="Приложи на всички страници"/>
+  <StrRes Name="500" Text="Печат"/>
+  <StrRes Name="501" Text="Принтер"/>
+  <StrRes Name="502" Text="Страници"/>
+  <StrRes Name="503" Text="Копия"/>
+  <StrRes Name="504" Text="Брой копия"/>
+  <StrRes Name="505" Text="Настройки"/>
+  <StrRes Name="506" Text="Команда за изход"/>
+  <StrRes Name="507" Text="Печат във файл"/>
+  <StrRes Name="508" Text="OEM кодова страница"/>
+  <StrRes Name="509" Text="Псевдографика"/>
+  <StrRes Name="510" Text="Принтерен файл (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Потвърди"/>
+  <StrRes Name="mbError" Text="Грешка"/>
+  <StrRes Name="mbInfo" Text="Информация"/>
+  <StrRes Name="xrCantFindClass" Text="Ненамерен клас"/>
+  <StrRes Name="prVirtual" Text="Виртуално"/>
+  <StrRes Name="prDefault" Text="По подразбиране"/>
+  <StrRes Name="prCustom" Text="Обичаен"/>
+  <StrRes Name="enUnconnHeader" Text="Грешна заглавна/крайна част"/>
+  <StrRes Name="enUnconnGroup" Text="Липсва връзка за данни на групата"/>
+  <StrRes Name="enUnconnGFooter" Text="Няма заглавна част за"/>
+  <StrRes Name="enBandPos" Text="Грешка позиция за връзка:"/>
+  <StrRes Name="dbNotConn" Text="Dataset %s не е вързан с данни"/>
+  <StrRes Name="dbFldNotFound" Text="Полето не е намерено:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset не е включен в Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Непозната променлива или поле данни:"/>
+  <StrRes Name="clScrError" Text="Скриптова грешка на %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#38;#34;%s&#38;#34; не съществува"/>
+  <StrRes Name="clErrors" Text="Възникна следната грешка(и):"/>
+  <StrRes Name="clExprError" Text="Грешка в израза"/>
+  <StrRes Name="clFP3files" Text="Приготвен отчет"/>
+  <StrRes Name="clSaving" Text="Записване на файл..."/>
+  <StrRes Name="clCancel" Text="Отказ"/>
+  <StrRes Name="clClose" Text="затвори"/>
+  <StrRes Name="clPrinting" Text="Печат страница"/>
+  <StrRes Name="clLoading" Text="Зареждане на файл..."/>
+  <StrRes Name="clPageOf" Text="Страница %d от %d"/>
+  <StrRes Name="clFirstPass" Text="Първоначална обработка: страница "/>
+  <StrRes Name="clNoPrinters" Text="Няма инсталивани принтери"/>
+  <StrRes Name="clDecompressError" Text="Грешка при декомпресиране на поток"/>
+  <StrRes Name="crFillMx" Text="Попълване на cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Изграждане на cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Първоначална обработка: страница %d"/>
+  <StrRes Name="prRunning" Text="Подготвяне на страница %d"/>
+  <StrRes Name="prPrinting" Text="Принтиране на страница %d"/>
+  <StrRes Name="prExporting" Text="Експорт на страница %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="По подразбиране"/>
+  <StrRes Name="dupVert" Text="Вертикално"/>
+  <StrRes Name="dupHorz" Text="Горизонтално"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Езикът '%s' не е намерен"/>
+  <StrRes Name="SInvalidLanguage" Text="Невалидна езикова дефиниция"/>
+  <StrRes Name="SIdRedeclared" Text="Повторно деклариран идентификатор: "/>
+  <StrRes Name="SUnknownType" Text="Неизвестен тип: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Несъвместими типове"/>
+  <StrRes Name="SIdUndeclared" Text="Недеклариран идентификатор: "/>
+  <StrRes Name="SClassRequired" Text="Изисква се тип клас"/>
+  <StrRes Name="SIndexRequired" Text="Изисква се индекс"/>
+  <StrRes Name="SStringError" Text="Strings нямат стойства или методи"/>
+  <StrRes Name="SClassError" Text="Класът %s няма свойство по подразбиране"/>
+  <StrRes Name="SArrayRequired" Text="Изисква се тип масив"/>
+  <StrRes Name="SVarRequired" Text="Изисква се променлива"/>
+  <StrRes Name="SNotEnoughParams" Text="Недостатъчно параметри"/>
+  <StrRes Name="STooManyParams" Text="Твърде много параметри"/>
+  <StrRes Name="SLeftCantAssigned" Text="Лявата страна не може да бъде присвоена на"/>
+  <StrRes Name="SForError" Text="For променливата трябва да е от числен тип"/>
+  <StrRes Name="SEventError" Text="Обработчикът на събитие трябва да е процедура"/>
+  <StrRes Name="600" Text="Отвори всички"/>
+  <StrRes Name="601" Text="Затвори всички"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

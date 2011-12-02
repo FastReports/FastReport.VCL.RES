@@ -1,0 +1,208 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="8000" Text="Eksporter til Excel"/>
+  <StrRes Name="8001" Text="Stilart"/>
+  <StrRes Name="8002" Text="Billeder"/>
+  <StrRes Name="8003" Text="Sammensæt celler"/>
+  <StrRes Name="8004" Text="Hurtig eksport"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Som tekst"/>
+  <StrRes Name="8007" Text="Baggrund"/>
+  <StrRes Name="8008" Text="Åbn Excel efter eksport"/>
+  <StrRes Name="8009" Text="Excel fil (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Eksporter til Excel"/>
+  <StrRes Name="8101" Text="Stilart"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Baggrund"/>
+  <StrRes Name="8104" Text="Åbn Excel efter eksport"/>
+  <StrRes Name="8105" Text="XML Excel fil (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Eksporter til HTML tabel"/>
+  <StrRes Name="8201" Text="Åbn efter eksport"/>
+  <StrRes Name="8202" Text="Stilart"/>
+  <StrRes Name="8203" Text="Billeder"/>
+  <StrRes Name="8204" Text="Alt i en mappe"/>
+  <StrRes Name="8205" Text="Fast bredde"/>
+  <StrRes Name="8206" Text="Sidenavigation"/>
+  <StrRes Name="8207" Text="Multiside"/>
+  <StrRes Name="8208" Text="Mozilla browser"/>
+  <StrRes Name="8209" Text="Baggrund"/>
+  <StrRes Name="8210" Text="HTML fil (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Eksporter til tekst (dot-matrix printer)"/>
+  <StrRes Name="8301" Text="Vis udskrift slået til/fra"/>
+  <StrRes Name="8302" Text=" Eksportegenskaber  "/>
+  <StrRes Name="8303" Text="Sideskift"/>
+  <StrRes Name="8304" Text="OEM codepage"/>
+  <StrRes Name="8305" Text="Tomme linier"/>
+  <StrRes Name="8306" Text="Mellemrum i starten"/>
+  <StrRes Name="8307" Text="Sidenummer"/>
+  <StrRes Name="8308" Text="Angiv sidetal og/eller sideområder adskilt af kommaer, f.eks. 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Skalering "/>
+  <StrRes Name="8310" Text="X Skala"/>
+  <StrRes Name="8311" Text="Y Skala"/>
+  <StrRes Name="8312" Text=" Rammer "/>
+  <StrRes Name="8313" Text="Ingen"/>
+  <StrRes Name="8314" Text="Simpel"/>
+  <StrRes Name="8315" Text="Grafik"/>
+  <StrRes Name="8316" Text="Kun med OEM codepage"/>
+  <StrRes Name="8317" Text="Udskriv efter eksport"/>
+  <StrRes Name="8318" Text="Gem opsætning"/>
+  <StrRes Name="8319" Text=" Vis udskrift "/>
+  <StrRes Name="8320" Text="Bredde:"/>
+  <StrRes Name="8321" Text="Højde:"/>
+  <StrRes Name="8322" Text="Side"/>
+  <StrRes Name="8323" Text="Zoom ind"/>
+  <StrRes Name="8324" Text="Zoom ud"/>
+  <StrRes Name="8325" Text="Tekstfil (dot-matrix printer)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Udskriv"/>
+  <StrRes Name="8401" Text="Printer"/>
+  <StrRes Name="8402" Text="Navn"/>
+  <StrRes Name="8403" Text="Opsætning..."/>
+  <StrRes Name="8404" Text="Kopier"/>
+  <StrRes Name="8405" Text="Antal af kopier"/>
+  <StrRes Name="8406" Text=" Printer init opsætning "/>
+  <StrRes Name="8407" Text="Printer type"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Printer init skabelon (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Printer init skabelon (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Eksporter til RTF"/>
+  <StrRes Name="8501" Text="Billeder"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Åbn efter eksport"/>
+  <StrRes Name="8504" Text="RTF fil (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Eksportopsætning"/>
+  <StrRes Name="8601" Text=" Billedeopsætning "/>
+  <StrRes Name="8602" Text="JPEG kvalitet"/>
+  <StrRes Name="8603" Text="Resolution (dpi)"/>
+  <StrRes Name="8604" Text="Seperate filer"/>
+  <StrRes Name="8605" Text="Beskær sider"/>
+  <StrRes Name="8606" Text="Monochrom"/>
+  <StrRes Name="8700" Text="Eksporter til PDF"/>
+  <StrRes Name="8701" Text="Komprimeret"/>
+  <StrRes Name="8702" Text="Embedded skrifttyper"/>
+  <StrRes Name="8703" Text="Print optimerede"/>
+  <StrRes Name="8704" Text="Baggrund"/>
+  <StrRes Name="8705" Text="Oversigt"/>
+  <StrRes Name="8706" Text="Åbn efter eksport"/>
+  <StrRes Name="8707" Text="Adobe PDF fil (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="RTF fil"/>
+  <StrRes Name="BMPexport" Text="BMP billede"/>
+  <StrRes Name="JPEGexport" Text="JPEG billede"/>
+  <StrRes Name="TIFFexport" Text="TIFF billede"/>
+  <StrRes Name="TextExport" Text="Tekst (matrixprinter)"/>
+  <StrRes Name="XlsOLEexport" Text="Excel tabel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="HTML fil"/>
+  <StrRes Name="XlsXMLexport" Text="Excel tabel (XML)"/>
+  <StrRes Name="PDFexport" Text="PDF fil"/>
+  <StrRes Name="ProgressWait" Text="Vent venligst"/>
+  <StrRes Name="ProgressRows" Text="Opsætter rækker"/>
+  <StrRes Name="ProgressColumns" Text="Opsætter kolonner"/>
+  <StrRes Name="ProgressStyles" Text="Opsætter stilart"/>
+  <StrRes Name="ProgressObjects" Text="Eksporterer objekter"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff billede (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP billede (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Jpeg billede (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Første"/>
+  <StrRes Name="HTMLNavPrev" Text="Forgående"/>
+  <StrRes Name="HTMLNavNext" Text="Næste"/>
+  <StrRes Name="HTMLNavLast" Text="Sidste"/>
+  <StrRes Name="HTMLNavRefresh" Text="Genopfrisk"/>
+  <StrRes Name="HTMLNavPrint" Text="Udskriv"/>
+  <StrRes Name="HTMLNavTotal" Text="Total antal sider"/>
+  <StrRes Name="8800" Text="Eksporter til tekst"/>
+  <StrRes Name="8801" Text="Tekstfil (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Tekstfil"/>
+  <StrRes Name="8850" Text="Eksporter til CSV"/>
+  <StrRes Name="8851" Text="CSV fil (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Separator"/>
+  <StrRes Name="CSVExport" Text="CSV fil"/>
+  <StrRes Name="8900" Text="Send som E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Konto"/>
+  <StrRes Name="8903" Text="Forbindelse"/>
+  <StrRes Name="8904" Text="Adresse"/>
+  <StrRes Name="8905" Text="Vedhæftninger"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Fra Adresse"/>
+  <StrRes Name="8908" Text="Fra Navn"/>
+  <StrRes Name="8909" Text="Host"/>
+  <StrRes Name="8910" Text="Login"/>
+  <StrRes Name="8911" Text="Mail"/>
+  <StrRes Name="8912" Text="Besked"/>
+  <StrRes Name="8913" Text="Tekst"/>
+  <StrRes Name="8914" Text="Organisation"/>
+  <StrRes Name="8915" Text="Password"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Husk egenskaberne"/>
+  <StrRes Name="8918" Text="Påkrævede felter er ikke udfyldt"/>
+  <StrRes Name="8919" Text="Advancered opsætning af eksport "/>
+  <StrRes Name="8920" Text="Signatur"/>
+  <StrRes Name="8921" Text="Build"/>
+  <StrRes Name="8922" Text="Emne"/>
+  <StrRes Name="8923" Text="Med venlig hilsen"/>
+  <StrRes Name="8924" Text="Send mail til"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="FastReport fil"/>
+  <StrRes Name="GifexportFilter" Text="Gif fil (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif-billede"/>
+  <StrRes Name="8950" Text="Kontinueligt"/>
+  <StrRes Name="8951" Text="Sidehoved/Fod"/>
+  <StrRes Name="8952" Text="Tekst"/>
+  <StrRes Name="8953" Text="Hoved/Fod"/>
+  <StrRes Name="8954" Text="Ingen"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Regnearksfil (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Regneark"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Tekstfil (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Tekst"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Sikkerhed"/>
+  <StrRes Name="8963" Text="Sikkerhedsopsætning"/>
+  <StrRes Name="8964" Text="Ejerens kodeord"/>
+  <StrRes Name="8965" Text="Brugerens kodeord"/>
+  <StrRes Name="8966" Text="Udskriv dokumentet"/>
+  <StrRes Name="8967" Text="Ændre dokumentet"/>
+  <StrRes Name="8968" Text="Kopi af tekst og grafik"/>
+  <StrRes Name="8969" Text="Tilføj eller ændre kommentarer til teksten"/>
+  <StrRes Name="8970" Text="PDF Sikkerhed"/>
+  <StrRes Name="8971" Text="Dokumentinformation"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Titel"/>
+  <StrRes Name="8974" Text="Forfatter"/>
+  <StrRes Name="8975" Text="Emne"/>
+  <StrRes Name="8976" Text="Nøgleord"/>
+  <StrRes Name="8977" Text="Lavet af"/>
+  <StrRes Name="8978" Text="Produceret af"/>
+  <StrRes Name="8979" Text="Authentifikation"/>
+  <StrRes Name="8980" Text="Tilladelser"/>
+  <StrRes Name="8981" Text="Fremviser"/>
+  <StrRes Name="8982" Text="Egenskaber for fremviser"/>
+  <StrRes Name="8983" Text="Skjul værktøjslinie"/>
+  <StrRes Name="8984" Text="Skjul menulinie"/>
+  <StrRes Name="8985" Text="Skjul vinduet for brugerinterface"/>
+  <StrRes Name="8986" Text="Tilpas vinduerne"/>
+  <StrRes Name="8987" Text="Centrer vinduerne"/>
+  <StrRes Name="8988" Text="Skalering af udskrift"/>
+  <StrRes Name="8989" Text="Bekræfter indlæsning"/>
+  
+  <StrRes Name="9101" Text="Eksporter til DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) eksport"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Kunne ikke hente filen"/>
+  <StrRes Name="9105" Text="Fejl opstod"/>
+  <StrRes Name="9106" Text="Feltnavne"/>
+  <StrRes Name="9107" Text="Automatisk"/>
+  <StrRes Name="9108" Text="Manuelt"/>
+  <StrRes Name="9109" Text="Hent fra fil"/>
+  <StrRes Name="9110" Text="Tekstfiler (*.txt)|*.txt|Alle filer|*.*"/>
+  <StrRes Name="9111" Text="DBF filer (*.dbf)|*.dbf|Alle filer|*.*"/>
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

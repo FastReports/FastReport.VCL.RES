@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1257">
+  <StrRes Name="propActive" Text="Nosaka, vai datu ievadisana ir aktiva"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Nosaka, vai ir aktiva noteikta izdalisana"/>
+  <StrRes Name="propAliasName" Text="Aliasa vards BDE"/>
+  <StrRes Name="propAlign" Text="Objekta izlidzinasana pec pirmsakuma"/>
+  <StrRes Name="propAlignment" Text="Teksta objekta izlidzinasana"/>
+  <StrRes Name="propAllowAllUp" Text="Nosaka, vai visas grupu komandas var tikt aktivizetas"/>
+  <StrRes Name="propAllowEdit" Text="Nosaka, nosaka vai lietotajs drikst rediget gatavu atskaiti"/>
+  <StrRes Name="propAllowExpressions" Text="Nosaka, vai teksta objekta var atrasties izteiksmes"/>
+  <StrRes Name="propAllowGrayed" Text="Pielauj treso parbaudes boksu stavokli "/>
+  <StrRes Name="propAllowHTMLTags" Text="Nosaka, vai teksta objekta var atrasties HTML-atzimes"/>
+  <StrRes Name="propAllowSplit" Text="Pielauj satura dalisanu"/>
+  <StrRes Name="propAuthor" Text="Atskaites autors"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Attela auto-izmers"/>
+  <StrRes Name="propAutoWidth" Text="Teksta auto-platums"/>
+  <StrRes Name="propBackPicture" Text="Lappuses fona attels"/>
+  <StrRes Name="propBarType" Text="Svitru koda veids"/>
+  <StrRes Name="propBevelInner" Text="Iekseja ramja veids"/>
+  <StrRes Name="propBevelOuter" Text="Iekseja ramja veids"/>
+  <StrRes Name="propBevelWidth" Text="Ramja biezums"/>
+  <StrRes Name="propBorder" Text="Nosaka, vai janorada ieksejo rami ap objektu"/>
+  <StrRes Name="propBorderStyle" Text="Loga veids"/>
+  <StrRes Name="propBottomMargin" Text="Lappuses apakseja laukuma aplukosana"/>
+  <StrRes Name="propBrushStyle" Text="Otas veids, tiek izmantots pie zimesanas un objekta aizpildisanas"/>
+  <StrRes Name="propCalcCheckSum" Text="Nosaka, vai automatiski jaizskaitlo kontroles summu"/>
+  <StrRes Name="propCancel" Text="Nosaka, vai janostrada komandai Esc pie taustina nospiesanas"/>
+  <StrRes Name="propCaption" Text="Vadosa elementa virsraksts"/>
+  <StrRes Name="propCellFields" Text="Laukuma izmainas, kuras izvietotas tabulas sunas"/>
+  <StrRes Name="propCellLevels" Text="Tabulu sunu limenu daudzums"/>
+  <StrRes Name="propCenter" Text="Nosaka, vai iekseja objekta attels ir jacentre"/>
+  <StrRes Name="propCharset" Text="Fonta simbolu ievadisana"/>
+  <StrRes Name="propCharSpacing" Text="Atstarpe starp simboliem"/>
+  <StrRes Name="propCheckColor" Text="Atzimes krasa"/>
+  <StrRes Name="propChecked" Text="Nosaka, vai ir noteikts vadosais elements"/>
+  <StrRes Name="propCheckStyle" Text="Atzimes veids"/>
+  <StrRes Name="propChild" Text="Meitas uzstadijumi, saistiti ar datu uzstadijumiem"/>
+  <StrRes Name="propClipped" Text="Determines whether the text should be clipped inside the objects bounds"/>
+  <StrRes Name="propCollate" Text="Nosaka, vai nepieciesama sortesana pec kopijam"/>
+  <StrRes Name="propColor.TFont" Text="Fonta krasa"/>
+  <StrRes Name="propColor" Text="Objekta krasa"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Ramja krasa"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Objekta krasa, ja noteikta izvelne ir aktiva"/>
+  <StrRes Name="propColumnFields" Text="Laukumu nosaukumi, izvietoti tabulas kolonnu virsraksta"/>
+  <StrRes Name="propColumnGap" Text="Atstarpe starp kolonnam"/>
+  <StrRes Name="propColumnLevels" Text="Limenu daudzums tabulas kolonnu virsraksta"/>
+  <StrRes Name="propColumns" Text="Kolonnu daudzums"/>
+  <StrRes Name="propColumnWidth" Text="Kolonnu platums"/>
+  <StrRes Name="propCondition" Text="Izteiksme pielautajai izdalisanai. Ja izteiksme vienada ar True, izdalisana bus aktiva"/>
+  <StrRes Name="propConnected" Text="Nosaka, vai ir aktivs pieslegums pie BD"/>
+  <StrRes Name="propConvertNulls" Text="Nosaka, vai tuksie BD laukumi jakonverte uz 0, False vai tuksu rindu, atkariba no laukuma veida"/>
+  <StrRes Name="propCopies" Text="Kopiju daudzums"/>
+  <StrRes Name="propCursor" Text="Objekta kursora forma"/>
+  <StrRes Name="propDatabaseName" Text="Datu bazes nosaukums"/>
+  <StrRes Name="propDataField" Text="BD laukuma nosaukums, kuram piesaistiti objekti"/>
+  <StrRes Name="propDataSet" Text="Datu ievadisana, kuram piesaistiti objekti"/>
+  <StrRes Name="propDate" Text="Datums"/>
+  <StrRes Name="propDateFormat" Text="Datuma formats"/>
+  <StrRes Name="propDecimalSeparator" Text="Vesela skaitla vai dalskaitla dalitajs"/>
+  <StrRes Name="propDefault" Text="Nosaka, vai nostrada komanda pie taustina Enter nospiesanas"/>
+  <StrRes Name="propDefHeight" Text="Rindas augstums tabula pec noklusejuma"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="Atskaites apraksts"/>
+  <StrRes Name="propDescription" Text="Object's description"/>
+  <StrRes Name="propDiagonal" Text="Nosaka, vai linija ir diagonala"/>
+  <StrRes Name="propDisplayFormat" Text="Izcelto nozimju formatesana"/>
+  <StrRes Name="propDoublePass" Text="Nosaka, vai atskaite ir dubulta"/>
+  <StrRes Name="propDown" Text="Nosaka, vai komanda ir aktivizeta"/>
+  <StrRes Name="propDownThenAcross" Text="Nosaka, ka liela tabula tiks sadalita pa lappusem"/>
+  <StrRes Name="propDriverName" Text="BDE draiveru nosaukums"/>
+  <StrRes Name="propDropShadow" Text="Nosaka, vai tiek radita ena"/>
+  <StrRes Name="propDuplex" Text="Dubultas drukas rezims"/>
+  <StrRes Name="propEditMask" Text="Maska teksta redigesanai"/>
+  <StrRes Name="propEnabled" Text="Nosaka, vai ir atlauts vadosais elements"/>
+  <StrRes Name="propEngineOptions" Text="Atskaites ipasibas"/>
+  <StrRes Name="propExpression" Text="Izteikums, kura nozime tiks izmantota objekta"/>
+  <StrRes Name="propExpressionDelimiters" Text="Simboli, kurus izmanto izteiksmju atspogulosanai teksta"/>
+  <StrRes Name="propFieldAliases" Text="Laukuma BD aliasi"/>
+  <StrRes Name="propFilter" Text="Ierakstu filtracijas izteiksme datu ievadisanai"/>
+  <StrRes Name="propFiltered" Text="Nosaka, vai jaizmanto filtracija, kuras noraditas Filter ipasibas"/>
+  <StrRes Name="propFlowTo" Text="Objekts, kurs radis tekstu, kuram pietrukst vietas dotaja objekta"/>
+  <StrRes Name="propFont" Text="Fonta parametri"/>
+  <StrRes Name="propFooterAfterEach" Text="Nosaka, vai janorada atstarpe pec katras datu rindas"/>
+  <StrRes Name="propFormatStr" Text="Formatesanas linija"/>
+  <StrRes Name="propFrame" Text="Ramja parametri"/>
+  <StrRes Name="propGapX" Text="Teksta atkape no kreisas un labas puses no objekta laukuma robezam"/>
+  <StrRes Name="propGapY" Text="Teksta atkape no augsa un apaksas no objekta laukuma robezam"/>
+  <StrRes Name="propGlyph" Text="Vadosa elementa attels"/>
+  <StrRes Name="propGroupIndex" Text="Lauj apvienot komandas grupa"/>
+  <StrRes Name="propHAlign" Text="Teksta izlidzinasana horizontali"/>
+  <StrRes Name="propHeight" Text="Objekta augstums"/>
+  <StrRes Name="propHideZeros" Text="Nosaka, vai japaslepj objekti ar nulles nozimi"/>
+  <StrRes Name="propHighlight" Text="Noteiktas izcelsanas parametri"/>
+  <StrRes Name="propIndexName" Text="Indeksa nosaukums"/>
+  <StrRes Name="propInitString" Text="Printera inicializacijas linija matricas atskaisu printesanai"/>
+  <StrRes Name="propItems" Text="Objekta liniju saraksts"/>
+  <StrRes Name="propKeepAspectRatio" Text="Saglabat attelu proporcijas"/>
+  <StrRes Name="propKeepChild" Text="Nosaka, vai joslai japaradas taja pasa lappuse, ka ari tas pirmsakums"/>
+  <StrRes Name="propKeepFooter" Text="Nosaka, vai joslai japaradas taja pasa lappuse, ka ari tas footer"/>
+  <StrRes Name="propKeepHeader" Text="Nosaka, vai joslai japaradas taja pasa lappuse, ka ari tas header"/>
+  <StrRes Name="propKeepTogether" Text="Nosaka, vai joslai japaradas uz vienas lappuses"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Formatesanas veids"/>
+  <StrRes Name="propKind" Text="Komandas veids"/>
+  <StrRes Name="propLargeDesignHeight" Text="Nosaka, vai lappusei bus liels augstums dizainera rezima"/>
+  <StrRes Name="propLayout" Text="Attela izvietojums"/>
+  <StrRes Name="propLeft" Text="X objekta koordinates"/>
+  <StrRes Name="propLeftMargin" Text="Lappuses kreisa laukuma izmers"/>
+  <StrRes Name="propLines" Text="Objekta teksts"/>
+  <StrRes Name="propLineSpacing" Text="Atstarpes starp teksta rindam"/>
+  <StrRes Name="propLoginPrompt" Text="Nosaka, vai jauzrada dialogs ar vardu/paroli pie pieslegsanas pie BD"/>
+  <StrRes Name="propMargin" Text="Atstarpe starp attelu un vadosa elementa malu"/>
+  <StrRes Name="propMaster" Text="Galvena datu ievade, lai izveidotu sakarus ar master-detail"/>
+  <StrRes Name="propMasterFields" Text="Saistitie laukumi galvenaja un paklautaja datu ievade"/>
+  <StrRes Name="propMaxLength" Text="Maksimalais teksta garums"/>
+  <StrRes Name="propMaxWidth" Text="Kolonnas maksimalais platums"/>
+  <StrRes Name="propMemo" Text="Objekta teksts"/>
+  <StrRes Name="propMinWidth" Text="Kolonnas minimalais platums"/>
+  <StrRes Name="propMirrorMargins" Text="Lappuses spogullaukums"/>
+  <StrRes Name="propModalResult" Text="Nosaka, ar kadu rezultatu komanda aizver modela formu"/>
+  <StrRes Name="propName.TFont" Text="Fonta nosaukums"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Atskaites nosaukums"/>
+  <StrRes Name="propName" Text="Objekta nosaukums"/>
+  <StrRes Name="propNumGlyphs" Text="Attelu daudzums, ar uzraditam ipasibam Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Nosaka, vai automatiski jaatver datu ievade"/>
+  <StrRes Name="propOrientation" Text="Lappuses orientacija"/>
+  <StrRes Name="propOutlineText" Text="Teksts, kurs tiks atspogulots &#38;#34;Atskaites koka&#38;#34; parlukprogrammas loga"/>
+  <StrRes Name="propOutlineVisible" Text="Nosaka, vai paradit &#38;#34;Atskaites koku&#38;#34; parlukprogrammas loga"/>
+  <StrRes Name="propOutlineWidth" Text="&#38;#34;Atskaites koka&#38;#34; platums "/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Lappuses numuri, kuriem jabut uzdrukatiem"/>
+  <StrRes Name="propPaperHeight" Text="Lappuses augstums"/>
+  <StrRes Name="propPaperWidth" Text="Lappuses platums"/>
+  <StrRes Name="propParagraphGap" Text="Paragrafa atkape"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parametri pieslegti pie BD"/>
+  <StrRes Name="propParams" Text="Pieprasijuma parametri"/>
+  <StrRes Name="propParentFont" Text="Nosaka, vai ir jaizmanto fonta uzstadijumi"/>
+  <StrRes Name="propPassword" Text="Atskaites parole"/>
+  <StrRes Name="propPasswordChar" Text="Nosaka simbolu, kurs tiek izmantots pie paroles atspogulosanas"/>
+  <StrRes Name="propPicture" Text="Attels"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Atskaites attels"/>
+  <StrRes Name="propPosition" Text="Loga pozicija pec noklusejuma"/>
+  <StrRes Name="propPreviewOptions" Text="Parlukosanas uzstadijumi"/>
+  <StrRes Name="propPrintable" Text="Nosaka, vai objekts ir jadruka. Jebkura gadijuma objekts bus redzams parlukprogramma"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Nosaka, vai ir jadruka pamatbaze, ja pamatjosla ir neredzama"/>
+  <StrRes Name="propPrinter" Text="Printeris, kurs tiks izvelets pie atskaites drukasanas"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Nosaka, vai ir jadruka josla, ja to apaksjoslas nesatur ierakstus"/>
+  <StrRes Name="propPrintIfEmpty" Text="Nosaka, vai ir jadruka lappuse, ja visas tas apaksjoslas nesatur ierakstus"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Nosaka, vai ir jadruka apaksjoslas pirmaja lappusei"/>
+  <StrRes Name="propPrintOnLastPage" Text="Nosaka, vai ir jadruka apaksjoslas pedeja lappuse"/>
+  <StrRes Name="propPrintOnParent" Text="Nosaka, vai paradit atskaites saturu galvenaja josla"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Nosaka, vai uzsakt tekosas lappuses driskasanu ieprieksejas lappuses brivaja vieta"/>
+  <StrRes Name="propPrintOptions" Text="Drukas uzstadijumi"/>
+  <StrRes Name="propPrintPages" Text="Nosaka, kuras lappuses jadruka - visas, nepara vai para"/>
+  <StrRes Name="propRangeBegin" Text="Navigacijas sakuma punkts datu ievadisana"/>
+  <StrRes Name="propRangeEnd" Text="Navigacijas beigu punkts datu ievadisana"/>
+  <StrRes Name="propRangeEndCount" Text="Datu ievadisanas ierakstu daudzums, ja RangeEnd = reCount"/>
+  <StrRes Name="propReadOnly" Text="Uzstada rezimu &#38;#34;tikai lasisanai&#38;#34;"/>
+  <StrRes Name="propRepeatHeaders" Text="Nosaka, vai nepieciesams paradit virsrakstus katra lappuse"/>
+  <StrRes Name="propReportOptions" Text="Atskaites uzstadijumi"/>
+  <StrRes Name="propReprintOnNewPage" Text="Nosaka, vai nepieciesams paradit joslas katra lappuse"/>
+  <StrRes Name="propRestrictions" Text="Karogu ievadisana, kuri aizliedz dazadas darbibas"/>
+  <StrRes Name="propRightMargin" Text="Lappuses laba laukuma izmers"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Svitru koda orientacija"/>
+  <StrRes Name="propRotation" Text="Teksta orientacija"/>
+  <StrRes Name="propRowCount" Text="Rindu skaits datu josla, ja tas nav pievienots pie datiem"/>
+  <StrRes Name="propRowFields" Text="BD laukumu nosaukumi, izvietoti tabulas rindu virsraksta"/>
+  <StrRes Name="propRowLevels" Text="Limenu daudzums tabulas rindu virsraksta"/>
+  <StrRes Name="propRTLReading" Text="Nosaka, vai nepieciesams izmantot teksta formesanu no labas puses uz kreiso"/>
+  <StrRes Name="propSessionName" Text="BDE sesijas nosaukums"/>
+  <StrRes Name="propShadowColor" Text="Enas krasa"/>
+  <StrRes Name="propShadowWidth" Text="Enas izmers"/>
+  <StrRes Name="propShape" Text="Figuras veids"/>
+  <StrRes Name="propShiftMode" Text="Objektu savienosanas rezims"/>
+  <StrRes Name="propShowColumnHeader" Text="Nosaka, vai noradit kolonnu virsrakstus"/>
+  <StrRes Name="propShowColumnTotal" Text="Nosaka, vai uzradit kopsummu kolonnas"/>
+  <StrRes Name="propShowDialog" Text="Nosaka, vai paradit drukas dialogu parlukprogramma"/>
+  <StrRes Name="propShowRowHeader" Text="Nosaka, vai paradit rindu virsrakstus"/>
+  <StrRes Name="propShowRowTotal" Text="Nosaka, vai paradit kopsummu pec rindam"/>
+  <StrRes Name="propShowText" Text="Nosaka, vai paradit tekstu zem svitru koda"/>
+  <StrRes Name="propSize" Text="Fonta izmers"/>
+  <StrRes Name="propSorted" Text="Nosaka, vai saraksts ir jasorte"/>
+  <StrRes Name="propSpacing" Text="Atstarpe starp attelu un uzrakstu"/>
+  <StrRes Name="propSQL" Text="SQL izteiciens"/>
+  <StrRes Name="propStartNewPage" Text="Nosaka, vai formatet lappuses dalisanu pirms joslas drukas"/>
+  <StrRes Name="propStretch" Text="Izstiept attelu pec objekta izmeriem"/>
+  <StrRes Name="propStretched" Text="Nosaka, vai objektu var izstiept"/>
+  <StrRes Name="propStretchMode" Text="Objekta izstiepsanas rezims"/>
+  <StrRes Name="propStyle.TFont" Text="Fonta veids"/>
+  <StrRes Name="propStyle" Text="Vadosa elementa veids"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Ramja veids"/>
+  <StrRes Name="propSuppressRepeated" Text="Nosaka, vai uzradit atkartotas nozimes"/>
+  <StrRes Name="propTableName" Text="Tabulas nosaukums"/>
+  <StrRes Name="propTag" Text="Objekta iezime, datums"/>
+  <StrRes Name="propTagStr" Text="Objekta iezime, izteiksme"/>
+  <StrRes Name="propText" Text="Objekta teksts"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Nosaka, vai jauzrada atskaites virsraksts pirms lappuses virsraksta"/>
+  <StrRes Name="propTop" Text=" Y objekta koordinates"/>
+  <StrRes Name="propTopMargin" Text="Lappuses augsejas robezas izmers"/>
+  <StrRes Name="propTyp" Text="Ramja veids"/>
+  <StrRes Name="propUnderlines" Text="Nosaka, vai pasvitrot katru teksta rindu"/>
+  <StrRes Name="propURL" Text="URL objekta - izteiksme "/>
+  <StrRes Name="propUserName" Text="Objekta lietotajvards"/>
+  <StrRes Name="propVAlign" Text="Vertikala teksta izlidzinasana"/>
+  <StrRes Name="propVersionBuild" Text="Versija build"/>
+  <StrRes Name="propVersionMajor" Text=" Versija, major version"/>
+  <StrRes Name="propVersionMinor" Text=" Versija, minor version"/>
+  <StrRes Name="propVersionRelease" Text=" Versija, release"/>
+  <StrRes Name="propVisible" Text="Nosaka, vai objekts ir redzams"/>
+  <StrRes Name="propWidth" Text="Objekta platums"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Ramja biezums"/>
+  <StrRes Name="propWindowState" Text="Loga pirmatnejais stavoklis"/>
+  <StrRes Name="propWordBreak" Text="Sadalit krievu vardus pa zilbem"/>
+  <StrRes Name="propWordWrap" Text="Nosaka, vai teksts ir japarnes pa vardiem"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Svitru koda merogs"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Expression string. If this expression is True, the highlight will be active"/>
+  <StrRes Name="propConnectionName" Text="Name of the connection to the database used in the report"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix font style"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Hide the footer if a group has only one data record"/>
+  <StrRes Name="propOutlineExpand" Text="Determines whether to expand the report outline or not"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="Print mode: normal, split big pages to small one, or print several small pages on a big one"/>
+  <StrRes Name="propPrintOnSheet" Text="Paper size to print report on. Used if PrintMode is not pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Reset page number/total pages numbers when print a group. Should be used with StartNewPage option set to true"/>
+  <StrRes Name="propReverse" Text="Determines whether to print pages in reversed order"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="Display mode of the OLE object"/>
+  <StrRes Name="propVersion" Text="Version of the FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Relative with of wide bars of the barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="Determines whether to draw an arrow at the end of line"/>
+  <StrRes Name="propArrowLength" Text="Length of the arrow"/>
+  <StrRes Name="propArrowSolid" Text="Determines whether to draw a solid-filled arrow"/>
+  <StrRes Name="propArrowStart" Text="Determines whether to draw an arrow at the start of line"/>
+  <StrRes Name="propArrowWidth" Text="Width of the arrow"/>
+  <StrRes Name="propCloseDataSource" Text="Determines whether to close the dataset when report is finished"/>
+  <StrRes Name="propDatabase" Text="Database connection"/>
+  <StrRes Name="propIndexFieldNames" Text="Names of index fields"/>
+  <StrRes Name="propCommandTimeOut" Text="Amount of time needed to execute a query"/>
+  <StrRes Name="propExpandDrillDown" Text="Determines whether to expand all drill-down elements at first start of a report"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Determines whether to display a text in WYSIWYG mode"/>
+  <StrRes Name="propLeftLine" Text="Left line of a frame"/>
+  <StrRes Name="propTopLine" Text="Top line of a frame"/>
+  <StrRes Name="propRightLine" Text="Right line of a frame"/>
+  <StrRes Name="propBottomLine" Text="Bottom line of a frame"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="The color of the frame line"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="The style of the frame line"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="The width of the frame line"/>
+  <StrRes Name="propFileLink" Text="Expression or name of the file containing a picture"/>
+  <StrRes Name="propEndlessWidth" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propEndlessHeight" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propAddHeight" Text="Adds specified amount of space to the cell height"/>
+  <StrRes Name="propAddWidth" Text="Adds specified amount of space to the cell width"/>
+  <StrRes Name="propAllowDuplicates" Text="Determines whether the cell can accept duplicate string values"/>
+  <StrRes Name="propJoinEqualCells" Text="Determines whether the crosstab should join cells with equal values"/>
+  <StrRes Name="propNextCross" Text="Pointer to the next crosstab that will be displayed side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Gap between side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Determines whether the crosstab should display a left-top corner elements"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

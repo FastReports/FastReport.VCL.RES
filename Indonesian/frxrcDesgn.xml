@@ -1,0 +1,844 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="2000" Text="Inspektor Obbyek"/>
+  <StrRes Name="oiProp" Text="Properti"/>
+  <StrRes Name="oiEvent" Text="Event"/>
+  <StrRes Name="2100" Text="Susunan Data"/>
+  <StrRes Name="2101" Text="Data"/>
+  <StrRes Name="2102" Text="Variabel"/>
+  <StrRes Name="2103" Text="Fungsi"/>
+  <StrRes Name="2104" Text="Buat field"/>
+  <StrRes Name="2105" Text="Buat judul"/>
+  <StrRes Name="2106" Text="Classes"/>
+  <StrRes Name="dtNoData" Text="Data tidak tersedia."/>
+  <StrRes Name="dtNoData1" Text="Go &#38;#34;Report|Data...&#38;#34; menu to add an existing datasets to your report, or switch to &#38;#34;Data&#38;#34; tab and create new datasets."/>
+  <StrRes Name="dtData" Text="Data"/>
+  <StrRes Name="dtSysVar" Text="Variabel sistem"/>
+  <StrRes Name="dtVar" Text="Variabel"/>
+  <StrRes Name="dtFunc" Text="Fungsi"/>
+  <StrRes Name="2200" Text="Susunan Laporan"/>
+  <StrRes Name="2300" Text="Buka File Skrip"/>
+  <StrRes Name="2301" Text="Simpan Skrip ke File"/>
+  <StrRes Name="2302" Text="Jalankan Skrip"/>
+  <StrRes Name="2303" Text="Lacak kedalam"/>
+  <StrRes Name="2304" Text="Akhiri Skrip"/>
+  <StrRes Name="2305" Text="Evaluasi"/>
+  <StrRes Name="2306" Text="Bahasa:"/>
+  <StrRes Name="2307" Text="Penjajaran"/>
+  <StrRes Name="2308" Text="Penjajaran Kiri"/>
+  <StrRes Name="2309" Text="Penjajaran Tengah"/>
+  <StrRes Name="2310" Text="Penjajaran Kanan"/>
+  <StrRes Name="2311" Text="Penjajaran Atas"/>
+  <StrRes Name="2312" Text="Penjajaran Tengah"/>
+  <StrRes Name="2313" Text="Penjajaran Bawah"/>
+  <StrRes Name="2314" Text="Spasi secara Horizontal"/>
+  <StrRes Name="2315" Text="Spasi secara Vertikal"/>
+  <StrRes Name="2316" Text="Tengahkan secara Horisontal dalam Band"/>
+  <StrRes Name="2317" Text="Tengahkan secara Vertikal dalam Band"/>
+  <StrRes Name="2318" Text="Panjang Sama"/>
+  <StrRes Name="2319" Text="Tinggi Sama"/>
+  <StrRes Name="2320" Text="Teks"/>
+  <StrRes Name="2321" Text="Gaya"/>
+  <StrRes Name="2322" Text="Nama Font"/>
+  <StrRes Name="2323" Text="Besar Font"/>
+  <StrRes Name="2324" Text="Tebal"/>
+  <StrRes Name="2325" Text="Miring"/>
+  <StrRes Name="2326" Text="Garis bawah"/>
+  <StrRes Name="2327" Text="Warna Font"/>
+  <StrRes Name="2328" Text="Penerangan"/>
+  <StrRes Name="2329" Text="Rotasi Teks"/>
+  <StrRes Name="2330" Text="Penjajaran Kiri"/>
+  <StrRes Name="2331" Text="Penjajaran Tengah"/>
+  <StrRes Name="2332" Text="Penjajaran Kanan"/>
+  <StrRes Name="2333" Text="Justifikasi"/>
+  <StrRes Name="2334" Text="Penjajaran Atas"/>
+  <StrRes Name="2335" Text="Penjajaran Tengah"/>
+  <StrRes Name="2336" Text="Penjajaran Bawah"/>
+  <StrRes Name="2337" Text="Frame"/>
+  <StrRes Name="2338" Text="Garis Atas"/>
+  <StrRes Name="2339" Text="Garis Bawah"/>
+  <StrRes Name="2340" Text="Garis Kiri"/>
+  <StrRes Name="2341" Text="Garis Kanan"/>
+  <StrRes Name="2342" Text="Semua Garis Frame"/>
+  <StrRes Name="2343" Text="Tanpa Frame"/>
+  <StrRes Name="2344" Text="Bayangan"/>
+  <StrRes Name="2345" Text="Warna Latar belakang"/>
+  <StrRes Name="2346" Text="Warna Frame"/>
+  <StrRes Name="2347" Text="Gaya Frame"/>
+  <StrRes Name="2348" Text="Panjang Frame"/>
+  <StrRes Name="2349" Text="Standar"/>
+  <StrRes Name="2350" Text="Laporan Baru"/>
+  <StrRes Name="2351" Text="Buka Laporan"/>
+  <StrRes Name="2352" Text="Simpan Laporan"/>
+  <StrRes Name="2353" Text="Preview"/>
+  <StrRes Name="2354" Text="Halaman Laporan Baru"/>
+  <StrRes Name="2355" Text="Dialog Halaman Baru"/>
+  <StrRes Name="2356" Text="Hapus Halaman"/>
+  <StrRes Name="2357" Text="Seting Halaman"/>
+  <StrRes Name="2358" Text="Variabel"/>
+  <StrRes Name="2359" Text="Cut"/>
+  <StrRes Name="2360" Text="Copy"/>
+  <StrRes Name="2361" Text="Paste"/>
+  <StrRes Name="2362" Text="Copy Formatting"/>
+  <StrRes Name="2363" Text="Undo"/>
+  <StrRes Name="2364" Text="Redo"/>
+  <StrRes Name="2365" Text="Grup"/>
+  <StrRes Name="2366" Text="Ungroup"/>
+  <StrRes Name="2367" Text="Tampilkan Grid"/>
+  <StrRes Name="2368" Text="Jajarkan ke Grid"/>
+  <StrRes Name="2369" Text="Secukupnya Grid"/>
+  <StrRes Name="2370" Text="Zoom"/>
+  <StrRes Name="2371" Text="Piranti Ekstra"/>
+  <StrRes Name="2372" Text="Piranti Pemilih"/>
+  <StrRes Name="2373" Text="Piranti Tangan"/>
+  <StrRes Name="2374" Text="Piranti Pembesaran"/>
+  <StrRes Name="2375" Text="Piranti Teks Edit"/>
+  <StrRes Name="2376" Text="Piranti Format Copy"/>
+  <StrRes Name="2377" Text="Sisipkan Band"/>
+  <StrRes Name="2378" Text="&amp;File"/>
+  <StrRes Name="2379" Text="&amp;Edit"/>
+  <StrRes Name="2380" Text="Cari..."/>
+  <StrRes Name="2381" Text="Cari Berikutnya"/>
+  <StrRes Name="2382" Text="Ganti..."/>
+  <StrRes Name="2383" Text="&amp;Laporan"/>
+  <StrRes Name="2384" Text="Data..."/>
+  <StrRes Name="2385" Text="Opsi..."/>
+  <StrRes Name="2386" Text="Gaya..."/>
+  <StrRes Name="2387" Text="&amp;View"/>
+  <StrRes Name="2388" Text="Toolbars"/>
+  <StrRes Name="2389" Text="Standar"/>
+  <StrRes Name="2390" Text="Teks"/>
+  <StrRes Name="2391" Text="Frame"/>
+  <StrRes Name="2392" Text="Palet Penjajaran"/>
+  <StrRes Name="2393" Text="Piranti Ekstra"/>
+  <StrRes Name="2394" Text="Inspektor Obyek"/>
+  <StrRes Name="2395" Text="Susunan Data"/>
+  <StrRes Name="2396" Text="Susunan Laporan"/>
+  <StrRes Name="2397" Text="Penggaris"/>
+  <StrRes Name="2398" Text="Penunjuk"/>
+  <StrRes Name="2399" Text="Hapus Penunjuk"/>
+  <StrRes Name="2400" Text="Opsi..."/>
+  <StrRes Name="2401" Text="&amp;Panduan"/>
+  <StrRes Name="2402" Text="Daftar Isi Panduan..."/>
+  <StrRes Name="2403" Text="Tentang FastReport..."/>
+  <StrRes Name="2404" Text="Urutan Tab..."/>
+  <StrRes Name="2405" Text="Undo"/>
+  <StrRes Name="2406" Text="Redo"/>
+  <StrRes Name="2407" Text="Cut"/>
+  <StrRes Name="2408" Text="Copy"/>
+  <StrRes Name="2409" Text="Paste"/>
+  <StrRes Name="2410" Text="Grup"/>
+  <StrRes Name="2411" Text="Ungroup"/>
+  <StrRes Name="2412" Text="Hapus"/>
+  <StrRes Name="2413" Text="Hapus Halaman"/>
+  <StrRes Name="2414" Text="Pilih Semua"/>
+  <StrRes Name="2415" Text="Edit..."/>
+  <StrRes Name="2416" Text="Bawa ke Depan"/>
+  <StrRes Name="2417" Text="Kirim ke Belakang"/>
+  <StrRes Name="2418" Text="Baru..."/>
+  <StrRes Name="2419" Text="Laporan Baru"/>
+  <StrRes Name="2420" Text="Halaman Baru"/>
+  <StrRes Name="2421" Text="Dialog Baru"/>
+  <StrRes Name="2422" Text="Buka..."/>
+  <StrRes Name="2423" Text="Simpan"/>
+  <StrRes Name="2424" Text="Simpan Sebagai..."/>
+  <StrRes Name="2425" Text="Variabel..."/>
+  <StrRes Name="2426" Text="Seting Halaman..."/>
+  <StrRes Name="2427" Text="Preview"/>
+  <StrRes Name="2428" Text="Keluar"/>
+  <StrRes Name="2429" Text="Judul Laporan"/>
+  <StrRes Name="2430" Text="Ringkasan Laporan"/>
+  <StrRes Name="2431" Text="Header Halaman"/>
+  <StrRes Name="2432" Text="Footer Halaman"/>
+  <StrRes Name="2433" Text="Header"/>
+  <StrRes Name="2434" Text="Footer"/>
+  <StrRes Name="2435" Text="Data Master"/>
+  <StrRes Name="2436" Text="Data Detail"/>
+  <StrRes Name="2437" Text="Data Subdetail"/>
+  <StrRes Name="2438" Text="Data tingkat ke-4"/>
+  <StrRes Name="2439" Text="Data tingkat ke-5"/>
+  <StrRes Name="2440" Text="Data tingkat ke-6"/>
+  <StrRes Name="2441" Text="Header Grup"/>
+  <StrRes Name="2442" Text="Footer Grup"/>
+  <StrRes Name="2443" Text="Anak"/>
+  <StrRes Name="2444" Text="Header Kolom"/>
+  <StrRes Name="2445" Text="Footer Kolom"/>
+  <StrRes Name="2446" Text="Lapisan"/>
+  <StrRes Name="2447" Text="Band Vertikal"/>
+  <StrRes Name="2448" Text="Header"/>
+  <StrRes Name="2449" Text="Footer"/>
+  <StrRes Name="2450" Text="Data Master"/>
+  <StrRes Name="2451" Text="Data Detail"/>
+  <StrRes Name="2452" Text="Data Subdetail"/>
+  <StrRes Name="2453" Text="Group Header"/>
+  <StrRes Name="2454" Text="Group Footer"/>
+  <StrRes Name="2455" Text="Anak"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Seting Font"/>
+  <StrRes Name="2462" Text="Tebal"/>
+  <StrRes Name="2463" Text="Miring"/>
+  <StrRes Name="2464" Text="Garis bawah"/>
+  <StrRes Name="2465" Text="SuperScript"/>
+  <StrRes Name="2466" Text="SubScript"/>
+  <StrRes Name="2467" Text="Rapat"/>
+  <StrRes Name="2468" Text="Lebar"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Laporan (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal files (*.pas)|*.pas|C++ files (*.cpp)|*.cpp|JavaScript files (*.js)|*.js|Basic files (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2473" Text="Pascal files (*.pas)|*.pas|C++ files (*.cpp)|*.cpp|JavaScript files (*.js)|*.js|Basic files (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2474" Text="Koneksi..."/>
+  <StrRes Name="2475" Text="Bahasa"/>
+  <StrRes Name="2476" Text="Toggle breakpoint"/>
+  <StrRes Name="2477" Text="Run to cursor"/>
+  <StrRes Name="2478" Text="!Add child band"/>
+  <StrRes Name="dsCm" Text="Sentimeter"/>
+  <StrRes Name="dsInch" Text="Inci"/>
+  <StrRes Name="dsPix" Text="Pixel"/>
+  <StrRes Name="dsChars" Text="Karakter"/>
+  <StrRes Name="dsCode" Text="Kode"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Halaman"/>
+  <StrRes Name="dsRepFilter" Text="Laporan (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Laporan Dikompresi (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Simpan perubahan ke halaman preview?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Simpan perubahan ke "/>
+  <StrRes Name="dsCantLoad" Text="Tidak bisa mengambil file"/>
+  <StrRes Name="dsStyleFile" Text="Gaya"/>
+  <StrRes Name="dsCantFindProc" Text="Tidak bisa menemukan proc main"/>
+  <StrRes Name="dsClearScript" Text="Ini akan menghapus semua kode. Anda ingin melanjutkan?"/>
+  <StrRes Name="dsNoStyle" Text="Tanpa gaya"/>
+  <StrRes Name="dsStyleSample" Text="Contoh gaya"/>
+  <StrRes Name="dsTextNotFound" Text="Teks '%s' tidak ditemukan"/>
+  <StrRes Name="dsReplace" Text="Ganti setiap '%s'?"/>
+  <StrRes Name="2600" Text="Tentang FastReport"/>
+  <StrRes Name="2601" Text="Kunjungi webpage kami untuk info lebih jauh:"/>
+  <StrRes Name="2602" Text="Penjualan:"/>
+  <StrRes Name="2603" Text="Dukungan:"/>
+  <StrRes Name="2700" Text="Opsi Halaman"/>
+  <StrRes Name="2701" Text="Kertas"/>
+  <StrRes Name="2702" Text="Panjang"/>
+  <StrRes Name="2703" Text="Tinggi"/>
+  <StrRes Name="2704" Text="Ukuran"/>
+  <StrRes Name="2705" Text="Orientasi"/>
+  <StrRes Name="2706" Text="Kiri"/>
+  <StrRes Name="2707" Text="Atas"/>
+  <StrRes Name="2708" Text="Kanan"/>
+  <StrRes Name="2709" Text="Bawah"/>
+  <StrRes Name="2710" Text="Batas"/>
+  <StrRes Name="2711" Text="Sumber kertas"/>
+  <StrRes Name="2712" Text="Halaman pertama"/>
+  <StrRes Name="2713" Text="Halaman lain"/>
+  <StrRes Name="2714" Text="Portret"/>
+  <StrRes Name="2715" Text="Landscape"/>
+  <StrRes Name="2716" Text="Opsi lainnya"/>
+  <StrRes Name="2717" Text="Kolom"/>
+  <StrRes Name="2718" Text="Nomor"/>
+  <StrRes Name="2719" Text="Panjang"/>
+  <StrRes Name="2720" Text="Posisi"/>
+  <StrRes Name="2721" Text="Lain"/>
+  <StrRes Name="2722" Text="Dupleks"/>
+  <StrRes Name="2723" Text="Cetak ke halaman sebelumnya"/>
+  <StrRes Name="2724" Text="Batas Mirror"/>
+  <StrRes Name="2725" Text="Tinggi besar dalam mode disain"/>
+  <StrRes Name="2726" Text="Endless page width"/>
+  <StrRes Name="2727" Text="Endless page height"/>
+  <StrRes Name="2800" Text="Pilih Dataset Laporan"/>
+  <StrRes Name="2900" Text="Edit Variabel"/>
+  <StrRes Name="2901" Text="Kategori"/>
+  <StrRes Name="2902" Text="Variabel"/>
+  <StrRes Name="2903" Text="Edit"/>
+  <StrRes Name="2904" Text="Hapus"/>
+  <StrRes Name="2905" Text="Daftar"/>
+  <StrRes Name="2906" Text="Ambil"/>
+  <StrRes Name="2907" Text="Simpan"/>
+  <StrRes Name="2908" Text="Ekspressi:"/>
+  <StrRes Name="2909" Text="Diksionari (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Diksionari (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(variabel tidak didefinisikan)"/>
+  <StrRes Name="vaVar" Text="Variabel"/>
+  <StrRes Name="vaDupName" Text="Duplikasi nama"/>
+  <StrRes Name="3000" Text="Opsi Disainer"/>
+  <StrRes Name="3001" Text="Grid"/>
+  <StrRes Name="3002" Text="Tipe"/>
+  <StrRes Name="3003" Text="Ukuran"/>
+  <StrRes Name="3004" Text="Bentuk dialog:"/>
+  <StrRes Name="3005" Text="Lainnya"/>
+  <StrRes Name="3006" Text="Font"/>
+  <StrRes Name="3007" Text="Jendela kode"/>
+  <StrRes Name="3008" Text="Editor Memo"/>
+  <StrRes Name="3009" Text="Ukuran"/>
+  <StrRes Name="3010" Text="Ukuran"/>
+  <StrRes Name="3011" Text="Warna"/>
+  <StrRes Name="3012" Text="Gap antara bands:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Sentimeter:"/>
+  <StrRes Name="3019" Text="Inci:"/>
+  <StrRes Name="3020" Text="Pixel:"/>
+  <StrRes Name="3021" Text="Tampilkan grid"/>
+  <StrRes Name="3022" Text="Jajarkan ke Grid"/>
+  <StrRes Name="3023" Text="Tampilkan editor setelah menyisipkan"/>
+  <StrRes Name="3024" Text="Gunakan seting font obyek"/>
+  <StrRes Name="3025" Text="Ruangkerja"/>
+  <StrRes Name="3026" Text="Jendela piranti"/>
+  <StrRes Name="3027" Text="Warna grid LCD"/>
+  <StrRes Name="3028" Text="Penempatan band bebas"/>
+  <StrRes Name="3029" Text="Tampilkan daftar field drop-down"/>
+  <StrRes Name="3030" Text="Tampilkan layar mulai"/>
+  <StrRes Name="3031" Text="Kembalikan nilai defaults"/>
+  <StrRes Name="3032" Text="Tampilkan judul band"/>
+  <StrRes Name="3100" Text="Pilih DataSet"/>
+  <StrRes Name="3101" Text="Number of records:"/>
+  <StrRes Name="dbNotAssigned" Text="[tidak ditetapkan]"/>
+  <StrRes Name="3200" Text="Grup"/>
+  <StrRes Name="3201" Text="Pisah pada"/>
+  <StrRes Name="3202" Text="Opsi"/>
+  <StrRes Name="3203" Text="Field Data"/>
+  <StrRes Name="3204" Text="Ekspressi"/>
+  <StrRes Name="3205" Text="Biarkan grup bersama"/>
+  <StrRes Name="3206" Text="Mulai halaman baru"/>
+  <StrRes Name="3207" Text="Tampilkan dalam outline"/>
+  <StrRes Name="3300" Text="Memo Sistem"/>
+  <StrRes Name="3301" Text="Band Data"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="DataField"/>
+  <StrRes Name="3304" Text="Fungsi"/>
+  <StrRes Name="3305" Text="Ekspresi"/>
+  <StrRes Name="3306" Text="Nilai Agregat"/>
+  <StrRes Name="3307" Text="Variabel Sistem"/>
+  <StrRes Name="3308" Text="Hitung band invisibel"/>
+  <StrRes Name="3309" Text="Teks"/>
+  <StrRes Name="3310" Text="Total Berjalan"/>
+  <StrRes Name="agAggregate" Text="Sisipkan Agregat"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] dari [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="Obyek OLE"/>
+  <StrRes Name="3401" Text="Sisipkan..."/>
+  <StrRes Name="3402" Text="Edit..."/>
+  <StrRes Name="3403" Text="Tutup"/>
+  <StrRes Name="olStretched" Text="Direntangkan"/>
+  <StrRes Name="3500" Text="Editor Barcode"/>
+  <StrRes Name="3501" Text="Kode"/>
+  <StrRes Name="3502" Text="Tipe dari Bar"/>
+  <StrRes Name="3503" Text="Zoom:"/>
+  <StrRes Name="3504" Text="Opsi"/>
+  <StrRes Name="3505" Text="Rotasi"/>
+  <StrRes Name="3506" Text="Hitung Checksum"/>
+  <StrRes Name="3507" Text="Teks"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Hitung Checksum"/>
+  <StrRes Name="bcShowText" Text="Tampilkan Teks"/>
+  <StrRes Name="3600" Text="Edit Alias"/>
+  <StrRes Name="3601" Text="Tekan Enter untuk mengedit item"/>
+  <StrRes Name="3602" Text="Alias Dataset"/>
+  <StrRes Name="3603" Text="Alias Field"/>
+  <StrRes Name="3604" Text="Reset"/>
+  <StrRes Name="3605" Text="Mutakhirkan"/>
+  <StrRes Name="alUserName" Text="Nama pemakai"/>
+  <StrRes Name="alOriginal" Text="Nama Asli"/>
+  <StrRes Name="3700" Text="Editor Parameter"/>
+  <StrRes Name="qpName" Text="Nama"/>
+  <StrRes Name="qpDataType" Text="Tipe Data"/>
+  <StrRes Name="qpValue" Text="Nilai"/>
+  <StrRes Name="3800" Text="Hubungan Master-Detail"/>
+  <StrRes Name="3801" Text="Field Detail"/>
+  <StrRes Name="3802" Text="Field Master"/>
+  <StrRes Name="3803" Text="Field Terhubung"/>
+  <StrRes Name="3804" Text="Tambah"/>
+  <StrRes Name="3805" Text="Hapus"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Sisipkan Ekspresi"/>
+  <StrRes Name="3902" Text="Sisipkan Agregat"/>
+  <StrRes Name="3903" Text="Sisipkan Format"/>
+  <StrRes Name="3904" Text="Gulung Kata"/>
+  <StrRes Name="3905" Text="Text"/>
+  <StrRes Name="3906" Text="Format"/>
+  <StrRes Name="3907" Text="Highlight"/>
+  <StrRes Name="4000" Text="Gambar"/>
+  <StrRes Name="4001" Text="Ambil"/>
+  <StrRes Name="4002" Text="Copy"/>
+  <StrRes Name="4003" Text="Paste"/>
+  <StrRes Name="4004" Text="Bersihkan"/>
+  <StrRes Name="piEmpty" Text="Kosong"/>
+  <StrRes Name="4100" Text="Editor Chart"/>
+  <StrRes Name="4101" Text="Tambah Seri"/>
+  <StrRes Name="4102" Text="Hapus Seri"/>
+  <StrRes Name="4103" Text="Edit Chart"/>
+  <StrRes Name="4104" Text="Sumber Band"/>
+  <StrRes Name="4105" Text="Data Fixed"/>
+  <StrRes Name="4106" Text="DataSet"/>
+  <StrRes Name="4107" Text="Data Source"/>
+  <StrRes Name="4108" Text="Values"/>
+  <StrRes Name="4109" Text="Select the chart series or add a new one."/>
+  <StrRes Name="4114" Text="Opsi Lainnya"/>
+  <StrRes Name="4115" Text="Nilai TopN"/>
+  <StrRes Name="4116" Text="Judul TopN"/>
+  <StrRes Name="4117" Text="Urutan"/>
+  <StrRes Name="4126" Text="X Axis"/>
+  <StrRes Name="ch3D" Text="Tampilan 3D"/>
+  <StrRes Name="chAxis" Text="Tampilkan Axis"/>
+  <StrRes Name="chsoNone" Text="Tidak ada"/>
+  <StrRes Name="chsoAscending" Text="Menaik"/>
+  <StrRes Name="chsoDescending" Text="Menurun"/>
+  <StrRes Name="chxtText" Text="Teks"/>
+  <StrRes Name="chxtNumber" Text="Numerik"/>
+  <StrRes Name="chxtDate" Text="Tanggal"/>
+  <StrRes Name="4200" Text="Rich Editor"/>
+  <StrRes Name="4201" Text="Buka File"/>
+  <StrRes Name="4202" Text="Simpan File"/>
+  <StrRes Name="4203" Text="Undo"/>
+  <StrRes Name="4204" Text="Font"/>
+  <StrRes Name="4205" Text="Sisipkan Ekspresi"/>
+  <StrRes Name="4206" Text="Tebal"/>
+  <StrRes Name="4207" Text="Miring"/>
+  <StrRes Name="4208" Text="Garis Bawah"/>
+  <StrRes Name="4209" Text="Jajar Kiri"/>
+  <StrRes Name="4210" Text="Jajar Tengah"/>
+  <StrRes Name="4211" Text="Jajar Kanan"/>
+  <StrRes Name="4212" Text="Justifikasi"/>
+  <StrRes Name="4213" Text="Bulatan"/>
+  <StrRes Name="4300" Text="Editor tab-Silang"/>
+  <StrRes Name="4301" Text="Sumber Data"/>
+  <StrRes Name="4302" Text="Dimensi"/>
+  <StrRes Name="4303" Text="Baris"/>
+  <StrRes Name="4304" Text="Kolom"/>
+  <StrRes Name="4305" Text="Sel"/>
+  <StrRes Name="4306" Text="Struktur tab-Silang"/>
+  <StrRes Name="4307" Text="Header Baris"/>
+  <StrRes Name="4308" Text="Header kolom"/>
+  <StrRes Name="4309" Text="Baris toal keseluruhan"/>
+  <StrRes Name="4310" Text="Kolom total keseluruhan"/>
+  <StrRes Name="4311" Text="Tukar baris/kolom"/>
+  <StrRes Name="4312" Text="!Select style"/>
+  <StrRes Name="4313" Text="!Save current style..."/>
+  <StrRes Name="4314" Text="!Show title"/>
+  <StrRes Name="4315" Text="!Show corner"/>
+  <StrRes Name="4316" Text="!Reprint headers on new page"/>
+  <StrRes Name="4317" Text="!Auto size"/>
+  <StrRes Name="4318" Text="!Border around cells"/>
+  <StrRes Name="4319" Text="!Print down then across"/>
+  <StrRes Name="4320" Text="!Side-by-side cells"/>
+  <StrRes Name="4321" Text="!Join equal cells"/>
+  <StrRes Name="4322" Text="Kosong"/>
+  <StrRes Name="4323" Text="Jumlahkan"/>
+  <StrRes Name="4324" Text="Min"/>
+  <StrRes Name="4325" Text="Max"/>
+  <StrRes Name="4326" Text="Rata-rata"/>
+  <StrRes Name="4327" Text="Hitung"/>
+  <StrRes Name="4328" Text="Menaik (A-Z)"/>
+  <StrRes Name="4329" Text="Menurun (Z-A)"/>
+  <StrRes Name="4330" Text="Tanpa urutan"/>
+  <StrRes Name="crStName" Text="!Enter the style name:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="Subtotal"/>
+  <StrRes Name="crNone" Text="Kosong"/>
+  <StrRes Name="crSum" Text="Jumlahkan"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Max"/>
+  <StrRes Name="crAvg" Text="Avg"/>
+  <StrRes Name="crCount" Text="Hitung"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Editor Ekspresi"/>
+  <StrRes Name="4401" Text="Ekspresi:"/>
+  <StrRes Name="4500" Text="Format Tampilan"/>
+  <StrRes Name="4501" Text="Kategori"/>
+  <StrRes Name="4502" Text="Format"/>
+  <StrRes Name="4503" Text="Format string:"/>
+  <StrRes Name="4504" Text="Pemisah Desimal:"/>
+  <StrRes Name="fkText" Text="Teks (tanpa format)"/>
+  <StrRes Name="fkNumber" Text="Nomor"/>
+  <StrRes Name="fkDateTime" Text="Tanggal/Waktu"/>
+  <StrRes Name="fkBoolean" Text="Boolean"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Tidak,Ya;Tidak,Ya"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="Penerang"/>
+  <StrRes Name="4601" Text="Warna..."/>
+  <StrRes Name="4602" Text="Warna..."/>
+  <StrRes Name="4603" Text="Kondisi"/>
+  <StrRes Name="4604" Text="Font"/>
+  <StrRes Name="4605" Text="Latar belakang"/>
+  <StrRes Name="4606" Text="Tebal"/>
+  <StrRes Name="4607" Text="Miring"/>
+  <StrRes Name="4608" Text="Garis bawah"/>
+  <StrRes Name="4609" Text="Transparan"/>
+  <StrRes Name="4610" Text="Lainnya"/>
+  <StrRes Name="4700" Text="Seting Laporan"/>
+  <StrRes Name="4701" Text="Umum"/>
+  <StrRes Name="4702" Text="Seting Printer"/>
+  <StrRes Name="4703" Text="Duplikat"/>
+  <StrRes Name="4704" Text="Umum"/>
+  <StrRes Name="4705" Text="Kata sandi"/>
+  <StrRes Name="4706" Text="Kolasi duplikat"/>
+  <StrRes Name="4707" Text="Pass ganda"/>
+  <StrRes Name="4708" Text="Cetak jika kosong"/>
+  <StrRes Name="4709" Text="Deskripsi"/>
+  <StrRes Name="4710" Text="Nama"/>
+  <StrRes Name="4711" Text="Deskripsi"/>
+  <StrRes Name="4712" Text="Gambar"/>
+  <StrRes Name="4713" Text="Pembuat"/>
+  <StrRes Name="4714" Text="Mayor"/>
+  <StrRes Name="4715" Text="Minor"/>
+  <StrRes Name="4716" Text="Rilis"/>
+  <StrRes Name="4717" Text="Buatan"/>
+  <StrRes Name="4718" Text="Dibuat"/>
+  <StrRes Name="4719" Text="Diubah"/>
+  <StrRes Name="4720" Text="Deskripsi"/>
+  <StrRes Name="4721" Text="Versi"/>
+  <StrRes Name="4722" Text="Browse..."/>
+  <StrRes Name="4723" Text="Inheritance settings"/>
+  <StrRes Name="4724" Text="Select the option:"/>
+  <StrRes Name="4725" Text="Don't change"/>
+  <StrRes Name="4726" Text="Detach the base report"/>
+  <StrRes Name="4727" Text="Inherit from base report:"/>
+  <StrRes Name="4728" Text="Inheritance"/>
+  <StrRes Name="rePrnOnPort" Text="on"/>
+  <StrRes Name="riNotInherited" Text="This report is not inherited."/>
+  <StrRes Name="riInherited" Text="This report is inherited from base report: %s"/>
+  <StrRes Name="4800" Text="Baris"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Pembangun Query"/>
+  <StrRes Name="5000" Text="Kata sandi"/>
+  <StrRes Name="5001" Text="Masukkan kata sandi:"/>
+  <StrRes Name="5100" Text="Editor Gaya"/>
+  <StrRes Name="5101" Text="Warna..."/>
+  <StrRes Name="5102" Text="Font..."/>
+  <StrRes Name="5103" Text="Frame..."/>
+  <StrRes Name="5104" Text="Tambah"/>
+  <StrRes Name="5105" Text="Hapus"/>
+  <StrRes Name="5106" Text="Edit"/>
+  <StrRes Name="5107" Text="Ambil"/>
+  <StrRes Name="5108" Text="Simpan"/>
+  <StrRes Name="5200" Text="Editor Frame"/>
+  <StrRes Name="5201" Text="Frame"/>
+  <StrRes Name="5202" Text="Garis frame"/>
+  <StrRes Name="5203" Text="Bayangan"/>
+  <StrRes Name="5204" Text="Garis Atas"/>
+  <StrRes Name="5205" Text="Garis Bawah"/>
+  <StrRes Name="5206" Text="Garis Kiri"/>
+  <StrRes Name="5207" Text="Garis Kanan"/>
+  <StrRes Name="5208" Text="Semua Garis Frame"/>
+  <StrRes Name="5209" Text="Tanpa Frame"/>
+  <StrRes Name="5210" Text="Warna Frame"/>
+  <StrRes Name="5211" Text="Gaya Frame"/>
+  <StrRes Name="5212" Text="Panjang Frame"/>
+  <StrRes Name="5213" Text="Bayangan"/>
+  <StrRes Name="5214" Text="Warna Bayangan"/>
+  <StrRes Name="5215" Text="Panjang Bayangan"/>
+  <StrRes Name="5300" Text="Item Baru"/>
+  <StrRes Name="5301" Text="Item"/>
+  <StrRes Name="5302" Text="Template"/>
+  <StrRes Name="5303" Text="Inherit the report"/>
+  <StrRes Name="5400" Text="Urutan Tab"/>
+  <StrRes Name="5401" Text="Kontrol yang terdaftar dalam urutan tab:"/>
+  <StrRes Name="5402" Text="Naik"/>
+  <StrRes Name="5403" Text="Turun"/>
+  <StrRes Name="5500" Text="Evaluasi"/>
+  <StrRes Name="5501" Text="Ekspresi"/>
+  <StrRes Name="5502" Text="Hasil"/>
+  <StrRes Name="5600" Text="Wizard Laporan"/>
+  <StrRes Name="5601" Text="Data"/>
+  <StrRes Name="5602" Text="Field"/>
+  <StrRes Name="5603" Text="Grup"/>
+  <StrRes Name="5604" Text="Tata Letak"/>
+  <StrRes Name="5605" Text="Gaya"/>
+  <StrRes Name="5606" Text="Langkah 1. Pilih dataset."/>
+  <StrRes Name="5607" Text="Langkah 2. Pilih fields yang akan ditampilkan."/>
+  <StrRes Name="5608" Text="Langkah 3. Buat grup (opsional)."/>
+  <StrRes Name="5609" Text="Langkah 4. Tentukan orientasi halaman dan tata letak data."/>
+  <StrRes Name="5610" Text="Langkah 5. Pilih gaya laporan."/>
+  <StrRes Name="5611" Text="Tambah &#62;"/>
+  <StrRes Name="5612" Text="Tambah semua &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Hapus"/>
+  <StrRes Name="5614" Text="&#60;&#60; Hapus semua"/>
+  <StrRes Name="5615" Text="Tambah &#62;"/>
+  <StrRes Name="5616" Text="&#60; Hapus"/>
+  <StrRes Name="5617" Text="Field yang dipilih:"/>
+  <StrRes Name="5618" Text="Field tersedia:"/>
+  <StrRes Name="5619" Text="Grup:"/>
+  <StrRes Name="5620" Text="Orientasi"/>
+  <StrRes Name="5621" Text="Tata Letak"/>
+  <StrRes Name="5622" Text="Portret"/>
+  <StrRes Name="5623" Text="Landscape"/>
+  <StrRes Name="5624" Text="Bertabel"/>
+  <StrRes Name="5625" Text="Berkolom"/>
+  <StrRes Name="5626" Text="Cukupkan field ke panjang halaman"/>
+  <StrRes Name="5627" Text="&#60;&#60; Kembali"/>
+  <StrRes Name="5628" Text="Berikut &#62;&#62;"/>
+  <StrRes Name="5629" Text="Selesai"/>
+  <StrRes Name="5630" Text="Tabel baru..."/>
+  <StrRes Name="5631" Text="Query baru..."/>
+  <StrRes Name="5632" Text="Select database connection:"/>
+  <StrRes Name="5633" Text="Select a table:"/>
+  <StrRes Name="5634" Text="or"/>
+  <StrRes Name="5635" Text="Create a query..."/>
+  <StrRes Name="5636" Text="Configure connections"/>
+  <StrRes Name="wzStd" Text="Wizard Laporan Standar"/>
+  <StrRes Name="wzDMP" Text="Wizard Laporan Dot-Matrix"/>
+  <StrRes Name="wzStdEmpty" Text="Laporan Standar"/>
+  <StrRes Name="wzDMPEmpty" Text="Laporan Dot-Matrix"/>
+  <StrRes Name="5700" Text="Wizard Koneksi"/>
+  <StrRes Name="5701" Text="Koneksi"/>
+  <StrRes Name="5702" Text="Pilih jenis koneksi:"/>
+  <StrRes Name="5703" Text="Pilih database:"/>
+  <StrRes Name="5704" Text="Masuk"/>
+  <StrRes Name="5705" Text="Kata sandi"/>
+  <StrRes Name="5706" Text="Tanya Masuk"/>
+  <StrRes Name="5707" Text="Gunakan masuk/kata sandi:"/>
+  <StrRes Name="5708" Text="Tabel"/>
+  <StrRes Name="5709" Text="Pilih nama tabel:"/>
+  <StrRes Name="5710" Text="Filter rekaman:"/>
+  <StrRes Name="5711" Text="Query"/>
+  <StrRes Name="5712" Text="Pernyataan SQL:"/>
+  <StrRes Name="5713" Text="Pembangun Query"/>
+  <StrRes Name="5714" Text="Edit Parameter Query"/>
+  <StrRes Name="ftAllFiles" Text="Semua File"/>
+  <StrRes Name="ftPictures" Text="Gambar"/>
+  <StrRes Name="ftDB" Text="Database"/>
+  <StrRes Name="ftRichFile" Text="RichText file"/>
+  <StrRes Name="ftTextFile" Text="Teks file"/>
+  <StrRes Name="prNotAssigned" Text="(Tidak ditetapkan)"/>
+  <StrRes Name="prInvProp" Text="Nilai properti salah"/>
+  <StrRes Name="prDupl" Text="Duplikasi nama"/>
+  <StrRes Name="prPict" Text="(Gambar)"/>
+  <StrRes Name="mvExpr" Text="Ijinkan Ekspresi"/>
+  <StrRes Name="mvStretch" Text="Rentangkan"/>
+  <StrRes Name="mvStretchToMax" Text="Rentangkan ke Tinggi Maks"/>
+  <StrRes Name="mvShift" Text="Shift"/>
+  <StrRes Name="mvShiftOver" Text="Shift Saat Saling tindih"/>
+  <StrRes Name="mvVisible" Text="Nampak"/>
+  <StrRes Name="mvPrintable" Text="Bisa dicetak"/>
+  <StrRes Name="mvFont" Text="Font..."/>
+  <StrRes Name="mvFormat" Text="Format tampilan..."/>
+  <StrRes Name="mvClear" Text="Bersihkan isi"/>
+  <StrRes Name="mvAutoWidth" Text="Panjang otomatis"/>
+  <StrRes Name="mvWWrap" Text="Gulung kata"/>
+  <StrRes Name="mvSuppress" Text="Hilangkan Nilai Berulang"/>
+  <StrRes Name="mvHideZ" Text="Sembunyikan Nol"/>
+  <StrRes Name="mvHTML" Text="Ijinkan Tag HTML"/>
+  <StrRes Name="lvDiagonal" Text="Diagonal"/>
+  <StrRes Name="pvAutoSize" Text="Ukuran otomatis"/>
+  <StrRes Name="pvCenter" Text="Tengah"/>
+  <StrRes Name="pvAspect" Text="Jaga Rasio Aspek"/>
+  <StrRes Name="bvSplit" Text="Ijinkan pemisahan"/>
+  <StrRes Name="bvKeepChild" Text="Biarkan Anak Bersama"/>
+  <StrRes Name="bvPrintChild" Text="Cetak Anak Jika Sembunyi"/>
+  <StrRes Name="bvStartPage" Text="Mulai Halaman Baru"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Cetak Jika Detail Kosong"/>
+  <StrRes Name="bvKeepDetail" Text="Biarkan Detail Bersama"/>
+  <StrRes Name="bvKeepFooter" Text="Biarkan Footer Bersama"/>
+  <StrRes Name="bvReprint" Text="Cetak ulang Pada Halaman Baru"/>
+  <StrRes Name="bvOnFirst" Text="Cetak Pada Halaman Pertama"/>
+  <StrRes Name="bvOnLast" Text="Cetak Pada Halaman Terakhir"/>
+  <StrRes Name="bvKeepGroup" Text="Biarkan Bersama"/>
+  <StrRes Name="bvFooterAfterEach" Text="Footer setelah setiap baris"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Reset Page Numbers"/>
+  <StrRes Name="srParent" Text="Cetak Pada Orang Tua"/>
+  <StrRes Name="bvKeepHeader" Text="Biarkan Header Bersama"/>
+  <StrRes Name="obCatDraw" Text="Gambar"/>
+  <StrRes Name="obCatOther" Text="Obyek Lainnya"/>
+  <StrRes Name="obCatOtherControls" Text="Kontrol Lainnya"/>
+  <StrRes Name="obDiagLine" Text="Garis diagonal"/>
+  <StrRes Name="obRect" Text="Persegi panjang"/>
+  <StrRes Name="obRoundRect" Text="Kotak aga bulat"/>
+  <StrRes Name="obEllipse" Text="Elips"/>
+  <StrRes Name="obTrian" Text="Segi Tiga"/>
+  <StrRes Name="obDiamond" Text="Berlian"/>
+  <StrRes Name="obLabel" Text="Kontrol label"/>
+  <StrRes Name="obEdit" Text="Kontrol Edit"/>
+  <StrRes Name="obMemoC" Text="Kontrol Memo"/>
+  <StrRes Name="obButton" Text="Kontrol Tombol"/>
+  <StrRes Name="obChBoxC" Text="Kontrol Kotak centang"/>
+  <StrRes Name="obRButton" Text="Kontrol Tombol radio"/>
+  <StrRes Name="obLBox" Text="Kontrol Kotak daftar"/>
+  <StrRes Name="obCBox" Text="Kontrol Kotak Kombo"/>
+  <StrRes Name="obDateEdit" Text="Kontrol Edit Tanggal"/>
+  <StrRes Name="obImageC" Text="Kontrol Gambar"/>
+  <StrRes Name="obPanel" Text="Kontrol Panel"/>
+  <StrRes Name="obGrBox" Text="Kontrol Kotak Grup"/>
+  <StrRes Name="obBBtn" Text="Kontrol BitBtn"/>
+  <StrRes Name="obSBtn" Text="Kontrol Tombol Speed"/>
+  <StrRes Name="obMEdit" Text="Kontrol MaskEdit"/>
+  <StrRes Name="obChLB" Text="Kontrol CheckListBox"/>
+  <StrRes Name="obDBLookup" Text="Kontrol DBLookupComboBox"/>
+  <StrRes Name="obBevel" Text="Obyek Bevel"/>
+  <StrRes Name="obShape" Text="Obyek Bentuk"/>
+  <StrRes Name="obText" Text="Obyek Teks"/>
+  <StrRes Name="obSysText" Text="Teks Sistem"/>
+  <StrRes Name="obLine" Text="Obyek Garis"/>
+  <StrRes Name="obPicture" Text="Obyek Gambar"/>
+  <StrRes Name="obBand" Text="Obyek Band"/>
+  <StrRes Name="obDataBand" Text="Band Data"/>
+  <StrRes Name="obSubRep" Text="Obyek Sublaporan"/>
+  <StrRes Name="obDlgPage" Text="Formulir Dialog"/>
+  <StrRes Name="obRepPage" Text="Halaman Laporan"/>
+  <StrRes Name="obReport" Text="Obyek Laporan"/>
+  <StrRes Name="obRich" Text="Obyek RichText"/>
+  <StrRes Name="obOLE" Text="Obyek OLE"/>
+  <StrRes Name="obChBox" Text="Obyek kotak centang"/>
+  <StrRes Name="obChart" Text="Obyek Grafik"/>
+  <StrRes Name="obBarC" Text="Obyek Barcode"/>
+  <StrRes Name="obCross" Text="Obyek tab-Silang"/>
+  <StrRes Name="obDBCross" Text="Obyek DB tab-Silang"/>
+  <StrRes Name="obGrad" Text="Obyek Gradien"/>
+  <StrRes Name="obDMPText" Text="Obyek Teks Dot-matrix"/>
+  <StrRes Name="obDMPLine" Text="Obyek Dot-matrix"/>
+  <StrRes Name="obDMPCmd" Text="Obyek Perintah Dot-matrix "/>
+  <StrRes Name="obBDEDB" Text="BDE Database"/>
+  <StrRes Name="obBDETb" Text="BDE Tabel"/>
+  <StrRes Name="obBDEQ" Text="BDE Query"/>
+  <StrRes Name="obBDEComps" Text="Komponen BDE"/>
+  <StrRes Name="obIBXDB" Text="IBX Database"/>
+  <StrRes Name="obIBXTb" Text="IBX Tabel"/>
+  <StrRes Name="obIBXQ" Text="IBX Query"/>
+  <StrRes Name="obIBXComps" Text="Komponen IBX"/>
+  <StrRes Name="obADODB" Text="ADO Database"/>
+  <StrRes Name="obADOTb" Text="ADO Tabel"/>
+  <StrRes Name="obADOQ" Text="ADO Query"/>
+  <StrRes Name="obADOComps" Text="Komponen ADO"/>
+  <StrRes Name="obDBXDB" Text="DBX Database"/>
+  <StrRes Name="obDBXTb" Text="DBX Tabel"/>
+  <StrRes Name="obDBXQ" Text="DBX Query"/>
+  <StrRes Name="obDBXComps" Text="Komponen DBX"/>
+  <StrRes Name="obFIBDB" Text="FIB Database"/>
+  <StrRes Name="obFIBTb" Text="FIB Tabel"/>
+  <StrRes Name="obFIBQ" Text="FIB Query"/>
+  <StrRes Name="obFIBComps" Text="Komponen FIB"/>
+  <StrRes Name="ctString" Text="String"/>
+  <StrRes Name="ctDate" Text="Tanggal dan Jam"/>
+  <StrRes Name="ctConv" Text="Konversi"/>
+  <StrRes Name="ctFormat" Text="Format"/>
+  <StrRes Name="ctMath" Text="Matematika"/>
+  <StrRes Name="ctOther" Text="Lainnya"/>
+  <StrRes Name="IntToStr" Text="Ubah nilai integer ke string"/>
+  <StrRes Name="FloatToStr" Text="Ubah nilai float ke string"/>
+  <StrRes Name="DateToStr" Text="Ubah tanggal ke string"/>
+  <StrRes Name="TimeToStr" Text="Ubah Jam ke string"/>
+  <StrRes Name="DateTimeToStr" Text="Ubah nilai tanggal-dan-jam ke string"/>
+  <StrRes Name="VarToStr" Text="Ubah nilai variant ke string"/>
+  <StrRes Name="StrToInt" Text="Ubah string ke nilai integer"/>
+  <StrRes Name="StrToInt64" Text="Converts a string to an Int64 value"/>
+  <StrRes Name="StrToFloat" Text="Ubah string ke nilai float"/>
+  <StrRes Name="StrToDate" Text="Ubah string ke format tanggal"/>
+  <StrRes Name="StrToTime" Text="Ubah string ke format jam"/>
+  <StrRes Name="StrToDateTime" Text="Ubah string ke format tanggal-dan-jam"/>
+  <StrRes Name="Format" Text="Mengembalikan string terformat yang dibentuk dari seri argumen array"/>
+  <StrRes Name="FormatFloat" Text="Format nilai float"/>
+  <StrRes Name="FormatDateTime" Text="Format nilai tanggal-dan-jam"/>
+  <StrRes Name="FormatMaskText" Text="Mengembalikan string terformat menggunakan edit mask"/>
+  <StrRes Name="EncodeDate" Text="Mengembalikan tipe TDateTime untuk Tahun, Bulan, dan Hari yang ditetapkan"/>
+  <StrRes Name="DecodeDate" Text="Merinci TDateTime ke dalam Tahun, Bulan, dan nilai Hari"/>
+  <StrRes Name="EncodeTime" Text="Mengembalikan tipe TDateTime untuk Jam, Menit, Detik, dan MiliDetik yang ditetapkan"/>
+  <StrRes Name="DecodeTime" Text="Merinci TDateTime ke dalam jam, menit, detik, dan milidetik"/>
+  <StrRes Name="Date" Text="Mengembalikan tanggal saat ini"/>
+  <StrRes Name="Time" Text="Mengembalikan jam saat ini"/>
+  <StrRes Name="Now" Text="Mengembalikan tanggal dan jam saat ini"/>
+  <StrRes Name="DayOfWeek" Text="Mengembalikan hari dari minggu untuk tanggal yang ditetapkan"/>
+  <StrRes Name="IsLeapYear" Text="Menunjukan apakah tahun adalah tahun kabisat atau bukan"/>
+  <StrRes Name="DaysInMonth" Text="Mengembalikan jumlah hari dalam bulan yang ditetapkan"/>
+  <StrRes Name="Length" Text="Mengembalikan panjang string"/>
+  <StrRes Name="Copy" Text="Mengembalikan substring dari string"/>
+  <StrRes Name="Pos" Text="Mengembalikan posisi substring dalam string"/>
+  <StrRes Name="Delete" Text="Menghapus substring dari string"/>
+  <StrRes Name="Insert" Text="Menyisipkan substring ke dalam string"/>
+  <StrRes Name="Uppercase" Text="Mengubah semua karakter dalam string ke huruf kapital"/>
+  <StrRes Name="Lowercase" Text="Mengubah semua karakter dalam string ke huruf kecil"/>
+  <StrRes Name="Trim" Text="Menghilangkan semua buntut dan awalan spasi dalam string"/>
+  <StrRes Name="NameCase" Text="Mengubah karakter pertama dari sebuah kata ke huruf kapital"/>
+  <StrRes Name="CompareText" Text="Membandingkan dua string"/>
+  <StrRes Name="Chr" Text="Mengubah nilai integer ke karakter"/>
+  <StrRes Name="Ord" Text="Mengubah nilai karakter ke integer"/>
+  <StrRes Name="SetLength" Text="Set panjang dari suatu string"/>
+  <StrRes Name="Round" Text="Membulatkan nilai floating-point ke semua angka terdekat"/>
+  <StrRes Name="Trunc" Text="Memotong nilai floating-point ke integer"/>
+  <StrRes Name="Int" Text="Mengembalikan bagian integer dari angka real"/>
+  <StrRes Name="Frac" Text="Mengembalikan bagian fraksional ke angka real"/>
+  <StrRes Name="Sqrt" Text="Mengembalikan akar dari angka yang ditetapkan"/>
+  <StrRes Name="Abs" Text="Mengembalikan nilai absolut"/>
+  <StrRes Name="Sin" Text="Mengembalikan sinus dari suatu sudut (dalam radians)"/>
+  <StrRes Name="Cos" Text="Mengembalikan kosinus dari suatu sudut (dalam radians)"/>
+  <StrRes Name="ArcTan" Text="Mengembalikan arctangen"/>
+  <StrRes Name="Tan" Text="Mengembalikan tangen"/>
+  <StrRes Name="Exp" Text="Mengembalikan eksponensial"/>
+  <StrRes Name="Ln" Text="Mengembalikan logaritma alami dari ekspresi real"/>
+  <StrRes Name="Pi" Text="Mengembalikan angka 3.1415926..."/>
+  <StrRes Name="Inc" Text="Menambah nilai"/>
+  <StrRes Name="Dec" Text="Mengurangi nilai"/>
+  <StrRes Name="RaiseException" Text="Memunculkan eksepsi"/>
+  <StrRes Name="ShowMessage" Text="Menampilkan kotak pesan"/>
+  <StrRes Name="Randomize" Text="Memilai generator angka acak"/>
+  <StrRes Name="Random" Text="Mengembalikan angka acak"/>
+  <StrRes Name="ValidInt" Text="Mengembalikan True jika string yang ditetapkan berisi integer yang benar"/>
+  <StrRes Name="ValidFloat" Text="Mengembalikan True jika string yang ditetapkan berisi float yang benar"/>
+  <StrRes Name="ValidDate" Text="Mengembalikan True jika string yang ditetapkan berisi tanggal yang benar"/>
+  <StrRes Name="IIF" Text="Mengembalikan TrueValue jika Expr yang ditetapkan True, sebaliknya mengembalikan FalseValue"/>
+  <StrRes Name="Get" Text="Hanya untuk penggunaan internal"/>
+  <StrRes Name="Set" Text="Hanya untuk penggunaan internal"/>
+  <StrRes Name="InputBox" Text="Menampilkan kotak dialog yang membolehkan pemakai memasukkan string"/>
+  <StrRes Name="InputQuery" Text="Menampilkan kotak dialog yang membolehkan pemakai memasukkan string"/>
+  <StrRes Name="MessageDlg" Text="Menampilkan kotak pesan"/>
+  <StrRes Name="CreateOleObject" Text="Membuat obyek OLE"/>
+  <StrRes Name="VarArrayCreate" Text="Membuat array variant"/>
+  <StrRes Name="VarType" Text="Mengembalikan  tipe dari nilai variant"/>
+  <StrRes Name="DayOf" Text="Mengembalikan nomor hari (1..31) dari tanggal yang diberikan"/>
+  <StrRes Name="MonthOf" Text="Mengembalikan nomor bulan (1..12) dari tanggal yang diberikan"/>
+  <StrRes Name="YearOf" Text="Mengembalikan tahun dari tanggal yang diberikan"/>
+  <StrRes Name="ctAggregate" Text="Agregat"/>
+  <StrRes Name="Sum" Text="Menghitung jumlah dari Expr untuk baris data Band"/>
+  <StrRes Name="Avg" Text="Menghitung rata-rata dari Expr untuk baris data Band"/>
+  <StrRes Name="Min" Text="Menghitung minimum dari Expr untuk baris data Band"/>
+  <StrRes Name="Max" Text="Menghitung maksimum dari Expr untuk baris data Band"/>
+  <StrRes Name="Count" Text="Menghitung jumlah dari baris data"/>
+  <StrRes Name="wzDBConn" Text="Wizard Koneksi Baru"/>
+  <StrRes Name="wzDBTable" Text="Wizard Tabel Baru"/>
+  <StrRes Name="wzDBQuery" Text="Wizard Query Baru"/>
+  <StrRes Name="5800" Text="Koneksi"/>
+  <StrRes Name="5801" Text="Baru"/>
+  <StrRes Name="5802" Text="Hapus"/>
+  <StrRes Name="cpName" Text="Nama"/>
+  <StrRes Name="cpConnStr" Text="String Koneksi"/>
+  <StrRes Name="startCreateNew" Text="Create new report"/>
+  <StrRes Name="startCreateBlank" Text="Create blank report"/>
+  <StrRes Name="startOpenReport" Text="Open report"/>
+  <StrRes Name="startOpenLast" Text="Open last report"/>
+  <StrRes Name="startEditAliases" Text="Edit connection aliases"/>
+  <StrRes Name="startHelp" Text="Help"/>
+  <StrRes Name="5900" Text="Watches"/>
+  <StrRes Name="5901" Text="Add Watch"/>
+  <StrRes Name="5902" Text="Delete Watch"/>
+  <StrRes Name="5903" Text="Edit Watch"/>
+  <StrRes Name="6000" Text="Inherit error"/>
+  <StrRes Name="6001" Text="Base and inherited reports have duplicate objects. What should we do?"/>
+  <StrRes Name="6002" Text="Delete duplicates"/>
+  <StrRes Name="6003" Text="Rename duplicates"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

@@ -1,0 +1,845 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="2000" Text="Preglednik predmeta"/>
+  <StrRes Name="oiProp" Text="Vrijednosti"/>
+  <StrRes Name="oiEvent" Text="Događaji"/>
+  <StrRes Name="2100" Text="Stablo podataka"/>
+  <StrRes Name="2101" Text="Podaci"/>
+  <StrRes Name="2102" Text="Varijable"/>
+  <StrRes Name="2103" Text="Funkcije"/>
+  <StrRes Name="2104" Text="Napravi polje"/>
+  <StrRes Name="2105" Text="Napravi natpis"/>
+  <StrRes Name="2106" Text="Clase"/>
+  <StrRes Name="dtNoData" Text="Nema raspoloživih podataka."/>
+  <StrRes Name="dtNoData1" Text="Za dodavanje postojećih izvora podataka kliknite menu &#38;#34;Izvještaj|Podaci...&#38;#34;, ili uključite &#38;#34;Podaci&#38;#34; za stvaranje novih podataka."/>
+  <StrRes Name="dtData" Text="Podaci"/>
+  <StrRes Name="dtSysVar" Text="Sistmske varijable"/>
+  <StrRes Name="dtVar" Text="Varijable"/>
+  <StrRes Name="dtFunc" Text="Funkcije"/>
+  <StrRes Name="2200" Text="Stablo poruka"/>
+  <StrRes Name="2300" Text="Otvori datoteku skripta"/>
+  <StrRes Name="2301" Text="Spremi skript u datoteku"/>
+  <StrRes Name="2302" Text="Pokreni skript"/>
+  <StrRes Name="2303" Text="Slijedi u"/>
+  <StrRes Name="2304" Text="Prekini skript"/>
+  <StrRes Name="2305" Text="Izračunaj"/>
+  <StrRes Name="2306" Text="Jezik:"/>
+  <StrRes Name="2307" Text="Poravnavanje"/>
+  <StrRes Name="2308" Text="Poravnaj lijevo"/>
+  <StrRes Name="2309" Text="Poravnaj po sredini vodoravno"/>
+  <StrRes Name="2310" Text="Poravnaj desno"/>
+  <StrRes Name="2311" Text="Poravnaj gore"/>
+  <StrRes Name="2312" Text="Poravnaj po sredini okomito"/>
+  <StrRes Name="2313" Text="Poravnaj dolje"/>
+  <StrRes Name="2314" Text="Jednaki razmaci, vodoravno"/>
+  <StrRes Name="2315" Text="Jednaki razmaci, okomito"/>
+  <StrRes Name="2316" Text="Po sredini horizontalno u traci"/>
+  <StrRes Name="2317" Text="Po sredini vertikalno u traci"/>
+  <StrRes Name="2318" Text="Jednaka širina"/>
+  <StrRes Name="2319" Text="Jednaka visina"/>
+  <StrRes Name="2320" Text="Tekst"/>
+  <StrRes Name="2321" Text="Stil"/>
+  <StrRes Name="2322" Text="Pisma"/>
+  <StrRes Name="2323" Text="Veličina pisma"/>
+  <StrRes Name="2324" Text="Podebljano"/>
+  <StrRes Name="2325" Text="Kurziv"/>
+  <StrRes Name="2326" Text="Podcrtano"/>
+  <StrRes Name="2327" Text="Boja slova"/>
+  <StrRes Name="2328" Text="Osvijetli"/>
+  <StrRes Name="2329" Text="Zakretanje teksta"/>
+  <StrRes Name="2330" Text="Poravnaj lijevo"/>
+  <StrRes Name="2331" Text="Na sredinu"/>
+  <StrRes Name="2332" Text="Poravnaj desno"/>
+  <StrRes Name="2333" Text="Obostrano"/>
+  <StrRes Name="2334" Text="Poravnaj gore"/>
+  <StrRes Name="2335" Text="Na sredinu"/>
+  <StrRes Name="2336" Text="Poravnaj dolje"/>
+  <StrRes Name="2337" Text="Okvir"/>
+  <StrRes Name="2338" Text="Gornja crta"/>
+  <StrRes Name="2339" Text="Donja crta"/>
+  <StrRes Name="2340" Text="Lijeva crta"/>
+  <StrRes Name="2341" Text="Desna crta"/>
+  <StrRes Name="2342" Text="Sve crte okvira"/>
+  <StrRes Name="2343" Text="Bez okvira"/>
+  <StrRes Name="2344" Text="Sjena"/>
+  <StrRes Name="2345" Text="Boja pozadine"/>
+  <StrRes Name="2346" Text="Boja okvira"/>
+  <StrRes Name="2347" Text="Stil okvira"/>
+  <StrRes Name="2348" Text="Širina okvira"/>
+  <StrRes Name="2349" Text="Standardno"/>
+  <StrRes Name="2350" Text="Novi izvještaj"/>
+  <StrRes Name="2351" Text="Otvori izvještaj"/>
+  <StrRes Name="2352" Text="Spremi izvještaj"/>
+  <StrRes Name="2353" Text="Pregled ispisa"/>
+  <StrRes Name="2354" Text="Nova stranica izvještaja"/>
+  <StrRes Name="2355" Text="Novi dijalog"/>
+  <StrRes Name="2356" Text="Izbriši stranicu"/>
+  <StrRes Name="2357" Text="Postava stranice"/>
+  <StrRes Name="2358" Text="Varijable"/>
+  <StrRes Name="2359" Text="Izreži"/>
+  <StrRes Name="2360" Text="Kopiraj"/>
+  <StrRes Name="2361" Text="Zalijepi"/>
+  <StrRes Name="2362" Text="Kopiraj oblikovanje"/>
+  <StrRes Name="2363" Text="Poništi upis"/>
+  <StrRes Name="2364" Text="Ponovo upiši"/>
+  <StrRes Name="2365" Text="Grupiraj"/>
+  <StrRes Name="2366" Text="Razgrupiraj"/>
+  <StrRes Name="2367" Text="Prikaži mrežu"/>
+  <StrRes Name="2368" Text="Poravnaj po mreži"/>
+  <StrRes Name="2369" Text="Prilagodi na mrežu"/>
+  <StrRes Name="2370" Text="Zoom"/>
+  <StrRes Name="2371" Text="Posebni alati"/>
+  <StrRes Name="2372" Text="Izabiranje"/>
+  <StrRes Name="2373" Text="Pomicanje"/>
+  <StrRes Name="2374" Text="Zoom"/>
+  <StrRes Name="2375" Text="Uredi tekst"/>
+  <StrRes Name="2376" Text="Kopiraj oblikovanje"/>
+  <StrRes Name="2377" Text="Stavi trak"/>
+  <StrRes Name="2378" Text="&amp;Datoteka"/>
+  <StrRes Name="2379" Text="&amp;Uređivanje"/>
+  <StrRes Name="2380" Text="Traži..."/>
+  <StrRes Name="2381" Text="Traži slijedeće"/>
+  <StrRes Name="2382" Text="Zamijeni..."/>
+  <StrRes Name="2383" Text="&amp;Izvještaj"/>
+  <StrRes Name="2384" Text="Podaci..."/>
+  <StrRes Name="2385" Text="Mogućnosti..."/>
+  <StrRes Name="2386" Text="Stilovi..."/>
+  <StrRes Name="2387" Text="&amp;Pogled"/>
+  <StrRes Name="2388" Text="Alatne trake"/>
+  <StrRes Name="2389" Text="Standardno"/>
+  <StrRes Name="2390" Text="Tekst"/>
+  <StrRes Name="2391" Text="Okvir"/>
+  <StrRes Name="2392" Text="Poravnanja"/>
+  <StrRes Name="2393" Text="Posebni alati"/>
+  <StrRes Name="2394" Text="Preglednik predmeta"/>
+  <StrRes Name="2395" Text="Stablo podataka"/>
+  <StrRes Name="2396" Text="Stablo izvještaja"/>
+  <StrRes Name="2397" Text="Ravnala"/>
+  <StrRes Name="2398" Text="Vodilice"/>
+  <StrRes Name="2399" Text="Izbriši vodilice"/>
+  <StrRes Name="2400" Text="Mogućnosti..."/>
+  <StrRes Name="2401" Text="&amp;Pomoć"/>
+  <StrRes Name="2402" Text="Sadržaj pomoći..."/>
+  <StrRes Name="2403" Text="O FastReport-u..."/>
+  <StrRes Name="2404" Text="Redoslijed Tab-ova..."/>
+  <StrRes Name="2405" Text="Poništi upis"/>
+  <StrRes Name="2406" Text="Ponovo upiši"/>
+  <StrRes Name="2407" Text="Izreži"/>
+  <StrRes Name="2408" Text="Kopiraj"/>
+  <StrRes Name="2409" Text="Zalijepi"/>
+  <StrRes Name="2410" Text="Grupiraj"/>
+  <StrRes Name="2411" Text="Razgrupiraj"/>
+  <StrRes Name="2412" Text="Izbriši"/>
+  <StrRes Name="2413" Text="Izbriši stranicu"/>
+  <StrRes Name="2414" Text="Izaberi sve"/>
+  <StrRes Name="2415" Text="Uređivanje..."/>
+  <StrRes Name="2416" Text="Stavi ispred"/>
+  <StrRes Name="2417" Text="Stavi u pozadinu"/>
+  <StrRes Name="2418" Text="Novo..."/>
+  <StrRes Name="2419" Text="Novi izvještaj"/>
+  <StrRes Name="2420" Text="Nova stranica"/>
+  <StrRes Name="2421" Text="Novi dijalog"/>
+  <StrRes Name="2422" Text="Otvori..."/>
+  <StrRes Name="2423" Text="Spremi"/>
+  <StrRes Name="2424" Text="Spremi kao..."/>
+  <StrRes Name="2425" Text="Varijable..."/>
+  <StrRes Name="2426" Text="Postava stranice..."/>
+  <StrRes Name="2427" Text="Predpogled"/>
+  <StrRes Name="2428" Text="Izlaz"/>
+  <StrRes Name="2429" Text="Naziv izvještaja"/>
+  <StrRes Name="2430" Text="Sažetak izvještaja"/>
+  <StrRes Name="2431" Text="Zaglavlje stranice"/>
+  <StrRes Name="2432" Text="Podnožje stranice"/>
+  <StrRes Name="2433" Text="Zaglavlje"/>
+  <StrRes Name="2434" Text="Podnožje"/>
+  <StrRes Name="2435" Text="Master podaci"/>
+  <StrRes Name="2436" Text="Detail podaci"/>
+  <StrRes Name="2437" Text="Subdetail podaci"/>
+  <StrRes Name="2438" Text="Podaci 4. razine"/>
+  <StrRes Name="2439" Text="Podaci 5. razine"/>
+  <StrRes Name="2440" Text="Podaci 6. razine"/>
+  <StrRes Name="2441" Text="Zaglavlje grupe"/>
+  <StrRes Name="2442" Text="Podnožje grupe"/>
+  <StrRes Name="2443" Text="Child"/>
+  <StrRes Name="2444" Text="Zaglavlje stupca"/>
+  <StrRes Name="2445" Text="Podnožje stupca"/>
+  <StrRes Name="2446" Text="Overlay"/>
+  <StrRes Name="2447" Text="Vertikalne trake"/>
+  <StrRes Name="2448" Text="Zaglavlje"/>
+  <StrRes Name="2449" Text="Podnožje"/>
+  <StrRes Name="2450" Text="Master podaci"/>
+  <StrRes Name="2451" Text="Detail podaci"/>
+  <StrRes Name="2452" Text="Subdetail podaci"/>
+  <StrRes Name="2453" Text="Zaglavlje grupe"/>
+  <StrRes Name="2454" Text="Podnožje grupe"/>
+  <StrRes Name="2455" Text="Child"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Font"/>
+  <StrRes Name="2462" Text="Podebljano"/>
+  <StrRes Name="2463" Text="Kurziv"/>
+  <StrRes Name="2464" Text="Podcrtano"/>
+  <StrRes Name="2465" Text="Eksponent"/>
+  <StrRes Name="2466" Text="Indeks"/>
+  <StrRes Name="2467" Text="Zgusnuto"/>
+  <StrRes Name="2468" Text="Rašireno"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Izvještaj (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal datoteke (*.pas)|*.pas|C++ datoteke (*.cpp)|*.cpp|JavaScript datoteke (*.js)|*.js|Basic datoteke (*.vb)|*.vb|Sve datoteke|*.*"/>
+  <StrRes Name="2473" Text="Pascal datoteke (*.pas)|*.pas|C++ datoteke (*.cpp)|*.cpp|JavaScript datoteke (*.js)|*.js|Basic datoteke (*.vb)|*.vb|Sve datoteke|*.*"/>
+  <StrRes Name="2474" Text="Veze..."/>
+  <StrRes Name="2475" Text="Jezik"/>
+  <StrRes Name="2476" Text="Postavi točku prekida"/>
+  <StrRes Name="2477" Text="Pokreni do kursora"/>
+  <StrRes Name="2478" Text="Dodaj child traku"/>
+  <StrRes Name="dsCm" Text="Centimetri"/>
+  <StrRes Name="dsInch" Text="Palci"/>
+  <StrRes Name="dsPix" Text="Točke"/>
+  <StrRes Name="dsChars" Text="Znakovi"/>
+  <StrRes Name="dsCode" Text="Kod"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Stranica"/>
+  <StrRes Name="dsRepFilter" Text="Izvještaj (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Zgusnut izvještaj (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Spremi promjene u stranicu predpregleda?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Spremi promjene u "/>
+  <StrRes Name="dsCantLoad" Text="Ne mogu otvoriti datoteku"/>
+  <StrRes Name="dsStyleFile" Text="Stil"/>
+  <StrRes Name="dsCantFindProc" Text="Glavni proces nije moguće pronaći"/>
+  <StrRes Name="dsClearScript" Text="Ovo će izbrisati sve kodove. Želite nastaviti?"/>
+  <StrRes Name="dsNoStyle" Text="Bez stila"/>
+  <StrRes Name="dsStyleSample" Text="Primjer stila"/>
+  <StrRes Name="dsTextNotFound" Text="Tekst '%s' nije pronađen"/>
+  <StrRes Name="dsReplace" Text="Da zamijenim ovo '%s'?"/>
+  <StrRes Name="2600" Text="O FastReport-u"/>
+  <StrRes Name="2601" Text="Za više informacija nas posjetite:"/>
+  <StrRes Name="2602" Text="Prodaja:"/>
+  <StrRes Name="2603" Text="Podrška:"/>
+  <StrRes Name="2700" Text="Mogućnosti stranice"/>
+  <StrRes Name="2701" Text="Papir"/>
+  <StrRes Name="2702" Text="Širina"/>
+  <StrRes Name="2703" Text="Visina"/>
+  <StrRes Name="2704" Text="Veličina"/>
+  <StrRes Name="2705" Text="Usmjerenje"/>
+  <StrRes Name="2706" Text="Lijevo"/>
+  <StrRes Name="2707" Text="Gore"/>
+  <StrRes Name="2708" Text="Desno"/>
+  <StrRes Name="2709" Text="Dolje"/>
+  <StrRes Name="2710" Text="Rubovi"/>
+  <StrRes Name="2711" Text="Izvor papira"/>
+  <StrRes Name="2712" Text="Prva stranica"/>
+  <StrRes Name="2713" Text="Ostale stranice"/>
+  <StrRes Name="2714" Text="Portret"/>
+  <StrRes Name="2715" Text="Pejzaž"/>
+  <StrRes Name="2716" Text="Druge mogućnosti"/>
+  <StrRes Name="2717" Text="Stupci"/>
+  <StrRes Name="2718" Text="Broj"/>
+  <StrRes Name="2719" Text="Širina"/>
+  <StrRes Name="2720" Text="Položaj"/>
+  <StrRes Name="2721" Text="Drugo"/>
+  <StrRes Name="2722" Text="Dvostrano"/>
+  <StrRes Name="2723" Text="Ispiši na prethodnu stranicu"/>
+  <StrRes Name="2724" Text="Zrcalni rubovi"/>
+  <StrRes Name="2725" Text="Velika visina u oblikovnom načinu"/>
+  <StrRes Name="2726" Text="Širina beskonačne stranice"/>
+  <StrRes Name="2727" Text="Visina beskonačne stranice"/>
+  <StrRes Name="2800" Text="Izbor izvora podataka izvještaja"/>
+  <StrRes Name="2900" Text="Uređenje varijabli"/>
+  <StrRes Name="2901" Text="Katergorija"/>
+  <StrRes Name="2902" Text="Varijabla"/>
+  <StrRes Name="2903" Text="Uredi"/>
+  <StrRes Name="2904" Text="Izbriši"/>
+  <StrRes Name="2905" Text="Lista"/>
+  <StrRes Name="2906" Text="Otvori"/>
+  <StrRes Name="2907" Text="Spremi"/>
+  <StrRes Name="2908" Text=" Izraz:"/>
+  <StrRes Name="2909" Text="Rječnik (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Rječnik (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(varijable nisu određene)"/>
+  <StrRes Name="vaVar" Text="Varijable"/>
+  <StrRes Name="vaDupName" Text="Duplirano ime"/>
+  <StrRes Name="3000" Text="Mogućnosti programa"/>
+  <StrRes Name="3001" Text="Mreža"/>
+  <StrRes Name="3002" Text="Tip"/>
+  <StrRes Name="3003" Text="Veličina"/>
+  <StrRes Name="3004" Text="Form za dijaloge:"/>
+  <StrRes Name="3005" Text="Drugo"/>
+  <StrRes Name="3006" Text="Pisma"/>
+  <StrRes Name="3007" Text="Stranica koda"/>
+  <StrRes Name="3008" Text="Memo uređivač"/>
+  <StrRes Name="3009" Text="Veličina"/>
+  <StrRes Name="3010" Text="Veličina"/>
+  <StrRes Name="3011" Text="Boje"/>
+  <StrRes Name="3012" Text="Razmak među trakama:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="pal"/>
+  <StrRes Name="3015" Text="tč"/>
+  <StrRes Name="3016" Text="tč"/>
+  <StrRes Name="3017" Text="tč"/>
+  <StrRes Name="3018" Text="Centimetri:"/>
+  <StrRes Name="3019" Text="Palci:"/>
+  <StrRes Name="3020" Text="Točke:"/>
+  <StrRes Name="3021" Text="Prikaži mrežu"/>
+  <StrRes Name="3022" Text="Poravnaj na mrežu"/>
+  <StrRes Name="3023" Text="Po unosu prikaži uređivač"/>
+  <StrRes Name="3024" Text="Koristi postavke pisma predmeta"/>
+  <StrRes Name="3025" Text="Radno područje"/>
+  <StrRes Name="3026" Text="Prozori alata"/>
+  <StrRes Name="3027" Text="LCD boja mreže"/>
+  <StrRes Name="3028" Text="Slobodno postavljanje traka"/>
+  <StrRes Name="3029" Text="Prikaži padajući popis polja"/>
+  <StrRes Name="3030" Text="Prikaži početni ekran"/>
+  <StrRes Name="3031" Text="Ponastavi preuzeto"/>
+  <StrRes Name="3032" Text="Prikaži nazive traka"/>
+  <StrRes Name="3100" Text="Izaberi izvor podataka"/>
+  <StrRes Name="3101" Text="Broj zapisa:"/>
+  <StrRes Name="dbNotAssigned" Text="[nije dodijeljeno]"/>
+  <StrRes Name="dbSingleLine" Text="Samostalan red"/>
+  <StrRes Name="3200" Text="Grupa"/>
+  <StrRes Name="3201" Text="Prelom na"/>
+  <StrRes Name="3202" Text="Mogućnosti"/>
+  <StrRes Name="3203" Text="Polje podataka"/>
+  <StrRes Name="3204" Text="Izraz"/>
+  <StrRes Name="3205" Text="Zadrži grupu zajedno"/>
+  <StrRes Name="3206" Text="Počni novu stranicu"/>
+  <StrRes Name="3207" Text="Prikaži u sjeni"/>
+  <StrRes Name="3300" Text="Sustavni Memo"/>
+  <StrRes Name="3301" Text="Traka podataka"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="Polje podataka"/>
+  <StrRes Name="3304" Text="Funkcija"/>
+  <StrRes Name="3305" Text="Izraz"/>
+  <StrRes Name="3306" Text="Vrijednost združivanja"/>
+  <StrRes Name="3307" Text="Sustavna varijabla"/>
+  <StrRes Name="3308" Text="Uzmi u obzir nevidljive trake"/>
+  <StrRes Name="3309" Text="Tekst"/>
+  <StrRes Name="3310" Text="Tekuća grupna vrijednost"/>
+  <StrRes Name="agAggregate" Text="Unesi"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] od [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE predmet"/>
+  <StrRes Name="3401" Text="Unesi..."/>
+  <StrRes Name="3402" Text="Uredi..."/>
+  <StrRes Name="3403" Text="Zatvori"/>
+  <StrRes Name="olStretched" Text="Razvučeno"/>
+  <StrRes Name="3500" Text="Uređivač bar koda"/>
+  <StrRes Name="3501" Text="Kod"/>
+  <StrRes Name="3502" Text="Tip bar koda"/>
+  <StrRes Name="3503" Text="Zoom:"/>
+  <StrRes Name="3504" Text="Mogućnosti"/>
+  <StrRes Name="3505" Text="Okretanje"/>
+  <StrRes Name="3506" Text="Kontrolni iznos "/>
+  <StrRes Name="3507" Text="Tekst"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Izračun kontrolnog iznosa"/>
+  <StrRes Name="bcShowText" Text="Pokaži tekst"/>
+  <StrRes Name="3600" Text="Uređenje aliasa"/>
+  <StrRes Name="3601" Text="Pritisnite Enter za uređenje elementa"/>
+  <StrRes Name="3602" Text="Dataset alias"/>
+  <StrRes Name="3603" Text="Aliasi polja"/>
+  <StrRes Name="3604" Text="Namjesti"/>
+  <StrRes Name="3605" Text="Nadopuni"/>
+  <StrRes Name="alUserName" Text="Korisničko ime"/>
+  <StrRes Name="alOriginal" Text="Originalno ime"/>
+  <StrRes Name="3700" Text="Uređenje parametara"/>
+  <StrRes Name="qpName" Text="Ime"/>
+  <StrRes Name="qpDataType" Text="Tip podataka"/>
+  <StrRes Name="qpValue" Text="Vrijednost"/>
+  <StrRes Name="3800" Text="Master-Detail povezivanje"/>
+  <StrRes Name="3801" Text="Detail polja"/>
+  <StrRes Name="3802" Text="Master polja"/>
+  <StrRes Name="3803" Text="Povezana polja"/>
+  <StrRes Name="3804" Text="Dodaj"/>
+  <StrRes Name="3805" Text="Odstrani"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Umetni izraz"/>
+  <StrRes Name="3902" Text="Umetni grupiranje"/>
+  <StrRes Name="3903" Text="Umetni formatiranje"/>
+  <StrRes Name="3904" Text="Prijelom riječi"/>
+  <StrRes Name="3905" Text="Tekst"/>
+  <StrRes Name="3906" Text="Oblik"/>
+  <StrRes Name="3907" Text="Osvijetljeno"/>
+  <StrRes Name="4000" Text="Slika"/>
+  <StrRes Name="4001" Text="Otvori"/>
+  <StrRes Name="4002" Text="Kopiraj"/>
+  <StrRes Name="4003" Text="Zalijepi"/>
+  <StrRes Name="4004" Text="Odstrani"/>
+  <StrRes Name="piEmpty" Text="Prazno"/>
+  <StrRes Name="4100" Text="Urednik grafova"/>
+  <StrRes Name="4101" Text="Dodaj seriju"/>
+  <StrRes Name="4102" Text="Izbriši seriju"/>
+  <StrRes Name="4103" Text="Uredi graf"/>
+  <StrRes Name="4104" Text="Izvorna traka"/>
+  <StrRes Name="4105" Text="Fiksni podaci"/>
+  <StrRes Name="4106" Text="Podaci"/>
+  <StrRes Name="4107" Text="Izvor podataka"/>
+  <StrRes Name="4108" Text="Vrijednosti"/>
+  <StrRes Name="4109" Text="Izaberi graf ili dodaj novoga"/>
+  <StrRes Name="4114" Text="Druge mogućnosti"/>
+  <StrRes Name="4115" Text="TopN vrijednosti"/>
+  <StrRes Name="4116" Text="TopN naziv"/>
+  <StrRes Name="4117" Text="Razvrstavanje"/>
+  <StrRes Name="4126" Text="X osi"/>
+  <StrRes Name="ch3D" Text="3D pogled"/>
+  <StrRes Name="chAxis" Text="Pokaži osi"/>
+  <StrRes Name="chsoNone" Text="Bez"/>
+  <StrRes Name="chsoAscending" Text="Rastuće"/>
+  <StrRes Name="chsoDescending" Text="Padajuće"/>
+  <StrRes Name="chxtText" Text="Tekst"/>
+  <StrRes Name="chxtNumber" Text="Brojčano"/>
+  <StrRes Name="chxtDate" Text="Datum"/>
+  <StrRes Name="4200" Text="RTF uređivač"/>
+  <StrRes Name="4201" Text="Otvori datoteku"/>
+  <StrRes Name="4202" Text="Spremi datoteku"/>
+  <StrRes Name="4203" Text="Razvij"/>
+  <StrRes Name="4204" Text="Pismo"/>
+  <StrRes Name="4205" Text="Umetni izraz"/>
+  <StrRes Name="4206" Text="Portret"/>
+  <StrRes Name="4207" Text="Pejzaž"/>
+  <StrRes Name="4208" Text="Podvučeno"/>
+  <StrRes Name="4209" Text="Poravnaj lijevo"/>
+  <StrRes Name="4210" Text="Na sredinu"/>
+  <StrRes Name="4211" Text="Poravnaj desno"/>
+  <StrRes Name="4212" Text="Obostrano"/>
+  <StrRes Name="4213" Text="Označavanje"/>
+  <StrRes Name="4300" Text="Cross-tab uređivač"/>
+  <StrRes Name="4301" Text="Izvorni podaci"/>
+  <StrRes Name="4302" Text="Dimenzije"/>
+  <StrRes Name="4303" Text="Redovi"/>
+  <StrRes Name="4304" Text="Stupci"/>
+  <StrRes Name="4305" Text="Ćelije"/>
+  <StrRes Name="4306" Text="Cross-tab struktura"/>
+  <StrRes Name="4307" Text="Zaglavlje reda"/>
+  <StrRes Name="4308" Text="Zaglavlje stupca"/>
+  <StrRes Name="4309" Text="Redova ukupno"/>
+  <StrRes Name="4310" Text="Stupaca ukupno"/>
+  <StrRes Name="4311" Text="Zamijeni redove/stupce"/>
+  <StrRes Name="4312" Text="Izaberi stil"/>
+  <StrRes Name="4313" Text="Spremi aktualan stil..."/>
+  <StrRes Name="4314" Text="Prikaži naslov"/>
+  <StrRes Name="4315" Text="Prikaži kut"/>
+  <StrRes Name="4316" Text="Ispiši zaglavlje na novoj stranici"/>
+  <StrRes Name="4317" Text="Automatska širina"/>
+  <StrRes Name="4318" Text="Obrub oko ćelije"/>
+  <StrRes Name="4319" Text="Ispiši dolje pa prijeko"/>
+  <StrRes Name="4320" Text="Usporedo ćelije"/>
+  <StrRes Name="4321" Text="Združi identične ćelije"/>
+  <StrRes Name="4322" Text="Bez"/>
+  <StrRes Name="4323" Text="Sum"/>
+  <StrRes Name="4324" Text="Min"/>
+  <StrRes Name="4325" Text="Max"/>
+  <StrRes Name="4326" Text="Prosječno"/>
+  <StrRes Name="4327" Text="Broj"/>
+  <StrRes Name="4328" Text="Rastuće (A-Z)"/>
+  <StrRes Name="4329" Text="Padajuće (Z-A)"/>
+  <StrRes Name="4330" Text="Bez razvrstavanja"/>
+  <StrRes Name="crStName" Text="Unesi naziv stila:"/>
+  <StrRes Name="crResize" Text="Za promjenu velićine cross-tab-a, postaviti njegov &#38;#34;Automatska širina&#38;#34; na False."/>
+  <StrRes Name="crSubtotal" Text="Podzbroj"/>
+  <StrRes Name="crNone" Text="Bez"/>
+  <StrRes Name="crSum" Text="Sum"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Max"/>
+  <StrRes Name="crAvg" Text="Pros"/>
+  <StrRes Name="crCount" Text="Broj"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Uređivač izraza"/>
+  <StrRes Name="4401" Text="Izraz:"/>
+  <StrRes Name="4500" Text="Oblik prikaza"/>
+  <StrRes Name="4501" Text="Katergorija"/>
+  <StrRes Name="4502" Text="Oblik"/>
+  <StrRes Name="4503" Text="Oblikovni niz:"/>
+  <StrRes Name="4504" Text="Decimalni razdjelnik:"/>
+  <StrRes Name="fkText" Text="Tekst (bez formatiranja)"/>
+  <StrRes Name="fkNumber" Text="Brojčani"/>
+  <StrRes Name="fkDateTime" Text="Datum/Sat"/>
+  <StrRes Name="fkBoolean" Text="Logički"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="28.11.2002;dd.mm.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="28 November, 2002;dd mmmm, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, 28 November, 2002;hh:mm am/pm, dd mmmm, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="No,Yes;No,Yes"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="Osvjetljenje"/>
+  <StrRes Name="4601" Text="Boja..."/>
+  <StrRes Name="4602" Text="Boja..."/>
+  <StrRes Name="4603" Text="Uvjet"/>
+  <StrRes Name="4604" Text="Pismo"/>
+  <StrRes Name="4605" Text="Pozadina"/>
+  <StrRes Name="4606" Text="Portret"/>
+  <StrRes Name="4607" Text="Pejzaž"/>
+  <StrRes Name="4608" Text="Podvučeno"/>
+  <StrRes Name="4609" Text="Prozračno"/>
+  <StrRes Name="4610" Text="Drugo"/>
+  <StrRes Name="4700" Text="Namještanje izvještaja"/>
+  <StrRes Name="4701" Text="Općenito"/>
+  <StrRes Name="4702" Text="Namještanje pisača"/>
+  <StrRes Name="4703" Text="Kopije"/>
+  <StrRes Name="4704" Text="Općenito  "/>
+  <StrRes Name="4705" Text="Zaporka"/>
+  <StrRes Name="4706" Text="Razvrstavanje kopija"/>
+  <StrRes Name="4707" Text="Dvostruki prolaz"/>
+  <StrRes Name="4708" Text="Napiši, ako je prazan"/>
+  <StrRes Name="4709" Text="Opis"/>
+  <StrRes Name="4710" Text="Ime"/>
+  <StrRes Name="4711" Text="Opis"/>
+  <StrRes Name="4712" Text="Slika"/>
+  <StrRes Name="4713" Text="Autor"/>
+  <StrRes Name="4714" Text="Važniji"/>
+  <StrRes Name="4715" Text="Nevažniji"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="Stvoreno"/>
+  <StrRes Name="4719" Text="Promijenjeno"/>
+  <StrRes Name="4720" Text="Opis"/>
+  <StrRes Name="4721" Text="Inačica"/>
+  <StrRes Name="4722" Text="Izaberi..."/>
+  <StrRes Name="4723" Text="Postavke naslijeđene"/>
+  <StrRes Name="4724" Text="Izaberi mogućnost:"/>
+  <StrRes Name="4725" Text="Ne mijenjaj"/>
+  <StrRes Name="4726" Text="Izdvoji bazni izvještaj"/>
+  <StrRes Name="4727" Text="Inherit from base report:"/>
+  <StrRes Name="4728" Text="Nasljeđe"/>
+  <StrRes Name="rePrnOnPort" Text="na"/>
+  <StrRes Name="riNotInherited" Text="Ovaj izvještaj nije naslijeđen."/>
+  <StrRes Name="riInherited" Text="Ovaj izvještaj je naslijeđen od baznog izvještaja: %s"/>
+  <StrRes Name="4800" Text="Crte"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="Zaporka"/>
+  <StrRes Name="5001" Text="Unesite zaporku:"/>
+  <StrRes Name="5100" Text="Uređivač stila"/>
+  <StrRes Name="5101" Text="Boja..."/>
+  <StrRes Name="5102" Text="Pismo..."/>
+  <StrRes Name="5103" Text="Okvir..."/>
+  <StrRes Name="5104" Text="Dodaj"/>
+  <StrRes Name="5105" Text="Izbriši"/>
+  <StrRes Name="5106" Text="Uredi"/>
+  <StrRes Name="5107" Text="Otvori"/>
+  <StrRes Name="5108" Text="Spremi"/>
+  <StrRes Name="5200" Text="Uređivač okvira"/>
+  <StrRes Name="5201" Text="Okvir"/>
+  <StrRes Name="5202" Text="Crta okvira"/>
+  <StrRes Name="5203" Text="Sjena"/>
+  <StrRes Name="5204" Text="Gornja crta"/>
+  <StrRes Name="5205" Text="Donja crta"/>
+  <StrRes Name="5206" Text="Lijeva crta"/>
+  <StrRes Name="5207" Text="Desna crta"/>
+  <StrRes Name="5208" Text="Sve crte okvira"/>
+  <StrRes Name="5209" Text="Bez okvira"/>
+  <StrRes Name="5210" Text="Boja okvira"/>
+  <StrRes Name="5211" Text="Stil okvira"/>
+  <StrRes Name="5212" Text="Širina okvira"/>
+  <StrRes Name="5213" Text="Sjena"/>
+  <StrRes Name="5214" Text="Boja sjene"/>
+  <StrRes Name="5215" Text="Širina sjene"/>
+  <StrRes Name="5300" Text="Novi element"/>
+  <StrRes Name="5301" Text="Elementi"/>
+  <StrRes Name="5302" Text="Predlošci"/>
+  <StrRes Name="5303" Text="Naslijedi izvještaj"/>
+  <StrRes Name="5400" Text="Redoslijed tab-ova"/>
+  <StrRes Name="5401" Text="Lista predmeta u redoslijedu tab-ova:"/>
+  <StrRes Name="5402" Text="Na gore"/>
+  <StrRes Name="5403" Text="Na dolje"/>
+  <StrRes Name="5500" Text="Izračun"/>
+  <StrRes Name="5501" Text="Izraz"/>
+  <StrRes Name="5502" Text="Rezultat"/>
+  <StrRes Name="5600" Text="Urednik za izvještaj"/>
+  <StrRes Name="5601" Text="Podaci"/>
+  <StrRes Name="5602" Text="Polja"/>
+  <StrRes Name="5603" Text="Grupe"/>
+  <StrRes Name="5604" Text="Postavke"/>
+  <StrRes Name="5605" Text="Stil"/>
+  <StrRes Name="5606" Text="Korak 1. Izaberi podatke."/>
+  <StrRes Name="5607" Text="Korak 2. Izaberi polja za prikaz."/>
+  <StrRes Name="5608" Text="Korak 3. Izradi grupe (opcijski)."/>
+  <StrRes Name="5609" Text="Korak 4. Odredi orjentaciju stranice."/>
+  <StrRes Name="5610" Text="Korak 5. Izaberi stil izvještaja."/>
+  <StrRes Name="5611" Text="Dodaj &#62;"/>
+  <StrRes Name="5612" Text="Dodaj sve &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Odstrani"/>
+  <StrRes Name="5614" Text="&#60;&#60; Odstrani sve"/>
+  <StrRes Name="5615" Text="Dodaj &#62;"/>
+  <StrRes Name="5616" Text="&#60; Odstrani"/>
+  <StrRes Name="5617" Text="Izabrana polja:"/>
+  <StrRes Name="5618" Text="Raspoloživa polja:"/>
+  <StrRes Name="5619" Text="Grupe:"/>
+  <StrRes Name="5620" Text="Usmjerenost"/>
+  <StrRes Name="5621" Text="Postavke"/>
+  <StrRes Name="5622" Text="Okomito"/>
+  <StrRes Name="5623" Text="Horizontalno"/>
+  <StrRes Name="5624" Text="Tabelarno"/>
+  <StrRes Name="5625" Text="Stupčano"/>
+  <StrRes Name="5626" Text="Prilagodi polja na širinu stranice"/>
+  <StrRes Name="5627" Text="&#60;&#60; Nazad"/>
+  <StrRes Name="5628" Text="Naprijed &#62;&#62;"/>
+  <StrRes Name="5629" Text="Završi"/>
+  <StrRes Name="5630" Text="Nova tablica..."/>
+  <StrRes Name="5631" Text="Novi upit..."/>
+  <StrRes Name="5632" Text="Izaberi veze baze podataka:"/>
+  <StrRes Name="5633" Text="Izaberi tablicu:"/>
+  <StrRes Name="5634" Text="ili"/>
+  <StrRes Name="5635" Text="Izradi upit..."/>
+  <StrRes Name="5636" Text="Postavi veze"/>
+  <StrRes Name="wzStd" Text="Standardni urednik izvještaja"/>
+  <StrRes Name="wzDMP" Text="Urednik za matrični pisač"/>
+  <StrRes Name="wzStdEmpty" Text="Standardni izvještaj"/>
+  <StrRes Name="wzDMPEmpty" Text="Izvještaj za matrični pisač"/>
+  <StrRes Name="5700" Text="Čarobnjak za povezivanje"/>
+  <StrRes Name="5701" Text="Veze"/>
+  <StrRes Name="5702" Text="Izaberi tip veze:"/>
+  <StrRes Name="5703" Text="Izaberi bazu podataka:"/>
+  <StrRes Name="5704" Text="Prijava"/>
+  <StrRes Name="5705" Text="Zaporka"/>
+  <StrRes Name="5706" Text="Prikaži prijavu"/>
+  <StrRes Name="5707" Text="Upotrijebi prijavu/zaporku:"/>
+  <StrRes Name="5708" Text="Tablica"/>
+  <StrRes Name="5709" Text="Izaberi ime tablice:"/>
+  <StrRes Name="5710" Text="Filiraj zapise:"/>
+  <StrRes Name="5711" Text="Upit"/>
+  <StrRes Name="5712" Text="SQL rečenica:"/>
+  <StrRes Name="5713" Text="Query Builder"/>
+  <StrRes Name="5714" Text="Uredi parametre upita"/>
+  <StrRes Name="ftAllFiles" Text="Sve datoteke"/>
+  <StrRes Name="ftPictures" Text="Slike"/>
+  <StrRes Name="ftDB" Text="Baze podataka"/>
+  <StrRes Name="ftRichFile" Text="RTF datoteke"/>
+  <StrRes Name="ftTextFile" Text="Tekstne datoteke"/>
+  <StrRes Name="prNotAssigned" Text="(Nije dodijeljeno)"/>
+  <StrRes Name="prInvProp" Text="Nevažeća vrijednost osobine"/>
+  <StrRes Name="prDupl" Text="Postojeće ime"/>
+  <StrRes Name="prPict" Text="(Slika)"/>
+  <StrRes Name="mvExpr" Text="Dozvoli izraze"/>
+  <StrRes Name="mvStretch" Text="Rastegni"/>
+  <StrRes Name="mvStretchToMax" Text="Rastegni na najveću visinu"/>
+  <StrRes Name="mvShift" Text="Pomakni"/>
+  <StrRes Name="mvShiftOver" Text="Pomakni ako se prekriva"/>
+  <StrRes Name="mvVisible" Text="Vidljivo"/>
+  <StrRes Name="mvPrintable" Text="Ispisuje se"/>
+  <StrRes Name="mvFont" Text="Pismo..."/>
+  <StrRes Name="mvFormat" Text="Oblik prikaza..."/>
+  <StrRes Name="mvClear" Text="Izbriši sadržaj"/>
+  <StrRes Name="mvAutoWidth" Text="Samoširina"/>
+  <StrRes Name="mvWWrap" Text="Prelom riječi"/>
+  <StrRes Name="mvSuppress" Text="Spriječi ponavljajuče vrijednosti"/>
+  <StrRes Name="mvHideZ" Text="Sakrij nule"/>
+  <StrRes Name="mvHTML" Text="Dozvoli HTML oznake"/>
+  <StrRes Name="lvDiagonal" Text="Dijagonalno"/>
+  <StrRes Name="pvAutoSize" Text="Samoveličina"/>
+  <StrRes Name="pvCenter" Text="U sredini"/>
+  <StrRes Name="pvAspect" Text="Zadrži razmjer šir/vis"/>
+  <StrRes Name="bvSplit" Text="Dozvoli podjelu"/>
+  <StrRes Name="bvKeepChild" Text="Zadrži Child zajedno"/>
+  <StrRes Name="bvPrintChild" Text="Napiši Child, ako je nevidljiv"/>
+  <StrRes Name="bvStartPage" Text="Započni novu stranicu"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Napiši, ako je Detail prazan"/>
+  <StrRes Name="bvKeepDetail" Text="Zadrži Detail zajedno"/>
+  <StrRes Name="bvKeepFooter" Text="Zadrži Podnožje zajedno"/>
+  <StrRes Name="bvReprint" Text="Ponovni ispis na novoj stranici"/>
+  <StrRes Name="bvOnFirst" Text="Ispiši na prvu stranicu"/>
+  <StrRes Name="bvOnLast" Text="Ispiši na zadnju stranicu"/>
+  <StrRes Name="bvKeepGroup" Text="Zadrži zajedno"/>
+  <StrRes Name="bvFooterAfterEach" Text="Podnožje za svaki red"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Postavi brojeve stranica"/>
+  <StrRes Name="srParent" Text="Ispiši na Parent"/>
+  <StrRes Name="bvKeepHeader" Text="Zadrži Zaglavlje zajedno"/>
+  <StrRes Name="obCatDraw" Text="Crtanje"/>
+  <StrRes Name="obCatOther" Text="Drugi predmeti"/>
+  <StrRes Name="obCatOtherControls" Text="Druge kontrole"/>
+  <StrRes Name="obDiagLine" Text="Dijagonalna crta"/>
+  <StrRes Name="obRect" Text="Pravokutnik"/>
+  <StrRes Name="obRoundRect" Text="Zaokruženi pravokutnik"/>
+  <StrRes Name="obEllipse" Text="Elipsa"/>
+  <StrRes Name="obTrian" Text="Trokut"/>
+  <StrRes Name="obDiamond" Text="Dijamant"/>
+  <StrRes Name="obLabel" Text="Label control"/>
+  <StrRes Name="obEdit" Text="Edit control"/>
+  <StrRes Name="obMemoC" Text="Memo control"/>
+  <StrRes Name="obButton" Text="Button control"/>
+  <StrRes Name="obChBoxC" Text="CheckBox control"/>
+  <StrRes Name="obRButton" Text="RadioButton control"/>
+  <StrRes Name="obLBox" Text="ListBox control"/>
+  <StrRes Name="obCBox" Text="ComboBox control"/>
+  <StrRes Name="obDateEdit" Text="DateEdit control"/>
+  <StrRes Name="obImageC" Text="Image control"/>
+  <StrRes Name="obPanel" Text="Panel control"/>
+  <StrRes Name="obGrBox" Text="GroupBox control"/>
+  <StrRes Name="obBBtn" Text="BitBtn control"/>
+  <StrRes Name="obSBtn" Text="SpeedButton control"/>
+  <StrRes Name="obMEdit" Text="MaskEdit control"/>
+  <StrRes Name="obChLB" Text="CheckListBox control"/>
+  <StrRes Name="obDBLookup" Text="DBLookupComboBox control"/>
+  <StrRes Name="obBevel" Text="Bevel object"/>
+  <StrRes Name="obShape" Text="Shape object"/>
+  <StrRes Name="obText" Text="Tekst"/>
+  <StrRes Name="obSysText" Text="Sistemski tekst"/>
+  <StrRes Name="obLine" Text="Crta"/>
+  <StrRes Name="obPicture" Text="Slika"/>
+  <StrRes Name="obBand" Text="Traka"/>
+  <StrRes Name="obDataBand" Text="Traka podataka"/>
+  <StrRes Name="obSubRep" Text="Podizvještaj"/>
+  <StrRes Name="obDlgPage" Text="Dijalog"/>
+  <StrRes Name="obRepPage" Text="Stranica izvještaja"/>
+  <StrRes Name="obReport" Text="Izvještaj"/>
+  <StrRes Name="obRich" Text="Obogaćeni tekst"/>
+  <StrRes Name="obOLE" Text="OLE predmet"/>
+  <StrRes Name="obChBox" Text="CheckBox object"/>
+  <StrRes Name="obChart" Text="Graf"/>
+  <StrRes Name="obBarC" Text="Bar kod"/>
+  <StrRes Name="obCross" Text="Cross-tab"/>
+  <StrRes Name="obDBCross" Text="ZP Cross-tab"/>
+  <StrRes Name="obGrad" Text="Gradient"/>
+  <StrRes Name="obDMPText" Text="Matrični pisač-Tekst"/>
+  <StrRes Name="obDMPLine" Text="Matrični pisač-Crta"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Command object"/>
+  <StrRes Name="obBDEDB" Text="BDE Database"/>
+  <StrRes Name="obBDETb" Text="BDE Table"/>
+  <StrRes Name="obBDEQ" Text="BDE Query"/>
+  <StrRes Name="obBDEComps" Text="BDE components"/>
+  <StrRes Name="obIBXDB" Text="IBX Database"/>
+  <StrRes Name="obIBXTb" Text="IBX Table"/>
+  <StrRes Name="obIBXQ" Text="IBX Query"/>
+  <StrRes Name="obIBXComps" Text="IBX Components"/>
+  <StrRes Name="obADODB" Text="ADO Database"/>
+  <StrRes Name="obADOTb" Text="ADO Table"/>
+  <StrRes Name="obADOQ" Text="ADO Query"/>
+  <StrRes Name="obADOComps" Text="ADO Components"/>
+  <StrRes Name="obDBXDB" Text="DBX Database"/>
+  <StrRes Name="obDBXTb" Text="DBX Table"/>
+  <StrRes Name="obDBXQ" Text="DBX Query"/>
+  <StrRes Name="obDBXComps" Text="DBX Components"/>
+  <StrRes Name="obFIBDB" Text="FIB Database"/>
+  <StrRes Name="obFIBTb" Text="FIB Table"/>
+  <StrRes Name="obFIBQ" Text="FIB Query"/>
+  <StrRes Name="obFIBComps" Text="FIB Components"/>
+  <StrRes Name="ctString" Text="Niz"/>
+  <StrRes Name="ctDate" Text="Datum i Sat"/>
+  <StrRes Name="ctConv" Text="Pretvorbe"/>
+  <StrRes Name="ctFormat" Text="Oblikovanje"/>
+  <StrRes Name="ctMath" Text="Matematičko"/>
+  <StrRes Name="ctOther" Text="Drugo"/>
+  <StrRes Name="IntToStr" Text="Pretvori integer vrijednost u niz"/>
+  <StrRes Name="FloatToStr" Text="Pretvori float vrijednost u niz"/>
+  <StrRes Name="DateToStr" Text="Pretvori datum u niz"/>
+  <StrRes Name="TimeToStr" Text="Pretvori sat u niz"/>
+  <StrRes Name="DateTimeToStr" Text="Pretvori datum i sat u niz"/>
+  <StrRes Name="VarToStr" Text="Pretvori variant vrijednost u niz"/>
+  <StrRes Name="StrToInt" Text="Pretvori niz u integer vrijednost"/>
+  <StrRes Name="StrToInt64" Text="Pretvori niz u Int64 vrijednost"/>
+  <StrRes Name="StrToFloat" Text="Pretvori niz u float"/>
+  <StrRes Name="StrToDate" Text="Pretvori niz u datum"/>
+  <StrRes Name="StrToTime" Text="Pretvori niz u sat"/>
+  <StrRes Name="StrToDateTime" Text="Pretvori niz u datum i sat format"/>
+  <StrRes Name="Format" Text="Vraća oblikovan niz prema određenu argumenata"/>
+  <StrRes Name="FormatFloat" Text="Oblikuje float vrijednost"/>
+  <StrRes Name="FormatDateTime" Text="Oblikuje datum ili sat"/>
+  <StrRes Name="FormatMaskText" Text="Vraća niz oblikovan uređivačkom maskom"/>
+  <StrRes Name="EncodeDate" Text="Vraća TDateTime tip za određenu Godinu, Mjesec i Dan"/>
+  <StrRes Name="DecodeDate" Text="Razdvoji TDateTime u godinu, mjesec i dan"/>
+  <StrRes Name="EncodeTime" Text="Vraća TDateTime tip za određeni Sat, Min, Sec, i MSec"/>
+  <StrRes Name="DecodeTime" Text="Razdvoji TDateTime u sate, minute, sekunde i millisekunde"/>
+  <StrRes Name="Date" Text="Vraća trenutni datum"/>
+  <StrRes Name="Time" Text="Vraća trenutni sat"/>
+  <StrRes Name="Now" Text="Vraća trenutni datum i sat"/>
+  <StrRes Name="DayOfWeek" Text="Vrraća dan u tjednu za određeni datum"/>
+  <StrRes Name="IsLeapYear" Text="Obavještava da li je navedena godina prehodna ili ne"/>
+  <StrRes Name="DaysInMonth" Text="Vraća broj dana u navedenom mesecu"/>
+  <StrRes Name="Length" Text="Vraća dužinu niza"/>
+  <StrRes Name="Copy" Text="Vraća dio niza"/>
+  <StrRes Name="Pos" Text="Vraća položaj dijela niza u nizu"/>
+  <StrRes Name="Delete" Text="Odstranjuje dio niza iz niza"/>
+  <StrRes Name="Insert" Text="Stavlja dio niza u niz"/>
+  <StrRes Name="Uppercase" Text="Pretvara sve znakove niza u VELIKA SLOVA"/>
+  <StrRes Name="Lowercase" Text="Pretvara sve znakove niza u mala slova"/>
+  <StrRes Name="Trim" Text="Odstranjuje razmake ispred i iza niza"/>
+  <StrRes Name="NameCase" Text="Pretvara prvi znak riječi u veliko slovo"/>
+  <StrRes Name="CompareText" Text="Uspoređuje dva niza"/>
+  <StrRes Name="Chr" Text="Pretvara integer u znak"/>
+  <StrRes Name="Ord" Text="Pretvara znak u integer"/>
+  <StrRes Name="SetLength" Text="Postavlja dužinu niza"/>
+  <StrRes Name="Round" Text="Zaokružuje float vrijednost na najbliži cijeli broj"/>
+  <StrRes Name="Trunc" Text="Odstranjuje decimalni dio float vrijednosti (dobijemo samo cijeli broj)"/>
+  <StrRes Name="Int" Text="Vraća integer dio realnoga broja"/>
+  <StrRes Name="Frac" Text="Vraća decimalni dio realnoga broja"/>
+  <StrRes Name="Sqrt" Text="Vraća kvadratni korijen navedenega broja"/>
+  <StrRes Name="Abs" Text="Vraća apsolutnu vrijednost"/>
+  <StrRes Name="Sin" Text="Vraća sinus kuta (u radianima)"/>
+  <StrRes Name="Cos" Text="Vraća kosinus kuta (u radianima)"/>
+  <StrRes Name="ArcTan" Text="Vraća arctangens"/>
+  <StrRes Name="Tan" Text="Vraća tangens"/>
+  <StrRes Name="Exp" Text="Vraća exponential"/>
+  <StrRes Name="Ln" Text="Vraća prirodni logaritam"/>
+  <StrRes Name="Pi" Text="Vraća broj PI: 3.1415926..."/>
+  <StrRes Name="Inc" Text="Povećava vrijednost"/>
+  <StrRes Name="Dec" Text="Smanjuje vrijednost"/>
+  <StrRes Name="RaiseException" Text="Uzrokuje exception"/>
+  <StrRes Name="ShowMessage" Text="Prikazuje poruku"/>
+  <StrRes Name="Randomize" Text="Pokreće generator slučajnog broja"/>
+  <StrRes Name="Random" Text="Vraća slučajni broj"/>
+  <StrRes Name="ValidInt" Text="Vraća True ako navedeni niz sadrži ispravnu integer vrijednost"/>
+  <StrRes Name="ValidFloat" Text="Vraća True ako navedeni niz sadrži ispravnu float vrijednost"/>
+  <StrRes Name="ValidDate" Text="Vraća True ako navedeni niz sadrži ispravan datum"/>
+  <StrRes Name="IIF" Text="Vraća TrueValue ako je navedeni izraz True, inače vraća FalseValue"/>
+  <StrRes Name="Get" Text="Samo za internu uporabu"/>
+  <StrRes Name="Set" Text="Samo za internu uporabu"/>
+  <StrRes Name="InputBox" Text="Prikazuje dijalog koji omogućuje upis niza"/>
+  <StrRes Name="InputQuery" Text="Prikazuje dijalog koji omogućuje upis niza"/>
+  <StrRes Name="MessageDlg" Text="Prikazuje poruku"/>
+  <StrRes Name="CreateOleObject" Text="Stvara OLE predmet"/>
+  <StrRes Name="VarArrayCreate" Text="Stvara variant polje"/>
+  <StrRes Name="VarType" Text="Vraća tip variant vrijednosti"/>
+  <StrRes Name="DayOf" Text="Vraća broj dana (1..31) zadanog datuma"/>
+  <StrRes Name="MonthOf" Text="Vraća broj mjeseca (1..12) zadanog datuma"/>
+  <StrRes Name="YearOf" Text="Vraća godinu zadanog datuma"/>
+  <StrRes Name="ctAggregate" Text="Združivanje"/>
+  <StrRes Name="Sum" Text="Izračunava zbroj Expr u traci podataka"/>
+  <StrRes Name="Avg" Text="Izračunava prosjek Expr u traci podataka"/>
+  <StrRes Name="Min" Text="Izračunava minimum Expr u traci podataka"/>
+  <StrRes Name="Max" Text="Izračunava maksimum Expr u traci podataka"/>
+  <StrRes Name="Count" Text="Izračunava broj zapisa u traci podataka"/>
+  <StrRes Name="wzDBConn" Text="Novi čarobnjak povezivanja"/>
+  <StrRes Name="wzDBTable" Text="Novi čarobnjak tablice"/>
+  <StrRes Name="wzDBQuery" Text="Novi čarobnjak upita"/>
+  <StrRes Name="5800" Text="Veze"/>
+  <StrRes Name="5801" Text="Novo"/>
+  <StrRes Name="5802" Text="Izbriši"/>
+  <StrRes Name="cpName" Text="Ime"/>
+  <StrRes Name="cpConnStr" Text="Niz povezivanja"/>
+  <StrRes Name="startCreateNew" Text="Izradi novi izvještaj"/>
+  <StrRes Name="startCreateBlank" Text="Izradi prazni izvještaj"/>
+  <StrRes Name="startOpenReport" Text="Otvori izvještaj"/>
+  <StrRes Name="startOpenLast" Text="Otvori zadnji izvještaj"/>
+  <StrRes Name="startEditAliases" Text="Uredi aliase povezivanja"/>
+  <StrRes Name="startHelp" Text="Pomoć"/>
+  <StrRes Name="5900" Text="Watches"/>
+  <StrRes Name="5901" Text="Dodaj Watch"/>
+  <StrRes Name="5902" Text="Izbriši Watch"/>
+  <StrRes Name="5903" Text="Uredi Watch"/>
+  <StrRes Name="6000" Text="Naslijedi grešku"/>
+  <StrRes Name="6001" Text="Bazni i naslijeđeni izvještaj imaju duplicirane predmete. Što želite učiniti?"/>
+  <StrRes Name="6002" Text="Izbriši duplikate"/>
+  <StrRes Name="6003" Text="Preimenuj duplikate"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

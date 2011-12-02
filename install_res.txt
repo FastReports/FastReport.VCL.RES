@@ -1,0 +1,16 @@
+This file describes the manual installation of language resources. For 
+automatic installation please run recompile.exe, select desired language,
+select "Change language" and press "Compile".
+
+1. Remove the following files from the FastReport 4\Lib folder:
+- frxrcClass.dcu
+- frxrcDesgn.dcu
+- frxrcInsp.dcu
+- frxrcExports.dcu
+  
+2. Go folder with desired language and run mk.bat file. This will make 
+.pas files from .frc files and copy them to all necessary FR folders.
+
+3. Recompile the FastReport packages (see install.txt file,
+  section III or IV). Only frx*.dpk, frxe*.dpk packages need to
+  be recompiled ('*' = your Delphi version).

@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Batal"/>
+  <StrRes Name="3" Text="Semua"/>
+  <StrRes Name="4" Text="Halaman ini"/>
+  <StrRes Name="5" Text="Halaman:"/>
+  <StrRes Name="6" Text="Pemisah halaman"/>
+  <StrRes Name="7" Text="Jarak halaman"/>
+  <StrRes Name="8" Text="Seting Ekspor"/>
+  <StrRes Name="9" Text="masukkan nomor halaman dan/atau jarak halaman, dipisahkan oleh koma. Contoh: 1,3,5-12"/>
+  <StrRes Name="100" Text="Preview"/>
+  <StrRes Name="101" Text="Cetak"/>
+  <StrRes Name="102" Text="Cetak"/>
+  <StrRes Name="103" Text="Buka"/>
+  <StrRes Name="104" Text="Buka"/>
+  <StrRes Name="105" Text="Simpan"/>
+  <StrRes Name="106" Text="Simpan"/>
+  <StrRes Name="107" Text="Ekspor"/>
+  <StrRes Name="108" Text="Ekspor"/>
+  <StrRes Name="109" Text="Cari"/>
+  <StrRes Name="110" Text="Cari"/>
+  <StrRes Name="111" Text="Seluruh Halaman"/>
+  <StrRes Name="112" Text="Seluruh Halaman"/>
+  <StrRes Name="113" Text="Panjang Halaman"/>
+  <StrRes Name="114" Text="Panjang Halaman"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Dua Halaman"/>
+  <StrRes Name="118" Text="Dua Halaman"/>
+  <StrRes Name="119" Text="Besarkan"/>
+  <StrRes Name="120" Text="Batas"/>
+  <StrRes Name="121" Text="Batas"/>
+  <StrRes Name="122" Text="Outline"/>
+  <StrRes Name="123" Text="Outline"/>
+  <StrRes Name="124" Text="Zoom In"/>
+  <StrRes Name="125" Text="Zoom In"/>
+  <StrRes Name="126" Text="Zoom Out"/>
+  <StrRes Name="127" Text="Zoom Out"/>
+  <StrRes Name="128" Text="Outline"/>
+  <StrRes Name="129" Text="Report outline"/>
+  <StrRes Name="130" Text="Thumbnails"/>
+  <StrRes Name="131" Text="Thumbnails"/>
+  <StrRes Name="132" Text="Edit"/>
+  <StrRes Name="133" Text="Edit Halaman"/>
+  <StrRes Name="134" Text="Pertama"/>
+  <StrRes Name="135" Text="Halaman Pertama"/>
+  <StrRes Name="136" Text="Sebelumnya"/>
+  <StrRes Name="137" Text="Halaman Sebelumnya"/>
+  <StrRes Name="138" Text="Berikutnya"/>
+  <StrRes Name="139" Text="Halaman Berikutnya"/>
+  <StrRes Name="140" Text="Terakhir"/>
+  <StrRes Name="141" Text="Halaman Terakhir"/>
+  <StrRes Name="142" Text="Nomor Halaman"/>
+  <StrRes Name="150" Text="Layar Penuh"/>
+  <StrRes Name="151" Text="Ekspor ke PDF"/>
+  <StrRes Name="152" Text="Kirim dengan E-mail"/>
+  <StrRes Name="zmPageWidth" Text="Panjang Halaman"/>
+  <StrRes Name="zmWholePage" Text="Seluruh Halaman"/>
+  <StrRes Name="200" Text="Cetak"/>
+  <StrRes Name="201" Text="Printer"/>
+  <StrRes Name="202" Text="Halmaan"/>
+  <StrRes Name="203" Text="Jumlah duplikat"/>
+  <StrRes Name="204" Text="Kolasi"/>
+  <StrRes Name="205" Text="Duplikat"/>
+  <StrRes Name="206" Text="Cetak"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Dimana:"/>
+  <StrRes Name="209" Text="Properti..."/>
+  <StrRes Name="210" Text="Cetak ke file"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Name:"/>
+  <StrRes Name="213" Text="Print mode"/>
+  <StrRes Name="214" Text="Print on sheet"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Semua halaman"/>
+  <StrRes Name="ppOdd" Text="Halaman ganjil"/>
+  <StrRes Name="ppEven" Text="Halaman genap"/>
+  <StrRes Name="pgDefault" Text="Default"/>
+  <StrRes Name="pmDefault" Text="Default"/>
+  <StrRes Name="pmSplit" Text="Split big pages"/>
+  <StrRes Name="pmJoin" Text="Join small pages"/>
+  <StrRes Name="pmScale" Text="Scale"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Cari Teks"/>
+  <StrRes Name="301" Text="Teks yang dicari:"/>
+  <StrRes Name="302" Text="Opsi Pencarian"/>
+  <StrRes Name="303" Text="Ganti dengan"/>
+  <StrRes Name="304" Text="Cari dari pertama"/>
+  <StrRes Name="305" Text="Jenis huruf sensitif"/>
+  <StrRes Name="400" Text="Seting halaman"/>
+  <StrRes Name="401" Text="Panjang"/>
+  <StrRes Name="402" Text="Tinggi"/>
+  <StrRes Name="403" Text="Ukuran"/>
+  <StrRes Name="404" Text="Orientasi"/>
+  <StrRes Name="405" Text="Kiri"/>
+  <StrRes Name="406" Text="Atas"/>
+  <StrRes Name="407" Text="Kanan"/>
+  <StrRes Name="408" Text="Bawah"/>
+  <StrRes Name="409" Text="Batas"/>
+  <StrRes Name="410" Text="Portret"/>
+  <StrRes Name="411" Text="Bentang darat"/>
+  <StrRes Name="412" Text="Lainnya"/>
+  <StrRes Name="413" Text="Terapkan ke halaman ini"/>
+  <StrRes Name="414" Text="Terapkan ke semua halaman"/>
+  <StrRes Name="500" Text="Cetak"/>
+  <StrRes Name="501" Text="Printer"/>
+  <StrRes Name="502" Text="Halaman"/>
+  <StrRes Name="503" Text="Duplikat"/>
+  <StrRes Name="504" Text="Jumlah duplikat"/>
+  <StrRes Name="505" Text="Opsi"/>
+  <StrRes Name="506" Text="Perintah Escape"/>
+  <StrRes Name="507" Text="Cetak ke file"/>
+  <StrRes Name="508" Text="Kode halaman OEM"/>
+  <StrRes Name="509" Text="Pseudografik"/>
+  <StrRes Name="510" Text="File printer(*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Konfirmasi"/>
+  <StrRes Name="mbError" Text="Salah"/>
+  <StrRes Name="mbInfo" Text="Informasi"/>
+  <StrRes Name="xrCantFindClass" Text="Tidak bisa menemukan class"/>
+  <StrRes Name="prVirtual" Text="Virtual"/>
+  <StrRes Name="prDefault" Text="Default"/>
+  <StrRes Name="prCustom" Text="Kustom"/>
+  <StrRes Name="enUnconnHeader" Text="Header/footer tidak terhubung"/>
+  <StrRes Name="enUnconnGroup" Text="Tidak ada band data untuk grup"/>
+  <StrRes Name="enUnconnGFooter" Text="Tidak ada header grup"/>
+  <StrRes Name="enBandPos" Text="Posisi band tidak benar:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s tidak terhubung ke data"/>
+  <StrRes Name="dbFldNotFound" Text="Field tidak ditemukan:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset tidak disertakan ke dalam Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Variabel atau field data tidak dikenal:"/>
+  <StrRes Name="clScrError" Text="Kesalahan skrip pada %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#34;%s&#34; tidak ada"/>
+  <StrRes Name="clErrors" Text="Kesalahan berikut sudah terjadi:"/>
+  <StrRes Name="clExprError" Text="Kesalahan dalam ekspresi"/>
+  <StrRes Name="clFP3files" Text="Laporan yang disiapkan"/>
+  <StrRes Name="clSaving" Text="Menyimpan file..."/>
+  <StrRes Name="clCancel" Text="Batal"/>
+  <StrRes Name="clClose" Text="Tutup"/>
+  <StrRes Name="clPrinting" Text="Mencetak halaman"/>
+  <StrRes Name="clLoading" Text="Mengambil file..."/>
+  <StrRes Name="clPageOf" Text="Halaman %d dari %d"/>
+  <StrRes Name="clFirstPass" Text="Pass pertama: halaman"/>
+  <StrRes Name="clNoPrinters" Text="Tidak ada printer terinstalasi dalam sistem anda"/>
+  <StrRes Name="clDecompressError" Text="Kesalahan dekompresi Stream"/>
+  <StrRes Name="crFillMx" Text="Mengisi cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Membuat cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Pass pertama: halaman %d"/>
+  <StrRes Name="prRunning" Text="Menyiapkan halaman %d"/>
+  <StrRes Name="prPrinting" Text="Mencetak halaman %d"/>
+  <StrRes Name="prExporting" Text="Mengekspor halaman %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Default"/>
+  <StrRes Name="dupVert" Text="Vertical"/>
+  <StrRes Name="dupHorz" Text="Horizontal"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Bahasa '%s' tidak ditemukan"/>
+  <StrRes Name="SInvalidLanguage" Text="Definisi bahasa tidak benar"/>
+  <StrRes Name="SIdRedeclared" Text="Identifier dideklarasikan ulang:"/>
+  <StrRes Name="SUnknownType" Text="Tipe tidak dikenal:"/>
+  <StrRes Name="SIncompatibleTypes" Text="Tipe tidak kompatibel"/>
+  <StrRes Name="SIdUndeclared" Text="Identifier tidak dideklarasikan:"/>
+  <StrRes Name="SClassRequired" Text="Diperlukan tipe Class"/>
+  <StrRes Name="SIndexRequired" Text="Diperlukan Indeks"/>
+  <StrRes Name="SStringError" Text="String tidak mempunyai properti atau methods"/>
+  <StrRes Name="SClassError" Text="Class %s tidak mempunyai properti default"/>
+  <StrRes Name="SArrayRequired" Text="Tipe array diperlukan"/>
+  <StrRes Name="SVarRequired" Text="Variable diperlukan"/>
+  <StrRes Name="SNotEnoughParams" Text="Parameter aktual kurang"/>
+  <StrRes Name="STooManyParams" Text="Parameter aktual terlalu banyak"/>
+  <StrRes Name="SLeftCantAssigned" Text="Sisi kiri tidak bisa ditetapkan"/>
+  <StrRes Name="SForError" Text="Variabel perulangan For harus variabel numerik"/>
+  <StrRes Name="SEventError" Text="Pengendali Event harus sebuah procedure"/>
+  <StrRes Name="600" Text="Expand all"/>
+  <StrRes Name="601" Text="Collapse all"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="propActive" Text="مشخص ميکند جدول داده باز است يا نه"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="تعيين ميکند مشخصه پر رنگ فعال است يا نه"/>
+  <StrRes Name="propAliasName" Text="BDE نام مستعار"/>
+  <StrRes Name="propAlign" Text="هم ترازي شيء را با باند يا صفحه تعيين مي کند"/>
+  <StrRes Name="propAlignment" Text="هم ترازي متن شيء"/>
+  <StrRes Name="propAllowAllUp" Text="مشخص ميکند آيا در يک گروه همه تکمه ها در يک زمان مي توانند نامنتخب شوند"/>
+  <StrRes Name="propAllowEdit" Text="تعيين ميکند آيا کاربر ميتواند صفحات گزارش آماده را ويرايش کند"/>
+  <StrRes Name="propAllowExpressions" Text="تعيين ميکند آيا شيء رشته اي ميتواند شامل عبارت محاسباتي باشد"/>
+  <StrRes Name="propAllowGrayed" Text="اجازه ميدهد جعبه انتخاب وضعيت خاکستري داشته باشد"/>
+  <StrRes Name="propAllowHTMLTags" Text="باشد HTML تعيين ميکند آيا متن شيء ميتواند شامل برچسب"/>
+  <StrRes Name="propAllowSplit" Text="تعيين ميکند آيا باند ميتواند محتوياتش را در سرتاسر صفحات تقسيم کند"/>
+  <StrRes Name="propAuthor" Text="مولف گزارش"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="تعيين ميکند آيا تصوير بايد بصورت خودکار اندازه اش را تنظيم کند"/>
+  <StrRes Name="propAutoWidth" Text="تعيين ميکند آيا شيء رشته اي بايد بصورت خودکار پهنايش را تنظيم کند"/>
+  <StrRes Name="propBackPicture" Text="تصوير زمينه صفحه"/>
+  <StrRes Name="propBarType" Text="نوع بارکد"/>
+  <StrRes Name="propBevelInner" Text="نوع گونيا داخلي"/>
+  <StrRes Name="propBevelOuter" Text="نوع گونيا خارجي"/>
+  <StrRes Name="propBevelWidth" Text="پهنا گونيا"/>
+  <StrRes Name="propBorder" Text="تعيين ميکند حاشيه بيروني نمايش داده شود يا نه"/>
+  <StrRes Name="propBorderStyle" Text="نما پنجره"/>
+  <StrRes Name="propBottomMargin" Text="اندازه حاشيه پائين صفحه"/>
+  <StrRes Name="propBrushStyle" Text="نما نقاشي استفاده شده در زمينه شيء"/>
+  <StrRes Name="propCalcCheckSum" Text="تعيين ميکند آيا بارکد بايد رقم مقابله اي را بصورت خودکار محاسبه کند"/>
+  <StrRes Name="propCancel" Text="تعيين ميکند آيا تکمه کنسل بايد فعال شود وقتي کليد گريز فشار داده شد"/>
+  <StrRes Name="propCaption" Text="عنوان شيء"/>
+  <StrRes Name="propCellFields" Text="نام فيلد بانک اطلاعاتي که نمايش دهنده سلول مورد نظر است"/>
+  <StrRes Name="propCellLevels" Text="شماره سطح سلول"/>
+  <StrRes Name="propCenter" Text="تعيين ميکند آيا تصوير بايد مرکز شيء باشد"/>
+  <StrRes Name="propCharset" Text="نوع کد فونت"/>
+  <StrRes Name="propCharSpacing" Text="تعداد پيکسل بين دو کاراکتر"/>
+  <StrRes Name="propCheckColor" Text="رنگ علامت کنترل"/>
+  <StrRes Name="propChecked" Text="نشان مي دهد آيا شيء انتخاب شده است"/>
+  <StrRes Name="propCheckStyle" Text="نماي علامت کنترل"/>
+  <StrRes Name="propChild" Text="باند فرزند متصل شده به اين باند"/>
+  <StrRes Name="propClipped" Text="تعيين ميکند آيا متن بايد داخل شيء بچسبد"/>
+  <StrRes Name="propCollate" Text="وضعيت پيش فرض ترتيب"/>
+  <StrRes Name="propColor.TFont" Text="رنگ متن"/>
+  <StrRes Name="propColor" Text="رنگ شيء"/>
+  <StrRes Name="propColor.TfrxFrame" Text="رنگ قاب"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="رنگ شيء را در حالت پر رنگ تعيين ميکند"/>
+  <StrRes Name="propColumnFields" Text="نام فيلد بانک اطلاعاتي که نمايش دهنده ستون مورد نظر است"/>
+  <StrRes Name="propColumnGap" Text="فاصله بين ستونهاي باند"/>
+  <StrRes Name="propColumnLevels" Text="شماره سطح ستون"/>
+  <StrRes Name="propColumns" Text="شماره ستون در باند"/>
+  <StrRes Name="propColumnWidth" Text="پهناي ستون باند"/>
+  <StrRes Name="propCondition" Text="حالت گروه بندي. گروه خواهد شکست اگر مقدار اين عبارت تغيير کند"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="عبارت رشته. اگر اين عبارت صحيح باشد حالت پر رنگ فعال خواهد شد"/>
+  <StrRes Name="propConnected" Text="نشان ميدهد آيا اتصال به بانک اطلاعاتي فعال است"/>
+  <StrRes Name="propConvertNulls" Text="تعيين ميکند آيا مقدار بانک اطلاعاتي تهي تبديل خواهد شد به صفر - نادرست يا رشته تهي"/>
+  <StrRes Name="propCopies" Text="شماره پيش فرض کپي ها "/>
+  <StrRes Name="propCursor" Text="نشانگر شيء"/>
+  <StrRes Name="propDatabaseName" Text="نام بانک اطلاعاتي"/>
+  <StrRes Name="propDataField" Text="تعيين ميکند شيء از کدام فيلد داده ميگيرد"/>
+  <StrRes Name="propDataSet" Text="اتصال شيء به جدول داده که فيلد آن نشان داده ميشود"/>
+  <StrRes Name="propDate" Text="مقدار تاريخ شيء"/>
+  <StrRes Name="propDateFormat" Text="قالب نمايش تاريخ را تعيين ميکند"/>
+  <StrRes Name="propDecimalSeparator" Text="جداکننده اعشار"/>
+  <StrRes Name="propDefault" Text="تعيين ميکند آيا تکمه تکمه پيش فرض است"/>
+  <StrRes Name="propDefHeight" Text="ارتفاع پيش فرض سطر"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="شرح گزارش"/>
+  <StrRes Name="propDescription" Text="توضیح شیء"/>
+  <StrRes Name="propDiagonal" Text="تعيين ميکند خط اريب است"/>
+  <StrRes Name="propDisplayFormat" Text="قالب مقدار نشان داده شده"/>
+  <StrRes Name="propDoublePass" Text="تعيين ميکند آيا موتور گزارش بايد دوبار انجام دهد"/>
+  <StrRes Name="propDown" Text="تعيين ميکند آيا تکمه فشار داده شده است يا نه"/>
+  <StrRes Name="propDownThenAcross" Text="تعيين ميکند يک جدول ستوني بزرگ چگونه سرتاسر صفحات تقسيم خواهد شد"/>
+  <StrRes Name="propDriverName" Text="BDE نام گرداننده"/>
+  <StrRes Name="propDropShadow" Text="تعيين ميکند آيا شيء سايه دارد"/>
+  <StrRes Name="propDuplex" Text="(تعيين ميکند صفحه دو طرفه است (دو رو"/>
+  <StrRes Name="propEditMask" Text="ماسکي را نشان ميدهد که تعيين ميکند براي شيء ويرايش ماسکدار چه متني معتبر است"/>
+  <StrRes Name="propEnabled" Text="تعيين ميکند آيا شيء فعال است"/>
+  <StrRes Name="propEngineOptions" Text="گزينه هاي موتور گزارش"/>
+  <StrRes Name="propExpression" Text="مقدار اين عبارت در شيء نشان داده خواهد شد"/>
+  <StrRes Name="propExpressionDelimiters" Text="اين کاراکتر به عنوان علامت جداساز و در ميان گيرنده عبارت بکار ميرود"/>
+  <StrRes Name="propFieldAliases" Text="نام مستعار فيلد جدول داده"/>
+  <StrRes Name="propFilter" Text="شرط فيلتر جدول داده"/>
+  <StrRes Name="propFiltered" Text="تعيين ميکند آيا جدول داده بايد پرونده ها را  فيلتر کند با استفاده از شرط خصوصيت فيلتر"/>
+  <StrRes Name="propFlowTo" Text="اين شيء متني را نشان ميدهد که در شيء اصلي جا نميگيرد"/>
+  <StrRes Name="propFont" Text="مشخصه فونت شيء"/>
+  <StrRes Name="propFooterAfterEach" Text="تعيين ميکند آيا پاورقي بايد بعد از هر سطر داده نشان داده شود"/>
+  <StrRes Name="propFormatStr" Text="قالب بندي رشته"/>
+  <StrRes Name="propFrame" Text="مشخصه چارچوب شيء"/>
+  <StrRes Name="propGapX" Text="فاصله متن از لبه چپ"/>
+  <StrRes Name="propGapY" Text="فاصله متن از بالا"/>
+  <StrRes Name="propGlyph" Text="تصوير شيء"/>
+  <StrRes Name="propGroupIndex" Text="اجازه ميدهد تکمه هاي سريع در يک گروه با يکديگر کار کنند"/>
+  <StrRes Name="propHAlign" Text="هم ترازي افقي متن"/>
+  <StrRes Name="propHeight" Text="ارتفاع شيء"/>
+  <StrRes Name="propHideZeros" Text="تعيين ميکند آيا مقدار صفر براي متن شيء نمايش داده شود"/>
+  <StrRes Name="propHighlight" Text="شرط مشخصه پر رنگ"/>
+  <StrRes Name="propIndexName" Text="نام شاخص"/>
+  <StrRes Name="propInitString" Text="دستور راه انداز چاپگر براي چاپگرهاي سوزني"/>
+  <StrRes Name="propItems" Text="ليست اقلام از شيء"/>
+  <StrRes Name="propKeepAspectRatio" Text="نگه داشتن نسبت ديد واقعي تصوير"/>
+  <StrRes Name="propKeepChild" Text="تعيين ميکند آيا باند و فرزندش با هم چاپ خواهند شد"/>
+  <StrRes Name="propKeepFooter" Text="تعيين ميکند آيا باند و پاورقي اش با هم چاپ خواهند شد"/>
+  <StrRes Name="propKeepHeader" Text="تعيين ميکند آيا باند و سرآمدش با هم چاپ خواهند شد"/>
+  <StrRes Name="propKeepTogether" Text="تعيين ميکند آيا باند و همه زير باندهايش با هم چاپ خواهند شد"/>
+  <StrRes Name="propKind.TfrxFormat" Text="نوع قالب بندي"/>
+  <StrRes Name="propKind" Text="نوع تکمه"/>
+  <StrRes Name="propLargeDesignHeight" Text="تعيين ميکند آيا در حالت طراحي صفحه ارتفاع بزرگ خواهد داشت"/>
+  <StrRes Name="propLayout" Text="طرح عللامت تکمه"/>
+  <StrRes Name="propLeft" Text="مختص چپ شيء"/>
+  <StrRes Name="propLeftMargin" Text="اندازه حاشيه چپ صفحه"/>
+  <StrRes Name="propLines" Text="متن شيء"/>
+  <StrRes Name="propLineSpacing" Text="تعداد پيکسل بين دو خط متن"/>
+  <StrRes Name="propLoginPrompt" Text="تعيين ميکند آيا گفتگو ورود به سيستم نشان داده شود"/>
+  <StrRes Name="propMargin" Text="تعداد پيکسلها بين لبه تصوير و لبه تکمه را تعيين ميکند"/>
+  <StrRes Name="propMaster" Text="جدول داده اصلي"/>
+  <StrRes Name="propMasterFields" Text="فيلد پيوندي رابطه اي اصلي - جزئي"/>
+  <StrRes Name="propMaxLength" Text="حداکثر طول متن"/>
+  <StrRes Name="propMaxWidth" Text="حداکثر پهناي ستون"/>
+  <StrRes Name="propMemo" Text="متن شيء"/>
+  <StrRes Name="propMinWidth" Text="حداقل پهناي ستون"/>
+  <StrRes Name="propMirrorMargins" Text="حاشيه چپ و راست را در صفحات زوج جابجا ميکند"/>
+  <StrRes Name="propModalResult" Text="تعيين ميکند چگونه يک تکمه فرم شرطي اش را ميبندد"/>
+  <StrRes Name="propName.TFont" Text="نام فونت"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="نام گزارش"/>
+  <StrRes Name="propName" Text="نام شيء"/>
+  <StrRes Name="propNumGlyphs" Text="تعداد تصوير را در تصويري که براي خصوصيت علامت بکار رفته نشان ميدهد"/>
+  <StrRes Name="propOpenDataSource" Text="تعيين ميکند آيا بانک اطلاعاتي بطور خودکار باز شود يا نه"/>
+  <StrRes Name="propOrientation" Text="جهت صفحه"/>
+  <StrRes Name="propOutlineText" Text="اين متن در پنجره پيش نمايش در کنترلر زمينه نشان داده خواهد شد"/>
+  <StrRes Name="propOutlineVisible" Text="پديداري کنترلر زمينه در پنجره پيش نمايش"/>
+  <StrRes Name="propOutlineWidth" Text="پهناي کنترلر زمينه در پنجره پيش نمايش"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="شماره صفحاتي که چاپ ميشوند"/>
+  <StrRes Name="propPaperHeight" Text="ارتفاع صفحه"/>
+  <StrRes Name="propPaperWidth" Text="پهناي صفحه"/>
+  <StrRes Name="propParagraphGap" Text="فاصله ( تو رفتکي ) اولين خط پاراگراف"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="پارامترهاي اتصال بانک اطلاعاتي"/>
+  <StrRes Name="propParams" Text="Query پارامترهاي پرس و جو"/>
+  <StrRes Name="propParentFont" Text="تعيين ميکند آيا شيء فونت پدر را استفاده خواهد کرد"/>
+  <StrRes Name="propPassword" Text="کلمه رمز گزارش"/>
+  <StrRes Name="propPasswordChar" Text="کاراکتر نمايشي که بجاي کاراکترهايي که در شيء تايپ ميشوند نشان داده ميشود"/>
+  <StrRes Name="propPicture" Text="تصوير"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="تصوير تشريحي گزارش"/>
+  <StrRes Name="propPosition" Text="اولين موقعيت پنجره"/>
+  <StrRes Name="propPreviewOptions" Text="گزينه هاي پنجره پيش نمايش گزارش"/>
+  <StrRes Name="propPrintable" Text="قابليت چاپ شيء. شيء با قابليت چاپ نادرست در پنجره پيش نمايش نشان داده ميشود ولي چاپ نميشود"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="تعيين ميکند آيا باند فرزند چاپ خواهد شد اگر باند پدر نامرئي باشد"/>
+  <StrRes Name="propPrinter" Text="نام چاپگري که هنگام باز يا اجرا کردن گزارش انتخاب خواهد شد"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="تعيين ميکند آيا باند اطلاعات چاپ خواهد شد اگر همه زير باندهاي آن خالي باشند"/>
+  <StrRes Name="propPrintIfEmpty" Text="تعيين ميکند آيا صفحه چاپ خواهد شد اگر همه جداول اطلاعاتي آن خالي باشند"/>
+  <StrRes Name="propPrintOnFirstPage" Text="تعيين ميکند آيا باند در صفحه اول چاپ خواهد شد"/>
+  <StrRes Name="propPrintOnLastPage" Text="تعيين ميکند آيا باند در صفحه آخر چاپ خواهد شد"/>
+  <StrRes Name="propPrintOnParent" Text="تعيين ميکند آيا زير گزارش ميتواند روي باند پدر چاپ شود"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="تعيين ميکند آيا صفحه ميتواند روي فضاي خالي صفحه قبل چاپ شود"/>
+  <StrRes Name="propPrintOptions" Text="گزينه هاي چاپ گزارش"/>
+  <StrRes Name="propPrintPages" Text="تعيين ميکند آيا  صفحات زوج يا فرد يا همه چاپ ميشوند"/>
+  <StrRes Name="propRangeBegin" Text="نقطه شروع جدول داده را تعيين ميکند"/>
+  <StrRes Name="propRangeEnd" Text="نقطه پايان جدول داده را تعيين ميکند"/>
+  <StrRes Name="propRangeEndCount" Text="reCount تعداد پرونده ها در جدول داده را تعيين ميکند اگر نقطه پايان برابر شود با"/>
+  <StrRes Name="propReadOnly" Text="تعيين ميکند آيا متن شيء قط خواندني است"/>
+  <StrRes Name="propRepeatHeaders" Text="تعيين ميکند آيا در جدول ستوني سرآمد ستر و ستونها در صفحه جديد چاپ خواهد شد"/>
+  <StrRes Name="propReportOptions" Text="گزينه هاي گزارش"/>
+  <StrRes Name="propReprintOnNewPage" Text="تعيين ميکند آيا باند در صفحه جديد چاپ خواهد شد"/>
+  <StrRes Name="propRestrictions" Text="مجموعه علامتهاي محدود کننده"/>
+  <StrRes Name="propRightMargin" Text="اندازه حاشيه راست صفحه"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="جهت بارکد"/>
+  <StrRes Name="propRotation" Text="زاويه چرخش متن"/>
+  <StrRes Name="propRowCount" Text="تعداد پرونده ها در باند اطلاعاتي"/>
+  <StrRes Name="propRowFields" Text="نام فيلد بانک اطلاعاتي که نشان دهنده ستر جدول ستوني است"/>
+  <StrRes Name="propRowLevels" Text="شماره سطح ستر"/>
+  <StrRes Name="propRTLReading" Text="تعيين ميکند آيا متن شيء از راست به چپ نشان داده ميشود"/>
+  <StrRes Name="propSessionName" Text="BDE نام جلسه"/>
+  <StrRes Name="propShadowColor" Text="رنگ سايه"/>
+  <StrRes Name="propShadowWidth" Text="پهناي سايه"/>
+  <StrRes Name="propShape" Text="نوع شکل"/>
+  <StrRes Name="propShiftMode" Text="حالت تغيير مکان شيء"/>
+  <StrRes Name="propShowColumnHeader" Text="تعيين ميکند آيا جدول ستوني سرآمد ستونها را نشان خواهد داد"/>
+  <StrRes Name="propShowColumnTotal" Text="تعيين ميکند آيا جدول ستوني جمع کل ستونها را نشان خواهد داد"/>
+  <StrRes Name="propShowRowHeader" Text="تعيين ميکند آيا جدول ستوني سرآمد سطرها را نشان خواهد داد"/>
+  <StrRes Name="propShowRowTotal" Text="تعيين ميکند آيا جدول ستوني جمع کل سطرها را نشان خواهد داد"/>
+  <StrRes Name="propShowDialog" Text="تعيين ميکند آيا گفتگو چاپ در پنجره پيش نمايش نشان داده ميشود"/>
+  <StrRes Name="propShowText" Text="تعيين ميکند آيا شيء بارکد متن قابل خواندن را نشان ميدهد"/>
+  <StrRes Name="propSize" Text="اندازه فونت"/>
+  <StrRes Name="propSorted" Text="تعيين ميکند آيا اقلام مرتب ميشوند يا نه"/>
+  <StrRes Name="propSpacing" Text="تعداد پيکسل بين متن و تصوير را تعيين ميکند"/>
+  <StrRes Name="propSQL" Text="SQL دستورات"/>
+  <StrRes Name="propStartNewPage" Text="قبل از چاپ باند يک صفحه جديد شروع ميشود"/>
+  <StrRes Name="propStretch" Text="تصوير کشيده ميشود تا در فضاي شيء جا گيرد"/>
+  <StrRes Name="propStretched" Text="تعيين ميکند آيا شيء ميتواند کشيده شود"/>
+  <StrRes Name="propStretchMode" Text="حالت کشيده شدن شيء"/>
+  <StrRes Name="propStyle.TFont" Text="نما فونت"/>
+  <StrRes Name="propStyle" Text="نما شيء"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="نما چارچوب شيء"/>
+  <StrRes Name="propSuppressRepeated" Text="از نشان دادن مقدار تکراري جلوگيري ميکند"/>
+  <StrRes Name="propTableName" Text="نام جدول داده"/>
+  <StrRes Name="propTag" Text="شماره برچسب شيء"/>
+  <StrRes Name="propTagStr" Text="رشته برچسب شيء"/>
+  <StrRes Name="propText" Text="متن شيء"/>
+  <StrRes Name="propTitleBeforeHeader" Text="تعيين ميکند آيا عنوان گزارش قبل از سرآمد صفحه نشان داده شود"/>
+  <StrRes Name="propTop" Text="مختص بالاي شيء"/>
+  <StrRes Name="propTopMargin" Text="اندازه حاشيه بالاي صفحه"/>
+  <StrRes Name="propTyp" Text="نوع چارچوب"/>
+  <StrRes Name="propUnderlines" Text="تعيين ميکند آيا بعد از هر متن زيرخط نشان داده شود"/>
+  <StrRes Name="propURL" Text="شيء URL"/>
+  <StrRes Name="propUserName" Text="نام کاربر شيء داده. اين نام در زير جدول داده در صفحه طراحي نشان داده ميشود"/>
+  <StrRes Name="propVAlign" Text="هم ترازي عمودي متن"/>
+  <StrRes Name="propVersionBuild" Text="اطلاعات نگارش - ساخت"/>
+  <StrRes Name="propVersionMajor" Text="اطلاعات نگارش - نسخه عمده"/>
+  <StrRes Name="propVersionMinor" Text="اطلاعات نگارش - نسخه کمتر"/>
+  <StrRes Name="propVersionRelease" Text="اطلاعات نگارش - نهائي"/>
+  <StrRes Name="propVersion" Text="نسخه"/>
+  <StrRes Name="propConnectionName" Text="نام اتصال"/>
+  <StrRes Name="propVisible" Text="قابل روئيت بودن شيء"/>
+  <StrRes Name="propWidth" Text="پهناي شيء"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="پهناي چارچوب"/>
+  <StrRes Name="propWindowState" Text="وضعيت اوليه پنجره"/>
+  <StrRes Name="propWordBreak" Text="کلمات روسي را ميشکند"/>
+  <StrRes Name="propWordWrap" Text="تعيين ميکند آيا متن شيء از کراکتر  'خط جديد'  صرفنظر کند يا ادامه متن را به سطر جديد منتقل کند"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="بزرگنمائي بارکد"/>
+  <StrRes Name="propCurve" Text="انحناء حاشيه چهارگوش حاشيه گرد"/>
+  <StrRes Name="propDrillDown" Text="تعيين ميکند آيا گروه مي تواند تو در تو باشد"/>
+  <StrRes Name="propFontStyle" Text="نوع فونت چاپگر سوزني"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="اگر گروه فقط يک رکورد داشته باشد پاورقي را مخفي ميکند"/>
+  <StrRes Name="propOutlineExpand" Text="تعيين ميکند آيا طرح گزارش گسترش يابد يانه"/>
+  <StrRes Name="propPagesOnSheet" Text="شماره صفحاتي که روي نگهدارنده کاغذ چاپ ميشوند(1،2 يا 4 صفحه)"/>
+  <StrRes Name="propPlainCells" Text="تعيين ميکند خانه هابصورت پهلو به پهلو يا پشت سرهم چاپ شوند"/>
+  <StrRes Name="propPrintMode" Text="حالت چاپ: معمولي، تقسيم صفحات بزرگ به کوچک، ترکيب صفحات کوچک در يک صفحه"/>
+  <StrRes Name="propPrintOnSheet" Text="اندازه صفحه چاپ گزارش، در صورتي استفاده ميشود که PrintMode مقدار pmDefault نباشد"/>
+  <StrRes Name="propResetPageNumbers" Text="شماره صفحه/مجموع صفحات را صفر ميکند وقتي گروه چاپ ميشود. وقتي استفاده ميشود که مقدار StartNewPage برابر true باشد"/>
+  <StrRes Name="propReverse" Text="تعيين ميکند آيا صفحات معکوس چاپ شوند"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="تعيين ميکند اگر گروه تو در تو باشد پاورقي آن را نشان دهد"/>
+  <StrRes Name="propSizeMode" Text="حالت نمايش شيء OLE"/>
+  <StrRes Name="propWideBarRatio" Text="وابسته به پهناي بارکد"/>
+  <StrRes Name="propWysiwyg" Text="تعيين ميکند آيا شيء متني غني از چاپگر براي قالب بندي متن استفاده ميکند. چاپگر بايد نصب و آماده باشد."/>
+  <StrRes Name="propArrowEnd" Text="تعيين ميکند آيا در انتهاي خط بردار رسم شود"/>
+  <StrRes Name="propArrowLength" Text="طول بردار"/>
+  <StrRes Name="propArrowSolid" Text="تعيين ميکند آيا بردار بصورت يکنواخت رسم شود"/>
+  <StrRes Name="propArrowStart" Text="تعيين ميکند آيا در شروع خط بردار رسم شود"/>
+  <StrRes Name="propArrowWidth" Text="پهناي بردار"/>
+  <StrRes Name="propCloseDataSource" Text="تعيين ميکند در پايان گزارش داده اطلاعاتي بسته شود"/>
+  <StrRes Name="propDatabase" Text="اتصال بانک اطلاعاتي"/>
+  <StrRes Name="propIndexFieldNames" Text="نام فيلد ايندکس"/>
+  <StrRes Name="propCommandTimeOut" Text="زمان اجراي پرس و جو"/>
+  <StrRes Name="propExpandDrillDown" Text="تعيين ميکند آيا عناصر تو در تو را در اولين شروع گزارش گسترش دهد"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="تعيين ميکند آيا متن رد حالت WISIWYG نمايش داده شود"/>
+  <StrRes Name="propLeftLine" Text="خط چپ چهارچوب"/>
+  <StrRes Name="propTopLine" Text="خط بالاي چهارچوب"/>
+  <StrRes Name="propRightLine" Text="خط راست چهارچوب"/>
+  <StrRes Name="propBottomLine" Text="خط پائين چهارچوب"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="رنگ خط چهارچوب"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="حالت خط چهارچوب"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="پهناي خط چهارچوب"/>
+  <StrRes Name="propFileLink" Text="عبارت يا نام فايلي که شامل تصوير است"/>
+  <StrRes Name="propEndlessWidth" Text="حالت صفحه بدون پايان. اگر مقدار آن true باشد صفحه بسته به تعداد رکوردها بزرگ ميشود"/>
+  <StrRes Name="propEndlessHeight" Text="حالت صفحه بدون پايان. اگر مقدار آن true باشد صفحه بسته به تعداد رکوردها بزرگ ميشود"/>
+  <StrRes Name="propAddHeight" Text="به يک مقدار تعيين شده فضاي خالي به ارتفاع خانه اضافه ميکند"/>
+  <StrRes Name="propAddWidth" Text="به يک مقدار تعيين شده فضاي خالي به پهناي خانه اضافه ميکند"/>
+  <StrRes Name="propAllowDuplicates" Text="تعيين ميکند آيا خانه ميتواند يک رشته تکراري دريافت کند"/>
+  <StrRes Name="propJoinEqualCells" Text="تعيين ميکند جدول ستوني بايد خانه ها با مقادير برابر را به هم ملحق کند"/>
+  <StrRes Name="propNextCross" Text="اشاره گر به جدول ستوني بعدي که بصورت پهلو به پهلو نمايش داده ميشود"/>
+  <StrRes Name="propNextCrossGap" Text="فاصله بين جدولهاي ستوني پهلو به پهلو"/>
+  <StrRes Name="propShowCorner" Text="تعيين ميکند جدول ستوني عنصر گوشه چپ-بالا را بايد نمايش دهد"/>
+  <StrRes Name="propSuppressNullRecords" Text="!تعیین میکند جدول ستونی رکورد هایی با مقدار تهی را پشتیبانی کند"/>
+  <StrRes Name="propShowTitle" Text="!تعیین میکند جدول ستونی عنوان را نشان دهد"/>
+  <StrRes Name="propAutoSize" Text="!تعیین میکند جدول ستونی اندازه اش را خودکار تنظیم کند"/>
+  <StrRes Name="propShowHint" Text="تعیین میکند آیا شیء هنگامیکه موش واره روی آن است تذکر را نشان دهد"/>
+  <StrRes Name="propHint" Text="متن تذکر"/>
+  <StrRes Name="propPaperSize" Text="اندازه کاغذ"/>
+  <StrRes Name="propPageCount" Text="تعداد صفحات"/>
+  <StrRes Name="propBackPictureVisible" Text="تعیین میکند آیا صفحه تصویر پشت زمینه را نشان دهد"/>
+  <StrRes Name="propBackPicturePrintable" Text="تعیین میکند آیا صفحه تصویر زمینه را چاپ کند"/>
+  <StrRes Name="propHightQuality" Text="نمایش تصویر با کیفیت بالا"/>
+  <StrRes Name="propLockType" Text="نوع قفل گذاری جدول داده را مشخص میکند"/>
+  <StrRes Name="propIgnoreDupParams" Text="از پارامتر تکراری در ویرایشگر پارامتر صرف نظر میکند"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

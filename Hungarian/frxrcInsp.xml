@@ -1,0 +1,275 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="propActive" Text="Meghatározza, hogy a DataSet nyitott vagy nem"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Meghatározza, hogy a kiemelés aktív vagy nem"/>
+  <StrRes Name="propAliasName" Text="A BDE alias neve"/>
+  <StrRes Name="propAlign" Text="Meghatározza, hogy az objektum elhelyezkedése a sávhoz vagy a laphoz relatív"/>
+  <StrRes Name="propAlignment" Text="Az objektum szövegének igazítása"/>
+  <StrRes Name="propAllowAllUp" Text="Meghatározza, hogy a SpeedButton-ok egyidőben lehetnek-e inaktívak a csoportban"/>
+  <StrRes Name="propAllowEdit" Text="Meghatározza, hogy a felhasználó szerkesztheti-e az előkészített riport lapjait"/>
+  <StrRes Name="propAllowExpressions" Text="Meghatározza, hogy a szöveg objektum tartalmazhat kifejezéseket a szövegben"/>
+  <StrRes Name="propAllowGrayed" Text="Engedélyezi a három állapotú Checkbox kontrolt"/>
+  <StrRes Name="propAllowHTMLTags" Text="Meghatározza, hogy a szöveg objektum tartalmazhat HTML tag-eket a szövegben"/>
+  <StrRes Name="propAllowSplit" Text="Meghatározza, hogy a sáv több lapra kiterjedhet-e"/>
+  <StrRes Name="propAuthor" Text="A riport szerzője"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Meghatározza, hogy a kép automatikusan kezelheti-e a méretét"/>
+  <StrRes Name="propAutoWidth" Text="Meghatározza, hogy a szöveg objektum kezelheti-e saját méretét"/>
+  <StrRes Name="propBackPicture" Text="A lap háttere"/>
+  <StrRes Name="propBarType" Text="A vonalkód típusa"/>
+  <StrRes Name="propBevelInner" Text="A belső él típusa"/>
+  <StrRes Name="propBevelOuter" Text="A külső él típusa"/>
+  <StrRes Name="propBevelWidth" Text="Az él vastagsága"/>
+  <StrRes Name="propBorder" Text="Meghatározza, hogy külső határ mutatva legyen-e"/>
+  <StrRes Name="propBorderStyle" Text="Az ablak stílusa"/>
+  <StrRes Name="propBottomMargin" Text="Az alsó margó mérete"/>
+  <StrRes Name="propBrushStyle" Text="Az objektum hátteréhez használt ecset stílusa"/>
+  <StrRes Name="propCalcCheckSum" Text="Meghatározza, hogy a vonalkód az ellenőrzőszámot maga számolja-e"/>
+  <StrRes Name="propCancel" Text="Meghatározza, hogy a gomb aktiválódjon-e, ha Esc-et nyomnak"/>
+  <StrRes Name="propCaption" Text="A kontrol szövege"/>
+  <StrRes Name="propCellFields" Text="Adatbázismezők nevei, melyek keresztcellát határoznak meg"/>
+  <StrRes Name="propCellLevels" Text="Cellaszintek száma"/>
+  <StrRes Name="propCenter" Text="Meghatározza, hogy a kép a kontrolon belül középre igazodjon-e"/>
+  <StrRes Name="propCharset" Text="A karakterkészlet"/>
+  <StrRes Name="propCharSpacing" Text="Két karakter közötti pixelek száma"/>
+  <StrRes Name="propCheckColor" Text="A pipa színe"/>
+  <StrRes Name="propChecked" Text="Jelzi, hogy a kontrol kipipált"/>
+  <StrRes Name="propCheckStyle" Text="A pipa stílusa"/>
+  <StrRes Name="propChild" Text="Gyermek sáv ehhez a sávhoz kapcsolva"/>
+  <StrRes Name="propClipped" Text="Vágja-e a szöveget a határhoz"/>
+  <StrRes Name="propCollate" Text="Rendezés alapbeállítása"/>
+  <StrRes Name="propColor.TFont" Text="A szöveg színe"/>
+  <StrRes Name="propColor" Text="Az objektum színe"/>
+  <StrRes Name="propColor.TfrxFrame" Text="A keret színe"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Meghatározza az objektum színét, ha a kiemelés aktív"/>
+  <StrRes Name="propColumnFields" Text="Adatbázismezők nevei, melyek keresztriport oszlopokat határoznak meg"/>
+  <StrRes Name="propColumnGap" Text="A rés a sáv oszlopai között"/>
+  <StrRes Name="propColumnLevels" Text="Az oszlopszintek száma"/>
+  <StrRes Name="propColumns" Text="Oszlopok száma a sávban"/>
+  <StrRes Name="propColumnWidth" Text="A sáv oszlop szélessége"/>
+  <StrRes Name="propCondition" Text="A csoportosítás feltétele. Ha ez az érték változik, új csoport kezdődik"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Kifejezés. Ha ez igaz, kiemelés történik"/>
+  <StrRes Name="propConnected" Text="Jelzi, hogy a kapcsolat az adatbázissal aktív"/>
+  <StrRes Name="propConvertNulls" Text="Meghatározza, hogy null értékek konvertálódnak-e 0, Hamis vagy üres string értékekké"/>
+  <StrRes Name="propCopies" Text="A másolatok alapértelmezett száma"/>
+  <StrRes Name="propCursor" Text="Az objektum kurzora"/>
+  <StrRes Name="propDatabaseName" Text="Az adatbázis neve"/>
+  <StrRes Name="propDataField" Text="Az objektum adatait tartalmazó mező meghatározása"/>
+  <StrRes Name="propDataSet" Text="Az objektum kapcsolata egy Dataset-tel amelyik az adatot szolgáltató mezőt tartalmazza"/>
+  <StrRes Name="propDate" Text="A kontrol dátuma"/>
+  <StrRes Name="propDateFormat" Text="Dátumformátum meghatározása"/>
+  <StrRes Name="propDecimalSeparator" Text="Tizedesjel"/>
+  <StrRes Name="propDefault" Text="Meghatározza, hogy a gomb az alapértelmezett gomb"/>
+  <StrRes Name="propDefHeight" Text="Sor alapértelmezett magassága"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="A riport leírása"/>
+  <StrRes Name="propDescription" Text="Objektum leírása"/>
+  <StrRes Name="propDiagonal" Text="Jelzi, hogy a vonal átlós"/>
+  <StrRes Name="propDisplayFormat" Text="A megjelenített érték formátuma"/>
+  <StrRes Name="propDoublePass" Text="Meghatározza, hogy a riport két menetes legyen-e"/>
+  <StrRes Name="propDown" Text="Meghatározza, hogy a SpeedButton lenyomott vagy nem"/>
+  <StrRes Name="propDownThenAcross" Text="Meghatározza, hogy a nagy méretű kereszttábla hogyan legyen lapokra osztva"/>
+  <StrRes Name="propDriverName" Text="A BDE driver neve"/>
+  <StrRes Name="propDropShadow" Text="Meghatározza, hogy az objektumnak legyen-e árnyéka"/>
+  <StrRes Name="propDuplex" Text="A lap duplex módját határozza meg"/>
+  <StrRes Name="propEditMask" Text="Meghatároz egy maszkot, amelynek megfelelő szöveg lesz elfogadható a maszkolt edit kontrol számára"/>
+  <StrRes Name="propEnabled" Text="Meghatározza, hogy a kontrol engedélyezett-e"/>
+  <StrRes Name="propEngineOptions" Text="A riport opciói"/>
+  <StrRes Name="propExpression" Text="E kifejezés értéke lesz mutatva az objektumban"/>
+  <StrRes Name="propExpressionDelimiters" Text="Ezek a karakterek választják el a kifejezést a szövegtől"/>
+  <StrRes Name="propFieldAliases" Text="A DataSet mezőinek álnevei"/>
+  <StrRes Name="propFilter" Text="A DataSet szűrőfeltétele"/>
+  <StrRes Name="propFiltered" Text="Meghatározza, hogy a DataSet a Filter tulajdonság értéke alapján szűrjön-e"/>
+  <StrRes Name="propFlowTo" Text="A szöveg objektum amelyik mutatja az objektumba nem férő szöveget"/>
+  <StrRes Name="propFont" Text="Az objektum betűtípusa"/>
+  <StrRes Name="propFooterAfterEach" Text="Meghatározza, hogy a lábléc sáv látszon-e minden sor után"/>
+  <StrRes Name="propFormatStr" Text="A formázó szöveg"/>
+  <StrRes Name="propFrame" Text="A objektum keret jellemzői"/>
+  <StrRes Name="propGapX" Text="A szöveg bal oldali behúzása"/>
+  <StrRes Name="propGapY" Text="A szöveg felső behúzása"/>
+  <StrRes Name="propGlyph" Text="A kontrol képe"/>
+  <StrRes Name="propGroupIndex" Text="SpeedButton-ok csoportosítása"/>
+  <StrRes Name="propHAlign" Text="A szöveg vízszintes igazítása"/>
+  <StrRes Name="propHeight" Text="Az objektum magassága"/>
+  <StrRes Name="propHideZeros" Text="Meghatározza, hogy a szöveg objektum elrejti-e a 0 értékeket"/>
+  <StrRes Name="propHighlight" Text="A feltételes kiemelés jellemzői"/>
+  <StrRes Name="propIndexName" Text="Az index neve"/>
+  <StrRes Name="propInitString" Text="Nyomtató inicializáló karakterek mátrixnyomtatókhoz"/>
+  <StrRes Name="propItems" Text="Objektum elemeinek listája"/>
+  <StrRes Name="propKeepAspectRatio" Text="Képarány megtartása"/>
+  <StrRes Name="propKeepChild" Text="Meghatározza, hogy a sáv gyermekeivel együtt lesz-e nyomtatva"/>
+  <StrRes Name="propKeepFooter" Text="Meghatározza, hogy a sáv a lábléccel együtt lesz-e nyomtatva"/>
+  <StrRes Name="propKeepHeader" Text="Meghatározza, hogy a sáv a fejléccel együtt lesz-e nyomtatva"/>
+  <StrRes Name="propKeepTogether" Text="Meghatározza, hogy a sáv alsávjaival együtt lesz-e nyomtatva"/>
+  <StrRes Name="propKind.TfrxFormat" Text="A formázás típusa"/>
+  <StrRes Name="propKind" Text="A gomb fajtája"/>
+  <StrRes Name="propLargeDesignHeight" Text="Meghatározza, hogy a lap magas lesz-e tervezés közben"/>
+  <StrRes Name="propLayout" Text="A gomb képének elrendezése"/>
+  <StrRes Name="propLeft" Text="Az objektum bal koordinátája"/>
+  <StrRes Name="propLeftMargin" Text="A bal margó mérete"/>
+  <StrRes Name="propLines" Text="Az objektum szövege"/>
+  <StrRes Name="propLineSpacing" Text="A szöveg két sora közötti táv pixelben"/>
+  <StrRes Name="propLoginPrompt" Text="Meghatározza, hogy legyen-e bejelentkezési dialógus"/>
+  <StrRes Name="propMargin" Text="Meghatározza a kép és a gomb határai közötti pixelek számát"/>
+  <StrRes Name="propMaster" Text="A master DataSet"/>
+  <StrRes Name="propMasterFields" Text="A master kapcsolt mezői a master-detail kapcsolat kialakításához"/>
+  <StrRes Name="propMaxLength" Text="A szöveg maximális hossza"/>
+  <StrRes Name="propMaxWidth" Text="Oszlop maximális szélessége"/>
+  <StrRes Name="propMemo" Text="Az objektum szövege"/>
+  <StrRes Name="propMinWidth" Text="Az oszlop legkisebb szélessége"/>
+  <StrRes Name="propMirrorMargins" Text="Margók tükrözése"/>
+  <StrRes Name="propModalResult" Text="Meghatározza, hogy és milyen visszatérési értékkel zárja be a gomb az ablakot"/>
+  <StrRes Name="propName.TFont" Text="A betűkészlet neve"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="A riport címe"/>
+  <StrRes Name="propName" Text="Az objektum neve"/>
+  <StrRes Name="propNumGlyphs" Text="A Glyph tulajdonságban tárolt képek száma"/>
+  <StrRes Name="propOpenDataSource" Text="Meghatározza, hogy a DataSource automatikusan megnyíljon-e"/>
+  <StrRes Name="propOrientation" Text="A lap tájolása"/>
+  <StrRes Name="propOutlineText" Text="A szöveg ami a körvonal előkép kontrolban megjelenik"/>
+  <StrRes Name="propOutlineVisible" Text="A körvonal előkép kontrol láthatósága"/>
+  <StrRes Name="propOutlineWidth" Text="A körvonal előkép kontrol szélessége"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="A nyomtatandó oldalak száma"/>
+  <StrRes Name="propPaperHeight" Text="Az oldal magassága"/>
+  <StrRes Name="propPaperWidth" Text="Az oldal szélessége"/>
+  <StrRes Name="propParagraphGap" Text="A bekezdés első sorának behúzása"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="A kapcsolat paraméterei"/>
+  <StrRes Name="propParams" Text="A query paraméterei"/>
+  <StrRes Name="propParentFont" Text="Meghatározza, hogy az objektum a szülő betűtípusát használja-e"/>
+  <StrRes Name="propPassword" Text="A riport jelszava"/>
+  <StrRes Name="propPasswordChar" Text="Meghatározza a kontrolba írt karakterek helyett megjelenő karaktert, ha nem üres"/>
+  <StrRes Name="propPicture" Text="A kép"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="A leíró képe a riportnak"/>
+  <StrRes Name="propPosition" Text="Az ablak kezdeti poziciója"/>
+  <StrRes Name="propPreviewOptions" Text="A riport előkép opciói"/>
+  <StrRes Name="propPrintable" Text="Az objektum nyomtathatósága. Ha nem nyomtatható, az előképen jelenik csak meg."/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Meghatározza, hogy a gyerek sáv láthatatlan szülő esetén nyomtatásra kerül-e"/>
+  <StrRes Name="propPrinter" Text="A nyomtató neve, amely kiválasztásra kerül a riport megnyitása vagy nyomtatása esetén"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Meghatározza, hogy az adatsáv nyomtatva lesz-e, ha az alsávja üres"/>
+  <StrRes Name="propPrintIfEmpty" Text="Meghatározza, hogy a lap nyomtatva lesz-e, ha DataSet-jei üresek"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Meghatározza, hogy a sáv nyomtatva lesz-e az első oldalon"/>
+  <StrRes Name="propPrintOnLastPage" Text="Meghatározza, hogy a sáv nyomtatva lesz-e az utolsó oldalon"/>
+  <StrRes Name="propPrintOnParent" Text="Meghatározza, hogy az alriport a szülő sávra lesz-e nyomtatva"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Meghatározza, hogy az oldal az előzőleg generált oldal üres területére lesz-e generálva"/>
+  <StrRes Name="propPrintOptions" Text="A riport nyomtatási opciói"/>
+  <StrRes Name="propPrintPages" Text="Meghatározza, hogy az összes, a páros vagy a páratlan oldalakat nyomtassa"/>
+  <StrRes Name="propRangeBegin" Text="Meghatározza a DataSet navigáció kezdőpontját"/>
+  <StrRes Name="propRangeEnd" Text="Meghatározza a DataSet navigáció végpontját"/>
+  <StrRes Name="propRangeEndCount" Text="Meghatározza a DataSet rekordszámát, ha RangeEnd értéke reCount"/>
+  <StrRes Name="propReadOnly" Text="Meghatározza, hogy a szöveg objektum csak olvasható-e"/>
+  <StrRes Name="propRepeatHeaders" Text="Meghatározza, hogy az oszlop és sor fejlécek újra lesznek-e nyomtatva az oldalakon"/>
+  <StrRes Name="propReportOptions" Text="A riport opciói"/>
+  <StrRes Name="propReprintOnNewPage" Text="Meghatározza, hogy a sáv új oldalon újra lesz-e nyomtatva"/>
+  <StrRes Name="propRestrictions" Text="Korlátozások"/>
+  <StrRes Name="propRightMargin" Text="A jobb margó mérete"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="A vonalkód tájolása"/>
+  <StrRes Name="propRotation" Text="A szöveg elforgatása"/>
+  <StrRes Name="propRowCount" Text="Virtuális rekordok száma az adatsávon"/>
+  <StrRes Name="propRowFields" Text="A keresztsort meghatározó mezők nevei"/>
+  <StrRes Name="propRowLevels" Text="Sorszintek száma"/>
+  <StrRes Name="propRTLReading" Text="Meghatározza, hogy a szöveg objektum jobbról balra ír-e"/>
+  <StrRes Name="propSessionName" Text="A BDE session neve"/>
+  <StrRes Name="propShadowColor" Text="Az árnyék színe"/>
+  <StrRes Name="propShadowWidth" Text="Az árnyék szélessége"/>
+  <StrRes Name="propShape" Text="Az alkzat típusa"/>
+  <StrRes Name="propShiftMode" Text="Az objektum eltolás-viselkedése"/>
+  <StrRes Name="propShowColumnHeader" Text="Meghatározza, hogy a kereszttábla mutatja-e az oszlop fejléceket"/>
+  <StrRes Name="propShowColumnTotal" Text="Meghatározza, hogy a kereszttábla mutatja-e az oszlop grand total-t"/>
+  <StrRes Name="propShowRowHeader" Text="Meghatározza, hogy a kereszttábla mutatja-e a sor fejléceket"/>
+  <StrRes Name="propShowRowTotal" Text="Meghatározza, hogy a kereszttábla mutatja-e a sor grand total-t"/>
+  <StrRes Name="propShowDialog" Text="Meghatározza, hogy a nyomtatási dialógust mutatja-e az előképben"/>
+  <StrRes Name="propShowText" Text="Meghatározza, hogy a vonalkód objektum mutatja-e az olvasható szövegét"/>
+  <StrRes Name="propSize" Text="A betűkészlet mérete"/>
+  <StrRes Name="propSorted" Text="Meghatározza, hogy az elemek rendezettek-e"/>
+  <StrRes Name="propSpacing" Text="Meghatározza, a pixelek számát a kép és a szöveg között"/>
+  <StrRes Name="propSQL" Text="A SQL utasítás"/>
+  <StrRes Name="propStartNewPage" Text="A sáv nyomtatása előtt új oldalt kezd"/>
+  <StrRes Name="propStretch" Text="Az objektum méretére nyújtja a képet"/>
+  <StrRes Name="propStretched" Text="Meghatározza, hogy az objektum nyújtható-e"/>
+  <StrRes Name="propStretchMode" Text="Az objektum nyújtási viselkedése"/>
+  <StrRes Name="propStyle.TFont" Text="A betűkészlet stílusa"/>
+  <StrRes Name="propStyle" Text="A kontrol stílusa"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Az objektum keretének stílusa"/>
+  <StrRes Name="propSuppressRepeated" Text="Ismételt értékek elnyomása"/>
+  <StrRes Name="propTableName" Text="Adattábla neve"/>
+  <StrRes Name="propTag" Text="Az objektum Tag száma"/>
+  <StrRes Name="propTagStr" Text="Az objektum Tag szövege"/>
+  <StrRes Name="propText" Text="Az objektum szövege"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Meghatározza, hogy a lapfejléc előtt mutassa-e a riport címét"/>
+  <StrRes Name="propTop" Text="Az objektum felső koordinátája"/>
+  <StrRes Name="propTopMargin" Text="A felső margó mérete"/>
+  <StrRes Name="propTyp" Text="A keret típusa"/>
+  <StrRes Name="propUnderlines" Text="Meghatározza, hogy a szöveg objektum mutatja-e a rácsvonalakat a szöveg sorok után"/>
+  <StrRes Name="propURL" Text="Az objektum URL-je"/>
+  <StrRes Name="propUserName" Text="Az adatobjektum felhasználói neve. Ez jelenik meg az adatfán"/>
+  <StrRes Name="propVAlign" Text="A szöveg függőleges igazítása"/>
+  <StrRes Name="propVersionBuild" Text="Verzió info, build"/>
+  <StrRes Name="propVersionMajor" Text="Verzió info, főverzió"/>
+  <StrRes Name="propVersionMinor" Text="Verzió info, alverzió"/>
+  <StrRes Name="propVersionRelease" Text="Verzió info, kibocsátás"/>
+  <StrRes Name="propVisible" Text="Objektum láthatósága"/>
+  <StrRes Name="propWidth" Text="Objektum szélessége"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Keret szélessége"/>
+  <StrRes Name="propWindowState" Text="Ablak kezdeti állapota"/>
+  <StrRes Name="propWordBreak" Text="Orosz szavak törése"/>
+  <StrRes Name="propWordWrap" Text="Meghatározza, hogy a szöveg objektum lágy sortöréseket szúrjon-e be."/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Vonalkód nagyítása"/>
+  <StrRes Name="propConnectionName" Text="A használt adatbáziskapcsolat neve"/>
+  <StrRes Name="propCurve" Text="Lekerekített élek íve"/>
+  <StrRes Name="propDrillDown" Text="A csoport felbontható"/>
+  <StrRes Name="propFontStyle" Text="Mátrixnyomtató betűstílus"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Lábléc elnyomása, ha csak egy adatsor van"/>
+  <StrRes Name="propOutlineExpand" Text="Jelentéskörvonal kibontása"/>
+  <StrRes Name="propPagesOnSheet" Text="Egy oldalra nyomtatanó lapok száma (1, 2 vagy 4 oldal)"/>
+  <StrRes Name="propPlainCells" Text="Cellák egymás mellé vagy egymásra nyomtatása"/>
+  <StrRes Name="propPrintMode" Text="Nyomtatási mód: normál, nagy oldalak felbontása, kis oldalak egy nagyra"/>
+  <StrRes Name="propPrintOnSheet" Text="Papírméret nyomtatáshoz, ha a nyomtatási mód nem pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Csoportnál oldalszám újrakezdése. Akkor érdemes használni, ha a csoport új oldalon indul."/>
+  <StrRes Name="propReverse" Text="Fordított sorrendben nyomtat"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Legyen-e lábléc felbontott csoportnál"/>
+  <StrRes Name="propSizeMode" Text="OLE objektum megjelenítése"/>
+  <StrRes Name="propVersion" Text="FastReport verziója"/>
+  <StrRes Name="propWideBarRatio" Text="Vonalkód elemeinek relatív szélessége"/>
+  <StrRes Name="propWysiwyg" Text="A Rich Text objektum használja-e a nyomtatót képének elkészítéséhez. Telepített nyomtatót igényel."/>
+  <StrRes Name="propArrowEnd" Text="Vonal végén legyen-e nyíl"/>
+  <StrRes Name="propArrowLength" Text="Nyíl hossza"/>
+  <StrRes Name="propArrowSolid" Text="Kitöltött nyilhegy legyen-e"/>
+  <StrRes Name="propArrowStart" Text="Legyen-e nyíl a vonal elején"/>
+  <StrRes Name="propArrowWidth" Text="Nyíl szélessége"/>
+  <StrRes Name="propCloseDataSource" Text="A jelentés végén bezárja-e a Dataset-et"/>
+  <StrRes Name="propDatabase" Text="Adatbáziskapcsolat"/>
+  <StrRes Name="propIndexFieldNames" Text="Indexmezők"/>
+  <StrRes Name="propCommandTimeOut" Text="Lekérdezés-végrehajtás időszükséglete"/>
+  <StrRes Name="propExpandDrillDown" Text="Megnyissa-e a csoportrészleteket az első indításnál"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Szöveget valós képén jelenítsen-e meg"/>
+  <StrRes Name="propLeftLine" Text="Keret bal vonala"/>
+  <StrRes Name="propTopLine" Text="Keret felső vonala"/>
+  <StrRes Name="propRightLine" Text="Keret jobb vonala"/>
+  <StrRes Name="propBottomLine" Text="Keret alsó vonala"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="Keretvonal színe"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="Keretvonal stílusa"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="Keretvonal vastagsága"/>
+  <StrRes Name="propFileLink" Text="Kifejezés vagy képfájl neve"/>
+  <StrRes Name="propEndlessWidth" Text="Végtelen lap mód. Ha igaz, a lap nyúlni fog az adat mennyiségének függvényében"/>
+  <StrRes Name="propEndlessHeight" Text="Végtelen lap mód. Ha igaz, a lap nyúlni fog az adat mennyiségének függvényében"/>
+  <StrRes Name="propAddHeight" Text="Cellát magasít"/>
+  <StrRes Name="propAddWidth" Text="Cellát szélesít"/>
+  <StrRes Name="propAllowDuplicates" Text="A cella elfogad-e duplikált adatot"/>
+  <StrRes Name="propJoinEqualCells" Text="A kereszttábla összevonjon-e azonos értékű cellákat"/>
+  <StrRes Name="propNextCross" Text="Mutató a következő kereszttáblára egymás mellé nyomtatáshoz"/>
+  <StrRes Name="propNextCrossGap" Text="Köz a kereszttáblák között"/>
+  <StrRes Name="propShowCorner" Text="Legyen bal felső elem a kereszttáblában"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

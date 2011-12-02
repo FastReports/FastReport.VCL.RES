@@ -1,0 +1,853 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="2000" Text="کنترلر شيء"/>
+  <StrRes Name="oiProp" Text="خصوصيات"/>
+  <StrRes Name="oiEvent" Text="رويداد"/>
+  <StrRes Name="2100" Text="درخت داده"/>
+  <StrRes Name="2101" Text="داده"/>
+  <StrRes Name="2102" Text="متغيرها"/>
+  <StrRes Name="2103" Text="توابع"/>
+  <StrRes Name="2104" Text="ايجاد فيلد"/>
+  <StrRes Name="2105" Text="ايجاد عنوان"/>
+  <StrRes Name="2106" Text="کلاسها"/>
+  <StrRes Name="dtNoData" Text="داده اي در دسترس نيست"/>
+  <StrRes Name="dtNoData1" Text="براي افزودن داده اطلاعاتي موجود به منوي &#38;#34;گزارش|داده..&#38;#34; برويد، يا به سرلوحه &#38;#34;داده&#38;#34; سوئيچ کنيد و داده اطلاعاتي جديد ايجاد کنيد"/>
+  <StrRes Name="dtData" Text="داده"/>
+  <StrRes Name="dtSysVar" Text="متغيرهاي سيستم"/>
+  <StrRes Name="dtVar" Text="متغيرها"/>
+  <StrRes Name="dtFunc" Text="توابع"/>
+  <StrRes Name="2200" Text="درخت گزارش"/>
+  <StrRes Name="2300" Text="Script باز کردن پرونده"/>
+  <StrRes Name="2301" Text="در پرونده Script ذخيره"/>
+  <StrRes Name="2302" Text="Script اجرا"/>
+  <StrRes Name="2303" Text="رد يابي کردن درون"/>
+  <StrRes Name="2304" Text="Script خاتمه دادن"/>
+  <StrRes Name="2305" Text="ارزيابي"/>
+  <StrRes Name="2306" Text="زبان:"/>
+  <StrRes Name="2307" Text="هم ترازي"/>
+  <StrRes Name="2308" Text="همترازي از چپ"/>
+  <StrRes Name="2309" Text="هم ترازي در وسط"/>
+  <StrRes Name="2310" Text="همترازي از راست"/>
+  <StrRes Name="2311" Text="همترازي از بالا"/>
+  <StrRes Name="2312" Text="هم ترازي در مرکز"/>
+  <StrRes Name="2313" Text="همترازي از پائين"/>
+  <StrRes Name="2314" Text="جا فاصله افقي"/>
+  <StrRes Name="2315" Text="جا فاصله عمودي"/>
+  <StrRes Name="2316" Text="افقي در مرکز باند"/>
+  <StrRes Name="2317" Text="عمودي در مرکز باند"/>
+  <StrRes Name="2318" Text="پهناي يکسان"/>
+  <StrRes Name="2319" Text="ارتفاع يکسان"/>
+  <StrRes Name="2320" Text="متن"/>
+  <StrRes Name="2321" Text="نما"/>
+  <StrRes Name="2322" Text="نام فونت"/>
+  <StrRes Name="2323" Text="اندازه فونت"/>
+  <StrRes Name="2324" Text="ضخيم"/>
+  <StrRes Name="2325" Text="مايل"/>
+  <StrRes Name="2326" Text="زيرخط"/>
+  <StrRes Name="2327" Text="رنگ فونت"/>
+  <StrRes Name="2328" Text="پررنگ"/>
+  <StrRes Name="2329" Text="چرخش متن"/>
+  <StrRes Name="2330" Text="همترازي از چپ"/>
+  <StrRes Name="2331" Text="هم ترازي در مرکز"/>
+  <StrRes Name="2332" Text="همترازي از راست"/>
+  <StrRes Name="2333" Text="حاشيه مستقيم"/>
+  <StrRes Name="2334" Text="همترازي از بالا"/>
+  <StrRes Name="2335" Text="هم ترازي در وسط"/>
+  <StrRes Name="2336" Text="همترازي از پائين"/>
+  <StrRes Name="2337" Text="چارچوب"/>
+  <StrRes Name="2338" Text="خط بالا"/>
+  <StrRes Name="2339" Text="خط پائين"/>
+  <StrRes Name="2340" Text="خط چپ"/>
+  <StrRes Name="2341" Text="خط راست"/>
+  <StrRes Name="2342" Text="همه خطوط چارچوب"/>
+  <StrRes Name="2343" Text="بدون چارچوب"/>
+  <StrRes Name="2344" Text="سايه"/>
+  <StrRes Name="2345" Text="رنگ زمينه"/>
+  <StrRes Name="2346" Text="رنگ چارچوب"/>
+  <StrRes Name="2347" Text="نماي چارچوب"/>
+  <StrRes Name="2348" Text="پهناي چارچوب"/>
+  <StrRes Name="2349" Text="استاندارد"/>
+  <StrRes Name="2350" Text="گزارش جديد"/>
+  <StrRes Name="2351" Text="باز کردن گزارش"/>
+  <StrRes Name="2352" Text="ذخيره گزارش"/>
+  <StrRes Name="2353" Text="پيش نمايش"/>
+  <StrRes Name="2354" Text="صفحه گزارش جديد"/>
+  <StrRes Name="2355" Text="صفحه گفتگو جديد"/>
+  <StrRes Name="2356" Text="حذف صفحه"/>
+  <StrRes Name="2357" Text="جزئيات صفحه"/>
+  <StrRes Name="2358" Text="متغيرها"/>
+  <StrRes Name="2359" Text="برش"/>
+  <StrRes Name="2360" Text="رونوشت"/>
+  <StrRes Name="2361" Text="چسباندن"/>
+  <StrRes Name="2362" Text="کپي قالب بندي"/>
+  <StrRes Name="2363" Text="خنثي کردن"/>
+  <StrRes Name="2364" Text="دوباره انجام دادن"/>
+  <StrRes Name="2365" Text="گروه"/>
+  <StrRes Name="2366" Text="گروه بندي نشده"/>
+  <StrRes Name="2367" Text="نمايش شبکه اي"/>
+  <StrRes Name="2368" Text="همترازي با شبکه"/>
+  <StrRes Name="2369" Text="جا گرفتن در شبکه"/>
+  <StrRes Name="2370" Text="بزرگنمائي"/>
+  <StrRes Name="2371" Text="ابزارهاي اضافه"/>
+  <StrRes Name="2372" Text="انتخاب ابزار"/>
+  <StrRes Name="2373" Text="ابزار دست"/>
+  <StrRes Name="2374" Text="ابزار بزرگنمائي"/>
+  <StrRes Name="2375" Text="ابزار ويرايش متن"/>
+  <StrRes Name="2376" Text="ابزار کپي قالب"/>
+  <StrRes Name="2377" Text="درج باند"/>
+  <StrRes Name="2378" Text="پرونده"/>
+  <StrRes Name="2379" Text="ويرايش"/>
+  <StrRes Name="2380" Text="جستجو..."/>
+  <StrRes Name="2381" Text="جستجو بعدي"/>
+  <StrRes Name="2382" Text="تعويض..."/>
+  <StrRes Name="2383" Text="گزارش"/>
+  <StrRes Name="2384" Text="داده..."/>
+  <StrRes Name="2385" Text="گزينه ها..."/>
+  <StrRes Name="2386" Text="نماها..."/>
+  <StrRes Name="2387" Text="نمايش"/>
+  <StrRes Name="2388" Text="پنجره هاي ابزار"/>
+  <StrRes Name="2389" Text="استاندارد"/>
+  <StrRes Name="2390" Text="متن"/>
+  <StrRes Name="2391" Text="چارچوب"/>
+  <StrRes Name="2392" Text="لوحه همترازي"/>
+  <StrRes Name="2393" Text="ابزارهاي اضافه"/>
+  <StrRes Name="2394" Text="کنترلر شيء"/>
+  <StrRes Name="2395" Text="درخت داده"/>
+  <StrRes Name="2396" Text="درخت گزارش"/>
+  <StrRes Name="2397" Text="خط کش ها"/>
+  <StrRes Name="2398" Text="راهنماها"/>
+  <StrRes Name="2399" Text="حذف راهنماها"/>
+  <StrRes Name="2400" Text="گزينه ها..."/>
+  <StrRes Name="2401" Text="راهنما"/>
+  <StrRes Name="2402" Text="محتويات راهنما..."/>
+  <StrRes Name="2403" Text="FastReport درباره..."/>
+  <StrRes Name="2404" Text="جدول ترتيب..."/>
+  <StrRes Name="2405" Text="خنثي کردن"/>
+  <StrRes Name="2406" Text="دوباره انجام دادن"/>
+  <StrRes Name="2407" Text="برش"/>
+  <StrRes Name="2408" Text="رونوشت"/>
+  <StrRes Name="2409" Text="چسباندن"/>
+  <StrRes Name="2410" Text="گروه"/>
+  <StrRes Name="2411" Text="گروه بندي نشده"/>
+  <StrRes Name="2412" Text="حذف"/>
+  <StrRes Name="2413" Text="حذف صفحه"/>
+  <StrRes Name="2414" Text="انتخاب همه"/>
+  <StrRes Name="2415" Text="ويرايش..."/>
+  <StrRes Name="2416" Text="به جلو آوردن"/>
+  <StrRes Name="2417" Text="به پشت فرستادن"/>
+  <StrRes Name="2418" Text="جديد..."/>
+  <StrRes Name="2419" Text="گزارش جديد"/>
+  <StrRes Name="2420" Text="صفحه جديد"/>
+  <StrRes Name="2421" Text="گفتگو جديد"/>
+  <StrRes Name="2422" Text="باز کردن..."/>
+  <StrRes Name="2423" Text="ذخيره"/>
+  <StrRes Name="2424" Text="ذخيره در..."/>
+  <StrRes Name="2425" Text="متغيرها..."/>
+  <StrRes Name="2426" Text="جزئيات صفحه..."/>
+  <StrRes Name="2427" Text="پيش نمايش"/>
+  <StrRes Name="2428" Text="خروج"/>
+  <StrRes Name="2429" Text="عنوان گزارش"/>
+  <StrRes Name="2430" Text="خلاصه گزارش"/>
+  <StrRes Name="2431" Text="سرآمد صفحه"/>
+  <StrRes Name="2432" Text="پاورقي صفحه"/>
+  <StrRes Name="2433" Text="سرآمد"/>
+  <StrRes Name="2434" Text="پاورقي"/>
+  <StrRes Name="2435" Text="داده اصلي"/>
+  <StrRes Name="2436" Text="داده جزئي"/>
+  <StrRes Name="2437" Text="داده زير جزء"/>
+  <StrRes Name="2438" Text="داده سطح 4 ام"/>
+  <StrRes Name="2439" Text="داده سطح 5 ام"/>
+  <StrRes Name="2440" Text="داده سطح 6 ام"/>
+  <StrRes Name="2441" Text="گروه سرآمد"/>
+  <StrRes Name="2442" Text="گروه پاورقي"/>
+  <StrRes Name="2443" Text="فرزند"/>
+  <StrRes Name="2444" Text="سرآمد ستون"/>
+  <StrRes Name="2445" Text="پاورقي ستون"/>
+  <StrRes Name="2446" Text="پوشش"/>
+  <StrRes Name="2447" Text="باندهاي عمودي"/>
+  <StrRes Name="2448" Text="سرآمد"/>
+  <StrRes Name="2449" Text="پاورقي"/>
+  <StrRes Name="2450" Text="داده اصلي"/>
+  <StrRes Name="2451" Text="داده جزئي"/>
+  <StrRes Name="2452" Text="داده زير جزء"/>
+  <StrRes Name="2453" Text="گروه سرآمد"/>
+  <StrRes Name="2454" Text="گروه پاورقي"/>
+  <StrRes Name="2455" Text="فرزند"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="جزئيات فونت"/>
+  <StrRes Name="2462" Text="ضخيم"/>
+  <StrRes Name="2463" Text="مايل"/>
+  <StrRes Name="2464" Text="زيرخط"/>
+  <StrRes Name="2465" Text="بالا نويس"/>
+  <StrRes Name="2466" Text="زير نويس"/>
+  <StrRes Name="2467" Text="فشرده"/>
+  <StrRes Name="2468" Text="عريض"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="گزارش (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="پرونده Pascal (*.pas)|*.pas|پرونده C++ (*.cpp)|*.cpp|پرونده JavaScript (*.js)|*.js|پرونده Basic (*.vb)|*.vb|همه پرونده ها|*.*"/>
+  <StrRes Name="2473" Text="پرونده Pascal (*.pas)|*.pas|پرونده C++ (*.cpp)|*.cpp|پرونده JavaScript (*.js)|*.js|پرونده Basic (*.vb)|*.vb|همه پرونده ها|*.*"/>
+  <StrRes Name="2474" Text="اتصالات..."/>
+  <StrRes Name="2475" Text="زبان"/>
+  <StrRes Name="2476" Text="تغيير وضعيت نقطه توقف"/>
+  <StrRes Name="2477" Text="اجرا تا اشاره گر"/>
+  <StrRes Name="2478" Text="!افزودن باند فرزند"/>
+  <StrRes Name="dsCm" Text="سانتي متر"/>
+  <StrRes Name="dsInch" Text="اينچ"/>
+  <StrRes Name="dsPix" Text="پيکسل"/>
+  <StrRes Name="dsChars" Text="کاراکتر"/>
+  <StrRes Name="dsCode" Text="کد"/>
+  <StrRes Name="dsData" Text="داده"/>
+  <StrRes Name="dsPage" Text="صفحه"/>
+  <StrRes Name="dsRepFilter" Text="گزارش (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="گزارش فشرده (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="تغييرات در صفحه پيش نمايش ذخيره گردد ؟"/>
+  <StrRes Name="dsSaveChangesTo" Text="تغييرات ذخيره گردد در  "/>
+  <StrRes Name="dsCantLoad" Text="نمي توان پرونده را به حافظه منتقل کرد"/>
+  <StrRes Name="dsStyleFile" Text="نما"/>
+  <StrRes Name="dsCantFindProc" Text="رويه اصلي را نميتوان پيدا کرد"/>
+  <StrRes Name="dsClearScript" Text="اين همه کد را پاک ميکند. آيا ميخواهيد ادامه بدهيد ؟"/>
+  <StrRes Name="dsNoStyle" Text="بدون نما"/>
+  <StrRes Name="dsStyleSample" Text="نماي ساده"/>
+  <StrRes Name="dsTextNotFound" Text="پيدا نشد '%s' متن"/>
+  <StrRes Name="dsReplace" Text="؟ '%s' اين مورد تغيير کند به"/>
+  <StrRes Name="2600" Text="FastReport درباره"/>
+  <StrRes Name="2601" Text="براي اطلاع بيشتر از وب سايت ما ديدن کنيد:"/>
+  <StrRes Name="2602" Text="فروش:"/>
+  <StrRes Name="2603" Text="پشتيباني:"/>
+  <StrRes Name="2700" Text="گزينه هاي صفحه"/>
+  <StrRes Name="2701" Text="کاغذ"/>
+  <StrRes Name="2702" Text="پهنا"/>
+  <StrRes Name="2703" Text="ارتفاع"/>
+  <StrRes Name="2704" Text="اندازه"/>
+  <StrRes Name="2705" Text="جهت"/>
+  <StrRes Name="2706" Text="چپ"/>
+  <StrRes Name="2707" Text="بالا"/>
+  <StrRes Name="2708" Text="راست"/>
+  <StrRes Name="2709" Text="پائين"/>
+  <StrRes Name="2710" Text="حاشيه ها"/>
+  <StrRes Name="2711" Text="منبع کاغذ"/>
+  <StrRes Name="2712" Text="صفحه اول"/>
+  <StrRes Name="2713" Text="صفحات ديگر"/>
+  <StrRes Name="2714" Text="لبه بلند عمودي"/>
+  <StrRes Name="2715" Text="لبه بلند افقي"/>
+  <StrRes Name="2716" Text="گزينه هاي ديگر"/>
+  <StrRes Name="2717" Text="ستونها"/>
+  <StrRes Name="2718" Text="تعداد"/>
+  <StrRes Name="2719" Text="پهنا"/>
+  <StrRes Name="2720" Text="موقعيت"/>
+  <StrRes Name="2721" Text="ديگر"/>
+  <StrRes Name="2722" Text="دو طرفه"/>
+  <StrRes Name="2723" Text="چاپ در صفحه قبلي"/>
+  <StrRes Name="2724" Text="حاشيه ها آئينه اي"/>
+  <StrRes Name="2725" Text="ارتفاع زياد در حالت طراحي"/>
+  <StrRes Name="2726" Text="پهناي صفحه بي پايان"/>
+  <StrRes Name="2727" Text="ارتفاع صفحه بي پايان"/>
+  <StrRes Name="2800" Text="انتخاب جدول داده هاي گزارش"/>
+  <StrRes Name="2900" Text="ويرايش متغيرها"/>
+  <StrRes Name="2901" Text="دسته"/>
+  <StrRes Name="2902" Text="متغير"/>
+  <StrRes Name="2903" Text="ويرايش"/>
+  <StrRes Name="2904" Text="حدف"/>
+  <StrRes Name="2905" Text="ليست"/>
+  <StrRes Name="2906" Text="انتقال به حافظه"/>
+  <StrRes Name="2907" Text="ذخيره"/>
+  <StrRes Name="2908" Text="عبارت:"/>
+  <StrRes Name="2909" Text="فرهنگ لغت (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="فرهنگ لغت (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(متغيري تعريف نشده)"/>
+  <StrRes Name="vaVar" Text="متغيرها"/>
+  <StrRes Name="vaDupName" Text="نام تکراري"/>
+  <StrRes Name="3000" Text="گزينه هاي طراح"/>
+  <StrRes Name="3001" Text="شبکه اي"/>
+  <StrRes Name="3002" Text="نوع"/>
+  <StrRes Name="3003" Text="اندازه"/>
+  <StrRes Name="3004" Text="فرم گفتگو:"/>
+  <StrRes Name="3005" Text="ديگر"/>
+  <StrRes Name="3006" Text="فونتها"/>
+  <StrRes Name="3007" Text="پنجره کد"/>
+  <StrRes Name="3008" Text="ويرايشگر يادداشت"/>
+  <StrRes Name="3009" Text="اندازه"/>
+  <StrRes Name="3010" Text="اندازه"/>
+  <StrRes Name="3011" Text="رنگها"/>
+  <StrRes Name="3012" Text="فاصله بين باندها:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="سانتيمتر:"/>
+  <StrRes Name="3019" Text="اينچ:"/>
+  <StrRes Name="3020" Text="پيکسل:"/>
+  <StrRes Name="3021" Text="نمايش شبکه اي"/>
+  <StrRes Name="3022" Text="همترازي با شبکه"/>
+  <StrRes Name="3023" Text="نمايش ويرايشگر بعد از درج"/>
+  <StrRes Name="3024" Text="استفاده از جزئيات فونت شيء"/>
+  <StrRes Name="3025" Text="فضاي کاري"/>
+  <StrRes Name="3026" Text="پنجره هاي ابزار"/>
+  <StrRes Name="3027" Text="LCD رنگ شبکه"/>
+  <StrRes Name="3028" Text="قرار دادن باندهاي آزاد"/>
+  <StrRes Name="3029" Text="نمايش فيلدها در ليست"/>
+  <StrRes Name="3030" Text="نمايش صفحه شروع"/>
+  <StrRes Name="3031" Text="وضعيت قراردادي"/>
+  <StrRes Name="3032" Text="نمايش عنوان باند"/>
+  <StrRes Name="3100" Text="انتخاب جدول داده"/>
+  <StrRes Name="3101" Text="تعداد پرونده:"/>
+  <StrRes Name="dbNotAssigned" Text="[تعيين نشده]"/>
+  <StrRes Name="3200" Text="گروه"/>
+  <StrRes Name="3201" Text="تفکيک روي"/>
+  <StrRes Name="3202" Text="گزينه ها"/>
+  <StrRes Name="3203" Text="فيلد داده"/>
+  <StrRes Name="3204" Text="عبارت"/>
+  <StrRes Name="3205" Text="نگه داشتن گروه باهم"/>
+  <StrRes Name="3206" Text="شروع صفحه جديد"/>
+  <StrRes Name="3207" Text="نمايش در کنترلر زمينه"/>
+  <StrRes Name="3300" Text="يادداشت سيستم"/>
+  <StrRes Name="3301" Text="باند داده"/>
+  <StrRes Name="3302" Text="جدول داده"/>
+  <StrRes Name="3303" Text="فيلد داده"/>
+  <StrRes Name="3304" Text="تابع"/>
+  <StrRes Name="3305" Text="عبارت"/>
+  <StrRes Name="3306" Text="مقدار تابع محاسباتي"/>
+  <StrRes Name="3307" Text="متغير سيستمي"/>
+  <StrRes Name="3308" Text="شماره باند نامرئي"/>
+  <StrRes Name="3309" Text="متن"/>
+  <StrRes Name="3310" Text="کارکرد کل"/>
+  <StrRes Name="agAggregate" Text="درج تابع محاسباتي"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] of [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE شيء"/>
+  <StrRes Name="3401" Text="درج..."/>
+  <StrRes Name="3402" Text="ويرايش..."/>
+  <StrRes Name="3403" Text="بستن"/>
+  <StrRes Name="olStretched" Text="کشيده شده"/>
+  <StrRes Name="3500" Text="ويرايشگر بارکد"/>
+  <StrRes Name="3501" Text="کد"/>
+  <StrRes Name="3502" Text="نوع ميله"/>
+  <StrRes Name="3503" Text="بزرگنمائي:"/>
+  <StrRes Name="3504" Text="گزينه ها"/>
+  <StrRes Name="3505" Text="چرخش"/>
+  <StrRes Name="3506" Text="محاسبه صحت داده"/>
+  <StrRes Name="3507" Text="متن"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="محاسبه صحت داده"/>
+  <StrRes Name="bcShowText" Text="نمايش متن"/>
+  <StrRes Name="3600" Text="ويرايش نام مستعار"/>
+  <StrRes Name="3601" Text="را فشار دهيد Enter براي ويرايش فقره کليد"/>
+  <StrRes Name="3602" Text="نام مستعار جدول داده"/>
+  <StrRes Name="3603" Text="فيلد نام مستعار"/>
+  <StrRes Name="3604" Text="برگرداندن"/>
+  <StrRes Name="3605" Text="به روز درآوردن"/>
+  <StrRes Name="alUserName" Text="نام کاربر"/>
+  <StrRes Name="alOriginal" Text="نام اصلي"/>
+  <StrRes Name="3700" Text="ويرايشگر پارامترها"/>
+  <StrRes Name="qpName" Text="نام"/>
+  <StrRes Name="qpDataType" Text="نوع داده"/>
+  <StrRes Name="qpValue" Text="مقدار"/>
+  <StrRes Name="3800" Text="پيوند اصلي - جزئي"/>
+  <StrRes Name="3801" Text="فيلد جزئي"/>
+  <StrRes Name="3802" Text="فيلد اصلي"/>
+  <StrRes Name="3803" Text="فيلد پيوندي"/>
+  <StrRes Name="3804" Text="افزودن"/>
+  <StrRes Name="3805" Text="پاک کردن"/>
+  <StrRes Name="3900" Text="يادداشت"/>
+  <StrRes Name="3901" Text="درج عبارت"/>
+  <StrRes Name="3902" Text="درج تابع محاسباتي"/>
+  <StrRes Name="3903" Text="درج قالب بندي"/>
+  <StrRes Name="3904" Text="سطر بندي"/>
+  <StrRes Name="3905" Text="متن"/>
+  <StrRes Name="3906" Text="قالب بندي"/>
+  <StrRes Name="3907" Text="پررنگ"/>
+  <StrRes Name="4000" Text="تصوير"/>
+  <StrRes Name="4001" Text="انتقال به حافظه"/>
+  <StrRes Name="4002" Text="رونوشت"/>
+  <StrRes Name="4003" Text="چسباندن"/>
+  <StrRes Name="4004" Text="پاک کردن"/>
+  <StrRes Name="piEmpty" Text="خالي"/>
+  <StrRes Name="4100" Text="ويرايشگر نمودار"/>
+  <StrRes Name="4101" Text="افزودن مجموعه"/>
+  <StrRes Name="4102" Text="حذف مجموعه"/>
+  <StrRes Name="4103" Text="ويرايش نمودار"/>
+  <StrRes Name="4104" Text="باند منبع"/>
+  <StrRes Name="4105" Text="داده ثابت"/>
+  <StrRes Name="4106" Text="جدول داده"/>
+  <StrRes Name="4107" Text="منبع داده"/>
+  <StrRes Name="4108" Text="مقادير"/>
+  <StrRes Name="4109" Text="از سري نمودارها انتخاب کنيد يا يک نمودار جديد اضافه کنيد"/>
+  <StrRes Name="4114" Text="گزينه هاي ديگر"/>
+  <StrRes Name="4115" Text="مقدار بالا N"/>
+  <StrRes Name="4116" Text="عنوان بالا N"/>
+  <StrRes Name="4117" Text="جهت مرتب سازي"/>
+  <StrRes Name="4126" Text="X محور"/>
+  <StrRes Name="ch3D" Text="3D نمايش"/>
+  <StrRes Name="chAxis" Text="نمايش محور"/>
+  <StrRes Name="chsoNone" Text="هيچکدام"/>
+  <StrRes Name="chsoAscending" Text="صعودي"/>
+  <StrRes Name="chsoDescending" Text="نزولي"/>
+  <StrRes Name="chxtText" Text="متن"/>
+  <StrRes Name="chxtNumber" Text="عددي"/>
+  <StrRes Name="chxtDate" Text="تاريخ"/>
+  <StrRes Name="4200" Text="ويرايشگر توانگر"/>
+  <StrRes Name="4201" Text="بازکردن پرونده"/>
+  <StrRes Name="4202" Text="ذخيره پرونده"/>
+  <StrRes Name="4203" Text="خنثي کردن"/>
+  <StrRes Name="4204" Text="فونت"/>
+  <StrRes Name="4205" Text="درج عبارت"/>
+  <StrRes Name="4206" Text="ضخيم"/>
+  <StrRes Name="4207" Text="مايل"/>
+  <StrRes Name="4208" Text="زيرخط"/>
+  <StrRes Name="4209" Text="همترازي از چپ"/>
+  <StrRes Name="4210" Text="همترازي در وسط"/>
+  <StrRes Name="4211" Text="همترازي از راست"/>
+  <StrRes Name="4212" Text="حاشيه مستقيم"/>
+  <StrRes Name="4213" Text="علامت"/>
+  <StrRes Name="4300" Text="ويرايشگر جدول ستوني"/>
+  <StrRes Name="4301" Text="منبع داده"/>
+  <StrRes Name="4302" Text="ابعاد"/>
+  <StrRes Name="4303" Text="سطرها"/>
+  <StrRes Name="4304" Text="ستونها"/>
+  <StrRes Name="4305" Text="سلولها"/>
+  <StrRes Name="4306" Text="ساختار جدول ستوني"/>
+  <StrRes Name="4307" Text="سرآمد سطر"/>
+  <StrRes Name="4308" Text="سرآمد ستون"/>
+  <StrRes Name="4309" Text="جمع کل سطر"/>
+  <StrRes Name="4310" Text="جمع کل ستون"/>
+  <StrRes Name="4311" Text="عوض کردن سطرها/ستونها"/>
+  <StrRes Name="4312" Text="نماي جدول ستوني"/>
+  <StrRes Name="4313" Text="جزئيات فونت"/>
+  <StrRes Name="4314" Text="همترازي از چپ"/>
+  <StrRes Name="4315" Text="همترازي در وسط"/>
+  <StrRes Name="4316" Text="همترازي از راست"/>
+  <StrRes Name="4317" Text="چرخش متن"/>
+  <StrRes Name="4318" Text="پررنگ"/>
+  <StrRes Name="4319" Text="قالب"/>
+  <StrRes Name="4320" Text="جزئيات چارچوب"/>
+  <StrRes Name="4321" Text="پر کردن با رنگ"/>
+  <StrRes Name="4322" Text="هيچکدام"/>
+  <StrRes Name="4323" Text="جمع"/>
+  <StrRes Name="4324" Text="کوچکترين"/>
+  <StrRes Name="4325" Text="بزرگترين"/>
+  <StrRes Name="4326" Text="ميانگين"/>
+  <StrRes Name="4327" Text="شمارش"/>
+  <StrRes Name="4328" Text="(صعودي (آ-ي"/>
+  <StrRes Name="4329" Text="(نزولي (ي-آ"/>
+  <StrRes Name="4330" Text="بدون مرتب سازي"/>
+  <StrRes Name="4331" Text="ضخيم"/>
+  <StrRes Name="4332" Text="مايل"/>
+  <StrRes Name="4333" Text="زيرخط"/>
+  <StrRes Name="4334" Text="بالا نويس"/>
+  <StrRes Name="4335" Text="زير نويس"/>
+  <StrRes Name="4336" Text="فشرده"/>
+  <StrRes Name="4337" Text="عريض"/>
+  <StrRes Name="4338" Text="12 cpi"/>
+  <StrRes Name="4339" Text="15 cpi"/>
+  <StrRes Name="crStName" Text="!نام نما را وارد کنید:"/>
+  <StrRes Name="crResize" Text="!برای تغییر اندازه جدول ستونی، خصیصه 'AutoSize' را نادرست کنید."/>
+  <StrRes Name="crSubtotal" Text="زير جمع"/>
+  <StrRes Name="crNone" Text="هيچکدام"/>
+  <StrRes Name="crSum" Text="جمع"/>
+  <StrRes Name="crMin" Text="کوچکترين"/>
+  <StrRes Name="crMax" Text="بزرگترين"/>
+  <StrRes Name="crAvg" Text="ميانگين"/>
+  <StrRes Name="crCount" Text="شمارش"/>
+  <StrRes Name="crAsc" Text="آ-ي"/>
+  <StrRes Name="crDesc" Text="ي-آ"/>
+  <StrRes Name="4400" Text="ويرايشگر عبارت"/>
+  <StrRes Name="4401" Text="عبارت:"/>
+  <StrRes Name="4500" Text="نمايش فالب"/>
+  <StrRes Name="4501" Text="دسته"/>
+  <StrRes Name="4502" Text="قالب"/>
+  <StrRes Name="4503" Text="رشته قالب:"/>
+  <StrRes Name="4504" Text="جداساز ده دهي:"/>
+  <StrRes Name="fkText" Text="(متن (بدون قالب بندي"/>
+  <StrRes Name="fkNumber" Text="عدد"/>
+  <StrRes Name="fkDateTime" Text="تاريخ/زمان"/>
+  <StrRes Name="fkBoolean" Text="منطقي"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="بله,نه;بله,نه"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="درست,نادرست;درست,نادرست"/>
+  <StrRes Name="4600" Text="پررنگ"/>
+  <StrRes Name="4601" Text="رنگ..."/>
+  <StrRes Name="4602" Text="رنگ..."/>
+  <StrRes Name="4603" Text="حالت"/>
+  <StrRes Name="4604" Text="فونت"/>
+  <StrRes Name="4605" Text="زمينه"/>
+  <StrRes Name="4606" Text="ضخيم"/>
+  <StrRes Name="4607" Text="مايل"/>
+  <StrRes Name="4608" Text="زيرخط"/>
+  <StrRes Name="4609" Text="شفاف"/>
+  <StrRes Name="4610" Text="ديگر"/>
+  <StrRes Name="4700" Text="جزئيات گزارش"/>
+  <StrRes Name="4701" Text="عمومي"/>
+  <StrRes Name="4702" Text="جزئيات چاپگر"/>
+  <StrRes Name="4703" Text="رونشت ها"/>
+  <StrRes Name="4704" Text="عمومي"/>
+  <StrRes Name="4705" Text="کلمه رمز"/>
+  <StrRes Name="4706" Text="تلفيق رونوشت ها"/>
+  <StrRes Name="4707" Text="گذر مضاعف"/>
+  <StrRes Name="4708" Text="چاپ اگر خالي بود"/>
+  <StrRes Name="4709" Text="شرح"/>
+  <StrRes Name="4710" Text="نام"/>
+  <StrRes Name="4711" Text="شرح"/>
+  <StrRes Name="4712" Text="تصوير"/>
+  <StrRes Name="4713" Text="مولف"/>
+  <StrRes Name="4714" Text="عمده"/>
+  <StrRes Name="4715" Text="کمتر"/>
+  <StrRes Name="4716" Text="نهائي"/>
+  <StrRes Name="4717" Text="ساخت"/>
+  <StrRes Name="4718" Text="ايجاد شده"/>
+  <StrRes Name="4719" Text="اصلاح شده"/>
+  <StrRes Name="4720" Text="شرح"/>
+  <StrRes Name="4721" Text="نسخه"/>
+  <StrRes Name="4722" Text="دستيابي..."/>
+  <StrRes Name="4723" Text="جزئيات ارث بري"/>
+  <StrRes Name="4724" Text="انتخاب گزينه:"/>
+  <StrRes Name="4725" Text="تغيير نکرد"/>
+  <StrRes Name="4726" Text="جداسازي گزارش اصلي"/>
+  <StrRes Name="4727" Text="ارث بردن از گزارش اصلي:"/>
+  <StrRes Name="4728" Text="ارث بري"/>
+  <StrRes Name="rePrnOnPort" Text="روي"/>
+  <StrRes Name="riNotInherited" Text="اين گزارش موروثي نيست."/>
+  <StrRes Name="riInherited" Text="اين گزارش از گزارش اصلي ارث برده: %s"/>
+  <StrRes Name="4800" Text="خطوط"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="سازنده پرس و جو"/>
+  <StrRes Name="5000" Text="کلمه رمز"/>
+  <StrRes Name="5001" Text="کلمه رمز را وارد کنيد:"/>
+  <StrRes Name="5100" Text="ويرايشگر نما"/>
+  <StrRes Name="5101" Text="رنگ..."/>
+  <StrRes Name="5102" Text="فونت..."/>
+  <StrRes Name="5103" Text="چارچوب..."/>
+  <StrRes Name="5104" Text="افزودن"/>
+  <StrRes Name="5105" Text="حذف"/>
+  <StrRes Name="5106" Text="ويرايش"/>
+  <StrRes Name="5107" Text="انتقال به حافظه"/>
+  <StrRes Name="5108" Text="ذخيره"/>
+  <StrRes Name="5200" Text="ويرايشگر چارچوب"/>
+  <StrRes Name="5201" Text="چارچوب"/>
+  <StrRes Name="5202" Text="خط چارچوب"/>
+  <StrRes Name="5203" Text="سايه"/>
+  <StrRes Name="5204" Text="خط بالا"/>
+  <StrRes Name="5205" Text="خط پائين"/>
+  <StrRes Name="5206" Text="خط چپ"/>
+  <StrRes Name="5207" Text="خط راست"/>
+  <StrRes Name="5208" Text="همه خطوط چارچوب"/>
+  <StrRes Name="5209" Text="بدون چارچوب"/>
+  <StrRes Name="5210" Text="رنگ چارچوب"/>
+  <StrRes Name="5211" Text="نماي چارچوب"/>
+  <StrRes Name="5212" Text="پهناي چارچوب"/>
+  <StrRes Name="5213" Text="سايه"/>
+  <StrRes Name="5214" Text="رنگ سايه"/>
+  <StrRes Name="5215" Text="پهناي سايه"/>
+  <StrRes Name="5300" Text="فقره جديد"/>
+  <StrRes Name="5301" Text="اقلام"/>
+  <StrRes Name="5302" Text="الگوها"/>
+  <StrRes Name="5303" Text="گزارش موروثي"/>
+  <StrRes Name="5400" Text="جدول ترتيب"/>
+  <StrRes Name="5401" Text="اشياء ليست شده در جدول ترتيب:"/>
+  <StrRes Name="5402" Text="حرکت به بالا"/>
+  <StrRes Name="5403" Text="حرکت به پائين"/>
+  <StrRes Name="5500" Text="ارزيابي"/>
+  <StrRes Name="5501" Text="عبارت"/>
+  <StrRes Name="5502" Text="نتيجه"/>
+  <StrRes Name="5600" Text="جادوگر گزارش"/>
+  <StrRes Name="5601" Text="داده"/>
+  <StrRes Name="5602" Text="فيلدها"/>
+  <StrRes Name="5603" Text="گروهها"/>
+  <StrRes Name="5604" Text="طرح"/>
+  <StrRes Name="5605" Text="نما"/>
+  <StrRes Name="5606" Text=".گام 1. انتخاب جدول داده"/>
+  <StrRes Name="5607" Text=".گام 2. انتخاب فيلد براي نشان دادن"/>
+  <StrRes Name="5608" Text=".(گام 3. ايجاد گروه (اختياري"/>
+  <StrRes Name="5609" Text=".گام 4. تعيين جهت صفحه و طرح داده"/>
+  <StrRes Name="5610" Text=".گام 5. انتخاب نماي گزارش"/>
+  <StrRes Name="5611" Text="افزودن &#62;"/>
+  <StrRes Name="5612" Text="افزودن همه &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; حذف"/>
+  <StrRes Name="5614" Text="&#60;&#60; حذف همه"/>
+  <StrRes Name="5615" Text="افزودن &#62;"/>
+  <StrRes Name="5616" Text="&#60; حذف"/>
+  <StrRes Name="5617" Text="فيلدهاي انتخاب شده:"/>
+  <StrRes Name="5618" Text="فيلدهاي در دسترس:"/>
+  <StrRes Name="5619" Text="گروهها:"/>
+  <StrRes Name="5620" Text="جهت"/>
+  <StrRes Name="5621" Text="طرح"/>
+  <StrRes Name="5622" Text="لبه بلند عمودي"/>
+  <StrRes Name="5623" Text="لبه بلند افقي"/>
+  <StrRes Name="5624" Text="جدولي"/>
+  <StrRes Name="5625" Text="ستوني"/>
+  <StrRes Name="5626" Text="جا سازي فيلدها در پهناي صفحه"/>
+  <StrRes Name="5627" Text="&#60;&#60; قبلي"/>
+  <StrRes Name="5628" Text="بعدي &#62;&#62;"/>
+  <StrRes Name="5629" Text="پايان"/>
+  <StrRes Name="5630" Text="جدول جديد..."/>
+  <StrRes Name="5631" Text="پرس وجو جديد..."/>
+  <StrRes Name="5632" Text="انتخاب اتصال بانک اطلاعاتي:"/>
+  <StrRes Name="5633" Text="انتخاب جدول:"/>
+  <StrRes Name="5634" Text="يا"/>
+  <StrRes Name="5635" Text="انتخاب پرس وجو..."/>
+  <StrRes Name="5636" Text="تنظيمات اتصال"/>
+  <StrRes Name="wzStd" Text="جادوگر گزارش استاندارد"/>
+  <StrRes Name="wzDMP" Text="جادوگر گزارش چاپگر سوزني"/>
+  <StrRes Name="wzStdEmpty" Text="گزارش استاندارد"/>
+  <StrRes Name="wzDMPEmpty" Text="گزارش چاپگر سوزني"/>
+  <StrRes Name="5700" Text="جادوگر اتصال"/>
+  <StrRes Name="5701" Text="اتصال"/>
+  <StrRes Name="5702" Text="نوع اتصال را انتخاب کنيد:"/>
+  <StrRes Name="5703" Text="بانک اطلاعاتي را انتخاب کنيد:"/>
+  <StrRes Name="5704" Text="کاربر"/>
+  <StrRes Name="5705" Text="کلمه رمز"/>
+  <StrRes Name="5706" Text="اعلان ورود"/>
+  <StrRes Name="5707" Text="استفاده کاربر/کلمه رمز:"/>
+  <StrRes Name="5708" Text="جدول"/>
+  <StrRes Name="5709" Text="نام جدول را انتخاب کنيد:"/>
+  <StrRes Name="5710" Text="فيلتر رکوردها:"/>
+  <StrRes Name="5711" Text="پرس و جو"/>
+  <StrRes Name="5712" Text="SQL دستورات:"/>
+  <StrRes Name="5713" Text="سازنده پرس و جو"/>
+  <StrRes Name="5714" Text="ويرايش پارامترهاي پرس و جو"/>
+  <StrRes Name="ftAllFiles" Text="همه پرونده ها"/>
+  <StrRes Name="ftPictures" Text="تصاوير"/>
+  <StrRes Name="ftDB" Text="بانک اطلاعاتي"/>
+  <StrRes Name="ftRichFile" Text="پرونده RichText"/>
+  <StrRes Name="ftTextFile" Text="پرونده Text"/>
+  <StrRes Name="prNotAssigned" Text="(بکار نرفته)"/>
+  <StrRes Name="prInvProp" Text="مقدار نادرست خصوصيت"/>
+  <StrRes Name="prDupl" Text="نام تکراري"/>
+  <StrRes Name="prPict" Text="(تصوير)"/>
+  <StrRes Name="mvExpr" Text="پذيرفتن عبارت"/>
+  <StrRes Name="mvStretch" Text="کشيدن"/>
+  <StrRes Name="mvStretchToMax" Text="کشيدن تا بيشترين ارتفاع"/>
+  <StrRes Name="mvShift" Text="تغيير مکان"/>
+  <StrRes Name="mvShiftOver" Text="تغيير مکان هنگام رويهم افتادن"/>
+  <StrRes Name="mvVisible" Text="مرئي"/>
+  <StrRes Name="mvPrintable" Text="قابل چاپ"/>
+  <StrRes Name="mvFont" Text="فونت..."/>
+  <StrRes Name="mvFormat" Text="نمايش قالب..."/>
+  <StrRes Name="mvClear" Text="پاک کردن محتويات"/>
+  <StrRes Name="mvAutoWidth" Text="تنظيم خودکار پهنا"/>
+  <StrRes Name="mvWWrap" Text="سطر بندي"/>
+  <StrRes Name="mvSuppress" Text="مانع شدن از مقادير تکراري"/>
+  <StrRes Name="mvHideZ" Text="مخفي کردن صفرها"/>
+  <StrRes Name="mvHTML" Text="HTML پذيرفتن برچسب"/>
+  <StrRes Name="lvDiagonal" Text="اريب"/>
+  <StrRes Name="pvAutoSize" Text="تنظيم خودکار اندازه"/>
+  <StrRes Name="pvCenter" Text="وسط"/>
+  <StrRes Name="pvAspect" Text="نگاه داشتن نسبت نمود"/>
+  <StrRes Name="bvSplit" Text="پذيرفتن تفکيک"/>
+  <StrRes Name="bvKeepChild" Text="نگاه داشتن فرزند باهم"/>
+  <StrRes Name="bvPrintChild" Text="چاپ فرزند در صورت نامرئي بودن"/>
+  <StrRes Name="bvStartPage" Text="شروع صفحه جديد"/>
+  <StrRes Name="bvPrintIfEmpty" Text="چاپ در صورت خالي بودن جزئيات"/>
+  <StrRes Name="bvKeepDetail" Text="نگاه داشتن جزئيات باهم"/>
+  <StrRes Name="bvKeepFooter" Text="نگاه داشتن پاورقي باهم"/>
+  <StrRes Name="bvReprint" Text="چاپ دوباره در صفحه جديد"/>
+  <StrRes Name="bvOnFirst" Text="چاپ در صفحه اول"/>
+  <StrRes Name="bvOnLast" Text="چاپ در صفحه آخر"/>
+  <StrRes Name="bvKeepGroup" Text="نگاه داشتن باهم"/>
+  <StrRes Name="bvFooterAfterEach" Text="پارقي بعد از هر سطر"/>
+  <StrRes Name="bvDrillDown" Text="تو در تو"/>
+  <StrRes Name="bvResetPageNo" Text="راه اندازي مجدد شماره صفحه"/>
+  <StrRes Name="srParent" Text="چاپ روي پدر"/>
+  <StrRes Name="bvKeepHeader" Text="نگاه داشتن سرآمد باهم"/>
+  <StrRes Name="obCatDraw" Text="رسم"/>
+  <StrRes Name="obCatOther" Text="اشياء ديگر"/>
+  <StrRes Name="obCatOtherControls" Text="کنترلهاي ديگر"/>
+  <StrRes Name="obDiagLine" Text="خط اريب"/>
+  <StrRes Name="obRect" Text="چهارگوش"/>
+  <StrRes Name="obRoundRect" Text="چهارگوش لبه گرد"/>
+  <StrRes Name="obEllipse" Text="بيضي"/>
+  <StrRes Name="obTrian" Text="مثلث"/>
+  <StrRes Name="obDiamond" Text="لوزي"/>
+  <StrRes Name="obLabel" Text="کنترل برچسب"/>
+  <StrRes Name="obEdit" Text="کنترل ويرايش"/>
+  <StrRes Name="obMemoC" Text="کنترل ياداشت"/>
+  <StrRes Name="obButton" Text="کنترل تکمه"/>
+  <StrRes Name="obChBoxC" Text="کنترل جعبه انتخاب"/>
+  <StrRes Name="obRButton" Text="کنترل تکمه راديوئي"/>
+  <StrRes Name="obLBox" Text="کنترل جعبه ليست"/>
+  <StrRes Name="obCBox" Text="کنترل جعبه پائين افتادني"/>
+  <StrRes Name="obDateEdit" Text="کنترل ويرايش تاريخ"/>
+  <StrRes Name="obImageC" Text="کنترل تصوير"/>
+  <StrRes Name="obPanel" Text="کنترل صفحه"/>
+  <StrRes Name="obGrBox" Text="کنترل جعبه گروه"/>
+  <StrRes Name="obBBtn" Text="کنترل تکمه تصويري"/>
+  <StrRes Name="obSBtn" Text="کنترل تکمه سريع"/>
+  <StrRes Name="obMEdit" Text="کنترل ويرايشگر ماسک"/>
+  <StrRes Name="obChLB" Text="کنترل ليست جعبه انتخاب"/>
+  <StrRes Name="obDBLookup" Text="کنترل جعبه پائين افتادني بانک اطلاعاتي"/>
+  <StrRes Name="obBevel" Text="شيء گونيا"/>
+  <StrRes Name="obShape" Text="شيء شکل"/>
+  <StrRes Name="obText" Text="شيء متن"/>
+  <StrRes Name="obSysText" Text="متن سيستمي"/>
+  <StrRes Name="obLine" Text="شيء خط"/>
+  <StrRes Name="obPicture" Text="شيء تصوير"/>
+  <StrRes Name="obBand" Text="شيء باند"/>
+  <StrRes Name="obDataBand" Text="باند داده"/>
+  <StrRes Name="obSubRep" Text="شيء زير گزارش"/>
+  <StrRes Name="obDlgPage" Text="فرم گفتگو"/>
+  <StrRes Name="obRepPage" Text="صفحه گزارش"/>
+  <StrRes Name="obReport" Text="شيء گزارش"/>
+  <StrRes Name="obRich" Text="شيء متني غني"/>
+  <StrRes Name="obOLE" Text="OLE شيء"/>
+  <StrRes Name="obChBox" Text="شيء جعبه انتخاب"/>
+  <StrRes Name="obChart" Text="شيء نمودار"/>
+  <StrRes Name="obBarC" Text="شيء بارکد"/>
+  <StrRes Name="obCross" Text="شيء جدول ستوني"/>
+  <StrRes Name="obDBCross" Text="شيء جدول ستوني بانک اطلاعاتي"/>
+  <StrRes Name="obGrad" Text="شيء مدرج"/>
+  <StrRes Name="obDMPText" Text="شيء متني چاپگر سوزني"/>
+  <StrRes Name="obDMPLine" Text="شيء خطي چاپگر سوزني"/>
+  <StrRes Name="obDMPCmd" Text="شيء دستور چاپگر سوزني"/>
+  <StrRes Name="obBDEDB" Text="BDE بانک اطلاعاتي"/>
+  <StrRes Name="obBDETb" Text="BDE جدول"/>
+  <StrRes Name="obBDEQ" Text="BDE پرس و جو"/>
+  <StrRes Name="obBDEComps" Text="BDE اجزاء"/>
+  <StrRes Name="obIBXDB" Text="IBX بانک اطلاعاتي"/>
+  <StrRes Name="obIBXTb" Text="IBX جدول"/>
+  <StrRes Name="obIBXQ" Text="IBX پرس و جو"/>
+  <StrRes Name="obIBXComps" Text="IBX اجزاء"/>
+  <StrRes Name="obADODB" Text="ADO بانک اطلاعاتي"/>
+  <StrRes Name="obADOTb" Text="ADO جدول"/>
+  <StrRes Name="obADOQ" Text="ADO پرس و جو"/>
+  <StrRes Name="obADOComps" Text="ADO اجزاء"/>
+  <StrRes Name="obDBXDB" Text="DBX بانک اطلاعاتي"/>
+  <StrRes Name="obDBXTb" Text="DBX جدول"/>
+  <StrRes Name="obDBXQ" Text="DBX پرس و جو"/>
+  <StrRes Name="obDBXComps" Text="DBX اجزاء"/>
+  <StrRes Name="obFIBDB" Text="FIB بانک اطلاعاتي"/>
+  <StrRes Name="obFIBTb" Text="FIB جدول"/>
+  <StrRes Name="obFIBQ" Text="FIB پرس و جو"/>
+  <StrRes Name="obFIBComps" Text="FIB اجزاء"/>
+  <StrRes Name="ctString" Text="رشته"/>
+  <StrRes Name="ctDate" Text="تاريخ و زمان"/>
+  <StrRes Name="ctConv" Text="تبديل"/>
+  <StrRes Name="ctFormat" Text="قالب بندي"/>
+  <StrRes Name="ctMath" Text="رياضي"/>
+  <StrRes Name="ctOther" Text="ديگر"/>
+  <StrRes Name="IntToStr" Text="تبديل يک مقدار عددي به رشته"/>
+  <StrRes Name="FloatToStr" Text="تبديل يک مقدار اعشاري به رشته"/>
+  <StrRes Name="DateToStr" Text="تبديل يک مقدار تاريخ به رشته"/>
+  <StrRes Name="TimeToStr" Text="تبديل يک مقدار زمان به رشته"/>
+  <StrRes Name="DateTimeToStr" Text="تبديل يک مقدار تاريخ و زمان به رشته"/>
+  <StrRes Name="VarToStr" Text="تبديل يک مقدار گوناگون به رشته"/>
+  <StrRes Name="StrToInt" Text="تبديل يک رشته به مقدار عددي"/>
+  <StrRes Name="StrToInt64" Text="تغییر رشته به عدد صحیح 64 بیتی"/>
+  <StrRes Name="StrToFloat" Text="تبديل يک رشته به مقدار اعشاري"/>
+  <StrRes Name="StrToDate" Text="تبديل يک رشته به قالب تاريخ"/>
+  <StrRes Name="StrToTime" Text="تبديل يک رشته به قالب زمان"/>
+  <StrRes Name="StrToDateTime" Text="تبديل يک رشته به قالب تاريخ و زمان"/>
+  <StrRes Name="Format" Text="يک رشته قالب بندي شده از مجموعه آرگومانهاي يک آرايه را برمي گرداند"/>
+  <StrRes Name="FormatFloat" Text="قالب بندي يک مقدار اعشاري"/>
+  <StrRes Name="FormatDateTime" Text="قالب بندي يک مقدار تاريخ و زمان"/>
+  <StrRes Name="FormatMaskText" Text="رشته قالب بندي شده ويرايش ماسک را برمي گرداند"/>
+  <StrRes Name="EncodeDate" Text="براي مقادير تعيين شده سال, ماه و روز بر مي کرداند TDateTime يک شيء"/>
+  <StrRes Name="DecodeDate" Text="را به مقادير سال, ماه و روز تفکيک ميکند TDateTime شيء"/>
+  <StrRes Name="EncodeTime" Text="براي مقادير تعيين شده ساعت, دقيقه, ثانيه و ميلي ثانيه بر مي کرداند TDateTime يک شيء"/>
+  <StrRes Name="DecodeTime" Text="را به مقادير ساعت, دقيقه, ثانيه و ميلي ثانيه تفکيک ميکند TDateTime شيء"/>
+  <StrRes Name="Date" Text="تاريخ جاري را بر مي گرداند"/>
+  <StrRes Name="Time" Text="زمان جاري را بر مي گرداند"/>
+  <StrRes Name="Now" Text="تاريخ و زمان جاري را بر مي گرداند"/>
+  <StrRes Name="DayOfWeek" Text="روز هفته را براي يک تاريخ معين برمي گرداند"/>
+  <StrRes Name="IsLeapYear" Text="تعيين ميکند آيا سال مشخص شده سال کبيسه است"/>
+  <StrRes Name="DaysInMonth" Text="تعداد روزهاي ماه تعيين شده را برمي گرداند"/>
+  <StrRes Name="Length" Text="طول رشته را برمي گرداند"/>
+  <StrRes Name="Copy" Text="يک زير رشته از رشته را برمي گرداند"/>
+  <StrRes Name="Pos" Text="موقعيت يک زيررشته در رشته برمي گرداند"/>
+  <StrRes Name="Delete" Text="يک زير رشته از رشته را حذف ميکند"/>
+  <StrRes Name="Insert" Text="يک زير رشته در رشته درج ميکند"/>
+  <StrRes Name="Uppercase" Text="تمام کاراکترها در رشته را به حروف بزرگ تبديل ميکند"/>
+  <StrRes Name="Lowercase" Text="تمام کاراکترها در رشته را به حروف کوچک تبديل ميکند"/>
+  <StrRes Name="Trim" Text="تمام فضاي خالي در رشته را حذف ميکند"/>
+  <StrRes Name="NameCase" Text="کاراکتر اول يک کلمه را به حرف بزرگ تبديل ميکند"/>
+  <StrRes Name="CompareText" Text="دو رشته را مقايسه ميکند"/>
+  <StrRes Name="Chr" Text="يک مقدار عددي را به کاراکتر تبديل ميکند"/>
+  <StrRes Name="Ord" Text="يک مقدار عددي را به کاراکتر تبديل ميکند"/>
+  <StrRes Name="SetLength" Text="طول رشته را تعيين ميکند"/>
+  <StrRes Name="Round" Text="مقدار اعشاري را به نزديکترين عدد گرد ميکند"/>
+  <StrRes Name="Trunc" Text="مقدار اعشاري را به عدد صحيح کاهش ميدهد"/>
+  <StrRes Name="Int" Text="قسمت  صحيح يک عدد اعشاري را برمي گرداند"/>
+  <StrRes Name="Frac" Text="قسمت  اعشار يک عدد اعشاري را برمي گرداند"/>
+  <StrRes Name="Sqrt" Text="ريشه عدد تعيين شده را برمي گرداند"/>
+  <StrRes Name="Abs" Text="قدرمطلق يک مقدار را برمي گرداند"/>
+  <StrRes Name="Sin" Text="(سينوس يک زاويه را برمي گرداند (در راديان"/>
+  <StrRes Name="Cos" Text="(کسينوس يک زاويه را برمي گرداند (در راديان"/>
+  <StrRes Name="ArcTan" Text="(آرک تانژانت يک زاويه را برمي گرداند (در راديان"/>
+  <StrRes Name="Tan" Text="( تانژانت يک زاويه را برمي گرداند (در راديان"/>
+  <StrRes Name="Exp" Text="e^x برمي گرداند"/>
+  <StrRes Name="Ln" Text="لگاريتم طبيعي يک عدد حقيقي را برمي گرداند"/>
+  <StrRes Name="Pi" Text="عدد 3.1415926 را برمي گرداند"/>
+  <StrRes Name="Inc" Text="يک مقدار را افزايش ميدهد"/>
+  <StrRes Name="Dec" Text="يک مقدار را کاهش ميدهد"/>
+  <StrRes Name="RaiseException" Text="يک خطا ايجاد ميکند"/>
+  <StrRes Name="ShowMessage" Text="يک جعبه پيغام نشان ميدهد"/>
+  <StrRes Name="Randomize" Text="مواد اعداد تصادفي را به کار مي اندازد"/>
+  <StrRes Name="Random" Text="يک عدد تصادفي بر ميگرداند"/>
+  <StrRes Name="ValidInt" Text="اگر محتويات رشته يک عدد معتبر باشد مقدار درست برميگرداند"/>
+  <StrRes Name="ValidFloat" Text="اگر محتويات رشته يک عدد اعشاري معتبر باشد مقدار درست برميگرداند"/>
+  <StrRes Name="ValidDate" Text="اگر محتويات رشته يک تاريخ معتبر باشد مقدار درست برميگرداند"/>
+  <StrRes Name="IIF" Text="اگر عبارت تعيين شده درست باشد مقدار درست برميگرداند در غير اينصورت نادرست"/>
+  <StrRes Name="Get" Text="فقط براي استفاده داخلي"/>
+  <StrRes Name="Set" Text="فقط براي استفاده داخلي"/>
+  <StrRes Name="InputBox" Text="يک جعبه گفتگو نشان ميدهد که کاربر ميتواند يک رشته را وارد کند"/>
+  <StrRes Name="InputQuery" Text="يک جعبه گفتگو نشان ميدهد که کاربر ميتواند يک رشته را وارد کند"/>
+  <StrRes Name="MessageDlg" Text="يک جعبه پيغام نشان ميدهد"/>
+  <StrRes Name="CreateOleObject" Text="ايجاد ميکند OLE يک شيء"/>
+  <StrRes Name="VarArrayCreate" Text="يک آرايه گوناگون ايجاد ميکند"/>
+  <StrRes Name="VarType" Text="نوع مقدار گوناگون را برميگرداند"/>
+  <StrRes Name="DayOf" Text="(1-31) شماره روز تارخ را برميگرداند"/>
+  <StrRes Name="MonthOf" Text="(1-12) شماره ماه تارخ را برميگرداند"/>
+  <StrRes Name="YearOf" Text="سال تاريخ را برميگرداند"/>
+  <StrRes Name="ctAggregate" Text="عبارت محاسباتي"/>
+  <StrRes Name="Sum" Text="مجموع عبارت براي سطر داده باند را محاسبه ميکند"/>
+  <StrRes Name="Avg" Text="ميانگين عبارت براي سطر داده باند را محاسبه ميکند"/>
+  <StrRes Name="Min" Text="کمترين عبارت براي سطر داده باند را محاسبه ميکند"/>
+  <StrRes Name="Max" Text="بيشترين عبارت براي سطر داده باند را محاسبه ميکند"/>
+  <StrRes Name="Count" Text="تعداد سطر داده را محاسبه ميکند"/>
+  <StrRes Name="wzDBConn" Text="جادوگر اتصال جديد"/>
+  <StrRes Name="wzDBTable" Text="جادوگر جدول جديد"/>
+  <StrRes Name="wzDBQuery" Text="جادوگر پرس و جو جديد"/>
+  <StrRes Name="5800" Text="اتصال ها"/>
+  <StrRes Name="5801" Text="جديد"/>
+  <StrRes Name="5802" Text="حذف"/>
+  <StrRes Name="cpName" Text="نام"/>
+  <StrRes Name="cpConnStr" Text="رشته اتصال"/>
+  <StrRes Name="startCreateNew" Text="ايجاد گزارش جديد"/>
+  <StrRes Name="startCreateBlank" Text="ايجاد گزارش خالي"/>
+  <StrRes Name="startOpenReport" Text="بازکردن گزارش"/>
+  <StrRes Name="startOpenLast" Text="بازکردن آخرين گزارش"/>
+  <StrRes Name="startEditAliases" Text="ويرايش نام اتصال"/>
+  <StrRes Name="startHelp" Text="راهنما"/>
+  <StrRes Name="5900" Text="نظارت"/>
+  <StrRes Name="5901" Text="افزودن نطارت"/>
+  <StrRes Name="5902" Text="حذف نظارت"/>
+  <StrRes Name="5903" Text="ويرايش نظارت"/>
+  <StrRes Name="6000" Text="خطا ميراثي"/>
+  <StrRes Name="6001" Text="گزارش اصلي و موروثي يک شيء تکراري دارند. چه بايد انجام داد ؟"/>
+  <StrRes Name="6002" Text="حذف تکراري ها"/>
+  <StrRes Name="6003" Text="تغيير نام تکراري ها"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

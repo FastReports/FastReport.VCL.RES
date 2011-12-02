@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Zrušiť"/>
+  <StrRes Name="3" Text="Všetko"/>
+  <StrRes Name="4" Text="Aktuálna strana"/>
+  <StrRes Name="5" Text="Strany:"/>
+  <StrRes Name="6" Text="Oddeľovače strán"/>
+  <StrRes Name="7" Text="Rozsah strán"/>
+  <StrRes Name="8" Text="Nastavenie exportu"/>
+  <StrRes Name="9" Text="Zadajte čísla strán alebo rozsah strán, oddelených čiarkami. Napr.: 1,3,5-12"/>
+  <StrRes Name="100" Text="Prehľad"/>
+  <StrRes Name="101" Text="Tlač"/>
+  <StrRes Name="102" Text="Tlačiť"/>
+  <StrRes Name="103" Text="Otvoriť"/>
+  <StrRes Name="104" Text="Otvoriť"/>
+  <StrRes Name="105" Text="Uložiť"/>
+  <StrRes Name="106" Text="Uložiť"/>
+  <StrRes Name="107" Text="Export"/>
+  <StrRes Name="108" Text="Export"/>
+  <StrRes Name="109" Text="Hľadať"/>
+  <StrRes Name="110" Text="Hľadať"/>
+  <StrRes Name="111" Text="Celá strana"/>
+  <StrRes Name="112" Text="Celá strana"/>
+  <StrRes Name="113" Text="Šírka strany"/>
+  <StrRes Name="114" Text="Na šírku strany"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Dve strany"/>
+  <StrRes Name="118" Text="Dve strany"/>
+  <StrRes Name="119" Text="Zväčšiť"/>
+  <StrRes Name="120" Text="Okraje"/>
+  <StrRes Name="121" Text="Okraje"/>
+  <StrRes Name="122" Text="Ovládanie"/>
+  <StrRes Name="123" Text="Ovládanie"/>
+  <StrRes Name="124" Text="Zväčšiť"/>
+  <StrRes Name="125" Text="Zväčšiť"/>
+  <StrRes Name="126" Text="Zmenšiť"/>
+  <StrRes Name="127" Text="Zmenšiť"/>
+  <StrRes Name="128" Text="Navigátor"/>
+  <StrRes Name="129" Text="Navigátor reportu"/>
+  <StrRes Name="130" Text="Vzorky"/>
+  <StrRes Name="131" Text="Vzorky"/>
+  <StrRes Name="132" Text="Upraviť"/>
+  <StrRes Name="133" Text="Upraviť stranu"/>
+  <StrRes Name="134" Text="Prvá"/>
+  <StrRes Name="135" Text="Prvá strana"/>
+  <StrRes Name="136" Text="Predchádzajúca"/>
+  <StrRes Name="137" Text="Predchádzajúca strana"/>
+  <StrRes Name="138" Text="Ďalšia"/>
+  <StrRes Name="139" Text="Ďalšia strana"/>
+  <StrRes Name="140" Text="Posledná"/>
+  <StrRes Name="141" Text="Posledná strana"/>
+  <StrRes Name="142" Text="Číslo strany"/>
+  <StrRes Name="150" Text="Celá obrazovka"/>
+  <StrRes Name="151" Text="Export do PDF"/>
+  <StrRes Name="152" Text="Odoslať E-mailem"/>
+  <StrRes Name="zmPageWidth" Text="Šírka strany"/>
+  <StrRes Name="zmWholePage" Text="Celá strana"/>
+  <StrRes Name="200" Text="Tlač"/>
+  <StrRes Name="201" Text="Tlačiareň"/>
+  <StrRes Name="202" Text="Strany "/>
+  <StrRes Name="203" Text="Počet kópií"/>
+  <StrRes Name="204" Text="Usporiadať"/>
+  <StrRes Name="205" Text="Kópie"/>
+  <StrRes Name="206" Text="Tlač"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Kde:"/>
+  <StrRes Name="209" Text="Vlastnosti..."/>
+  <StrRes Name="210" Text="Tlačiť do súboru"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Názov:"/>
+  <StrRes Name="213" Text="Spôsob tlače"/>
+  <StrRes Name="214" Text="Tlačiť na hárok"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Všetky strany"/>
+  <StrRes Name="ppOdd" Text="Nepárne strany"/>
+  <StrRes Name="ppEven" Text="Párne strany"/>
+  <StrRes Name="pgDefault" Text="Predvolený"/>
+  <StrRes Name="pmDefault" Text="Predvolený"/>
+  <StrRes Name="pmSplit" Text="Rozdeliť veľké strany"/>
+  <StrRes Name="pmJoin" Text="Spojiť malé strany"/>
+  <StrRes Name="pmScale" Text="Mierka"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Hľadanie textu"/>
+  <StrRes Name="301" Text="Hľadaný text:"/>
+  <StrRes Name="302" Text="Voľby prehľadávania"/>
+  <StrRes Name="303" Text="Nahradiť"/>
+  <StrRes Name="304" Text="Hľadať od začiatku"/>
+  <StrRes Name="305" Text="Rozlišovať malé/veľké"/>
+  <StrRes Name="400" Text="Nastavenie strany"/>
+  <StrRes Name="401" Text="Šírka"/>
+  <StrRes Name="402" Text="Výška"/>
+  <StrRes Name="403" Text="Veľkosť"/>
+  <StrRes Name="404" Text="Orientácia"/>
+  <StrRes Name="405" Text="Vľavo"/>
+  <StrRes Name="406" Text="Hore"/>
+  <StrRes Name="407" Text="Vpravo"/>
+  <StrRes Name="408" Text="Dole"/>
+  <StrRes Name="409" Text="Okraje"/>
+  <StrRes Name="410" Text="Na výšku"/>
+  <StrRes Name="411" Text="Na šírku"/>
+  <StrRes Name="412" Text="Ďalší"/>
+  <StrRes Name="413" Text="Uplatniť na aktuálnu stranu"/>
+  <StrRes Name="414" Text="Uplatniť na všetky strany"/>
+  <StrRes Name="500" Text="Tlač"/>
+  <StrRes Name="501" Text="Tlačiareň"/>
+  <StrRes Name="502" Text="Strany"/>
+  <StrRes Name="503" Text="Kópie"/>
+  <StrRes Name="504" Text="Počet kópií"/>
+  <StrRes Name="505" Text="Nastavenia "/>
+  <StrRes Name="506" Text="Escape kódy"/>
+  <StrRes Name="507" Text="Tlačiť do súboru"/>
+  <StrRes Name="508" Text="Kódová strana OEM"/>
+  <StrRes Name="509" Text="Pseudografika"/>
+  <StrRes Name="510" Text="Tlačový súbor (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Potvrdiť"/>
+  <StrRes Name="mbError" Text="Chyba"/>
+  <StrRes Name="mbInfo" Text="Informácia"/>
+  <StrRes Name="xrCantFindClass" Text="Trieda sa nedá nájsť"/>
+  <StrRes Name="prVirtual" Text="Virtuálna"/>
+  <StrRes Name="prDefault" Text="Predvolená"/>
+  <StrRes Name="prCustom" Text="Vlastná"/>
+  <StrRes Name="enUnconnHeader" Text="Nepripojená hlavička/päta"/>
+  <StrRes Name="enUnconnGroup" Text="Žiadny pruh pre skupinu"/>
+  <StrRes Name="enUnconnGFooter" Text="Žiadny pruh pre hlavičku"/>
+  <StrRes Name="enBandPos" Text="Nesprávna pozícia pruhu:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s nie je pripojený k dátam"/>
+  <StrRes Name="dbFldNotFound" Text="Súbor neexistuje:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset neexistuje v Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Neznáma premenná, alebo dátové pole:"/>
+  <StrRes Name="clScrError" Text="Chyba skriptu v %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#34;%s&#34; neexistuje"/>
+  <StrRes Name="clErrors" Text="Nastala nasledujúca chyba:"/>
+  <StrRes Name="clExprError" Text="Chyba vo výraze"/>
+  <StrRes Name="clFP3files" Text="Pripravený report"/>
+  <StrRes Name="clSaving" Text="Uloženie súboru..."/>
+  <StrRes Name="clCancel" Text="Zrušiť"/>
+  <StrRes Name="clClose" Text="Zavrieť"/>
+  <StrRes Name="clPrinting" Text="Tlač strany"/>
+  <StrRes Name="clLoading" Text="Načítanie súboru..."/>
+  <StrRes Name="clPageOf" Text="%d strana z %d"/>
+  <StrRes Name="clFirstPass" Text="Prvý prechod: strana "/>
+  <StrRes Name="clNoPrinters" Text="Na Vašom systéme nie je nainštalovaná žiadna tlačiareň"/>
+  <StrRes Name="clDecompressError" Text="Chyba pri rozbalení streamu"/>
+  <StrRes Name="prRunningFirst" Text="Prvý prechod: strana %d"/>
+  <StrRes Name="prRunning" Text="Príprava strany %d"/>
+  <StrRes Name="prPrinting" Text="Tlač strany %d"/>
+  <StrRes Name="prExporting" Text="Export strany %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="zn"/>
+  <StrRes Name="dupDefault" Text="Predvolený"/>
+  <StrRes Name="dupVert" Text="Zvyslý"/>
+  <StrRes Name="dupHorz" Text="Vodorovný"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="crFillMx" Text="Vyplňovanie krížovej tabuľky..."/>
+  <StrRes Name="crBuildMx" Text="Vytváranie krížovej tabuľky..."/>
+  <StrRes Name="SLangNotFound" Text="Jazyk '%s' neexistuje"/>
+  <StrRes Name="SInvalidLanguage" Text="Neplatná definícia jazyka"/>
+  <StrRes Name="SIdRedeclared" Text="Identifikátor redeklarovaný:"/>
+  <StrRes Name="SUnknownType" Text="Neznámy typ:"/>
+  <StrRes Name="SIncompatibleTypes" Text="Nekompatibilné typy"/>
+  <StrRes Name="SIdUndeclared" Text="Nedeklarovaný identifikátor: "/>
+  <StrRes Name="SclassRequired" Text="Požadovaný je typ triedy"/>
+  <StrRes Name="SindexRequired" Text="Požadovaný je index"/>
+  <StrRes Name="SStringError" Text="Reťazec nemá vlastnosti, alebo metódy"/>
+  <StrRes Name="SClassError" Text="Trieda %s neobsahuje základné vlastnosti"/>
+  <StrRes Name="SarrayRequired" Text="Požadovaný je typ pole"/>
+  <StrRes Name="SvarRequired" Text="Požadovaná je premenná"/>
+  <StrRes Name="SNotEnoughParams" Text="Nedostatok parametrov"/>
+  <StrRes Name="StooManyParams" Text="Príliš veľa parametrov"/>
+  <StrRes Name="SleftCantAssigned" Text="Ľavú stranu nie je možné priradiť k"/>
+  <StrRes Name="SforError" Text="Premenná cyklu musí byť celočíselná"/>
+  <StrRes Name="SEventError" Text="Handler udalosti musí byť procedúra"/>
+  <StrRes Name="600" Text="Rozbaliť všetko"/>
+  <StrRes Name="601" Text="Zbaliť všetko"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

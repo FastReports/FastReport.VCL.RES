@@ -1,0 +1,844 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="2000" Text="Inspector de obiecte"/>
+  <StrRes Name="oiProp" Text="Proprietati"/>
+  <StrRes Name="oiEvent" Text="Evenimente"/>
+  <StrRes Name="2100" Text="Data Tree"/>
+  <StrRes Name="2101" Text="Date"/>
+  <StrRes Name="2102" Text="Variabile"/>
+  <StrRes Name="2103" Text="Functii"/>
+  <StrRes Name="2104" Text="Creeaza camp"/>
+  <StrRes Name="2105" Text="Creeaza titlu"/>
+  <StrRes Name="2106" Text="Classes"/>
+  <StrRes Name="dtNoData" Text="Nu exista date disponibile."/>
+  <StrRes Name="dtNoData1" Text="Mergeti in meniul &#38;#34;Report|Data...&#38;#34; pentru a adauga dataset-uri existente in raport, sau folositi sectiunea &#38;#34;Data&#38;#34; pentru a crea un dataset-uri noi."/>
+  <StrRes Name="dtData" Text="Date"/>
+  <StrRes Name="dtSysVar" Text="Variabile sistem"/>
+  <StrRes Name="dtVar" Text="Variabile"/>
+  <StrRes Name="dtFunc" Text="Functii"/>
+  <StrRes Name="2200" Text="Report Tree"/>
+  <StrRes Name="2300" Text="Deschide fisier script"/>
+  <StrRes Name="2301" Text="Salveaza script-ul in fisier"/>
+  <StrRes Name="2302" Text="Ruleaza script"/>
+  <StrRes Name="2303" Text="Trace Into"/>
+  <StrRes Name="2304" Text="Opreste script-ul"/>
+  <StrRes Name="2305" Text="Evaluare"/>
+  <StrRes Name="2306" Text="Limbaj:"/>
+  <StrRes Name="2307" Text="Aliniere"/>
+  <StrRes Name="2308" Text="Aliniere stanga"/>
+  <StrRes Name="2309" Text="Aliniere mijloc"/>
+  <StrRes Name="2310" Text="Aliniere dreapta"/>
+  <StrRes Name="2311" Text="Aliniere sus"/>
+  <StrRes Name="2312" Text="Aliniere centru"/>
+  <StrRes Name="2313" Text="Aliniere jos"/>
+  <StrRes Name="2314" Text="Spatiere orizontala"/>
+  <StrRes Name="2315" Text="Spatiere verticala"/>
+  <StrRes Name="2316" Text="Centrare orizontala in banda"/>
+  <StrRes Name="2317" Text="Centrare verticala in banda"/>
+  <StrRes Name="2318" Text="Aceeasi latime"/>
+  <StrRes Name="2319" Text="Aceeasi inaltime"/>
+  <StrRes Name="2320" Text="Text"/>
+  <StrRes Name="2321" Text="Stil"/>
+  <StrRes Name="2322" Text="Nume font"/>
+  <StrRes Name="2323" Text="Dimensiune"/>
+  <StrRes Name="2324" Text="Bold"/>
+  <StrRes Name="2325" Text="Italic"/>
+  <StrRes Name="2326" Text="Underline"/>
+  <StrRes Name="2327" Text="Culoare font"/>
+  <StrRes Name="2328" Text="Evidentiere"/>
+  <StrRes Name="2329" Text="Rotire text"/>
+  <StrRes Name="2330" Text="Aliniere stanga"/>
+  <StrRes Name="2331" Text="Aliniere centru"/>
+  <StrRes Name="2332" Text="Aliniere dreapta"/>
+  <StrRes Name="2333" Text="Aliniere la margini"/>
+  <StrRes Name="2334" Text="Aliniere sus"/>
+  <StrRes Name="2335" Text="Aliniere mijloc"/>
+  <StrRes Name="2336" Text="Aliniere jos"/>
+  <StrRes Name="2337" Text="Cadru"/>
+  <StrRes Name="2338" Text="Linie sus"/>
+  <StrRes Name="2339" Text="Linie jos"/>
+  <StrRes Name="2340" Text="Linie stanga"/>
+  <StrRes Name="2341" Text="Linie dreapta"/>
+  <StrRes Name="2342" Text="Toate liniile cadrului"/>
+  <StrRes Name="2343" Text="Fara cadru"/>
+  <StrRes Name="2344" Text="Umbra"/>
+  <StrRes Name="2345" Text="Culoare de fond"/>
+  <StrRes Name="2346" Text="Culoare cadru"/>
+  <StrRes Name="2347" Text="Stil cadru"/>
+  <StrRes Name="2348" Text="Latime cadru"/>
+  <StrRes Name="2349" Text="Standard"/>
+  <StrRes Name="2350" Text="Raport nou"/>
+  <StrRes Name="2351" Text="Deschide raport"/>
+  <StrRes Name="2352" Text="Salveaza raport"/>
+  <StrRes Name="2353" Text="Previzualizare"/>
+  <StrRes Name="2354" Text="Pagina noua"/>
+  <StrRes Name="2355" Text="Dialog nou"/>
+  <StrRes Name="2356" Text="Sterge pagina"/>
+  <StrRes Name="2357" Text="Setari pagina"/>
+  <StrRes Name="2358" Text="Variabile"/>
+  <StrRes Name="2359" Text="Decupeaza"/>
+  <StrRes Name="2360" Text="Copie"/>
+  <StrRes Name="2361" Text="Lipeste"/>
+  <StrRes Name="2362" Text="Formatare copie"/>
+  <StrRes Name="2363" Text="Anuleaza ultima actiune"/>
+  <StrRes Name="2364" Text="Refacere operatiune anulata"/>
+  <StrRes Name="2365" Text="Grupare"/>
+  <StrRes Name="2366" Text="Degrupare"/>
+  <StrRes Name="2367" Text="Arata grid"/>
+  <StrRes Name="2368" Text="Aliniere la grid"/>
+  <StrRes Name="2369" Text="Potrivire la grid"/>
+  <StrRes Name="2370" Text="Scalare"/>
+  <StrRes Name="2371" Text="Unelte extra"/>
+  <StrRes Name="2372" Text="Unealta selectare"/>
+  <StrRes Name="2373" Text="Unealta mana"/>
+  <StrRes Name="2374" Text="Unealta scalare"/>
+  <StrRes Name="2375" Text="Unealta editare text"/>
+  <StrRes Name="2376" Text="Unealta formatare copiere"/>
+  <StrRes Name="2377" Text="Insereaza banda"/>
+  <StrRes Name="2378" Text="&amp;Fisiere"/>
+  <StrRes Name="2379" Text="&amp;Editare"/>
+  <StrRes Name="2380" Text="Cautare..."/>
+  <StrRes Name="2381" Text="Cauta urmatorul"/>
+  <StrRes Name="2382" Text="Inlocuire..."/>
+  <StrRes Name="2383" Text="&amp;Raport"/>
+  <StrRes Name="2384" Text="Data..."/>
+  <StrRes Name="2385" Text="Optiuni..."/>
+  <StrRes Name="2386" Text="Stiluri..."/>
+  <StrRes Name="2387" Text="&amp;Vizualizare"/>
+  <StrRes Name="2388" Text="Bara de unelte"/>
+  <StrRes Name="2389" Text="Standard"/>
+  <StrRes Name="2390" Text="Text"/>
+  <StrRes Name="2391" Text="Cadru"/>
+  <StrRes Name="2392" Text="Paleta de aliniere"/>
+  <StrRes Name="2393" Text="Unelte extra"/>
+  <StrRes Name="2394" Text="Inspector de obiecte"/>
+  <StrRes Name="2395" Text="Data Tree"/>
+  <StrRes Name="2396" Text="Report Tree"/>
+  <StrRes Name="2397" Text="Rigla"/>
+  <StrRes Name="2398" Text="Linii de ghidare"/>
+  <StrRes Name="2399" Text="Sterge linii de ghidare"/>
+  <StrRes Name="2400" Text="Optiuni..."/>
+  <StrRes Name="2401" Text="&amp;Ajutor"/>
+  <StrRes Name="2402" Text="Continut..."/>
+  <StrRes Name="2403" Text="Despre FastReport..."/>
+  <StrRes Name="2404" Text="Ordine tab..."/>
+  <StrRes Name="2405" Text="Anuleaza ultima actiune"/>
+  <StrRes Name="2406" Text="Refacere operatiune anulata"/>
+  <StrRes Name="2407" Text="Decupeaza"/>
+  <StrRes Name="2408" Text="Copie"/>
+  <StrRes Name="2409" Text="Lipeste"/>
+  <StrRes Name="2410" Text="Grupare"/>
+  <StrRes Name="2411" Text="Degrupare"/>
+  <StrRes Name="2412" Text="Stergere"/>
+  <StrRes Name="2413" Text="Stergere pagina"/>
+  <StrRes Name="2414" Text="Selecteaza tot"/>
+  <StrRes Name="2415" Text="Editare..."/>
+  <StrRes Name="2416" Text="Trimitere in fata"/>
+  <StrRes Name="2417" Text="Trimitere in spate"/>
+  <StrRes Name="2418" Text="Nou..."/>
+  <StrRes Name="2419" Text="Raport nou"/>
+  <StrRes Name="2420" Text="Pagina noua"/>
+  <StrRes Name="2421" Text="Dialog nou"/>
+  <StrRes Name="2422" Text="Deschide..."/>
+  <StrRes Name="2423" Text="Salveaza"/>
+  <StrRes Name="2424" Text="Salveaza ca..."/>
+  <StrRes Name="2425" Text="Variabile..."/>
+  <StrRes Name="2426" Text="Setari pagina..."/>
+  <StrRes Name="2427" Text="Previzualizare"/>
+  <StrRes Name="2428" Text="Iesire"/>
+  <StrRes Name="2429" Text="Report Title"/>
+  <StrRes Name="2430" Text="Report Summary"/>
+  <StrRes Name="2431" Text="Page Header"/>
+  <StrRes Name="2432" Text="Page Footer"/>
+  <StrRes Name="2433" Text="Header"/>
+  <StrRes Name="2434" Text="Footer"/>
+  <StrRes Name="2435" Text="Master Data"/>
+  <StrRes Name="2436" Text="Detail Data"/>
+  <StrRes Name="2437" Text="Subdetail Data"/>
+  <StrRes Name="2438" Text="Data 4th level"/>
+  <StrRes Name="2439" Text="Data 5th level"/>
+  <StrRes Name="2440" Text="Data 6th level"/>
+  <StrRes Name="2441" Text="Group Header"/>
+  <StrRes Name="2442" Text="Group Footer"/>
+  <StrRes Name="2443" Text="Child"/>
+  <StrRes Name="2444" Text="Column Header"/>
+  <StrRes Name="2445" Text="Column Footer"/>
+  <StrRes Name="2446" Text="Overlay"/>
+  <StrRes Name="2447" Text="Vertical bands"/>
+  <StrRes Name="2448" Text="Header"/>
+  <StrRes Name="2449" Text="Footer"/>
+  <StrRes Name="2450" Text="Master Data"/>
+  <StrRes Name="2451" Text="Detail Data"/>
+  <StrRes Name="2452" Text="Subdetail Data"/>
+  <StrRes Name="2453" Text="Group Header"/>
+  <StrRes Name="2454" Text="Group Footer"/>
+  <StrRes Name="2455" Text="Child"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Setari font"/>
+  <StrRes Name="2462" Text="Bold"/>
+  <StrRes Name="2463" Text="Italic"/>
+  <StrRes Name="2464" Text="Underline"/>
+  <StrRes Name="2465" Text="SuperScript"/>
+  <StrRes Name="2466" Text="SubScript"/>
+  <StrRes Name="2467" Text="Condensed"/>
+  <StrRes Name="2468" Text="Wide"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Raport (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Fisiere Pascal (*.pas)|*.pas|Fisiere C++ (*.cpp)|*.cpp|Fisiere JavaScript  (*.js)|*.js|Fisiere Basic (*.vb)|*.vb|Toate fisierele|*.*"/>
+  <StrRes Name="2473" Text="Fisiere Pascal (*.pas)|*.pas|Fisiere C++ (*.cpp)|*.cpp|Fisiere JavaScript  (*.js)|*.js|Fisiere Basic (*.vb)|*.vb|Toate fisierele|*.*"/>
+  <StrRes Name="2474" Text="Connections..."/>
+  <StrRes Name="2475" Text="Limbaj"/>
+  <StrRes Name="2476" Text="Toggle breakpoint"/>
+  <StrRes Name="2477" Text="Run to cursor"/>
+  <StrRes Name="2478" Text="!Add child band"/>
+  <StrRes Name="dsCm" Text="Centimetri"/>
+  <StrRes Name="dsInch" Text="Inchi"/>
+  <StrRes Name="dsPix" Text="Pixeli"/>
+  <StrRes Name="dsChars" Text="Caractere"/>
+  <StrRes Name="dsCode" Text="Code"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Page"/>
+  <StrRes Name="dsRepFilter" Text="Raport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Raport compresat (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Salvati modificarile facute paginii de previzualizare?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Salveaza modificarile in "/>
+  <StrRes Name="dsCantLoad" Text="Nu pot incarca fisierul"/>
+  <StrRes Name="dsStyleFile" Text="Stil"/>
+  <StrRes Name="dsCantFindProc" Text="Nu pot localiza procedura principala"/>
+  <StrRes Name="dsClearScript" Text="Aceasta operatiune va sterge toate instructiunile. Doriti sa continuati ?"/>
+  <StrRes Name="dsNoStyle" Text="Fara stil"/>
+  <StrRes Name="dsStyleSample" Text="Exemplu stil"/>
+  <StrRes Name="dsTextNotFound" Text="Textul '%s' nu a fost gasit"/>
+  <StrRes Name="dsReplace" Text="Inlocuiti aceasta aparitie a '%s'?"/>
+  <StrRes Name="2600" Text="Despre FastReport"/>
+  <StrRes Name="2601" Text="Vizitati pagina noastra pe Internet:"/>
+  <StrRes Name="2602" Text="Vanzari:"/>
+  <StrRes Name="2603" Text="Suport:"/>
+  <StrRes Name="2700" Text="Optiuni pagina"/>
+  <StrRes Name="2701" Text="Hartie"/>
+  <StrRes Name="2702" Text="Latime"/>
+  <StrRes Name="2703" Text="Inaltime"/>
+  <StrRes Name="2704" Text="Dimensiune"/>
+  <StrRes Name="2705" Text="Orientare  "/>
+  <StrRes Name="2706" Text="Stanga"/>
+  <StrRes Name="2707" Text="Sus"/>
+  <StrRes Name="2708" Text="Dreapta"/>
+  <StrRes Name="2709" Text="Jos"/>
+  <StrRes Name="2710" Text="Margini"/>
+  <StrRes Name="2711" Text="Sursa hartie"/>
+  <StrRes Name="2712" Text="Prima pagina"/>
+  <StrRes Name="2713" Text="Restul paginilor"/>
+  <StrRes Name="2714" Text="Portret"/>
+  <StrRes Name="2715" Text="Peisaj"/>
+  <StrRes Name="2716" Text="Alte optiuni"/>
+  <StrRes Name="2717" Text="Coloane"/>
+  <StrRes Name="2718" Text="Numar"/>
+  <StrRes Name="2719" Text="Latime"/>
+  <StrRes Name="2720" Text="Pozitii"/>
+  <StrRes Name="2721" Text="Alte"/>
+  <StrRes Name="2722" Text="Duplex"/>
+  <StrRes Name="2723" Text="Listeaza pe pagina anterioara"/>
+  <StrRes Name="2724" Text="Margini oglinda"/>
+  <StrRes Name="2725" Text="Inaltime mare in mod design"/>
+  <StrRes Name="2726" Text="Latime pagina continua"/>
+  <StrRes Name="2727" Text="Inaltime pagina continua"/>
+  <StrRes Name="2800" Text="Selectare dataset-uri raport"/>
+  <StrRes Name="2900" Text="Editare variabile"/>
+  <StrRes Name="2901" Text="Categorie"/>
+  <StrRes Name="2902" Text="Variabila"/>
+  <StrRes Name="2903" Text="Editare"/>
+  <StrRes Name="2904" Text="Stergere"/>
+  <StrRes Name="2905" Text="Lista"/>
+  <StrRes Name="2906" Text="Incarca"/>
+  <StrRes Name="2907" Text="Salveaza"/>
+  <StrRes Name="2908" Text=" Expresie:"/>
+  <StrRes Name="2909" Text="Dictionar (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Dictionar (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(nici o variabila definita)"/>
+  <StrRes Name="vaVar" Text="Variabile"/>
+  <StrRes Name="vaDupName" Text="Nume duplicat"/>
+  <StrRes Name="3000" Text="Optiuni designer"/>
+  <StrRes Name="3001" Text="Grid"/>
+  <StrRes Name="3002" Text="Tip"/>
+  <StrRes Name="3003" Text="Dimensiune"/>
+  <StrRes Name="3004" Text="Forma dialog:"/>
+  <StrRes Name="3005" Text="Altele  "/>
+  <StrRes Name="3006" Text="Fonturi "/>
+  <StrRes Name="3007" Text="Editor cod"/>
+  <StrRes Name="3008" Text="Editor memo"/>
+  <StrRes Name="3009" Text="Dimensiune"/>
+  <StrRes Name="3010" Text="Dimensiune"/>
+  <StrRes Name="3011" Text="Culori"/>
+  <StrRes Name="3012" Text="Spatiu intre benzi:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Centimetri:"/>
+  <StrRes Name="3019" Text="Inchi:"/>
+  <StrRes Name="3020" Text="Pixeli:"/>
+  <StrRes Name="3021" Text="Arata grid"/>
+  <StrRes Name="3022" Text="Aliniere la grid"/>
+  <StrRes Name="3023" Text="Afiseaza editorul dupa inserare"/>
+  <StrRes Name="3024" Text="Foloseste setarile de font ale obiectului"/>
+  <StrRes Name="3025" Text="Spatiu de lucru"/>
+  <StrRes Name="3026" Text="Ferestre de unelte"/>
+  <StrRes Name="3027" Text="Culoare LCD grid"/>
+  <StrRes Name="3028" Text="Plasare nerestrictionata a benzilor"/>
+  <StrRes Name="3029" Text="Arata drop-down cu lista campurilor"/>
+  <StrRes Name="3030" Text="Arata ecranul de inceput"/>
+  <StrRes Name="3031" Text="Restaurare valori implicite"/>
+  <StrRes Name="3032" Text="Arata titlurile benzilor"/>
+  <StrRes Name="3100" Text="Selectare dataSet"/>
+  <StrRes Name="3101" Text="Numar de inregistrari:"/>
+  <StrRes Name="dbNotAssigned" Text="[neasignat]"/>
+  <StrRes Name="3200" Text="Grup"/>
+  <StrRes Name="3201" Text="Break on"/>
+  <StrRes Name="3202" Text="Optiuni"/>
+  <StrRes Name="3203" Text="Camp date"/>
+  <StrRes Name="3204" Text="Expresie"/>
+  <StrRes Name="3205" Text="Pastreaza grupul impreuna"/>
+  <StrRes Name="3206" Text="Incepe pagina noua"/>
+  <StrRes Name="3207" Text="Arata in contur"/>
+  <StrRes Name="3300" Text="Memo sistem"/>
+  <StrRes Name="3301" Text="Banda de date"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="DataField"/>
+  <StrRes Name="3304" Text="Functie"/>
+  <StrRes Name="3305" Text="Expresie"/>
+  <StrRes Name="3306" Text="Valoare totalizatoare"/>
+  <StrRes Name="3307" Text="Variabile sistem"/>
+  <StrRes Name="3308" Text="Numara benzile invizibile"/>
+  <StrRes Name="3309" Text="Text"/>
+  <StrRes Name="3310" Text="Total neintrerupt"/>
+  <StrRes Name="agAggregate" Text="Adaugare totalizator"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] din [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="Obiect OLE"/>
+  <StrRes Name="3401" Text="Inserare..."/>
+  <StrRes Name="3402" Text="Editare..."/>
+  <StrRes Name="3403" Text="Inchide"/>
+  <StrRes Name="olStretched" Text="Stretched"/>
+  <StrRes Name="3500" Text="Editor coduri de bare"/>
+  <StrRes Name="3501" Text="Cod"/>
+  <StrRes Name="3502" Text="Tip bara"/>
+  <StrRes Name="3503" Text="Scalare:"/>
+  <StrRes Name="3504" Text="Optiuni  "/>
+  <StrRes Name="3505" Text="Rotire  "/>
+  <StrRes Name="3506" Text="Calculeaza suma de control"/>
+  <StrRes Name="3507" Text="Text"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Calculeaza suma de control"/>
+  <StrRes Name="bcShowText" Text="Arata text"/>
+  <StrRes Name="3600" Text="Editare aliasuri"/>
+  <StrRes Name="3601" Text="Apasa Enter pentru a edita obiectul"/>
+  <StrRes Name="3602" Text="Alias dataset"/>
+  <StrRes Name="3603" Text="Alias campuri"/>
+  <StrRes Name="3604" Text="Reseteaza"/>
+  <StrRes Name="3605" Text="Actualizare"/>
+  <StrRes Name="alUserName" Text="Nume utilizator"/>
+  <StrRes Name="alOriginal" Text="Nume original"/>
+  <StrRes Name="3700" Text="Editor parametri"/>
+  <StrRes Name="qpName" Text="Nume"/>
+  <StrRes Name="qpDataType" Text="Tip date"/>
+  <StrRes Name="qpValue" Text="Valoare"/>
+  <StrRes Name="3800" Text="Legatura Master-Detail"/>
+  <StrRes Name="3801" Text="Campuri detalii"/>
+  <StrRes Name="3802" Text="Campuri master"/>
+  <StrRes Name="3803" Text="Campuri legate"/>
+  <StrRes Name="3804" Text="Adauga"/>
+  <StrRes Name="3805" Text="Sterge"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Insereaza expresie"/>
+  <StrRes Name="3902" Text="Insereaza totalizator"/>
+  <StrRes Name="3903" Text="Insereaza formatare"/>
+  <StrRes Name="3904" Text="Word Wrap"/>
+  <StrRes Name="3905" Text="Text"/>
+  <StrRes Name="3906" Text="Format"/>
+  <StrRes Name="3907" Text="Highlight"/>
+  <StrRes Name="4000" Text="Imagine"/>
+  <StrRes Name="4001" Text="Incarca"/>
+  <StrRes Name="4002" Text="Copie"/>
+  <StrRes Name="4003" Text="Lipeste"/>
+  <StrRes Name="4004" Text="Sterge"/>
+  <StrRes Name="piEmpty" Text="Gol"/>
+  <StrRes Name="4100" Text="Editor Chart"/>
+  <StrRes Name="4101" Text="Adauga Serie"/>
+  <StrRes Name="4102" Text="Sterge Serie"/>
+  <StrRes Name="4103" Text="Edit Chart"/>
+  <StrRes Name="4104" Text="Sursa banda"/>
+  <StrRes Name="4105" Text="Date fixe"/>
+  <StrRes Name="4106" Text="Dataset"/>
+  <StrRes Name="4107" Text="Sursa de date"/>
+  <StrRes Name="4108" Text="Valori"/>
+  <StrRes Name="4109" Text="Selecteaza chart series sau adauga una noua."/>
+  <StrRes Name="4114" Text="Alte optiuni"/>
+  <StrRes Name="4115" Text="Valori TopN"/>
+  <StrRes Name="4116" Text="Titluri TopN"/>
+  <StrRes Name="4117" Text="Ordine de sortare"/>
+  <StrRes Name="4126" Text="Axa X"/>
+  <StrRes Name="ch3D" Text="Vizualizare 3D"/>
+  <StrRes Name="chAxis" Text="Arata axe"/>
+  <StrRes Name="chsoNone" Text="Nici una"/>
+  <StrRes Name="chsoAscending" Text="Crescator"/>
+  <StrRes Name="chsoDescending" Text="Descrescator"/>
+  <StrRes Name="chxtText" Text="Text"/>
+  <StrRes Name="chxtNumber" Text="Numeric"/>
+  <StrRes Name="chxtDate" Text="Data"/>
+  <StrRes Name="4200" Text="Editor Rich"/>
+  <StrRes Name="4201" Text="Deschidere fisier"/>
+  <StrRes Name="4202" Text="Salveaza fisier"/>
+  <StrRes Name="4203" Text="Anuleaza"/>
+  <StrRes Name="4204" Text="Font"/>
+  <StrRes Name="4205" Text="Insereaza expresie"/>
+  <StrRes Name="4206" Text="Bold"/>
+  <StrRes Name="4207" Text="Italic"/>
+  <StrRes Name="4208" Text="Underline"/>
+  <StrRes Name="4209" Text="Aliniere stanga"/>
+  <StrRes Name="4210" Text="Aliniere centru"/>
+  <StrRes Name="4211" Text="Aliniere dreapta"/>
+  <StrRes Name="4212" Text="Justify"/>
+  <StrRes Name="4213" Text="Bullets"/>
+  <StrRes Name="4300" Text="Editor Cross-tab"/>
+  <StrRes Name="4301" Text="Sursa de date "/>
+  <StrRes Name="4302" Text="Dimensiuni"/>
+  <StrRes Name="4303" Text="Randuri"/>
+  <StrRes Name="4304" Text="Coloane"/>
+  <StrRes Name="4305" Text="Celule"/>
+  <StrRes Name="4306" Text="Structura Cross-tab  "/>
+  <StrRes Name="4307" Text="Rand antet"/>
+  <StrRes Name="4308" Text="Coloana antet"/>
+  <StrRes Name="4309" Text="Rand total general"/>
+  <StrRes Name="4310" Text="Coloana total general"/>
+  <StrRes Name="4311" Text="Inverseaza randuri/coloane"/>
+  <StrRes Name="4312" Text="!Select style"/>
+  <StrRes Name="4313" Text="!Save current style..."/>
+  <StrRes Name="4314" Text="!Show title"/>
+  <StrRes Name="4315" Text="!Show corner"/>
+  <StrRes Name="4316" Text="!Reprint headers on new page"/>
+  <StrRes Name="4317" Text="!Auto size"/>
+  <StrRes Name="4318" Text="!Border around cells"/>
+  <StrRes Name="4319" Text="!Print down then across"/>
+  <StrRes Name="4320" Text="!Side-by-side cells"/>
+  <StrRes Name="4321" Text="!Join equal cells"/>
+  <StrRes Name="4322" Text="Nici una"/>
+  <StrRes Name="4323" Text="Sum"/>
+  <StrRes Name="4324" Text="Min"/>
+  <StrRes Name="4325" Text="Max"/>
+  <StrRes Name="4326" Text="Average"/>
+  <StrRes Name="4327" Text="Count"/>
+  <StrRes Name="4328" Text="Crescator (A-Z)"/>
+  <StrRes Name="4329" Text="Descrescator (Z-A)"/>
+  <StrRes Name="4330" Text="Fara sortare"/>
+  <StrRes Name="crStName" Text="!Enter the style name:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="Subtotal"/>
+  <StrRes Name="crNone" Text="Nici una"/>
+  <StrRes Name="crSum" Text="Sum"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Max"/>
+  <StrRes Name="crAvg" Text="Avg"/>
+  <StrRes Name="crCount" Text="Count"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Editor expresii"/>
+  <StrRes Name="4401" Text="Expresie:"/>
+  <StrRes Name="4500" Text="Format de afisare"/>
+  <StrRes Name="4501" Text="Categorie"/>
+  <StrRes Name="4502" Text="Format"/>
+  <StrRes Name="4503" Text="Format text:"/>
+  <StrRes Name="4504" Text="Separator zecimal:"/>
+  <StrRes Name="fkText" Text="Text (fara formatare)"/>
+  <StrRes Name="fkNumber" Text="Numar"/>
+  <StrRes Name="fkDateTime" Text="Data/Timp"/>
+  <StrRes Name="fkBoolean" Text="Boolean"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="Noiembrie 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, Noiembrie 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="No,Yes;No,Yes"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="Evidentiere"/>
+  <StrRes Name="4601" Text="Culoare..."/>
+  <StrRes Name="4602" Text="Culoare..."/>
+  <StrRes Name="4603" Text="Conditie"/>
+  <StrRes Name="4604" Text="Font"/>
+  <StrRes Name="4605" Text="Culoare fond "/>
+  <StrRes Name="4606" Text="Bold"/>
+  <StrRes Name="4607" Text="Italic"/>
+  <StrRes Name="4608" Text="Underline"/>
+  <StrRes Name="4609" Text="Transparent"/>
+  <StrRes Name="4610" Text="Altele"/>
+  <StrRes Name="4700" Text="Setari raport"/>
+  <StrRes Name="4701" Text="General"/>
+  <StrRes Name="4702" Text="Setari imprimanta  "/>
+  <StrRes Name="4703" Text="Copii"/>
+  <StrRes Name="4704" Text="General"/>
+  <StrRes Name="4705" Text="Parola"/>
+  <StrRes Name="4706" Text="Copii odronate"/>
+  <StrRes Name="4707" Text="Doua treceri"/>
+  <StrRes Name="4708" Text="Listeaza daca e gol"/>
+  <StrRes Name="4709" Text="Descriere"/>
+  <StrRes Name="4710" Text="Nume"/>
+  <StrRes Name="4711" Text="Descriere"/>
+  <StrRes Name="4712" Text="Imagine"/>
+  <StrRes Name="4713" Text="Autor"/>
+  <StrRes Name="4714" Text="Major"/>
+  <StrRes Name="4715" Text="Minor"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="Creat"/>
+  <StrRes Name="4719" Text="Modificat"/>
+  <StrRes Name="4720" Text="Descriere  "/>
+  <StrRes Name="4721" Text="Versiune"/>
+  <StrRes Name="4722" Text="Alege..."/>
+  <StrRes Name="4723" Text="Setari mostenire"/>
+  <StrRes Name="4724" Text="Selecteaza optiunea:"/>
+  <StrRes Name="4725" Text="Nu schimba"/>
+  <StrRes Name="4726" Text="Detaseaza raportul baza"/>
+  <StrRes Name="4727" Text="Mosteneste din raportul baza:"/>
+  <StrRes Name="4728" Text="Mostenire"/>
+  <StrRes Name="rePrnOnPort" Text="on"/>
+  <StrRes Name="riNotInherited" Text="Acest raport nu este mostenit."/>
+  <StrRes Name="riInherited" Text="Acest raport este mostenit din raportul baza: %s"/>
+  <StrRes Name="4800" Text="Linii"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="Parola"/>
+  <StrRes Name="5001" Text="Introduceti parola:"/>
+  <StrRes Name="5100" Text="Editor stil"/>
+  <StrRes Name="5101" Text="Culoare..."/>
+  <StrRes Name="5102" Text="Font..."/>
+  <StrRes Name="5103" Text="Cadru..."/>
+  <StrRes Name="5104" Text="Adauga"/>
+  <StrRes Name="5105" Text="Sterge"/>
+  <StrRes Name="5106" Text="Editeaza"/>
+  <StrRes Name="5107" Text="Incarca"/>
+  <StrRes Name="5108" Text="Salveaza"/>
+  <StrRes Name="5200" Text="Editor cadru"/>
+  <StrRes Name="5201" Text="Cadru"/>
+  <StrRes Name="5202" Text="Linie cadru"/>
+  <StrRes Name="5203" Text="Umbra"/>
+  <StrRes Name="5204" Text="Linie sus"/>
+  <StrRes Name="5205" Text="Linie jos"/>
+  <StrRes Name="5206" Text="Linie stanga"/>
+  <StrRes Name="5207" Text="Linie dreapta"/>
+  <StrRes Name="5208" Text="Toate liniile cadru"/>
+  <StrRes Name="5209" Text="Fara cadru"/>
+  <StrRes Name="5210" Text="Culoare cadru"/>
+  <StrRes Name="5211" Text="Stil cadru"/>
+  <StrRes Name="5212" Text="Latime cadru"/>
+  <StrRes Name="5213" Text="Umbra"/>
+  <StrRes Name="5214" Text="Culoare umbra"/>
+  <StrRes Name="5215" Text="Latime umbra"/>
+  <StrRes Name="5300" Text="Obiect nou"/>
+  <StrRes Name="5301" Text="Obiecte"/>
+  <StrRes Name="5302" Text="Sabloane"/>
+  <StrRes Name="5303" Text="Mosteneste raport"/>
+  <StrRes Name="5400" Text="Ordine tab-uri"/>
+  <StrRes Name="5401" Text="Lista controale in ordinea tab-urilor:"/>
+  <StrRes Name="5402" Text="Muta in sus"/>
+  <StrRes Name="5403" Text="Muta in jos"/>
+  <StrRes Name="5500" Text="Evaluare"/>
+  <StrRes Name="5501" Text="Expresie"/>
+  <StrRes Name="5502" Text="Rezultat"/>
+  <StrRes Name="5600" Text="Report Wizard"/>
+  <StrRes Name="5601" Text="Date"/>
+  <StrRes Name="5602" Text="Fields"/>
+  <StrRes Name="5603" Text="Grupuri"/>
+  <StrRes Name="5604" Text="Asezare"/>
+  <StrRes Name="5605" Text="Stil"/>
+  <StrRes Name="5606" Text="Step 1. Selecteaza dataset-ul."/>
+  <StrRes Name="5607" Text="Step 2. Selecteaza campurile pentru afisat."/>
+  <StrRes Name="5608" Text="Step 3. Creeaza grupurile (optional)."/>
+  <StrRes Name="5609" Text="Step 4. Defineste orientarea paginii si asezarea datelor."/>
+  <StrRes Name="5610" Text="Step 5. Alege stilul raportului."/>
+  <StrRes Name="5611" Text="Adauga &#62;"/>
+  <StrRes Name="5612" Text="Adauga toate &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Sterge"/>
+  <StrRes Name="5614" Text="&#60;&#60; Sterge toate"/>
+  <StrRes Name="5615" Text="Adauga &#62;"/>
+  <StrRes Name="5616" Text="&#60; Sterge"/>
+  <StrRes Name="5617" Text="Campuri selectate:"/>
+  <StrRes Name="5618" Text="Campuri disponibile:"/>
+  <StrRes Name="5619" Text="Grupuri:"/>
+  <StrRes Name="5620" Text="Orientare  "/>
+  <StrRes Name="5621" Text="Asezare  "/>
+  <StrRes Name="5622" Text="Portret"/>
+  <StrRes Name="5623" Text="Peisaj"/>
+  <StrRes Name="5624" Text="Tabular"/>
+  <StrRes Name="5625" Text="Columnar"/>
+  <StrRes Name="5626" Text="Aliniere campuri la latimea paginii"/>
+  <StrRes Name="5627" Text="&#60;&#60; Inapoi"/>
+  <StrRes Name="5628" Text="Inainte &#62;&#62;"/>
+  <StrRes Name="5629" Text="Finalizare"/>
+  <StrRes Name="5630" Text="Tabela noua..."/>
+  <StrRes Name="5631" Text="Interogare noua..."/>
+  <StrRes Name="5632" Text="Selecteaza conexiunea la baza de date:"/>
+  <StrRes Name="5633" Text="Selecteaza o tabela:"/>
+  <StrRes Name="5634" Text="sau"/>
+  <StrRes Name="5635" Text="Creeza o interogare..."/>
+  <StrRes Name="5636" Text="Configurare conexiuni"/>
+  <StrRes Name="wzStd" Text="Standard Report Wizard"/>
+  <StrRes Name="wzDMP" Text="Dot-Matrix Report Wizard"/>
+  <StrRes Name="wzStdEmpty" Text="Standard Report"/>
+  <StrRes Name="wzDMPEmpty" Text="Dot-Matrix Report"/>
+  <StrRes Name="5700" Text="Wizard conexiune"/>
+  <StrRes Name="5701" Text="Conexiune"/>
+  <StrRes Name="5702" Text="Alege tipul conexiunii:"/>
+  <StrRes Name="5703" Text="Alege baza de date:"/>
+  <StrRes Name="5704" Text="Login"/>
+  <StrRes Name="5705" Text="Parola"/>
+  <StrRes Name="5706" Text="Afiseaza login"/>
+  <StrRes Name="5707" Text="Folosete login/parola:"/>
+  <StrRes Name="5708" Text="Tabela"/>
+  <StrRes Name="5709" Text="Alege numele tabelei:"/>
+  <StrRes Name="5710" Text="Filtrare inregistrari:"/>
+  <StrRes Name="5711" Text="Interogare"/>
+  <StrRes Name="5712" Text="Instructiune SQL:"/>
+  <StrRes Name="5713" Text="Query Builder"/>
+  <StrRes Name="5714" Text="Editare parametri interogare"/>
+  <StrRes Name="ftAllFiles" Text="Toate fisierele"/>
+  <StrRes Name="ftPictures" Text="Imagini"/>
+  <StrRes Name="ftDB" Text="Baze de date"/>
+  <StrRes Name="ftRichFile" Text="Fisiere RichText"/>
+  <StrRes Name="ftTextFile" Text="Fisiere text"/>
+  <StrRes Name="prNotAssigned" Text="(neasignat)"/>
+  <StrRes Name="prInvProp" Text="Valoare invalida a proprietatii"/>
+  <StrRes Name="prDupl" Text="Nume duplicat"/>
+  <StrRes Name="prPict" Text="(Imagine)"/>
+  <StrRes Name="mvExpr" Text="Permite expresii"/>
+  <StrRes Name="mvStretch" Text="Redimensionare"/>
+  <StrRes Name="mvStretchToMax" Text="Redimensionare la max inaltime"/>
+  <StrRes Name="mvShift" Text="Schimbare"/>
+  <StrRes Name="mvShiftOver" Text="Schimbare la intrepatrundere"/>
+  <StrRes Name="mvVisible" Text="Vizibil"/>
+  <StrRes Name="mvPrintable" Text="Printabil"/>
+  <StrRes Name="mvFont" Text="Font..."/>
+  <StrRes Name="mvFormat" Text="Format de afisare..."/>
+  <StrRes Name="mvClear" Text="Goleste continutul"/>
+  <StrRes Name="mvAutoWidth" Text="Latime automata"/>
+  <StrRes Name="mvWWrap" Text="Incadrare cuvinte"/>
+  <StrRes Name="mvSuppress" Text="Elimina valorile repetate"/>
+  <StrRes Name="mvHideZ" Text="Ascunde zero-urile"/>
+  <StrRes Name="mvHTML" Text="Permite tag-uri HTML"/>
+  <StrRes Name="lvDiagonal" Text="Diagonal"/>
+  <StrRes Name="pvAutoSize" Text="Auto-dimensionare"/>
+  <StrRes Name="pvCenter" Text="Centru"/>
+  <StrRes Name="pvAspect" Text="Pastreaza proportiile de aspect"/>
+  <StrRes Name="bvSplit" Text="Permite impartire"/>
+  <StrRes Name="bvKeepChild" Text="Pastreaza fiii impreuna"/>
+  <StrRes Name="bvPrintChild" Text="Tipareste fiul daca e invizibil"/>
+  <StrRes Name="bvStartPage" Text="Incepe pagina noua"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Tipareste detaliul daca e invizibil"/>
+  <StrRes Name="bvKeepDetail" Text="Pastreaza detaliile impreuna"/>
+  <StrRes Name="bvKeepFooter" Text="Pastreaza subsolul la un loc"/>
+  <StrRes Name="bvReprint" Text="Retipareste pe pagina noua"/>
+  <StrRes Name="bvOnFirst" Text="Tipareste pe prima pagina"/>
+  <StrRes Name="bvOnLast" Text="Tipareste pe ultima pagina"/>
+  <StrRes Name="bvKeepGroup" Text="Pastreaza impreuna"/>
+  <StrRes Name="bvFooterAfterEach" Text="Subsol dupa fiecare rand"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Reseteaza numerele paginilor"/>
+  <StrRes Name="srParent" Text="Tipareste in parinte"/>
+  <StrRes Name="bvKeepHeader" Text="Pastreaza antetul la un loc"/>
+  <StrRes Name="obCatDraw" Text="Deseneaza"/>
+  <StrRes Name="obCatOther" Text="Alte obiecte"/>
+  <StrRes Name="obCatOtherControls" Text="Alte controale"/>
+  <StrRes Name="obDiagLine" Text="Linie diagonala"/>
+  <StrRes Name="obRect" Text="Dreptunghi"/>
+  <StrRes Name="obRoundRect" Text="Dreptunghi rotunjit"/>
+  <StrRes Name="obEllipse" Text="Elipsa"/>
+  <StrRes Name="obTrian" Text="Triunghi"/>
+  <StrRes Name="obDiamond" Text="Diamant"/>
+  <StrRes Name="obLabel" Text="Control eticheta"/>
+  <StrRes Name="obEdit" Text="Control editare"/>
+  <StrRes Name="obMemoC" Text="Control memo"/>
+  <StrRes Name="obButton" Text="Control buton"/>
+  <StrRes Name="obChBoxC" Text="Control CheckBox"/>
+  <StrRes Name="obRButton" Text="Control RadioButton"/>
+  <StrRes Name="obLBox" Text="Control ListBox"/>
+  <StrRes Name="obCBox" Text="Control ComboBox"/>
+  <StrRes Name="obDateEdit" Text="Control DateEdit"/>
+  <StrRes Name="obImageC" Text="Control imagine"/>
+  <StrRes Name="obPanel" Text="Control Panel"/>
+  <StrRes Name="obGrBox" Text="Control GroupBox"/>
+  <StrRes Name="obBBtn" Text="Control BitBtn"/>
+  <StrRes Name="obSBtn" Text="Control SpeedButton"/>
+  <StrRes Name="obMEdit" Text="Control MaskEdit"/>
+  <StrRes Name="obChLB" Text="Control CheckListBox"/>
+  <StrRes Name="obDBLookup" Text="Control DBLookupComboBox"/>
+  <StrRes Name="obBevel" Text="Obiect Bevel"/>
+  <StrRes Name="obShape" Text="Obiect Shape"/>
+  <StrRes Name="obText" Text="Obiect Text"/>
+  <StrRes Name="obSysText" Text="Text System"/>
+  <StrRes Name="obLine" Text="Obiect linie"/>
+  <StrRes Name="obPicture" Text="Obiect imagine"/>
+  <StrRes Name="obBand" Text="Obiect Band"/>
+  <StrRes Name="obDataBand" Text="Banda de date"/>
+  <StrRes Name="obSubRep" Text="Obiect Subreport"/>
+  <StrRes Name="obDlgPage" Text="Forma Dialog"/>
+  <StrRes Name="obRepPage" Text="Pagina raport"/>
+  <StrRes Name="obReport" Text="Obiect raport"/>
+  <StrRes Name="obRich" Text="Obiect RichText"/>
+  <StrRes Name="obOLE" Text="Obiect OLE"/>
+  <StrRes Name="obChBox" Text="Obiect CheckBox"/>
+  <StrRes Name="obChart" Text="Obiect Chart"/>
+  <StrRes Name="obBarC" Text="Obiect cod de bare"/>
+  <StrRes Name="obCross" Text="Obiect Cross-tab"/>
+  <StrRes Name="obDBCross" Text="Obiect DB Cross-tab"/>
+  <StrRes Name="obGrad" Text="Obiect gradient"/>
+  <StrRes Name="obDMPText" Text="Obiect text Dot-matrix"/>
+  <StrRes Name="obDMPLine" Text="Obiect linie Dot-matrix"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Command object"/>
+  <StrRes Name="obBDEDB" Text="Baza de date BDE"/>
+  <StrRes Name="obBDETb" Text="Tabela BDE"/>
+  <StrRes Name="obBDEQ" Text="Interogare BDE"/>
+  <StrRes Name="obBDEComps" Text="Componente BDE"/>
+  <StrRes Name="obIBXDB" Text="Baza de date IBX"/>
+  <StrRes Name="obIBXTb" Text="Tabela IBX"/>
+  <StrRes Name="obIBXQ" Text="Interogare IBX"/>
+  <StrRes Name="obIBXComps" Text="Componente IBX"/>
+  <StrRes Name="obADODB" Text="Baza de date ADO"/>
+  <StrRes Name="obADOTb" Text="Tabela ADO"/>
+  <StrRes Name="obADOQ" Text="Interogare ADO"/>
+  <StrRes Name="obADOComps" Text="Componente ADO"/>
+  <StrRes Name="obDBXDB" Text="Baza de date DBX"/>
+  <StrRes Name="obDBXTb" Text="Tabela DBX"/>
+  <StrRes Name="obDBXQ" Text="Interogare DBX"/>
+  <StrRes Name="obDBXComps" Text="Componente DBX"/>
+  <StrRes Name="obFIBDB" Text="Baza de date FIB"/>
+  <StrRes Name="obFIBTb" Text="Tabela FIB"/>
+  <StrRes Name="obFIBQ" Text="Interogare FIB"/>
+  <StrRes Name="obFIBComps" Text="Componente FIB"/>
+  <StrRes Name="ctString" Text="Text"/>
+  <StrRes Name="ctDate" Text="Data si ora"/>
+  <StrRes Name="ctConv" Text="Conversii"/>
+  <StrRes Name="ctFormat" Text="Formatare"/>
+  <StrRes Name="ctMath" Text="Matematic"/>
+  <StrRes Name="ctOther" Text="Altele"/>
+  <StrRes Name="IntToStr" Text="Converteste o valoare intreaga la un sir de caractere"/>
+  <StrRes Name="FloatToStr" Text="Converteste o valoare reala la un sir de caractere"/>
+  <StrRes Name="DateToStr" Text="Converteste o valoare tip data la un sir de caractere"/>
+  <StrRes Name="TimeToStr" Text="Converteste o valoare tip ora la un sir de caractere"/>
+  <StrRes Name="DateTimeToStr" Text="Converteste o valoare tip data-ora la un sir de caractere"/>
+  <StrRes Name="VarToStr" Text="Converteste un variant la un sir de caractere"/>
+  <StrRes Name="StrToInt" Text="Converteste un sir de caractere la o valoare intreaga"/>
+  <StrRes Name="StrToInt64" Text="Converteste un sir la o valoare Int64"/>
+  <StrRes Name="StrToFloat" Text="Converteste un sir de caractere la o valoare reala cu zecimale"/>
+  <StrRes Name="StrToDate" Text="Converteste un sir de caractere la o valoare tip data"/>
+  <StrRes Name="StrToTime" Text="Converteste un sir de caractere la o valoare tip ora"/>
+  <StrRes Name="StrToDateTime" Text="Converteste un sir de caractere la o valoare tip data-ora"/>
+  <StrRes Name="Format" Text="Returneaza un sir de caractere format dintr-o serie de argumente matrice"/>
+  <StrRes Name="FormatFloat" Text="Formateaza o valoare reala cu zecimale"/>
+  <StrRes Name="FormatDateTime" Text="Formateaza o valoare data-ora"/>
+  <StrRes Name="FormatMaskText" Text="Returneaza un sir de caractere formatat utilizand o masca de editare"/>
+  <StrRes Name="EncodeDate" Text="Returneaza o valoare de tip TDateTime pentru Anul, Luna si Ziua specificate"/>
+  <StrRes Name="DecodeDate" Text="Desparte o valoare de tip TDateTime in Anul, Luna si Ziua corespunzatoare"/>
+  <StrRes Name="EncodeTime" Text="Returneaza o valoare de tip TDateTime pentru Ora, Minutul, Secunda si Milisecunda specificate"/>
+  <StrRes Name="DecodeTime" Text="Desparte o valoare de tip TDateTime in Ore, Minute, Secunde si Milisecunde"/>
+  <StrRes Name="Date" Text="Returneaza data curenta"/>
+  <StrRes Name="Time" Text="Returneaza ora curenta"/>
+  <StrRes Name="Now" Text="Returneaza data si ora curenta"/>
+  <StrRes Name="DayOfWeek" Text="Returneaza ziua saptamanii pentru o data specificata"/>
+  <StrRes Name="IsLeapYear" Text="Indica daca anul specificat este bisect"/>
+  <StrRes Name="DaysInMonth" Text="Returneaza numarul de zile din luna specificata"/>
+  <StrRes Name="Length" Text="Returneaza lungimea unui sir de caractere"/>
+  <StrRes Name="Copy" Text="Returneaza un sub-sir al unui sir de caractere"/>
+  <StrRes Name="Pos" Text="Returneaza pozitia unui sub-sir intr-un sir de caractere"/>
+  <StrRes Name="Delete" Text="Elimina un sub-sir dintr-un sir de caractere"/>
+  <StrRes Name="Insert" Text="Insereaza un sub-sir intr-un sir de caractere"/>
+  <StrRes Name="Uppercase" Text="Converteste toate caracterele dintr-un sir la litere mari"/>
+  <StrRes Name="Lowercase" Text="Converteste toate caracterele dintr-un sir la litere mici"/>
+  <StrRes Name="Trim" Text="Elimina spatiile de la inceputul si sfarsitul unui sir de caractere"/>
+  <StrRes Name="NameCase" Text="Converteste primul caracter al unui cuvant la litera mare"/>
+  <StrRes Name="CompareText" Text="Compara doua siruri de caractere"/>
+  <StrRes Name="Chr" Text="Converteste o valoare intraga la un caracter"/>
+  <StrRes Name="Ord" Text="Converteste un caracter la o valoare intreaga"/>
+  <StrRes Name="SetLength" Text="Seteaza lungimea unui sir de caractere"/>
+  <StrRes Name="Round" Text="Rotunjeste o valoare reala cu zecimale la cea mai apropiata valoare intreaga"/>
+  <StrRes Name="Trunc" Text="Trunchiaza o valoare reala cu zecimale la o valoare intreaga"/>
+  <StrRes Name="Int" Text="Returneaza partea intreaga a unui numar real"/>
+  <StrRes Name="Frac" Text="Returneaza partea fractionala a unui numar real"/>
+  <StrRes Name="Sqrt" Text="Returneaza radical din numarul specificat"/>
+  <StrRes Name="Abs" Text="Returneaza o valoare absoluta"/>
+  <StrRes Name="Sin" Text="Returneaza sinusul unui unghi (in radiani)"/>
+  <StrRes Name="Cos" Text="Returneaza cosinusul unui unghi (in radiani)"/>
+  <StrRes Name="ArcTan" Text="Returneaza tangenta unui arc"/>
+  <StrRes Name="Tan" Text="Returneaza tangenta"/>
+  <StrRes Name="Exp" Text="Returneaza valoarea exponentiala"/>
+  <StrRes Name="Ln" Text="Returneaza logaritmul unei expresii reale"/>
+  <StrRes Name="Pi" Text="Returneaza valoarea constantei PI 3.1415926..."/>
+  <StrRes Name="Inc" Text="Incrementeaza o valoare"/>
+  <StrRes Name="Dec" Text="Decrementeaza o valoare"/>
+  <StrRes Name="RaiseException" Text="Produce o exceptie"/>
+  <StrRes Name="ShowMessage" Text="Afiseaza o fereastra de mesaje"/>
+  <StrRes Name="Randomize" Text="Porneste generatorul de de numere aleatoare"/>
+  <StrRes Name="Random" Text="Returneaza un numar aleator"/>
+  <StrRes Name="ValidInt" Text="Returneaza True daca sirul specificat contine o valoare intreaga valida"/>
+  <StrRes Name="ValidFloat" Text="Returneaza True daca sirul specificat contine o valoare reala valida"/>
+  <StrRes Name="ValidDate" Text="Returneaza True daca sirul specificat contine o valoare tip data valida"/>
+  <StrRes Name="IIF" Text="Returneaza valoarea True daca expresia Expr este valida, altfel returneaza valoarea False"/>
+  <StrRes Name="Get" Text="Doar pentru utilizare interna"/>
+  <StrRes Name="Set" Text="Doar pentru utilizare interna"/>
+  <StrRes Name="InputBox" Text="Afiseaza o fereastra de dialog care permite utilizatorului introducerea unui sir de caractere"/>
+  <StrRes Name="InputQuery" Text="Afiseaza o fereastra de dialog care permite utilizatorului introducerea unui sir de caractere"/>
+  <StrRes Name="MessageDlg" Text="Afiseaza o fereastra de dialog"/>
+  <StrRes Name="CreateOleObject" Text="Creeza un obiect OLE"/>
+  <StrRes Name="VarArrayCreate" Text="Creeaza o matrice de valori variant"/>
+  <StrRes Name="VarType" Text="Returneaza tipul unei valori variant"/>
+  <StrRes Name="DayOf" Text="Returneaza numarul zilei (1..31) al unei date specificate"/>
+  <StrRes Name="MonthOf" Text="Returneaza numarul lunii (1..12) al unei date specificate"/>
+  <StrRes Name="YearOf" Text="Returneaza anul unei date specificate"/>
+  <StrRes Name="ctAggregate" Text="Totalizatoare"/>
+  <StrRes Name="Sum" Text="Calculeaza suma expresiei Expr pentru randul de date al benzii"/>
+  <StrRes Name="Avg" Text="Calculeaza media expresiei Expr pentru randul de date al benzii"/>
+  <StrRes Name="Min" Text="Calculeaza minimul expresiei Expr pentru randul de date al benzii"/>
+  <StrRes Name="Max" Text="Calculeaza maximul expresiei Expr pentru randul de date al benzii"/>
+  <StrRes Name="Count" Text="Calculeaza numarul de randuri de date"/>
+  <StrRes Name="wzDBConn" Text="Wizard conexiune noua"/>
+  <StrRes Name="wzDBTable" Text="Wizard tabela noua"/>
+  <StrRes Name="wzDBQuery" Text="Wizard interogare noua"/>
+  <StrRes Name="5800" Text="Connexiuni"/>
+  <StrRes Name="5801" Text="Nou"/>
+  <StrRes Name="5802" Text="Delete"/>
+  <StrRes Name="cpName" Text="Nume"/>
+  <StrRes Name="cpConnStr" Text="Sir de conectare"/>
+  <StrRes Name="startCreateNew" Text="Creare raport nou"/>
+  <StrRes Name="startCreateBlank" Text="Create raport gol"/>
+  <StrRes Name="startOpenReport" Text="Deschidere raport"/>
+  <StrRes Name="startOpenLast" Text="Deschidere ultimul raport"/>
+  <StrRes Name="startEditAliases" Text="Editare alias conexiune"/>
+  <StrRes Name="startHelp" Text="Ajutor"/>
+  <StrRes Name="5900" Text="Watches"/>
+  <StrRes Name="5901" Text="Adaugare Watch"/>
+  <StrRes Name="5902" Text="Stergere Watch"/>
+  <StrRes Name="5903" Text="Editare Watch"/>
+  <StrRes Name="6000" Text="Eroare mostenire"/>
+  <StrRes Name="6001" Text="Raportul de baza si cel mostenit au obiecte duplicate. Ce ar trebui facut?"/>
+  <StrRes Name="6002" Text="Sterge duplicatele"/>
+  <StrRes Name="6003" Text="Redenumeste duplicatele"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

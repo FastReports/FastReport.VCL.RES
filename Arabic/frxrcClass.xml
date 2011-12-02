@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="1" Text="موافق"/>
+  <StrRes Name="2" Text="إلغاء الأمر"/>
+  <StrRes Name="3" Text="الكل"/>
+  <StrRes Name="4" Text="الصفحة الحالية"/>
+  <StrRes Name="5" Text="الصفحات :"/>
+  <StrRes Name="6" Text="فواصل الصفحات"/>
+  <StrRes Name="7" Text="مدى الصفحة"/>
+  <StrRes Name="8" Text="خصائص التصدير"/>
+  <StrRes Name="9" Text="أدخل أرقام صفحات و/أو نطاق صفحات مفصولة بفواصل. مثال: 6.9.1-18"/>
+  <StrRes Name="100" Text="معاينة"/>
+  <StrRes Name="101" Text="طباعة"/>
+  <StrRes Name="102" Text="طباعة"/>
+  <StrRes Name="103" Text="فتح"/>
+  <StrRes Name="104" Text="فتح"/>
+  <StrRes Name="105" Text="حفظ"/>
+  <StrRes Name="106" Text="حفظ"/>
+  <StrRes Name="107" Text="تصدير"/>
+  <StrRes Name="108" Text="تصدير"/>
+  <StrRes Name="109" Text="بحث"/>
+  <StrRes Name="110" Text="بحث"/>
+  <StrRes Name="111" Text="كامل الصفحة"/>
+  <StrRes Name="112" Text="كامل الصفحة"/>
+  <StrRes Name="113" Text="عرض الصفحة"/>
+  <StrRes Name="114" Text="عرض الصفحة"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="صفحتان"/>
+  <StrRes Name="118" Text="صفحتان"/>
+  <StrRes Name="119" Text="تكبير/تصغير"/>
+  <StrRes Name="120" Text="هوامش"/>
+  <StrRes Name="121" Text="هوامش"/>
+  <StrRes Name="122" Text="محدد"/>
+  <StrRes Name="123" Text="محدد"/>
+  <StrRes Name="124" Text="سحب"/>
+  <StrRes Name="125" Text="أداة السحب"/>
+  <StrRes Name="126" Text="تكبير/تصغير"/>
+  <StrRes Name="127" Text="أداة التكبير/التصغير"/>
+  <StrRes Name="128" Text="إضافة"/>
+  <StrRes Name="129" Text="إضافة صفحة"/>
+  <StrRes Name="130" Text="حذف"/>
+  <StrRes Name="131" Text="حذف صفحة"/>
+  <StrRes Name="132" Text="تحرير"/>
+  <StrRes Name="133" Text="تحرير صفحة"/>
+  <StrRes Name="134" Text="البداية"/>
+  <StrRes Name="135" Text="الصفحة الأولى"/>
+  <StrRes Name="136" Text="السابق"/>
+  <StrRes Name="137" Text="الصفحة السابقة"/>
+  <StrRes Name="138" Text="التالي"/>
+  <StrRes Name="139" Text="الصفحة التالية"/>
+  <StrRes Name="140" Text="النهاية"/>
+  <StrRes Name="141" Text="الصفحة الأخيرة"/>
+  <StrRes Name="142" Text="رقم الصفحة"/>
+  <StrRes Name="150" Text="ملء الشاشة"/>
+  <StrRes Name="151" Text="تصدير إلى أكروبات"/>
+  <StrRes Name="152" Text="إرسال بواسطة بريد إلكتروني"/>
+  <StrRes Name="zmPageWidth" Text="عرض الصفحة"/>
+  <StrRes Name="zmWholePage" Text="كامل الصفحة"/>
+  <StrRes Name="200" Text="طباعة"/>
+  <StrRes Name="201" Text="الطابعة"/>
+  <StrRes Name="202" Text="الصفحات"/>
+  <StrRes Name="203" Text="عدد النسخ"/>
+  <StrRes Name="204" Text="ترتيب النسخ"/>
+  <StrRes Name="205" Text="النسخ"/>
+  <StrRes Name="206" Text="طباعة"/>
+  <StrRes Name="207" Text="النوع:"/>
+  <StrRes Name="208" Text="حيث:"/>
+  <StrRes Name="209" Text="خصائص..."/>
+  <StrRes Name="210" Text="طباعة إلى ملف"/>
+  <StrRes Name="211" Text="ترتيب النسخ"/>
+  <StrRes Name="212" Text="الاسم:"/>
+  <StrRes Name="213" Text="نمط الطباعة"/>
+  <StrRes Name="214" Text="طباعة على ورق"/>
+  <StrRes Name="216" Text="ازدواج"/>
+  <StrRes Name="ppAll" Text="كافة صفحات النطاق"/>
+  <StrRes Name="ppOdd" Text="الصفحات الفردية"/>
+  <StrRes Name="ppEven" Text="الصفحات الزوجية"/>
+  <StrRes Name="pgDefault" Text="الافتراضي"/>
+  <StrRes Name="pmDefault" Text="الافتراضي"/>
+  <StrRes Name="pmSplit" Text="تقسيم صفحات كبيرة"/>
+  <StrRes Name="pmJoin" Text="ضم صفحات ضغيرة"/>
+  <StrRes Name="pmScale" Text="ضبط الحجم"/>
+  <StrRes Name="poDirect" Text="مباشر (1-9)"/>
+  <StrRes Name="poReverse" Text="عكس (9-1)"/>
+  <StrRes Name="300" Text="بحث"/>
+  <StrRes Name="301" Text="البحث عن:"/>
+  <StrRes Name="302" Text="خيارات البحث"/>
+  <StrRes Name="303" Text="استبدال بـ"/>
+  <StrRes Name="304" Text="بحث من البداية"/>
+  <StrRes Name="305" Text="مطابقة لحالة الأحرف"/>
+  <StrRes Name="400" Text="إعدادت الصفحة"/>
+  <StrRes Name="401" Text="العرض"/>
+  <StrRes Name="402" Text="الارتفاع"/>
+  <StrRes Name="403" Text="الحجم"/>
+  <StrRes Name="404" Text="الاتجاه"/>
+  <StrRes Name="405" Text="أيسر"/>
+  <StrRes Name="406" Text="أعلى"/>
+  <StrRes Name="407" Text="يمين"/>
+  <StrRes Name="408" Text="أسفل"/>
+  <StrRes Name="409" Text="هوامش"/>
+  <StrRes Name="410" Text="عمودي"/>
+  <StrRes Name="411" Text="أفقي"/>
+  <StrRes Name="412" Text="أخرى"/>
+  <StrRes Name="413" Text="تطبيق للصفة الحالية"/>
+  <StrRes Name="414" Text="تطبيق لجميع الصفحات"/>
+  <StrRes Name="500" Text="طباعة"/>
+  <StrRes Name="501" Text="الطابعة"/>
+  <StrRes Name="502" Text="الصفحات"/>
+  <StrRes Name="503" Text="النسخ"/>
+  <StrRes Name="504" Text="عدد النسخ"/>
+  <StrRes Name="505" Text="خيارات"/>
+  <StrRes Name="506" Text="Escape أوامر"/>
+  <StrRes Name="507" Text="طباعة إلى ملف"/>
+  <StrRes Name="508" Text="OEM صفحة ترميز"/>
+  <StrRes Name="509" Text="Pseudographic"/>
+  <StrRes Name="510" Text="ملف طابعة (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="تأكيد"/>
+  <StrRes Name="mbError" Text="خطأ"/>
+  <StrRes Name="mbInfo" Text="معلومات"/>
+  <StrRes Name="xrCantFindClass" Text="فصيلة غير موجودة"/>
+  <StrRes Name="prVirtual" Text="ظاهري"/>
+  <StrRes Name="prDefault" Text="الإفتراضي"/>
+  <StrRes Name="prCustom" Text="تخصيص"/>
+  <StrRes Name="enUnconnHeader" Text="رأس/تذييل غير متصل"/>
+  <StrRes Name="enUnconnGroup" Text="لا يوجد شريط بيانات للمجموعة"/>
+  <StrRes Name="enUnconnGFooter" Text="لا يوجد رأس مجموعة لـ"/>
+  <StrRes Name="enBandPos" Text="موقع غير صحيح للشريط:"/>
+  <StrRes Name="dbNotConn" Text="مصدر البيانات %s غير متصل"/>
+  <StrRes Name="dbFldNotFound" Text="ملف غير موجود:"/>
+  <StrRes Name="clDSNotIncl" Text="(مصدر البيانات غير مدرج في تقرير .مصدر البيانات)"/>
+  <StrRes Name="clUnknownVar" Text="متغير أو اسم حقل غير معروف:"/>
+  <StrRes Name="clScrError" Text="خطأ برمجي في %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="مصدر البيانات &#38;#34;%s&#38;#34; غير موجود"/>
+  <StrRes Name="clErrors" Text="حدث الخطأ التالي:"/>
+  <StrRes Name="clExprError" Text="خطأ في التعبير"/>
+  <StrRes Name="clFP3files" Text="تقرير جاهز"/>
+  <StrRes Name="clSaving" Text="حفظ الملف...."/>
+  <StrRes Name="clCancel" Text="إلغاء الأمر"/>
+  <StrRes Name="clClose" Text="إغلاق"/>
+  <StrRes Name="clPrinting" Text="طباعة الصفحة"/>
+  <StrRes Name="clLoading" Text="تحميل ملف..."/>
+  <StrRes Name="clPageOf" Text="الصفحة %d من %d"/>
+  <StrRes Name="clFirstPass" Text="تجهيز: الصفحة"/>
+  <StrRes Name="clNoPrinters" Text="لا يوجد طابعة معرفة في النظام"/>
+  <StrRes Name="clDecompressError" Text="خطأ في مجرى فك الضغط"/>
+  <StrRes Name="crFillMx" Text="تعبأة الجدول المتقاطع..."/>
+  <StrRes Name="crBuildMx" Text="بناء الجدول المتقاطع..."/>
+  <StrRes Name="prRunningFirst" Text="المسح الأول: صفحة %d"/>
+  <StrRes Name="prRunning" Text="تجهيز صفحة %d"/>
+  <StrRes Name="prPrinting" Text="طباعة صفحة %d"/>
+  <StrRes Name="prExporting" Text="تصدير صفحة %d"/>
+  <StrRes Name="uCm" Text="سم"/>
+  <StrRes Name="uInch" Text="بوصة"/>
+  <StrRes Name="uPix" Text="بكسل"/>
+  <StrRes Name="uChar" Text="حرف"/>
+  <StrRes Name="dupDefault" Text="افتراضي"/>
+  <StrRes Name="dupVert" Text="عمودي"/>
+  <StrRes Name="dupHorz" Text="أفقي"/>
+  <StrRes Name="dupSimpl" Text="بسيط"/>
+  <StrRes Name="SLangNotFound" Text="ملف اللغة '%s' غير موجود"/>
+  <StrRes Name="SInvalidLanguage" Text="تعريفات اللغة غير صحيحة"/>
+  <StrRes Name="SIdRedeclared" Text="متغير معرف مسبقاً:"/>
+  <StrRes Name="SUnknownType" Text="نوع غير معروف:"/>
+  <StrRes Name="SIncompatibleTypes" Text="أنواع غير متطابقة"/>
+  <StrRes Name="SIdUndeclared" Text="متغير غير معرف:"/>
+  <StrRes Name="SClassRequired" Text="نوع الفصيلة مطلوب"/>
+  <StrRes Name="SIndexRequired" Text="الفهرس مطلوب"/>
+  <StrRes Name="SStringError" Text="النص لا يحتوي على خصائص أو طرق"/>
+  <StrRes Name="SClassError" Text="الفصيلة %s لا تحتوي على خاصية افتراضية"/>
+  <StrRes Name="SArrayRequired" Text="نوع المصفوفة مطلوبة"/>
+  <StrRes Name="SVarRequired" Text="المتغير مطلوب"/>
+  <StrRes Name="SNotEnoughParams" Text="المتغيرات غير مكتملة"/>
+  <StrRes Name="STooManyParams" Text="المتغيرات أكثر من المطلوب"/>
+  <StrRes Name="SLeftCantAssigned" Text="لا يمكن الإسناد إلى"/>
+  <StrRes Name="SForError" Text="متغير حلقات التكرار يجب أن يكون رقميا"/>
+  <StrRes Name="SEventError" Text="المستقبل للحدث يجب أن يكون إجراء"/>
+  <StrRes Name="600" Text="تمديد الكل"/>
+  <StrRes Name="601" Text="طي الكل"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

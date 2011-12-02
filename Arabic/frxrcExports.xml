@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="8000" Text="تصدير كإكسل"/>
+  <StrRes Name="8001" Text="الشكل"/>
+  <StrRes Name="8002" Text="الصور"/>
+  <StrRes Name="8003" Text="دمج الخلايا"/>
+  <StrRes Name="8004" Text="تصدير سريع"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="كنص"/>
+  <StrRes Name="8007" Text="الخلفية"/>
+  <StrRes Name="8008" Text="فتح إكسل بعد التصدير"/>
+  <StrRes Name="8009" Text="ملف إكسل (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="تصدير كإكسل"/>
+  <StrRes Name="8101" Text="الشكل"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="الخلفية"/>
+  <StrRes Name="8104" Text="فتح إكسل بعد التصدير"/>
+  <StrRes Name="8105" Text="ملف XML إكسل (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="تصدير كجدول هتمل"/>
+  <StrRes Name="8201" Text="فتح بعد التصدير"/>
+  <StrRes Name="8202" Text="الشكل"/>
+  <StrRes Name="8203" Text="الصور"/>
+  <StrRes Name="8204" Text="الكل في مجلد واحد"/>
+  <StrRes Name="8205" Text="عرض ثابت"/>
+  <StrRes Name="8206" Text="متصفح الصفحات"/>
+  <StrRes Name="8207" Text="متعدد الصفحات"/>
+  <StrRes Name="8208" Text="متصفح موزيلا"/>
+  <StrRes Name="8209" Text="الخلفية"/>
+  <StrRes Name="8210" Text="ملف هتمل (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="تصدير كنص (للطابعة النقطية)"/>
+  <StrRes Name="8301" Text="تشغيل/إيقاف المعاينة"/>
+  <StrRes Name="8302" Text=" خصائص التصدير"/>
+  <StrRes Name="8303" Text="فواصل الصفحات"/>
+  <StrRes Name="8304" Text="كود OEM"/>
+  <StrRes Name="8305" Text="سطور فارغة"/>
+  <StrRes Name="8306" Text="المسافة البادئة"/>
+  <StrRes Name="8307" Text="أرقام الصفحات"/>
+  <StrRes Name="8308" Text="أدخل أرقام صفحات و/أو نطاق صفحات مفصولة بفواصل. مثال: 6.9.1-18"/>
+  <StrRes Name="8309" Text=" تحديد المحاور"/>
+  <StrRes Name="8310" Text="محور س"/>
+  <StrRes Name="8311" Text="محور ص"/>
+  <StrRes Name="8312" Text=" إطارات"/>
+  <StrRes Name="8313" Text="بدون"/>
+  <StrRes Name="8314" Text="بسيط"/>
+  <StrRes Name="8315" Text="رسومات"/>
+  <StrRes Name="8316" Text="بكود OEM فقط"/>
+  <StrRes Name="8317" Text="طباعة بعد التصدير"/>
+  <StrRes Name="8318" Text="حفظ الإعدادات"/>
+  <StrRes Name="8319" Text=" معاينة"/>
+  <StrRes Name="8320" Text="عرض:"/>
+  <StrRes Name="8321" Text="ارتفاع:"/>
+  <StrRes Name="8322" Text="صفحة"/>
+  <StrRes Name="8323" Text="تصغير"/>
+  <StrRes Name="8324" Text="تكبير"/>
+  <StrRes Name="8325" Text="ملف نصي (طابعة نقطية)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="طباعة"/>
+  <StrRes Name="8401" Text="طابعة"/>
+  <StrRes Name="8402" Text="الاسم"/>
+  <StrRes Name="8403" Text="إعدادات..."/>
+  <StrRes Name="8404" Text="نسخ"/>
+  <StrRes Name="8405" Text="عدد النسخ"/>
+  <StrRes Name="8406" Text=" إعدادات الطابعة"/>
+  <StrRes Name="8407" Text="نوع الطابعة"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="قالب للطابعة (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="قالب للطابعة (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="تصدير كملف ورد RTF"/>
+  <StrRes Name="8501" Text="صور"/>
+  <StrRes Name="8502" Text="معاينة حقيقية"/>
+  <StrRes Name="8503" Text="فتح بعد التصدير"/>
+  <StrRes Name="8504" Text="RTF ملف ورد (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="إعدادات التصدير"/>
+  <StrRes Name="8601" Text="إعدادات الصورة"/>
+  <StrRes Name="8602" Text="JPEG جودة"/>
+  <StrRes Name="8603" Text="الكثافة (dpi)"/>
+  <StrRes Name="8604" Text="فصل الملفات"/>
+  <StrRes Name="8605" Text="قص الصفحات"/>
+  <StrRes Name="8606" Text="تدرج رمادي"/>
+  <StrRes Name="8700" Text="تصدير كملف أكروبات"/>
+  <StrRes Name="8701" Text="مضغوط"/>
+  <StrRes Name="8702" Text="تضمين الخطوط"/>
+  <StrRes Name="8703" Text="طباعة محسنة"/>
+  <StrRes Name="8704" Text="موجز"/>
+  <StrRes Name="8705" Text="الخلفية"/>
+  <StrRes Name="8706" Text="فتح بعد التصدير"/>
+  <StrRes Name="8707" Text="ملف أكروبات (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="ورد RTF ملف"/>
+  <StrRes Name="BMPexport" Text="BMP صورة"/>
+  <StrRes Name="JPEGexport" Text="JPEG صورة"/>
+  <StrRes Name="TIFFexport" Text="TIFF صورة"/>
+  <StrRes Name="TextExport" Text="نص (للطابعة النقطية)"/>
+  <StrRes Name="XlsOLEexport" Text="جدول إكسل (OLE)"/>
+  <StrRes Name="HTMLexport" Text="ملف هتمل"/>
+  <StrRes Name="XlsXMLexport" Text="جدول إكسل (XML)"/>
+  <StrRes Name="PDFexport" Text="ملف أكروبات"/>
+  <StrRes Name="ProgressWait" Text="الرجاء الإنتظار"/>
+  <StrRes Name="ProgressRows" Text="إعداد السطور"/>
+  <StrRes Name="ProgressColumns" Text="إعداد الأعمدة"/>
+  <StrRes Name="ProgressStyles" Text="إعداد الشكل"/>
+  <StrRes Name="ProgressObjects" Text="كائنات التصدير"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff صورة (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP صورة (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Jpeg صورة (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="البداية"/>
+  <StrRes Name="HTMLNavPrev" Text="السابق"/>
+  <StrRes Name="HTMLNavNext" Text="التالي"/>
+  <StrRes Name="HTMLNavLast" Text="النهاية"/>
+  <StrRes Name="HTMLNavRefresh" Text="تحديث"/>
+  <StrRes Name="HTMLNavPrint" Text="طباعة"/>
+  <StrRes Name="HTMLNavTotal" Text="إجمالي الصفحات"/>
+  <StrRes Name="8800" Text="تصدير كنص"/>
+  <StrRes Name="8801" Text="ملف نصي (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="ملف نصي"/>
+  <StrRes Name="8850" Text="تصدير كملف CSV"/>
+  <StrRes Name="8851" Text="CSV ملف (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="فاصل"/>
+  <StrRes Name="CSVExport" Text="CSV ملف"/>
+  <StrRes Name="8900" Text="إرسال بالبريد الإلكتروني"/>
+  <StrRes Name="8901" Text="بريد إلكتروني"/>
+  <StrRes Name="8902" Text="الحساب"/>
+  <StrRes Name="8903" Text="إعدادات الاتصال"/>
+  <StrRes Name="8904" Text="العنوان"/>
+  <StrRes Name="8905" Text="المرفقات"/>
+  <StrRes Name="8906" Text="الصيغة"/>
+  <StrRes Name="8907" Text="بريد المرسل"/>
+  <StrRes Name="8908" Text="اسم المرسل"/>
+  <StrRes Name="8909" Text="المستضيف"/>
+  <StrRes Name="8910" Text="المستخدم"/>
+  <StrRes Name="8911" Text="إعدادات البريد"/>
+  <StrRes Name="8912" Text="الرسالة"/>
+  <StrRes Name="8913" Text="النص"/>
+  <StrRes Name="8914" Text="الجهة"/>
+  <StrRes Name="8915" Text="كلمة المرور"/>
+  <StrRes Name="8916" Text="المنفذ"/>
+  <StrRes Name="8917" Text="حفظ الإعدادات"/>
+  <StrRes Name="8918" Text="الحقول المطلوبة غير مكتملة"/>
+  <StrRes Name="8919" Text="إعدادات التصدير المتقدمة"/>
+  <StrRes Name="8920" Text="التوقيع"/>
+  <StrRes Name="8921" Text="إنشاء"/>
+  <StrRes Name="8922" Text="الموضوع"/>
+  <StrRes Name="8923" Text="مع أطيب التمنيات"/>
+  <StrRes Name="8924" Text="إرسال البريد إلى"/>
+  <StrRes Name="EmailExport" Text="البريد الإلكتروني"/>
+  <StrRes Name="FastReportFile" Text="ملف تقرير"/>
+  <StrRes Name="GifexportFilter" Text="Gif ملف (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif صورة"/>
+  <StrRes Name="8950" Text="مستمر"/>
+  <StrRes Name="8951" Text="رأس/تذييل الصفحة"/>
+  <StrRes Name="8952" Text="نص"/>
+  <StrRes Name="8953" Text="رأس/تذييل"/>
+  <StrRes Name="8954" Text="بدون"/>
+  <StrRes Name="ODSExportFilter" Text="فتح مستند حسابي (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="فتح مستند حسابي"/>
+  <StrRes Name="ODTExportFilter" Text="فتح مستند نصي (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="فتح مستند نصي"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

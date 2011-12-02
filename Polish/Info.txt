@@ -1,0 +1,8 @@
+Language Resources for FastReport 3
+Language: Polish
+Translator: P.P.H.U. "PAD"
+
+Translation's errors please report to service@pad.com.pl
+
+Informacje o ewentualnych b³êdach w t³umaczeniu prosimy przes³aæ na adres
+service@pad.com.pl

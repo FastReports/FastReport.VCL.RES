@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="8000" Text="Export do Excelu"/>
+  <StrRes Name="8001" Text="Štýly"/>
+  <StrRes Name="8002" Text="Obrázky"/>
+  <StrRes Name="8003" Text="Rýchly export"/>
+  <StrRes Name="8004" Text="Pripojiť bunky"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Ako text"/>
+  <StrRes Name="8007" Text="Pozadie"/>
+  <StrRes Name="8008" Text="Po exporte otvoriť Excel"/>
+  <StrRes Name="8009" Text="Súbor Excelu (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Export do Excelu"/>
+  <StrRes Name="8101" Text="Štýly"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Pozadie"/>
+  <StrRes Name="8104" Text="Po exporte otvoriť Excel"/>
+  <StrRes Name="8105" Text="XML Súbor Excelu (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Export do HTML tabuľky"/>
+  <StrRes Name="8201" Text="Po exporte otvoriť"/>
+  <StrRes Name="8202" Text="Štýly"/>
+  <StrRes Name="8203" Text="Obrázky"/>
+  <StrRes Name="8204" Text="Všetko v jednom adresári"/>
+  <StrRes Name="8205" Text="Pevná šírka"/>
+  <StrRes Name="8206" Text="Navigátor strany"/>
+  <StrRes Name="8207" Text="Multistrana"/>
+  <StrRes Name="8208" Text="Prehliadač Mozilla"/>
+  <StrRes Name="8209" Text="Pozadie"/>
+  <StrRes Name="8210" Text="HTML súbor (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Export do textu (ihličková tlačiareň)"/>
+  <StrRes Name="8301" Text="Prehľad zap/vyp"/>
+  <StrRes Name="8302" Text="Vlastnosti exportu  "/>
+  <StrRes Name="8303" Text="Oddelovač stránok"/>
+  <StrRes Name="8304" Text="Kódová stránka OEM"/>
+  <StrRes Name="8305" Text="Prázdne riadky"/>
+  <StrRes Name="8306" Text="Úvodné medzery"/>
+  <StrRes Name="8307" Text="Počet strán"/>
+  <StrRes Name="8308" Text="Zadajte čísla alebo rozsah strán, oddelených čiarkami. Napr.: 1,3,5-12"/>
+  <StrRes Name="8309" Text="Zväčšenie"/>
+  <StrRes Name="8310" Text="Rozmer X"/>
+  <StrRes Name="8311" Text="Rozmer Y"/>
+  <StrRes Name="8312" Text="Rámčeky"/>
+  <StrRes Name="8313" Text="Žiadny"/>
+  <StrRes Name="8314" Text="Jednoduchý"/>
+  <StrRes Name="8315" Text="Grafický"/>
+  <StrRes Name="8316" Text="Len s OEM kód. stránkou"/>
+  <StrRes Name="8317" Text="Po exporte vytlačiť"/>
+  <StrRes Name="8318" Text="Uložiť nastavenia"/>
+  <StrRes Name="8319" Text="Prehľad"/>
+  <StrRes Name="8320" Text="Šírka:"/>
+  <StrRes Name="8321" Text="Výška:"/>
+  <StrRes Name="8322" Text="Strana"/>
+  <StrRes Name="8323" Text="Zväčšiť"/>
+  <StrRes Name="8324" Text="Zmenšiť"/>
+  <StrRes Name="8325" Text="Súbor textu (ihl. tlač.)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Tlač"/>
+  <StrRes Name="8401" Text="Tlačiareň"/>
+  <StrRes Name="8402" Text="Názov"/>
+  <StrRes Name="8403" Text="Nastavenia..."/>
+  <StrRes Name="8404" Text="Kópie"/>
+  <StrRes Name="8405" Text="Počet kópií"/>
+  <StrRes Name="8406" Text="Zákl. nastavenia tlačiarne"/>
+  <StrRes Name="8407" Text="Typ tlačiarne"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Šablóna inic. tlačiarne (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Šablóna inic. tlačiarne (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Export do RTF"/>
+  <StrRes Name="8501" Text="Obrázky"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Po exporte otvoriť"/>
+  <StrRes Name="8504" Text="Súbor RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Nastavenie exportu"/>
+  <StrRes Name="8601" Text="Nastavenie obrázku "/>
+  <StrRes Name="8602" Text="Kvalita JPEG"/>
+  <StrRes Name="8603" Text="Rozlíšenie (dpi)"/>
+  <StrRes Name="8604" Text="Oddelené súbory"/>
+  <StrRes Name="8605" Text="Orezávanie stránok"/>
+  <StrRes Name="8606" Text="Čiernobiele"/>
+  <StrRes Name="8700" Text="Export do PDF"/>
+  <StrRes Name="8701" Text="Komprimovať"/>
+  <StrRes Name="8702" Text="Vložené písmená"/>
+  <StrRes Name="8703" Text="Optimalizovať tlač"/>
+  <StrRes Name="8704" Text="Navigátor"/>
+  <StrRes Name="8705" Text="Pozadie"/>
+  <StrRes Name="8706" Text="Po exporte otvoriť"/>
+  <StrRes Name="8707" Text="Súbor Adobe PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="Súbor RTF"/>
+  <StrRes Name="BMPexport" Text="Obrázok BMP"/>
+  <StrRes Name="JPEGexport" Text="Obrázok JPEG"/>
+  <StrRes Name="TIFFexport" Text="Obrázok TIFF"/>
+  <StrRes Name="TextExport" Text="Text (ihl. tlačiareň)"/>
+  <StrRes Name="XlsOLEexport" Text="Tabuľka Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="Súbor HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Tabuľka Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="Súbor PDF"/>
+  <StrRes Name="ProgressWait" Text="Čakajte, prosím"/>
+  <StrRes Name="ProgressRows" Text="Nastavovanie riadkov"/>
+  <StrRes Name="ProgressColumns" Text="Nastavovanie stľpcov"/>
+  <StrRes Name="ProgressStyles" Text="Nastavovanie štýlov"/>
+  <StrRes Name="ProgressObjects" Text="Exportovanie objektov"/>
+  <StrRes Name="TIFFexportFilter" Text="Obrázok Tiff (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="Obrázok BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Obrázok Jpeg (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Prvý"/>
+  <StrRes Name="HTMLNavPrev" Text="Predchádzajúci"/>
+  <StrRes Name="HTMLNavNext" Text="Ďalší"/>
+  <StrRes Name="HTMLNavLast" Text="Posledný"/>
+  <StrRes Name="HTMLNavRefresh" Text="Obnoviť"/>
+  <StrRes Name="HTMLNavPrint" Text="Tlač"/>
+  <StrRes Name="HTMLNavTotal" Text="Počet strán"/>
+  <StrRes Name="8800" Text="Exportovať ako text"/>
+  <StrRes Name="8801" Text="Textový súbor (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Textový súbor"/>
+  <StrRes Name="8850" Text="Export do CSV"/>
+  <StrRes Name="8851" Text="CSV súbor (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Oddelovač"/>
+  <StrRes Name="CSVExport" Text="CSV súbor"/>
+  <StrRes Name="8900" Text="Odoslať e-mailom"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Účet"/>
+  <StrRes Name="8903" Text="Pripojenie"/>
+  <StrRes Name="8904" Text="Adresa"/>
+  <StrRes Name="8905" Text="Príloha"/>
+  <StrRes Name="8906" Text="Formát"/>
+  <StrRes Name="8907" Text="Z adresy"/>
+  <StrRes Name="8908" Text="Odosielateľ"/>
+  <StrRes Name="8909" Text="Hostiteľ"/>
+  <StrRes Name="8910" Text="Meno"/>
+  <StrRes Name="8911" Text="Mail"/>
+  <StrRes Name="8912" Text="Správa"/>
+  <StrRes Name="8913" Text="Text"/>
+  <StrRes Name="8914" Text="Organizácia"/>
+  <StrRes Name="8915" Text="Heslo"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Zapamätovať si vlastnosti"/>
+  <StrRes Name="8918" Text="Nie sú vyplnené povinné polia"/>
+  <StrRes Name="8919" Text="Rozšírené nastavenia exportu"/>
+  <StrRes Name="8920" Text="Signatúra"/>
+  <StrRes Name="8921" Text="Vytvor"/>
+  <StrRes Name="8922" Text="Predmet"/>
+  <StrRes Name="8923" Text="S pozdravom"/>
+  <StrRes Name="8924" Text="Odoslať e-mail"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="FastReport súbor"/>
+  <StrRes Name="GifexportFilter" Text="Súbor Gif (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Obrázok Gif"/>
+  <StrRes Name="8950" Text="Plynulý"/>
+  <StrRes Name="8951" Text="Hlavička/päta strany"/>
+  <StrRes Name="8952" Text="Text"/>
+  <StrRes Name="8953" Text="Hlavička/päta"/>
+  <StrRes Name="8954" Text="Nič"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/> 
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

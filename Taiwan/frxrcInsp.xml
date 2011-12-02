@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="950">
+  <StrRes Name="propActive" Text="設定是否開啟資料集(DataSet)。"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="是否啟動 highlight 功能。"/>
+  <StrRes Name="propAliasName" Text="BDE 別名(alias)。"/>
+  <StrRes Name="propAlign" Text="決定物件與Band或page切齊。"/>
+  <StrRes Name="propAlignment" Text="物件文字的切齊方式。"/>
+  <StrRes Name="propAllowAllUp" Text="同群組的的快速按鈕是否可同時取消選取。"/>
+  <StrRes Name="propAllowEdit" Text="使用者是否可以編輯預覽中的報表。"/>
+  <StrRes Name="propAllowExpressions" Text="決定文字物件是否可以包括運算式。"/>
+  <StrRes Name="propAllowGrayed" Text="允許CheckBox呈現灰色的狀態。"/>
+  <StrRes Name="propAllowHTMLTags" Text="決定文字物件的內容是否可使用 HTML 標籤。"/>
+  <StrRes Name="propAllowSplit" Text="決定頁面的內容是否可跨頁列印。"/>
+  <StrRes Name="propAuthor" Text="報表作者。"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="決定是否自動調整圖像的大小。"/>
+  <StrRes Name="propAutoWidth" Text="決定是否自動調整文字的寬度。"/>
+  <StrRes Name="propBackPicture" Text="報表頁面的背景圖。"/>
+  <StrRes Name="propBarType" Text="條碼的類型。"/>
+  <StrRes Name="propBevelInner" Text="bevel內部的型態。"/>
+  <StrRes Name="propBevelOuter" Text="bevel外部的型態。"/>
+  <StrRes Name="propBevelWidth" Text="bevel的寬度。"/>
+  <StrRes Name="propBorder" Text="決定是否顯示外框。"/>
+  <StrRes Name="propBorderStyle" Text="視窗的樣式。"/>
+  <StrRes Name="propBottomMargin" Text="頁面下方的邊界。"/>
+  <StrRes Name="propBrushStyle" Text="物件背景的畫筆樣式。"/>
+  <StrRes Name="propCalcCheckSum" Text="自動計算條碼的檢查碼。"/>
+  <StrRes Name="propCancel" Text="決定當按下Esc鍵時，此按鈕恢復動作。"/>
+  <StrRes Name="propCaption" Text="控制項的標題。"/>
+  <StrRes Name="propCellFields" Text="交叉報表資料庫欄位名稱。"/>
+  <StrRes Name="propCellLevels" Text="交叉報表的階層數。"/>
+  <StrRes Name="propCenter" Text="影像置中。"/>
+  <StrRes Name="propCharset" Text="字元集。"/>
+  <StrRes Name="propCharSpacing" Text="兩個字元間的間距，以像素(Pixels)表示。。"/>
+  <StrRes Name="propCheckColor" Text="CheckBox勾選狀態的顏色。"/>
+  <StrRes Name="propChecked" Text="控制項的勾選狀態。"/>
+  <StrRes Name="propCheckStyle" Text="CheckBox勾選的樣式。"/>
+  <StrRes Name="propChild" Text="連接至此band的Child Band名稱。"/>
+  <StrRes Name="propClipped" Text="決定文字是否在物件的範圍內顯示"/>
+  <StrRes Name="propCollate" Text="預設的輸出順序設定"/>
+  <StrRes Name="propColor.TFont" Text="文字的顏色。"/>
+  <StrRes Name="propColor" Text="物件的顏色。"/>
+  <StrRes Name="propColor.TfrxFrame" Text="框架(Frame)的顏色"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="假如 highlight 屬性動作時，決定物件顯示的顏色。"/>
+  <StrRes Name="propColumnFields" Text="交叉報表的欄位名稱。"/>
+  <StrRes Name="propColumnGap" Text="欄間距"/>
+  <StrRes Name="propColumnLevels" Text="欄的階層數。"/>
+  <StrRes Name="propColumns" Text="欄的個數。"/>
+  <StrRes Name="propColumnWidth" Text="Band的column寬度。"/>
+  <StrRes Name="propCondition" Text="群組條件，假如此運算式的值改變，群組自動改變。"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="運算式字串。假如運算式為真(True)，醒目的顯示上將會啟動。"/>
+  <StrRes Name="propConnected" Text="設定是否連接資料庫。"/>
+  <StrRes Name="propConvertNulls" Text="是否自動將Null轉成 0, False 或 空字串。"/>
+  <StrRes Name="propCopies" Text="預設報表列印份數。"/>
+  <StrRes Name="propCursor" Text="物件的游標。"/>
+  <StrRes Name="propDatabaseName" Text="資料庫名稱。"/>
+  <StrRes Name="propDataField" Text="抓取資料庫的欄位名稱。"/>
+  <StrRes Name="propDataSet" Text="連結至資料集。"/>
+  <StrRes Name="propDate" Text="控制項的日期值。"/>
+  <StrRes Name="propDateFormat" Text="日期輸出格式。"/>
+  <StrRes Name="propDecimalSeparator" Text="小數點的分隔字元。"/>
+  <StrRes Name="propDefault" Text="決定此按鈕是否為預設按鈕。"/>
+  <StrRes Name="propDefHeight" Text="預設列高。"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="報表用途描述"/>
+  <StrRes Name="propDescription" Text="物件的描述"/>
+  <StrRes Name="propDiagonal" Text="將線條指定為斜線。"/>
+  <StrRes Name="propDisplayFormat" Text="資料顯示格式。"/>
+  <StrRes Name="propDoublePass" Text="決定報表引擎是否執行二次處理。"/>
+  <StrRes Name="propDown" Text="決定按鈕是否已被按下。"/>
+  <StrRes Name="propDownThenAcross" Text="指定多欄式報表採由上而下，由左至右列印。"/>
+  <StrRes Name="propDriverName" Text="BDE驅動程式名稱。"/>
+  <StrRes Name="propDropShadow" Text="決定物件是否有陰影。"/>
+  <StrRes Name="propDuplex" Text="雙面列印模式。"/>
+  <StrRes Name="propEditMask" Text="輸入編輯遮罩。"/>
+  <StrRes Name="propEnabled" Text="決定控制項是否可動作。"/>
+  <StrRes Name="propEngineOptions" Text="報表引擎的選項。"/>
+  <StrRes Name="propExpression" Text="物件的運算式。"/>
+  <StrRes Name="propExpressionDelimiters" Text="運算式的分隔字元。"/>
+  <StrRes Name="propFieldAliases" Text="資料集欄位的別名。"/>
+  <StrRes Name="propFilter" Text="資料集的過濾條件。"/>
+  <StrRes Name="propFiltered" Text="決定 Filter 過濾條件是否啟動。"/>
+  <StrRes Name="propFlowTo" Text="文字物件無法容納時，顯示至其他物件。"/>
+  <StrRes Name="propFont" Text="物件的字型屬性。"/>
+  <StrRes Name="propFooterAfterEach" Text="決定是否在每個資料列之後，跟著列印 footer band。"/>
+  <StrRes Name="propFormatStr" Text="輸出格式編輯字串。"/>
+  <StrRes Name="propFrame" Text="物件的框架屬性。"/>
+  <StrRes Name="propGapX" Text="文字與左邊切齊。"/>
+  <StrRes Name="propGapY" Text="文字與上面切齊。"/>
+  <StrRes Name="propGlyph" Text="控制項的影像。"/>
+  <StrRes Name="propGroupIndex" Text="允許快速按鈕設為同一群組。"/>
+  <StrRes Name="propHAlign" Text="文字水平切齊方式。"/>
+  <StrRes Name="propHeight" Text="物件的高度。"/>
+  <StrRes Name="propHideZeros" Text="數字前面的 0 不顯示。"/>
+  <StrRes Name="propHighlight" Text="highlight屬性的條件。"/>
+  <StrRes Name="propIndexName" Text="索引名稱。"/>
+  <StrRes Name="propInitString" Text="供點矩陣報表使用的印表機初始字串。"/>
+  <StrRes Name="propItems" Text="物件的清單項目"/>
+  <StrRes Name="propKeepAspectRatio" Text="保留影像的顯示比率"/>
+  <StrRes Name="propKeepChild" Text="決定Band是否與Child列印在一起"/>
+  <StrRes Name="propKeepFooter" Text="是否與footer列印在一起"/>
+  <StrRes Name="propKeepHeader" Text="是否與header列印在一起"/>
+  <StrRes Name="propKeepTogether" Text="決定band與subband一起列印"/>
+  <StrRes Name="propKind.TfrxFormat" Text="格式種類"/>
+  <StrRes Name="propKind" Text="按鈕類型"/>
+  <StrRes Name="propLargeDesignHeight" Text="設計報表頁面的最大高度"/>
+  <StrRes Name="propLayout" Text="按鈕圖形的格式"/>
+  <StrRes Name="propLeft" Text="物件的左邊座標"/>
+  <StrRes Name="propLeftMargin" Text="左邊界的大小"/>
+  <StrRes Name="propLines" Text="物件的文字"/>
+  <StrRes Name="propLineSpacing" Text="列距"/>
+  <StrRes Name="propLoginPrompt" Text="顯示登入視窗"/>
+  <StrRes Name="propMargin" Text="按鈕圖形與邊界的距離(像素)"/>
+  <StrRes Name="propMaster" Text="主資料集"/>
+  <StrRes Name="propMasterFields" Text="主資料與明細資料關聯的欄位"/>
+  <StrRes Name="propMaxLength" Text="文字的最大長度"/>
+  <StrRes Name="propMaxWidth" Text="最大欄寬"/>
+  <StrRes Name="propMemo" Text="物件的文字"/>
+  <StrRes Name="propMinWidth" Text="欄的最小寬度"/>
+  <StrRes Name="propMirrorMargins" Text="鏡射頁面邊界至偶數頁"/>
+  <StrRes Name="propModalResult" Text="Modal視窗關閉時傳回的值"/>
+  <StrRes Name="propName.TFont" Text="字型名稱"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="報表名稱"/>
+  <StrRes Name="propName" Text="物件名稱"/>
+  <StrRes Name="propNumGlyphs" Text="Glyph屬性內圖形的數目"/>
+  <StrRes Name="propOpenDataSource" Text="決定是否自動開啟資料來源"/>
+  <StrRes Name="propOrientation" Text="報表頁面的方向"/>
+  <StrRes Name="propOutlineText" Text="顯示在報表大綱物件的文字"/>
+  <StrRes Name="propOutlineVisible" Text="顯示預覽大綱"/>
+  <StrRes Name="propOutlineWidth" Text="報表大綱的寬度"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="列印的頁數"/>
+  <StrRes Name="propPaperHeight" Text="頁的高度"/>
+  <StrRes Name="propPaperWidth" Text="頁的寬度"/>
+  <StrRes Name="propParagraphGap" Text="段落首行內縮"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="BDE資料庫連接參數"/>
+  <StrRes Name="propParams" Text="查詢的參數"/>
+  <StrRes Name="propParentFont" Text="決定物件是否顯示上層物件的字型設定"/>
+  <StrRes Name="propPassword" Text="報表密碼"/>
+  <StrRes Name="propPasswordChar" Text="密碼欄位輸入時顯示的字元"/>
+  <StrRes Name="propPicture" Text="圖像"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="報表圖像"/>
+  <StrRes Name="propPosition" Text="視窗的初始位置"/>
+  <StrRes Name="propPreviewOptions" Text="報表預覽選項"/>
+  <StrRes Name="propPrintable" Text="物件是否可列印"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="假如parent band不列印，決定child band是否列印"/>
+  <StrRes Name="propPrinter" Text="報表預設的印表機名稱"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="假如subnband是空的，決定是否列印"/>
+  <StrRes Name="propPrintIfEmpty" Text="假如報表資料集是空的，決定是否繼續列印"/>
+  <StrRes Name="propPrintOnFirstPage" Text="決定Band是否列印在首頁"/>
+  <StrRes Name="propPrintOnLastPage" Text="決定Band是否列印在末頁"/>
+  <StrRes Name="propPrintOnParent" Text="決定子報表是否列印在上層的Band"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="決定本頁是否可列印在上頁的剩餘空間"/>
+  <StrRes Name="propPrintOptions" Text="報表列印選項。"/>
+  <StrRes Name="propPrintPages" Text="決定列印全部的報表、奇數頁或偶數頁。"/>
+  <StrRes Name="propRangeBegin" Text="列印資料集的起點。"/>
+  <StrRes Name="propRangeEnd" Text="列印資料集的終點。"/>
+  <StrRes Name="propRangeEndCount" Text="決定列印筆數。"/>
+  <StrRes Name="propReadOnly" Text="決定文字物件是否唯讀。"/>
+  <StrRes Name="propRepeatHeaders" Text="決定頁首是否列印在每個新的頁面。"/>
+  <StrRes Name="propReportOptions" Text="報表選項。"/>
+  <StrRes Name="propReprintOnNewPage" Text="決定是否重新列印在下一頁"/>
+  <StrRes Name="propRestrictions" Text="報表限制旗標。"/>
+  <StrRes Name="propRightMargin" Text="右邊界。"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="條碼方向"/>
+  <StrRes Name="propRotation" Text="旋轉文字"/>
+  <StrRes Name="propRowCount" Text="Databand的虛擬資料筆數。"/>
+  <StrRes Name="propRowFields" Text="交叉報表列的資料庫欄位名稱"/>
+  <StrRes Name="propRowLevels" Text="列階層的數目"/>
+  <StrRes Name="propRTLReading" Text="決定文字物件是否由右至左顯示"/>
+  <StrRes Name="propSessionName" Text="BDE 連線名稱。"/>
+  <StrRes Name="propShadowColor" Text="陰影的顏色。"/>
+  <StrRes Name="propShadowWidth" Text="陰影的寬度。"/>
+  <StrRes Name="propShape" Text="外型的樣式"/>
+  <StrRes Name="propShiftMode" Text="物件變動的行為"/>
+  <StrRes Name="propShowColumnHeader" Text="決定交叉報表是否顯示欄位表頭"/>
+  <StrRes Name="propShowColumnTotal" Text="決定交叉報表是否顯示欄位總計"/>
+  <StrRes Name="propShowRowHeader" Text="決定交叉報表是否顯示列的表頭"/>
+  <StrRes Name="propShowRowTotal" Text="決定交叉報表是否顯示列的總計"/>
+  <StrRes Name="propShowDialog" Text="決定列印對話視窗是否出現在預覽視窗"/>
+  <StrRes Name="propShowText" Text="決定條碼物件是否顯示文字說明"/>
+  <StrRes Name="propSize" Text="字型大小。"/>
+  <StrRes Name="propSorted" Text="項目是否要排序。"/>
+  <StrRes Name="propSpacing" Text="文字與影像間的像素(Pixels)間距。"/>
+  <StrRes Name="propSQL" Text="SQL敘述"/>
+  <StrRes Name="propStartNewPage" Text="在列印Band之前，先執行跳頁動作。"/>
+  <StrRes Name="propStretch" Text="調整圖像至物件的大小。"/>
+  <StrRes Name="propStretched" Text="決定物件可以伸縮。"/>
+  <StrRes Name="propStretchMode" Text="物件伸縮的行為。"/>
+  <StrRes Name="propStyle.TFont" Text="字型樣式。"/>
+  <StrRes Name="propStyle" Text="控制項樣式。"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="物件的框架樣式。"/>
+  <StrRes Name="propSuppressRepeated" Text="刪除重複的值(重複的值不列印)。"/>
+  <StrRes Name="propTableName" Text="資料表名稱。"/>
+  <StrRes Name="propTag" Text="物件的數字標籤"/>
+  <StrRes Name="propTagStr" Text="物件的字串標籤。"/>
+  <StrRes Name="propText" Text="物件的文字。"/>
+  <StrRes Name="propTitleBeforeHeader" Text="決定是否在頁首前顯示報表抬頭。"/>
+  <StrRes Name="propTop" Text="物件上方的座標。"/>
+  <StrRes Name="propTopMargin" Text="頁面與紙張上緣的邊界。"/>
+  <StrRes Name="propTyp" Text="框架的型態。"/>
+  <StrRes Name="propUnderlines" Text="決定文字物件再每一列之後顯示底線。"/>
+  <StrRes Name="propURL" Text="物件連結的 URL 位址。"/>
+  <StrRes Name="propUserName" Text="資料物件的使用者名稱，此名稱將顯示於資料樹狀結構。"/>
+  <StrRes Name="propVAlign" Text="文字垂直切齊方式。"/>
+  <StrRes Name="propVersionBuild" Text="版本編號"/>
+  <StrRes Name="propVersionMajor" Text="版本編號, 主版本編號。"/>
+  <StrRes Name="propVersionMinor" Text="版本編號，次版本編號。"/>
+  <StrRes Name="propVersionRelease" Text="版本發行資訊。"/>
+  <StrRes Name="propVisible" Text="物件可見。"/>
+  <StrRes Name="propWidth" Text="物件寬度。"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="框架寬度。"/>
+  <StrRes Name="propWindowState" Text="視窗初始狀態。"/>
+  <StrRes Name="propWordBreak" Text="斷字"/>
+  <StrRes Name="propWordWrap" Text="文字是否自動換行。"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="條碼顯示比例"/>
+  <StrRes Name="propConnectionName" Text="使用在報表內的連線資料庫名稱"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="點矩陣印表機字型樣式"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="隱藏 footer 假如群組只有一筆資料"/>
+  <StrRes Name="propOutlineExpand" Text="決定是否展開報表縮圖"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="列印模式: 正常, 分割大頁面至小頁面或列印數個小頁面至一個大頁面"/>
+  <StrRes Name="propPrintOnSheet" Text="Paper size to print report on. Used if PrintMode is not pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="當列印群組時重置頁碼/總頁數，應將 StartNewPage 選項設為 true"/>
+  <StrRes Name="propReverse" Text="決定報表是否反向次序列印頁面"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="OLE 物件的顯示模式"/>
+  <StrRes Name="propVersion" Text="FastReport的版本"/>
+  <StrRes Name="propWideBarRatio" Text="Relative with of wide bars of the barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="決定是否在線條末端畫上箭頭"/>
+  <StrRes Name="propArrowLength" Text="箭頭長度"/>
+  <StrRes Name="propArrowSolid" Text="決定是否畫實線的箭頭"/>
+  <StrRes Name="propArrowStart" Text="決定是否在線條前端畫上箭頭"/>
+  <StrRes Name="propArrowWidth" Text="箭頭寬度"/>
+  <StrRes Name="propCloseDataSource" Text="決定當報表完成時是否關閉資料集"/>
+  <StrRes Name="propDatabase" Text="資料庫連線"/>
+  <StrRes Name="propIndexFieldNames" Text="索引欄位名稱"/>
+  <StrRes Name="propCommandTimeOut" Text="執行查詢所需的時間"/>
+  <StrRes Name="propExpandDrillDown" Text="決定在第一次啟動報表時展開所有下拉項目"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="決定文字是否依所見即所得方式顯示"/>
+  <StrRes Name="propLeftLine" Text="左框線"/>
+  <StrRes Name="propTopLine" Text="上框線"/>
+  <StrRes Name="propRightLine" Text="右框線"/>
+  <StrRes Name="propBottomLine" Text="下框線"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="框線顏色"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="框線樣式"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="框線寬度"/>
+  <StrRes Name="propFileLink" Text="Expression or name of the file containing a picture"/>
+  <StrRes Name="propEndlessWidth" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propEndlessHeight" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propAddHeight" Text="Adds specified amount of space to the cell height"/>
+  <StrRes Name="propAddWidth" Text="Adds specified amount of space to the cell width"/>
+  <StrRes Name="propAllowDuplicates" Text="Determines whether the cell can accept duplicate string values"/>
+  <StrRes Name="propJoinEqualCells" Text="Determines whether the crosstab should join cells with equal values"/>
+  <StrRes Name="propNextCross" Text="Pointer to the next crosstab that will be displayed side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Gap between side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Determines whether the crosstab should display a left-top corner elements"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

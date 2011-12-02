@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Annuleren"/>
+  <StrRes Name="3" Text="Alles"/>
+  <StrRes Name="4" Text="Huidige pagina"/>
+  <StrRes Name="5" Text="Pagina's:"/>
+  <StrRes Name="6" Text="Page breaks"/>
+  <StrRes Name="7" Text="Pagina bereik"/>
+  <StrRes Name="8" Text="Exporteer instellingen"/>
+  <StrRes Name="9" Text="Typ paginanummers en/of -bereiken gescheiden door komma's, bijvoorbeeld: 1,3,5-12"/>
+  <StrRes Name="100" Text="Afdrukvoorbeeld"/>
+  <StrRes Name="101" Text="Afdrukken"/>
+  <StrRes Name="102" Text="Afdrukken (Ctrl+P)"/>
+  <StrRes Name="103" Text="Openen"/>
+  <StrRes Name="104" Text="Openen (Ctrl+O)"/>
+  <StrRes Name="105" Text="Opslaan"/>
+  <StrRes Name="106" Text="Opslaan (Ctrl+S)"/>
+  <StrRes Name="107" Text="Exporteren"/>
+  <StrRes Name="108" Text="Exporteren"/>
+  <StrRes Name="109" Text="Zoeken"/>
+  <StrRes Name="110" Text="Zoeken (Ctrl+F)"/>
+  <StrRes Name="111" Text="Hele pagina"/>
+  <StrRes Name="112" Text="Hele pagina"/>
+  <StrRes Name="113" Text="Pagina breedte"/>
+  <StrRes Name="114" Text="Pagina breedte"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Twee pagina's"/>
+  <StrRes Name="118" Text="Twee pagina's"/>
+  <StrRes Name="119" Text="Zoom"/>
+  <StrRes Name="120" Text="Pagina instellingen"/>
+  <StrRes Name="121" Text="Pagina instellingen"/>
+  <StrRes Name="122" Text="Inhoudsopgave"/>
+  <StrRes Name="123" Text="Inhoudsopgave"/>
+  <StrRes Name="124" Text="Zoom In"/>
+  <StrRes Name="125" Text="Zoom In"/>
+  <StrRes Name="126" Text="Zoom Out"/>
+  <StrRes Name="127" Text="Zoom Out"/>
+  <StrRes Name="128" Text="Outline"/>
+  <StrRes Name="129" Text="Report outline"/>
+  <StrRes Name="130" Text="Thumbnails"/>
+  <StrRes Name="131" Text="Thumbnails"/>
+  <StrRes Name="132" Text="Bewerken"/>
+  <StrRes Name="133" Text="Pagina bewerken"/>
+  <StrRes Name="134" Text="Eerste"/>
+  <StrRes Name="135" Text="Eerste pagina (Ctrl+Home)"/>
+  <StrRes Name="136" Text="Vorige"/>
+  <StrRes Name="137" Text="Vorige pagina (Ctrl+PgUp)"/>
+  <StrRes Name="138" Text="Volgende"/>
+  <StrRes Name="139" Text="Volgende pagina (Ctrl+PgDn)"/>
+  <StrRes Name="140" Text="Laatste"/>
+  <StrRes Name="141" Text="Laatste pagina (Ctrl+End)"/>
+  <StrRes Name="142" Text="Paginanummer"/>
+  <StrRes Name="150" Text="Volledig scherm (F11)"/>
+  <StrRes Name="151" Text="Export naar PDF"/>
+  <StrRes Name="152" Text="Verstuur per E-mail"/>
+  <StrRes Name="zmPageWidth" Text="Pagina breedte"/>
+  <StrRes Name="zmWholePage" Text="Hele pagina"/>
+  <StrRes Name="200" Text="Afdrukken"/>
+  <StrRes Name="201" Text="Afdrukken"/>
+  <StrRes Name="202" Text="Pagina's"/>
+  <StrRes Name="203" Text="Aantal kopieën"/>
+  <StrRes Name="204" Text="Verzamelen"/>
+  <StrRes Name="205" Text="Kopieën"/>
+  <StrRes Name="206" Text="Afdrukken"/>
+  <StrRes Name="207" Text="!Overige"/>
+  <StrRes Name="208" Text="Waar:"/>
+  <StrRes Name="209" Text="Eigenschappen..."/>
+  <StrRes Name="210" Text="Afdrukken naar bestand"/>
+  <StrRes Name="211" Text="!Volgorde"/>
+  <StrRes Name="212" Text="Naam:"/>
+  <StrRes Name="213" Text="Print mode"/>
+  <StrRes Name="214" Text="Aanpassen aan formaat"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Alle pagina's"/>
+  <StrRes Name="ppOdd" Text="Oneven pagina's"/>
+  <StrRes Name="ppEven" Text="Even pagina's"/>
+  <StrRes Name="pgDefault" Text="Default"/>
+  <StrRes Name="pmDefault" Text="Standaard"/>
+  <StrRes Name="pmSplit" Text="Grote pagina's splitsen"/>
+  <StrRes Name="pmJoin" Text="Kleine pagina's samenvoegen"/>
+  <StrRes Name="pmScale" Text="Aanpassen aan formaat"/>
+  <StrRes Name="poDirect" Text="!Standaard (1-9)"/>
+  <StrRes Name="poReverse" Text="!Omgekeerd (9-1)"/>
+  <StrRes Name="300" Text="Zoek tekst"/>
+  <StrRes Name="301" Text="Zoektekst:"/>
+  <StrRes Name="302" Text="Zoek opties"/>
+  <StrRes Name="303" Text="Vervangen door"/>
+  <StrRes Name="304" Text="Zoeken vanaf het begin"/>
+  <StrRes Name="305" Text="Hoofdletters/kleine letters"/>
+  <StrRes Name="400" Text="Pagina instellingen"/>
+  <StrRes Name="401" Text="Breedte"/>
+  <StrRes Name="402" Text="Hoogte"/>
+  <StrRes Name="403" Text="Formaat"/>
+  <StrRes Name="404" Text="Oriëntatie"/>
+  <StrRes Name="405" Text="Links"/>
+  <StrRes Name="406" Text="Boven"/>
+  <StrRes Name="407" Text="Rechts"/>
+  <StrRes Name="408" Text="Onder"/>
+  <StrRes Name="409" Text="Marges"/>
+  <StrRes Name="410" Text="Staand"/>
+  <StrRes Name="411" Text="Liggend"/>
+  <StrRes Name="412" Text="Overig"/>
+  <StrRes Name="413" Text="Toepassen op de huidige pagina"/>
+  <StrRes Name="414" Text="Toepassen op alle pagina's"/>
+  <StrRes Name="500" Text="Afdrukken"/>
+  <StrRes Name="501" Text="Printer"/>
+  <StrRes Name="502" Text="Pagina's"/>
+  <StrRes Name="503" Text="Kopieën"/>
+  <StrRes Name="504" Text="Aantal kopieën"/>
+  <StrRes Name="505" Text="Opties"/>
+  <StrRes Name="506" Text="Escape commando's"/>
+  <StrRes Name="507" Text="Afdrukken naar bestand"/>
+  <StrRes Name="508" Text="OEM codepage"/>
+  <StrRes Name="509" Text="Pseudo grafisch"/>
+  <StrRes Name="510" Text="Afdrukbestand (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Bevestigen"/>
+  <StrRes Name="mbError" Text="Fout"/>
+  <StrRes Name="mbInfo" Text="Informatie"/>
+  <StrRes Name="xrCantFindClass" Text="Kan de klasse niet vinden"/>
+  <StrRes Name="prVirtual" Text="Virtueel"/>
+  <StrRes Name="prDefault" Text="Default"/>
+  <StrRes Name="prCustom" Text="Aangepast"/>
+  <StrRes Name="enUnconnHeader" Text="Zwevende kopregel/voetregel"/>
+  <StrRes Name="enUnconnGroup" Text="Geen gegevens band voor deze groep"/>
+  <StrRes Name="enUnconnGFooter" Text="Geen groepskop voor"/>
+  <StrRes Name="enBandPos" Text="Onjuiste band positie:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s is niet met gegevens verbonden"/>
+  <StrRes Name="dbFldNotFound" Text="Veld niet gevonden:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset is niet opgenomen in de Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Onbekende variabele of gegevensveld:"/>
+  <StrRes Name="clScrError" Text="Script fout op %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#38;#34;%s&#38;#34; bestaat niet"/>
+  <StrRes Name="clErrors" Text="De volgende fout(en) is/zijn opgetreden:"/>
+  <StrRes Name="clExprError" Text="Fout in expressie"/>
+  <StrRes Name="clFP3files" Text="Bestaand rapport"/>
+  <StrRes Name="clSaving" Text="Bestand wordt opgeslagen..."/>
+  <StrRes Name="clCancel" Text="Annuleren"/>
+  <StrRes Name="clClose" Text="Sluiten"/>
+  <StrRes Name="clPrinting" Text="Pagina wordt afgedrukt"/>
+  <StrRes Name="clLoading" Text="Bestand wordt opgehaald..."/>
+  <StrRes Name="clPageOf" Text="Pagina %d van %d"/>
+  <StrRes Name="clFirstPass" Text="Eerste bewerking: page "/>
+  <StrRes Name="clNoPrinters" Text="Er zijn op deze computer geen printers geïnstalleerd"/>
+  <StrRes Name="clDecompressError" Text="Stream decompress error"/>
+  <StrRes Name="crFillMx" Text="Kruistabel wordt gevuld..."/>
+  <StrRes Name="crBuildMx" Text="Kruistabel wordt samengesteld..."/>
+  <StrRes Name="prRunningFirst" Text="Eerste doorgang: pagina %d"/>
+  <StrRes Name="prRunning" Text="Voorbereiden pagina %d"/>
+  <StrRes Name="prPrinting" Text="Afdrukken pagina %d"/>
+  <StrRes Name="prExporting" Text="Exporteren pagina %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Standaard"/>
+  <StrRes Name="dupVert" Text="Vertikaal"/>
+  <StrRes Name="dupHorz" Text="Horizontaal"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Taal '%s' is niet gevonden"/>
+  <StrRes Name="SInvalidLanguage" Text="Ongeldigde taal definitie"/>
+  <StrRes Name="SIdRedeclared" Text="Identifier opnieuw gedeclareerd: "/>
+  <StrRes Name="SUnknownType" Text="Onbekend type: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Incompatibele types"/>
+  <StrRes Name="SIdUndeclared" Text="Ongedeclareerde identifier: "/>
+  <StrRes Name="SClassRequired" Text="Klasse type is vereist"/>
+  <StrRes Name="SIndexRequired" Text="Index is vereist"/>
+  <StrRes Name="SStringError" Text="Strings heeft geen eigenschappen of methodes"/>
+  <StrRes Name="SClassError" Text="Klasse %s heeft geen default eigenschap"/>
+  <StrRes Name="SArrayRequired" Text="Array type is vereist"/>
+  <StrRes Name="SVarRequired" Text="Variabele is vereist"/>
+  <StrRes Name="SNotEnoughParams" Text="Niet genoeg aangeleverde parameters"/>
+  <StrRes Name="STooManyParams" Text="Te veel aangeleverde parameters"/>
+  <StrRes Name="SLeftCantAssigned" Text="Linker zijde kan niet toegewezen worden aan"/>
+  <StrRes Name="SForError" Text="For loop variabele moet een numerieke variabele zijn"/>
+  <StrRes Name="SEventError" Text="Event handler moet een procedure zijn"/>
+  <StrRes Name="600" Text="Alles open vouwen"/>
+  <StrRes Name="601" Text="Alles dicht vouwen"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

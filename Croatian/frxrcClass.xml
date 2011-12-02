@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="1" Text="U redu"/>
+  <StrRes Name="2" Text="Otkaži"/>
+  <StrRes Name="3" Text="Sve"/>
+  <StrRes Name="4" Text="Trenutna stranica"/>
+  <StrRes Name="5" Text="Stranica:"/>
+  <StrRes Name="6" Text="Prelomi stranicu"/>
+  <StrRes Name="7" Text="Opseg stranica"/>
+  <StrRes Name="8" Text="Postavljanje izvoza"/>
+  <StrRes Name="9" Text="Unesite brojeve i/ili raspone stranica odvojene zarezima. Na primjer: 1,3,5-12"/>
+  <StrRes Name="100" Text="Pregled ispisa"/>
+  <StrRes Name="101" Text="Ispiši"/>
+  <StrRes Name="102" Text="Ispiši"/>
+  <StrRes Name="103" Text="Otvori"/>
+  <StrRes Name="104" Text="Otvori"/>
+  <StrRes Name="105" Text="Spremi"/>
+  <StrRes Name="106" Text="Spremi"/>
+  <StrRes Name="107" Text="Izvezi"/>
+  <StrRes Name="108" Text="Izvezi"/>
+  <StrRes Name="109" Text="Nađi"/>
+  <StrRes Name="110" Text="Nađi"/>
+  <StrRes Name="111" Text="Cijela stranica"/>
+  <StrRes Name="112" Text="Cijela stranica"/>
+  <StrRes Name="113" Text="Širina stranice"/>
+  <StrRes Name="114" Text="Širina stranice"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Dvije stranice"/>
+  <StrRes Name="118" Text="Dvije stranice"/>
+  <StrRes Name="119" Text="Zoom"/>
+  <StrRes Name="120" Text="Rubovi"/>
+  <StrRes Name="121" Text="Rubovi"/>
+  <StrRes Name="122" Text="Kontura"/>
+  <StrRes Name="123" Text="Kontura"/>
+  <StrRes Name="124" Text="Približi"/>
+  <StrRes Name="125" Text="Približi"/>
+  <StrRes Name="126" Text="Udalji"/>
+  <StrRes Name="127" Text="Udalji"/>
+  <StrRes Name="128" Text="Kontura"/>
+  <StrRes Name="129" Text="Kontura izvještaja"/>
+  <StrRes Name="130" Text="Sličice"/>
+  <StrRes Name="131" Text="Sličice"/>
+  <StrRes Name="132" Text="Uredi"/>
+  <StrRes Name="133" Text="Uredi stranicu"/>
+  <StrRes Name="134" Text="Prva"/>
+  <StrRes Name="135" Text="Prva stranica"/>
+  <StrRes Name="136" Text="Prethodna"/>
+  <StrRes Name="137" Text="Prethodna stranica"/>
+  <StrRes Name="138" Text="Slijedeća"/>
+  <StrRes Name="139" Text="Slijedeća stranica"/>
+  <StrRes Name="140" Text="Zadnja"/>
+  <StrRes Name="141" Text="Zadnja stranica"/>
+  <StrRes Name="142" Text="br. stranice"/>
+  <StrRes Name="150" Text="Puni zaslon"/>
+  <StrRes Name="151" Text="Eksport u PDF"/>
+  <StrRes Name="152" Text="Pošalji E-mail-om"/>
+  <StrRes Name="zmPageWidth" Text="Širina stranice"/>
+  <StrRes Name="zmWholePage" Text="Cijela stranica"/>
+  <StrRes Name="200" Text="Ispis"/>
+  <StrRes Name="201" Text="Pisač"/>
+  <StrRes Name="202" Text="Stranice"/>
+  <StrRes Name="203" Text="Broj kopija:"/>
+  <StrRes Name="204" Text="Razvrstavanje kopija"/>
+  <StrRes Name="205" Text="Kopije"/>
+  <StrRes Name="206" Text="Ispiši"/>
+  <StrRes Name="207" Text="Drugi"/>
+  <StrRes Name="208" Text="Gdje:"/>
+  <StrRes Name="209" Text="Svojstva..."/>
+  <StrRes Name="210" Text="Ispiši u datoteku"/>
+  <StrRes Name="211" Text="Redoslijed"/>
+  <StrRes Name="212" Text="Ime:"/>
+  <StrRes Name="213" Text="Način ispisa"/>
+  <StrRes Name="214" Text="Ispiši na list"/>
+  <StrRes Name="216" Text="Dvostrano"/>
+  <StrRes Name="ppAll" Text="Sve stranice"/>
+  <StrRes Name="ppOdd" Text="Neparne stranice"/>
+  <StrRes Name="ppEven" Text="Parne stranice"/>
+  <StrRes Name="pgDefault" Text="Uzeto"/>
+  <StrRes Name="pmDefault" Text="Uzeto"/>
+  <StrRes Name="pmSplit" Text="Podijeli velike stranice"/>
+  <StrRes Name="pmJoin" Text="Združi male stranice"/>
+  <StrRes Name="pmScale" Text="Skaliraj"/>
+  <StrRes Name="poDirect" Text="Rastući (1-9)"/>
+  <StrRes Name="poReverse" Text="Padajući (9-1)"/>
+  <StrRes Name="300" Text="Nađi tekst"/>
+  <StrRes Name="301" Text="Traženi tekst:"/>
+  <StrRes Name="302" Text="Mogućnosti pretraživanja"/>
+  <StrRes Name="303" Text="Zamijeni s:"/>
+  <StrRes Name="304" Text="Traži od početka"/>
+  <StrRes Name="305" Text="Razlikuj velika i mala slova"/>
+  <StrRes Name="400" Text="Postava stranice"/>
+  <StrRes Name="401" Text="Širina"/>
+  <StrRes Name="402" Text="Visina"/>
+  <StrRes Name="403" Text="Veličina"/>
+  <StrRes Name="404" Text="Usmjerenje"/>
+  <StrRes Name="405" Text="Lijevo"/>
+  <StrRes Name="406" Text="Gore"/>
+  <StrRes Name="407" Text="Desno"/>
+  <StrRes Name="408" Text="Dolje"/>
+  <StrRes Name="409" Text="Rubovi"/>
+  <StrRes Name="410" Text="Portret"/>
+  <StrRes Name="411" Text="Pejzaž"/>
+  <StrRes Name="412" Text="Drugo"/>
+  <StrRes Name="413" Text="Dodijeli trenutnoj stranici"/>
+  <StrRes Name="414" Text="Dodijeli svim stranicama"/>
+  <StrRes Name="500" Text="Ispiši"/>
+  <StrRes Name="501" Text="Pisač"/>
+  <StrRes Name="502" Text="Stranice"/>
+  <StrRes Name="503" Text="Kopije"/>
+  <StrRes Name="504" Text="Broj kopija"/>
+  <StrRes Name="505" Text="Mogućnosti"/>
+  <StrRes Name="506" Text="Escape naredbe"/>
+  <StrRes Name="507" Text="Ispiši u datoteku"/>
+  <StrRes Name="508" Text="OEM kodna stranica"/>
+  <StrRes Name="509" Text="Pseudo grafika"/>
+  <StrRes Name="510" Text="Datoteka pisača (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Potvrda"/>
+  <StrRes Name="mbError" Text="Greška"/>
+  <StrRes Name="mbInfo" Text="Informacija"/>
+  <StrRes Name="xrCantFindClass" Text="Ne nalazim class-u"/>
+  <StrRes Name="prVirtual" Text="Virtualno"/>
+  <StrRes Name="prDefault" Text="Uzeto"/>
+  <StrRes Name="prCustom" Text="Po mjeri"/>
+  <StrRes Name="enUnconnHeader" Text="Nepovezano zaglavlje/podnožje"/>
+  <StrRes Name="enUnconnGroup" Text="Nema trake s podacima za grupu"/>
+  <StrRes Name="enUnconnGFooter" Text="Ni zaglavlja grupe za"/>
+  <StrRes Name="enBandPos" Text="Pogrešan položaj trake:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s nije povezan s podacima"/>
+  <StrRes Name="dbFldNotFound" Text="Ne nalazim polje:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset nije uključen u Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Nepoznata varijabla ili polje podataka:"/>
+  <StrRes Name="clScrError" Text="Greška skripta pri %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#34;%s&#34; ne postoji"/>
+  <StrRes Name="clErrors" Text="Nastala je(su) slijedeća(e) greška(e):"/>
+  <StrRes Name="clExprError" Text="Greška u izrazu"/>
+  <StrRes Name="clFP3files" Text="Pripremljen ispis"/>
+  <StrRes Name="clSaving" Text="Spremanje datoteke..."/>
+  <StrRes Name="clCancel" Text="otkaži"/>
+  <StrRes Name="clClose" Text="Zatvori"/>
+  <StrRes Name="clPrinting" Text="Ispis stranice"/>
+  <StrRes Name="clLoading" Text="Otvaranje datoteke..."/>
+  <StrRes Name="clPageOf" Text="Stranica %d od %d"/>
+  <StrRes Name="clFirstPass" Text="Prvi prolaz:stranice "/>
+  <StrRes Name="clNoPrinters" Text="U vašem sustavu nije instaliran nijedan pisač"/>
+  <StrRes Name="clDecompressError" Text="Greška pri dekompresiji Stream-a"/>
+  <StrRes Name="crFillMx" Text="Punjenje cross-tab-a..."/>
+  <StrRes Name="crBuildMx" Text="Izgradnja cross-tab-a..."/>
+  <StrRes Name="prRunningFirst" Text="Prvi prolaz: Stranice %d"/>
+  <StrRes Name="prRunning" Text="Priprema se stranica %d"/>
+  <StrRes Name="prPrinting" Text="Ispisuje se stranica %d"/>
+  <StrRes Name="prExporting" Text="Izvozi se stranica %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="pal"/>
+  <StrRes Name="uPix" Text="tč"/>
+  <StrRes Name="uChar" Text="zn"/>
+  <StrRes Name="dupDefault" Text="Zadano"/>
+  <StrRes Name="dupVert" Text="Okomito"/>
+  <StrRes Name="dupHorz" Text="Vodoravno"/>
+  <StrRes Name="dupSimpl" Text="Nesastavljeno"/>
+  <StrRes Name="SLangNotFound" Text="Jezik '%s' nije pronađen"/>
+  <StrRes Name="SInvalidLanguage" Text="Pogrešno određenje jezika"/>
+  <StrRes Name="SIdRedeclared" Text="Ponovno navođenje identifikatora: "/>
+  <StrRes Name="SUnknownType" Text="Nepoznati tip: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Nespojivi tipovi"/>
+  <StrRes Name="SIdUndeclared" Text="Nije naveden identifikator: "/>
+  <StrRes Name="SClassRequired" Text="Zahtijevani Class type"/>
+  <StrRes Name="SIndexRequired" Text="Zahtijevani Index"/>
+  <StrRes Name="SStringError" Text="Niz nema vrijednosti ili načina"/>
+  <StrRes Name="SClassError" Text="Class %s nema preuzete vrijednosti"/>
+  <StrRes Name="SArrayRequired" Text="Zahtijevani Array type"/>
+  <StrRes Name="SVarRequired" Text="Zahtijevana varijabla"/>
+  <StrRes Name="SNotEnoughParams" Text="Nema dovoljno aktualnih parametara"/>
+  <StrRes Name="STooManyParams" Text="Previše aktualnih parametara"/>
+  <StrRes Name="SLeftCantAssigned" Text="Lijeva strana ne more biti dodijeljena"/>
+  <StrRes Name="SForError" Text="Varijabla u For zagradi mora biti numerička"/>
+  <StrRes Name="SEventError" Text="Event handler mora biti procedura"/>
+  <StrRes Name="600" Text="Raširi sve"/>
+  <StrRes Name="601" Text="Zbij sve"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

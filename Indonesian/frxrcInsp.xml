@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="propActive" Text="Menetapkan apakah dataset terbuka atau tidak"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="Menetapkan apakah penerang aktif atau tidak"/>
+  <StrRes Name="propAliasName" Text="Nama alias BDE"/>
+  <StrRes Name="propAlign" Text="Menetapkan penjajaran dari obyek relatif ke band atau halaman"/>
+  <StrRes Name="propAlignment" Text="Penjajaran obyek teks"/>
+  <StrRes Name="propAllowAllUp" Text="Menetapkan apakah semua tombol speed dalam grup bisa tidak dipilih pada saat yang sama"/>
+  <StrRes Name="propAllowEdit" Text="Menetapkan apakah pemakai bisa mengedit halaman laporan yang disiapkan"/>
+  <StrRes Name="propAllowExpressions" Text="Menetapkan apakah obyek teks bisa berisi ekspresi di dalamnya"/>
+  <StrRes Name="propAllowGrayed" Text="Mengijinkan kondisi abu-abu dari kontrol kotak centang "/>
+  <StrRes Name="propAllowHTMLTags" Text="Menetapkan apakah obyek teks bisa berisi tag HTML didalamnya"/>
+  <StrRes Name="propAllowSplit" Text="Menetapkan apakah band bisa memisah isinya ke halaman lain"/>
+  <StrRes Name="propAuthor" Text="Pembuat laporan"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="Menetapkan apakah gambar harus menangani ukurannya secara otomatis"/>
+  <StrRes Name="propAutoWidth" Text="Menetapkan apakah obyek teks harus menangani panjangnya secara otomatis"/>
+  <StrRes Name="propBackPicture" Text="Gambar latar belakang halaman"/>
+  <StrRes Name="propBarType" Text="Tipe dari barcode"/>
+  <StrRes Name="propBevelInner" Text="Tipe dari ketebalan terdalam"/>
+  <StrRes Name="propBevelOuter" Text="Tipe dari ketebalan terluar"/>
+  <StrRes Name="propBevelWidth" Text="Panjang ketebalan"/>
+  <StrRes Name="propBorder" Text="Menetapkan apakah menampilkan batas terluar atau tidak"/>
+  <StrRes Name="propBorderStyle" Text="Gaya dari jendela"/>
+  <StrRes Name="propBottomMargin" Text="Ukuran dari batas halaman bawah"/>
+  <StrRes Name="propBrushStyle" Text="Gaya sikat yang digunakan untuk latar belakang obyek"/>
+  <StrRes Name="propCalcCheckSum" Text="Menetapkan apakah barcode harus menghitung digit periksa secara otomatis"/>
+  <StrRes Name="propCancel" Text="Menetapkan apakah tombol harus diaktifkan saat kunci Esc ditekan"/>
+  <StrRes Name="propCaption" Text="Judul dari kontrol"/>
+  <StrRes Name="propCellFields" Text="Nama field DB menunjukan sel silang"/>
+  <StrRes Name="propCellLevels" Text="Jumlah tingkat sel"/>
+  <StrRes Name="propCenter" Text="Menetapkan apakah gambar harus ditengahkan di dalam kontrol"/>
+  <StrRes Name="propCharset" Text="Set karakter font"/>
+  <StrRes Name="propCharSpacing" Text="Jumlah pixels antara dua karakter"/>
+  <StrRes Name="propCheckColor" Text="Warna dari tanda centang"/>
+  <StrRes Name="propChecked" Text="Menunjukan apakah kontrol dicentang atau tidak"/>
+  <StrRes Name="propCheckStyle" Text="Gaya dari tanda centang"/>
+  <StrRes Name="propChild" Text="Anak band dihubungkan ke band ini"/>
+  <StrRes Name="propCollate" Text="Seting Default dari kolasi"/>
+  <StrRes Name="propColor.TFont" Text="Warna dari teks"/>
+  <StrRes Name="propColor" Text="Warna dari obyek"/>
+  <StrRes Name="propColor.TfrxFrame" Text="Warna dari frame"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="Menetapkan warna dari obyek jika penerang aktif"/>
+  <StrRes Name="propColumnFields" Text="Nama dari field DB menggambarkan kolom silang"/>
+  <StrRes Name="propColumnGap" Text="Gap antara kolom band"/>
+  <StrRes Name="propColumnLevels" Text="Jumlah dari tingkat kolom"/>
+  <StrRes Name="propColumns" Text="Jumlah kolom dalam band"/>
+  <StrRes Name="propColumnWidth" Text="Panjang kolom band"/>
+  <StrRes Name="propCondition" Text="Kondisi pengelompokan. Grup akan dipisah jika nilai dari ekspresi ini berubah"/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="Ekspresi string. Jika ekspresi ini Benar, penerang akan aktif"/>
+  <StrRes Name="propConnected" Text="Menunjukan apakah koneksi database aktif atau tidak"/>
+  <StrRes Name="propConvertNulls" Text="Menetapkan apakah nilai DB null akan diubah ke 0, False atau string kosong"/>
+  <StrRes Name="propCopies" Text="Default jumlah duplikat"/>
+  <StrRes Name="propCursor" Text="Kursor dari obyek"/>
+  <StrRes Name="propDatabaseName" Text="Nama database"/>
+  <StrRes Name="propDataField" Text="Menetapkan field dari obyek mendapatkan data"/>
+  <StrRes Name="propDataSet" Text="Menghubungkan obyek ke dataset yang berisi field yang nampak"/>
+  <StrRes Name="propDate" Text="Nilai tanggal dari kontrol"/>
+  <StrRes Name="propDateFormat" Text="Menetapkan format yang berisi tanggal"/>
+  <StrRes Name="propDecimalSeparator" Text="Pemisah desimal"/>
+  <StrRes Name="propDefault" Text="Menetapkan apakah tombol adalah tombol default"/>
+  <StrRes Name="propDefHeight" Text="Tinggi default dari baris"/>
+  <StrRes Name="propDescription" Text="Keterangan laporan"/>
+  <StrRes Name="propDiagonal" Text="Menunjukan bahwa garis adalah diagonal"/>
+  <StrRes Name="propDisplayFormat" Text="Format dari nilai yang ditampilkan"/>
+  <StrRes Name="propDoublePass" Text="Menguji apakah engine laporan harus mempertunjukan pass kedua"/>
+  <StrRes Name="propDown" Text="Menguji apakah tombol speed ditekan atau tidak"/>
+  <StrRes Name="propDownThenAcross" Text="Menguji seberapa besar tabel silang akan dipisah antar halaman"/>
+  <StrRes Name="propDriverName" Text="Nama pengendali BDE"/>
+  <StrRes Name="propDropShadow" Text="Menguji apakah obyek mempunyai bayangan"/>
+  <StrRes Name="propDuplex" Text="Menetapkan mode dupleks untuk halaman"/>
+  <StrRes Name="propEditMask" Text="Menetapkan mask yang mewakili teks apa yang benar untuk kontrol edit mask"/>
+  <StrRes Name="propEnabled" Text="Menguji apakah kontrol dihidupkan"/>
+  <StrRes Name="propEngineOptions" Text="Opsi engine dari laporan"/>
+  <StrRes Name="propExpression" Text="Nilai dari ekspresi akan ditampilkan dalam obyek"/>
+  <StrRes Name="propExpressionDelimiters" Text="Karakter yang akan digunakan untuk menutup teks didalamnya"/>
+  <StrRes Name="propFieldAliases" Text="Alias field dataset"/>
+  <StrRes Name="propFilter" Text="Kondisi penyaringan untuk dataset"/>
+  <StrRes Name="propFiltered" Text="Menguji apakah dataset harus menyaring rekaman menggunakan kondisi dalam properti Filter"/>
+  <StrRes Name="propFlowTo" Text="Obyek teks yang akan menampilkan teks yang tidak cukup dalam obyek"/>
+  <StrRes Name="propFont" Text="Atribut font dari obyek"/>
+  <StrRes Name="propFooterAfterEach" Text="Menguji apakah band footer harus ditampilkan setelah setiap baris data"/>
+  <StrRes Name="propFormatStr" Text="Memformat string"/>
+  <StrRes Name="propFrame" Text="Atribut frame dari obyek"/>
+  <StrRes Name="propGapX" Text="Indent kiri dari teks"/>
+  <StrRes Name="propGapY" Text="Inden atas dari teks"/>
+  <StrRes Name="propGlyph" Text="Gambar kontrol"/>
+  <StrRes Name="propGroupIndex" Text="Mengijinkan tombol speed untuk bekerja bersama sebagai grup"/>
+  <StrRes Name="propHAlign" Text="Penjajaran horisontal dari teks"/>
+  <StrRes Name="propHeight" Text="Tinggi dari obyek"/>
+  <StrRes Name="propHideZeros" Text="Menguji apakah obyek teks akan menyembunyikan nilai nol"/>
+  <StrRes Name="propHighlight" Text="Atribut penerangan kondisional"/>
+  <StrRes Name="propIndexName" Text="Nama dari indeks"/>
+  <StrRes Name="propInitString" Text="String inisialisasi Printer untuk laporan dot-matrix"/>
+  <StrRes Name="propItems" Text="Daftar item dari obyek"/>
+  <StrRes Name="propKeepAspectRatio" Text="Biarkan rasio aspek orisinil dari gambar"/>
+  <StrRes Name="propKeepChild" Text="Menguji apakah band akan dicetak bersama dengan anaknya"/>
+  <StrRes Name="propKeepFooter" Text="Menguji apakah band akan dicetak bersama dengan footer-nya"/>
+  <StrRes Name="propKeepHeader" Text="Menguji apakah band akan dicetak bersama dengan header-nya"/>
+  <StrRes Name="propKeepTogether" Text="Menguji apakah band akan dicetak bersama dengan semua subband-nya"/>
+  <StrRes Name="propKind.TfrxFormat" Text="Jenis format"/>
+  <StrRes Name="propKind" Text="Jenis tombol"/>
+  <StrRes Name="propLargeDesignHeight" Text="Menguji apakah halaman akan mempunyai tinggi besar dalam mode disain"/>
+  <StrRes Name="propLayout" Text="Tata letak dari glyph tombol"/>
+  <StrRes Name="propLeft" Text="Koordinat kiri dari obyek"/>
+  <StrRes Name="propLeftMargin" Text="Ukuran dari batas kiri halaman"/>
+  <StrRes Name="propLines" Text="Teks obyek"/>
+  <StrRes Name="propLineSpacing" Text="Besar pixel antara dua garis dari teks"/>
+  <StrRes Name="propLoginPrompt" Text="Menguji apakah menampilkan dialog masuk"/>
+  <StrRes Name="propMargin" Text="Menguji jumlah pixel antara sisi dari gambar dan sisi tombol"/>
+  <StrRes Name="propMaster" Text="Dataset master"/>
+  <StrRes Name="propMasterFields" Text="Fields yang dihubungkan oleh hubungan master-detail"/>
+  <StrRes Name="propMaxLength" Text="Maks panjang dari teks"/>
+  <StrRes Name="propMaxWidth" Text="Maks panjang dari kolom"/>
+  <StrRes Name="propMemo" Text="Teks dari obyek"/>
+  <StrRes Name="propMinWidth" Text="Min panjang dari koloom"/>
+  <StrRes Name="propMirrorMargins" Text="Batas halaman Mirror pada halaman genap"/>
+  <StrRes Name="propModalResult" Text="Menguji apakah dan bagaimana tombol menutup form modal"/>
+  <StrRes Name="propName.TFont" Text="Nama font"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="Nama laporan"/>
+  <StrRes Name="propName" Text="Nama obyek"/>
+  <StrRes Name="propNumGlyphs" Text="Menunjukan jumlah gambar yang dalam grafik ditentukan dalam properti Glyph"/>
+  <StrRes Name="propOpenDataSource" Text="Menguji apakah membuka datasource secara otomatis atau tidak"/>
+  <StrRes Name="propOrientation" Text="Orientasi halaman"/>
+  <StrRes Name="propOutlineText" Text="Teks yang akan ditampilkan dalam kontrol outline preview"/>
+  <StrRes Name="propOutlineVisible" Text="Visibilitas kontrol outline preview"/>
+  <StrRes Name="propOutlineWidth" Text="Panjang dari kontrol outline preview"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="Jumlah halaman yang dicetak"/>
+  <StrRes Name="propPaperHeight" Text="Tinggi halaman"/>
+  <StrRes Name="propPaperWidth" Text="Panjang halaman"/>
+  <StrRes Name="propParagraphGap" Text="Inden dari baris pertama dari paragraf"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="Parameter koneksi"/>
+  <StrRes Name="propParams" Text="Parameter query"/>
+  <StrRes Name="propParentFont" Text="Menguji apakah obyek akan menggunakan font orang tuanya"/>
+  <StrRes Name="propPassword" Text="Kata sandi laporan"/>
+  <StrRes Name="propPasswordChar" Text="Menujukan karakter, jika ada, untuk menampilkan tempat karakter aktual yang diketikan dalam kontrol"/>
+  <StrRes Name="propPicture" Text="Gambar"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="Keterangan gambar dari laporan"/>
+  <StrRes Name="propPosition" Text="Posisi awal dari jendela"/>
+  <StrRes Name="propPreviewOptions" Text="Opsi preview laporan"/>
+  <StrRes Name="propPrintable" Text="Obyek yang bisa dicetak. Obyek dengan Printable=False akan dilihat, tetapi tidak dicetak"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="Menguji apakah band anak akan dicetak jika band orang tuanya tidak nampak"/>
+  <StrRes Name="propPrinter" Text="Nama printer yang akan dipilih ketika membuka atau menjalankan laporan ini"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="Menguji apakah databand akan dicetak jika subband-nya kosong"/>
+  <StrRes Name="propPrintIfEmpty" Text="Menguji apakah halaman akan dicetak jika semua dataset-nya kosong"/>
+  <StrRes Name="propPrintOnFirstPage" Text="Menguji apakah band akan dicetak pada halaman pertama"/>
+  <StrRes Name="propPrintOnLastPage" Text="Menguji apakah band akan dicetak pada halaman terakhir"/>
+  <StrRes Name="propPrintOnParent" Text="Menguji apakah sublaporan bisa mencetak dirinya pada band orang tua"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="Menguji apakah halaman bisa dibuat pada ruang spasi dari halam yang dibuat sebelumnya"/>
+  <StrRes Name="propPrintOptions" Text="Opsi pencetakan laporan"/>
+  <StrRes Name="propPrintPages" Text="Menguji apakah mencetak semua, ganjil atau halaman genap"/>
+  <StrRes Name="propRangeBegin" Text="Menguji titik awal dari navigasi dataset"/>
+  <StrRes Name="propRangeEnd" Text="Menguji titik akhir dari navigasi dataset"/>
+  <StrRes Name="propRangeEndCount" Text="Menguji jumlah rekaman dalam dataset jika RangeEnd adalah reCount"/>
+  <StrRes Name="propReadOnly" Text="Menguji apakah obyek teks hanya-baca"/>
+  <StrRes Name="propRepeatHeaders" Text="Menguji apakah header kolom dan baris akan dicetak lagi pada halaman baru"/>
+  <StrRes Name="propReportOptions" Text="Opsi laporan"/>
+  <StrRes Name="propReprintOnNewPage" Text="Menguji apakah band akan dicetak ulang pada halaman baru"/>
+  <StrRes Name="propRestrictions" Text="Set tanda pembatasan"/>
+  <StrRes Name="propRightMargin" Text="Besar batas kanan halaman"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="Orientasi dari barcode"/>
+  <StrRes Name="propRotation" Text="Rotasi teks"/>
+  <StrRes Name="propRowCount" Text="Jumlah rekaman virtual dalam databand"/>
+  <StrRes Name="propRowFields" Text="Nama field DB menunjukan baris silang"/>
+  <StrRes Name="propRowLevels" Text="Jumlah tingkat baris"/>
+  <StrRes Name="propRTLReading" Text="Menguji apakah obyek teks akan menampilkan teksnya dalam arah kanan-ke-kiri"/>
+  <StrRes Name="propSessionName" Text="Nama sesi BDE"/>
+  <StrRes Name="propShadowColor" Text="Warna bayangan"/>
+  <StrRes Name="propShadowWidth" Text="Panjang bayangan"/>
+  <StrRes Name="propShape" Text="Tipe Bentuk"/>
+  <StrRes Name="propShiftMode" Text="Tabiat Shift dari obyek"/>
+  <StrRes Name="propShowColumnHeader" Text="Menguji apakah silang akan menampilkan header kolom"/>
+  <StrRes Name="propShowColumnTotal" Text="Menguji apakah silang akan menampilkan kolom total keseluruhan"/>
+  <StrRes Name="propShowRowHeader" Text="Menguji apakah silang akan menampilkan header baris"/>
+  <StrRes Name="propShowRowTotal" Text="Menguji apakah silang akan menampilkan baris total keseluruhan"/>
+  <StrRes Name="propShowDialog" Text="Menguji apakah dialog cetak akan ditampilkan dalam jendela preview"/>
+  <StrRes Name="propShowText" Text="Menguji apakah obyek barcode akan menampilkan teks yang bisa dibaca"/>
+  <StrRes Name="propSize" Text="Besar font"/>
+  <StrRes Name="propSorted" Text="Menguji apakah item diurut atau tidak"/>
+  <StrRes Name="propSpacing" Text="Menguji jumlah pixel antara gambar dan teks"/>
+  <StrRes Name="propSQL" Text="Pernyataan SQL"/>
+  <StrRes Name="propStartNewPage" Text="Mulai halaman baru sebelum mencetak band"/>
+  <StrRes Name="propStretch" Text="Rentangkan gambar untuk mencukupi batas obyek"/>
+  <StrRes Name="propStretched" Text="Menguji apakah obyek bisa direntangkan"/>
+  <StrRes Name="propStretchMode" Text="Tabiat perentangan dari obyek"/>
+  <StrRes Name="propStyle.TFont" Text="Gaya font"/>
+  <StrRes Name="propStyle" Text="Gaya kontrol"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="Gaya dari frame obyek"/>
+  <StrRes Name="propSuppressRepeated" Text="menyembunyikan nilai berulang"/>
+  <StrRes Name="propTableName" Text="Nama tabel data"/>
+  <StrRes Name="propTag" Text="Nomor Tag obyek"/>
+  <StrRes Name="propTagStr" Text="Tag string obyek"/>
+  <StrRes Name="propText" Text="Teks obyek"/>
+  <StrRes Name="propTitleBeforeHeader" Text="Menguji apakah menampilkan judul laporan sebelum header"/>
+  <StrRes Name="propTop" Text="Koodinat atas dari obyek"/>
+  <StrRes Name="propTopMargin" Text="Besar batas halaman atas"/>
+  <StrRes Name="propTyp" Text="Tipe frame"/>
+  <StrRes Name="propUnderlines" Text="Menguji apakah obyek teks akan menampilkan garis grid setelah setiap baris teks"/>
+  <StrRes Name="propURL" Text="URL obyek"/>
+  <StrRes Name="propUserName" Text="Nama pemakai dari obyek data. Nama ini akan ditampilkan dalam susunan data"/>
+  <StrRes Name="propVAlign" Text="Penjajaran vertikal dari teks"/>
+  <StrRes Name="propVersionBuild" Text="Info versi, pembuatan"/>
+  <StrRes Name="propVersionMajor" Text="Info versi, versi mayor"/>
+  <StrRes Name="propVersionMinor" Text="Info versi, versi minor"/>
+  <StrRes Name="propVersionRelease" Text="Info versi, rilis"/>
+  <StrRes Name="propVisible" Text="Visibilitas obyek"/>
+  <StrRes Name="propWidth" Text="Panjang obyek"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="Panjang frame"/>
+  <StrRes Name="propWindowState" Text="Kondisi inisial dari jendela"/>
+  <StrRes Name="propWordBreak" Text="Pisahkan kata-kata bahasa rusia"/>
+  <StrRes Name="propWordWrap" Text="Menguji apakah obyek teks menyisipkan soft carriage returns agar teks menggulung pada batas kanan"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="Perbesar barcode"/>
+  <StrRes Name="propConnectionName" Text="Name of the connection to the database used in the report"/>
+  <StrRes Name="propCurve" Text="Curvature of the roundrectangle edges"/>
+  <StrRes Name="propDrillDown" Text="Determines whether the group can be drilled down"/>
+  <StrRes Name="propFontStyle" Text="Dot-matrix font style"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="Hide the footer if a group has only one data record"/>
+  <StrRes Name="propOutlineExpand" Text="Determines whether to expand the report outline or not"/>
+  <StrRes Name="propPlainCells" Text="Determines whether to print several cells side-by-side or stacked"/>
+  <StrRes Name="propPrintMode" Text="Print mode: normal, split big pages to small one, or print several small pages on a big one"/>
+  <StrRes Name="propPrintOnSheet" Text="Paper size to print report on. Used if PrintMode is not pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="Reset page number/total pages numbers when print a group. Should be used with StartNewPage option set to true"/>
+  <StrRes Name="propReverse" Text="Determines whether to print pages in reversed order"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="Determines whether to show group footer if group is drilldown"/>
+  <StrRes Name="propSizeMode" Text="Display mode of the OLE object"/>
+  <StrRes Name="propVersion" Text="Version of the FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="Relative with of wide bars of the barcode"/>
+  <StrRes Name="propWysiwyg" Text="Determines whether the rich object should use the printer canvas to format the text. A printer should be installed and ready."/>
+  <StrRes Name="propArrowEnd" Text="Determines whether to draw an arrow at the end of line"/>
+  <StrRes Name="propArrowLength" Text="Length of the arrow"/>
+  <StrRes Name="propArrowSolid" Text="Determines whether to draw a solid-filled arrow"/>
+  <StrRes Name="propArrowStart" Text="Determines whether to draw an arrow at the start of line"/>
+  <StrRes Name="propArrowWidth" Text="Width of the arrow"/>
+  <StrRes Name="propCloseDataSource" Text="Determines whether to close the dataset when report is finished"/>
+  <StrRes Name="propDatabase" Text="Database connection"/>
+  <StrRes Name="propIndexFieldNames" Text="Names of index fields"/>
+  <StrRes Name="propCommandTimeOut" Text="Amount of time needed to execute a query"/>
+  <StrRes Name="propExpandDrillDown" Text="Determines whether to expand all drill-down elements at first start of a report"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="Determines whether to display a text in WYSIWYG mode"/>
+  <StrRes Name="propLeftLine" Text="Left line of a frame"/>
+  <StrRes Name="propTopLine" Text="Top line of a frame"/>
+  <StrRes Name="propRightLine" Text="Right line of a frame"/>
+  <StrRes Name="propBottomLine" Text="Bottom line of a frame"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="The color of the frame line"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="The style of the frame line"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="The width of the frame line"/>
+  <StrRes Name="propFileLink" Text="Expression or name of the file containing a picture"/>
+  <StrRes Name="propEndlessWidth" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propEndlessHeight" Text="Endless page mode. If true, page will grow depending on number of data records on it"/>
+  <StrRes Name="propAddHeight" Text="Adds specified amount of space to the cell height"/>
+  <StrRes Name="propAddWidth" Text="Adds specified amount of space to the cell width"/>
+  <StrRes Name="propAllowDuplicates" Text="Determines whether the cell can accept duplicate string values"/>
+  <StrRes Name="propJoinEqualCells" Text="Determines whether the crosstab should join cells with equal values"/>
+  <StrRes Name="propNextCross" Text="Pointer to the next crosstab that will be displayed side-by-side"/>
+  <StrRes Name="propNextCrossGap" Text="Gap between side-by-side crosstabs"/>
+  <StrRes Name="propShowCorner" Text="Determines whether the crosstab should display a left-top corner elements"/>
+  <StrRes Name="propClipped" Text="Determines whether the text should be clipped inside the objects bounds"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="The report description"/>
+  <StrRes Name="propSuppressNullRecords" Text="!Determines if the crosstab should suppress records with all NULL values"/>
+  <StrRes Name="propShowTitle" Text="!Determines if the crosstab should display a title"/>
+  <StrRes Name="propAutoSize" Text="!Determines if the crosstab should handle its size automatically"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

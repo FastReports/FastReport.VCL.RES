@@ -1,0 +1,844 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="2000" Text="Objektum felügyelő"/>
+  <StrRes Name="oiProp" Text="Tulajdonságok"/>
+  <StrRes Name="oiEvent" Text="Események"/>
+  <StrRes Name="2100" Text="Adatfa"/>
+  <StrRes Name="2101" Text="Adat"/>
+  <StrRes Name="2102" Text="Változók"/>
+  <StrRes Name="2103" Text="Függvények"/>
+  <StrRes Name="2104" Text="Mező létrehozása"/>
+  <StrRes Name="2105" Text="Cím létrehozása"/>
+  <StrRes Name="2106" Text="Osztályok"/>
+  <StrRes Name="dtNoData" Text="Nincs adat."/>
+  <StrRes Name="dtNoData1" Text="Menj a &#38;#34;Jelentés|Adat...&#38;#34; menübe és jelölj ki létező adatforrásokat,vagy válts az &#38;#34;Adat&#38;#34; panelre és hozz létre új adatforrásokat."/>
+  <StrRes Name="dtData" Text="Adat"/>
+  <StrRes Name="dtSysVar" Text="Rendszerváltozók"/>
+  <StrRes Name="dtVar" Text="Változók"/>
+  <StrRes Name="dtFunc" Text="Függvények"/>
+  <StrRes Name="2200" Text="Jelentés fa"/>
+  <StrRes Name="2300" Text="Scriptfájl megnyitása"/>
+  <StrRes Name="2301" Text="Scriptfájl mentése"/>
+  <StrRes Name="2302" Text="Script futtatása"/>
+  <StrRes Name="2303" Text="Nyomkövetés"/>
+  <StrRes Name="2304" Text="Script bezárása"/>
+  <StrRes Name="2305" Text="Kiértékel"/>
+  <StrRes Name="2306" Text="Nyelv:"/>
+  <StrRes Name="2307" Text="Igazítás"/>
+  <StrRes Name="2308" Text="Igazítás balra"/>
+  <StrRes Name="2309" Text="Igazítás középre"/>
+  <StrRes Name="2310" Text="Igazítás jobbra"/>
+  <StrRes Name="2311" Text="Igazítás fentre"/>
+  <StrRes Name="2312" Text="Igazítás középre"/>
+  <StrRes Name="2313" Text="Igazítás lentre"/>
+  <StrRes Name="2314" Text="Tér vizszintesen"/>
+  <StrRes Name="2315" Text="Tér függőlegesen"/>
+  <StrRes Name="2316" Text="Vízszintesen sávközépre"/>
+  <StrRes Name="2317" Text="Függőlegesen sávközépre"/>
+  <StrRes Name="2318" Text="Azonos szélesség"/>
+  <StrRes Name="2319" Text="Azonos magasság"/>
+  <StrRes Name="2320" Text="Szöveg"/>
+  <StrRes Name="2321" Text="Stílus"/>
+  <StrRes Name="2322" Text="Betű neve"/>
+  <StrRes Name="2323" Text="Betű mérete"/>
+  <StrRes Name="2324" Text="Félkövér"/>
+  <StrRes Name="2325" Text="Dőlt"/>
+  <StrRes Name="2326" Text="Aláhúzott"/>
+  <StrRes Name="2327" Text="Betű színe"/>
+  <StrRes Name="2328" Text="Kiemelés"/>
+  <StrRes Name="2329" Text="Szöveg forgatása"/>
+  <StrRes Name="2330" Text="Balra igazít"/>
+  <StrRes Name="2331" Text="Középre igazít"/>
+  <StrRes Name="2332" Text="Jobbra igazít"/>
+  <StrRes Name="2333" Text="Sorkizár"/>
+  <StrRes Name="2334" Text="Felülre igazít"/>
+  <StrRes Name="2335" Text="Középre igazít"/>
+  <StrRes Name="2336" Text="Alulra igazít"/>
+  <StrRes Name="2337" Text="Keret"/>
+  <StrRes Name="2338" Text="Felső vonal"/>
+  <StrRes Name="2339" Text="Alsó vonal"/>
+  <StrRes Name="2340" Text="Bal vonal"/>
+  <StrRes Name="2341" Text="Jobb vonal"/>
+  <StrRes Name="2342" Text="Minden keretvonal"/>
+  <StrRes Name="2343" Text="Nincs keret"/>
+  <StrRes Name="2344" Text="Árnyék"/>
+  <StrRes Name="2345" Text="Háttérszín"/>
+  <StrRes Name="2346" Text="Keretszín"/>
+  <StrRes Name="2347" Text="Keret stílusa"/>
+  <StrRes Name="2348" Text="Keret vastagsága"/>
+  <StrRes Name="2349" Text="Normál"/>
+  <StrRes Name="2350" Text="Új riport"/>
+  <StrRes Name="2351" Text="Riport megnyitása"/>
+  <StrRes Name="2352" Text="Riport mentése"/>
+  <StrRes Name="2353" Text="Előkép"/>
+  <StrRes Name="2354" Text="Új riportlap"/>
+  <StrRes Name="2355" Text="Új párbeszédlap"/>
+  <StrRes Name="2356" Text="Lap törlése"/>
+  <StrRes Name="2357" Text="Oldalbeállítás"/>
+  <StrRes Name="2358" Text="Változók"/>
+  <StrRes Name="2359" Text="Kivág"/>
+  <StrRes Name="2360" Text="Másol"/>
+  <StrRes Name="2361" Text="Beilleszt"/>
+  <StrRes Name="2362" Text="Formázás másolása"/>
+  <StrRes Name="2363" Text="Vissza"/>
+  <StrRes Name="2364" Text="Mégis"/>
+  <StrRes Name="2365" Text="Csoportosít"/>
+  <StrRes Name="2366" Text="Csoportot felbont"/>
+  <StrRes Name="2367" Text="Rácsot mutat"/>
+  <StrRes Name="2368" Text="Rácsra illeszt"/>
+  <StrRes Name="2369" Text="Rácshoz igazít"/>
+  <StrRes Name="2370" Text="Nagyít"/>
+  <StrRes Name="2371" Text="Extra eszközök"/>
+  <StrRes Name="2372" Text="Kiválasztás eszközei"/>
+  <StrRes Name="2373" Text="Kéz eszköz"/>
+  <StrRes Name="2374" Text="Nagyító"/>
+  <StrRes Name="2375" Text="Szövegszerkesztő"/>
+  <StrRes Name="2376" Text="Formátummásoló"/>
+  <StrRes Name="2377" Text="Sáv beszúrása"/>
+  <StrRes Name="2378" Text="&amp;Fájl"/>
+  <StrRes Name="2379" Text="&amp;Szerkeszt"/>
+  <StrRes Name="2380" Text="Keres..."/>
+  <StrRes Name="2381" Text="Következő"/>
+  <StrRes Name="2382" Text="Cserél..."/>
+  <StrRes Name="2383" Text="&amp;Riport"/>
+  <StrRes Name="2384" Text="Adat..."/>
+  <StrRes Name="2385" Text="Opciók..."/>
+  <StrRes Name="2386" Text="Stílusok..."/>
+  <StrRes Name="2387" Text="&amp;Nézet"/>
+  <StrRes Name="2388" Text="Eszköztárak"/>
+  <StrRes Name="2389" Text="Normál"/>
+  <StrRes Name="2390" Text="Szöveg"/>
+  <StrRes Name="2391" Text="Keret"/>
+  <StrRes Name="2392" Text="Igazítás paletta"/>
+  <StrRes Name="2393" Text="Extra eszközök"/>
+  <StrRes Name="2394" Text="Objektumvizsgáló"/>
+  <StrRes Name="2395" Text="Adatfa"/>
+  <StrRes Name="2396" Text="Riportfa"/>
+  <StrRes Name="2397" Text="Vonalzók"/>
+  <StrRes Name="2398" Text="Vezetők"/>
+  <StrRes Name="2399" Text="Vezetők törlése"/>
+  <StrRes Name="2400" Text="Opciók..."/>
+  <StrRes Name="2401" Text="&amp;Súgó"/>
+  <StrRes Name="2402" Text="Tartalomjegyzék..."/>
+  <StrRes Name="2403" Text="Névjegy..."/>
+  <StrRes Name="2404" Text="Tab sorrend..."/>
+  <StrRes Name="2405" Text="Vissza"/>
+  <StrRes Name="2406" Text="Mégis"/>
+  <StrRes Name="2407" Text="Kivág"/>
+  <StrRes Name="2408" Text="Másol"/>
+  <StrRes Name="2409" Text="Beilleszt"/>
+  <StrRes Name="2410" Text="Csoportosít"/>
+  <StrRes Name="2411" Text="Csoportot felbont"/>
+  <StrRes Name="2412" Text="Töröl"/>
+  <StrRes Name="2413" Text="Oldalt töröl"/>
+  <StrRes Name="2414" Text="Mindent kijelöl"/>
+  <StrRes Name="2415" Text="Szerkeszt..."/>
+  <StrRes Name="2416" Text="Előrehoz"/>
+  <StrRes Name="2417" Text="Hátraküld"/>
+  <StrRes Name="2418" Text="Új..."/>
+  <StrRes Name="2419" Text="Új riport"/>
+  <StrRes Name="2420" Text="Új lap"/>
+  <StrRes Name="2421" Text="Új párbeszéd"/>
+  <StrRes Name="2422" Text="Megnyit..."/>
+  <StrRes Name="2423" Text="Ment"/>
+  <StrRes Name="2424" Text="Másként ment..."/>
+  <StrRes Name="2425" Text="Változók..."/>
+  <StrRes Name="2426" Text="Oldalbeállítás..."/>
+  <StrRes Name="2427" Text="Előkép"/>
+  <StrRes Name="2428" Text="Kilép"/>
+  <StrRes Name="2429" Text="Riport címe"/>
+  <StrRes Name="2430" Text="Riport összesítő"/>
+  <StrRes Name="2431" Text="Oldal fejléc"/>
+  <StrRes Name="2432" Text="Oldal lábléc"/>
+  <StrRes Name="2433" Text="Fejléc"/>
+  <StrRes Name="2434" Text="Lábléc"/>
+  <StrRes Name="2435" Text="Master adat"/>
+  <StrRes Name="2436" Text="Részletező adat"/>
+  <StrRes Name="2437" Text="Alrészletező adat"/>
+  <StrRes Name="2438" Text="4, adatszint"/>
+  <StrRes Name="2439" Text="5. adatszint"/>
+  <StrRes Name="2440" Text="6. adatszint"/>
+  <StrRes Name="2441" Text="Csoport fejléc"/>
+  <StrRes Name="2442" Text="Csoport lábléc"/>
+  <StrRes Name="2443" Text="Gyerek"/>
+  <StrRes Name="2444" Text="Oszlop fejléc"/>
+  <StrRes Name="2445" Text="Oszlop lábléc"/>
+  <StrRes Name="2446" Text="Úsztatás"/>
+  <StrRes Name="2447" Text="Függőleges sávok"/>
+  <StrRes Name="2448" Text="Fejléc"/>
+  <StrRes Name="2449" Text="Lábléc"/>
+  <StrRes Name="2450" Text="Mester adat"/>
+  <StrRes Name="2451" Text="Részletező adat"/>
+  <StrRes Name="2452" Text="Alrészletező adat"/>
+  <StrRes Name="2453" Text="Csoport fejléc"/>
+  <StrRes Name="2454" Text="Csoport lábléc"/>
+  <StrRes Name="2455" Text="Gyerek"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Betűbeállítások"/>
+  <StrRes Name="2462" Text="Félkövér"/>
+  <StrRes Name="2463" Text="Dőlt"/>
+  <StrRes Name="2464" Text="Aláhúzott"/>
+  <StrRes Name="2465" Text="Felső index"/>
+  <StrRes Name="2466" Text="Alsó index"/>
+  <StrRes Name="2467" Text="Sűrített"/>
+  <StrRes Name="2468" Text="Széles"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Riport (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal fájlok (*.pas)|*.pas|C++ fájlok (*.cpp)|*.cpp|JavaScript fájlok (*.js)|*.js|Basic fájlok (*.vb)|*.vb|Minden fájl|*.*"/>
+  <StrRes Name="2473" Text="Pascal fájlok (*.pas)|*.pas|C++ fájlok (*.cpp)|*.cpp|JavaScript fájlok (*.js)|*.js|Basic fájlok (*.vb)|*.vb|Minden fájl|*.*"/>
+  <StrRes Name="2474" Text="Kapcsolatok..."/>
+  <StrRes Name="2475" Text="Nyelvek"/>
+  <StrRes Name="2476" Text="Töréspontot elhelyez"/>
+  <StrRes Name="2477" Text="Futtatás a sorig"/>
+  <StrRes Name="2478" Text="!Add child band"/>
+  <StrRes Name="dsCm" Text="Centiméter"/>
+  <StrRes Name="dsInch" Text="Hüvelyk"/>
+  <StrRes Name="dsPix" Text="Pixel"/>
+  <StrRes Name="dsChars" Text="Karakter"/>
+  <StrRes Name="dsCode" Text="Kód"/>
+  <StrRes Name="dsData" Text="Adat"/>
+  <StrRes Name="dsPage" Text="Lap"/>
+  <StrRes Name="dsRepFilter" Text="Riport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Tömörített riport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Mentsem a változásokat az előképbe?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Változások mentése"/>
+  <StrRes Name="dsCantLoad" Text="Nem lehet a fájlt betölteni"/>
+  <StrRes Name="dsStyleFile" Text="Stílus"/>
+  <StrRes Name="dsCantFindProc" Text="Nem található a fő eljárás"/>
+  <StrRes Name="dsClearScript" Text="Minden kód törlődik. Folytassam?"/>
+  <StrRes Name="dsNoStyle" Text="Nincs stílus"/>
+  <StrRes Name="dsStyleSample" Text="Stílusminta"/>
+  <StrRes Name="dsTextNotFound" Text="A '%s' szöveg nem található"/>
+  <StrRes Name="dsReplace" Text="Cseréljem a '%s' szöveget?"/>
+  <StrRes Name="2600" Text="FastReport-ról"/>
+  <StrRes Name="2601" Text="További információért keresse fel honlapunkat:"/>
+  <StrRes Name="2602" Text="Értékesítés:"/>
+  <StrRes Name="2603" Text="Támogatás:"/>
+  <StrRes Name="2700" Text="Oldal opciók"/>
+  <StrRes Name="2701" Text="Papír"/>
+  <StrRes Name="2702" Text="Szélesség"/>
+  <StrRes Name="2703" Text="Magasság"/>
+  <StrRes Name="2704" Text="Méret"/>
+  <StrRes Name="2705" Text="Irány"/>
+  <StrRes Name="2706" Text="Bal"/>
+  <StrRes Name="2707" Text="Felső"/>
+  <StrRes Name="2708" Text="Jobb"/>
+  <StrRes Name="2709" Text="Alsó"/>
+  <StrRes Name="2710" Text="Margók"/>
+  <StrRes Name="2711" Text="Papírforrás"/>
+  <StrRes Name="2712" Text="Első oldal"/>
+  <StrRes Name="2713" Text="Többi oldal"/>
+  <StrRes Name="2714" Text="Portré"/>
+  <StrRes Name="2715" Text="Tájkép"/>
+  <StrRes Name="2716" Text="Egyéb opciók"/>
+  <StrRes Name="2717" Text="Oszlopok"/>
+  <StrRes Name="2718" Text="Szám"/>
+  <StrRes Name="2719" Text="Szélesség"/>
+  <StrRes Name="2720" Text="Pozició"/>
+  <StrRes Name="2721" Text="Egyéb"/>
+  <StrRes Name="2722" Text="Kétoldalas"/>
+  <StrRes Name="2723" Text="Előző oldalra nyomtat"/>
+  <StrRes Name="2724" Text="Margók tükrözése"/>
+  <StrRes Name="2725" Text="Nagy magasság tervezőmódban"/>
+  <StrRes Name="2726" Text="Végtelenített oldalszélesség"/>
+  <StrRes Name="2727" Text="Végtelenített oldalmagasság"/>
+  <StrRes Name="2800" Text="Riport DataSet-ek kiválasztása"/>
+  <StrRes Name="2900" Text="Változók szerkesztése"/>
+  <StrRes Name="2901" Text="Kategória"/>
+  <StrRes Name="2902" Text="Változó"/>
+  <StrRes Name="2903" Text="Szerkeszt"/>
+  <StrRes Name="2904" Text="Töröl"/>
+  <StrRes Name="2905" Text="Listáz"/>
+  <StrRes Name="2906" Text="Betölt"/>
+  <StrRes Name="2907" Text="Ment"/>
+  <StrRes Name="2908" Text=" Kifejezés:"/>
+  <StrRes Name="2909" Text="Szótár (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Szótár (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(nincs definiált változó)"/>
+  <StrRes Name="vaVar" Text="Változók"/>
+  <StrRes Name="vaDupName" Text="Duplikált név"/>
+  <StrRes Name="3000" Text="Tervező opciók"/>
+  <StrRes Name="3001" Text="Rács"/>
+  <StrRes Name="3002" Text="Típus"/>
+  <StrRes Name="3003" Text="Méret"/>
+  <StrRes Name="3004" Text="Párbeszéd:"/>
+  <StrRes Name="3005" Text="Egyéb"/>
+  <StrRes Name="3006" Text="Betűk"/>
+  <StrRes Name="3007" Text="Kód ablak"/>
+  <StrRes Name="3008" Text="Memo szerkesztő"/>
+  <StrRes Name="3009" Text="Méret"/>
+  <StrRes Name="3010" Text="Méret"/>
+  <StrRes Name="3011" Text="Színek"/>
+  <StrRes Name="3012" Text="Hézag a sávok között:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Centiméter:"/>
+  <StrRes Name="3019" Text="Hüvelyk:"/>
+  <StrRes Name="3020" Text="Pixel:"/>
+  <StrRes Name="3021" Text="Rácsot mutat"/>
+  <StrRes Name="3022" Text="Rácshoz igazít"/>
+  <StrRes Name="3023" Text="Beszúrás után szerkeszt"/>
+  <StrRes Name="3024" Text="Objektum betűbeállítását használja"/>
+  <StrRes Name="3025" Text="Munkahely"/>
+  <StrRes Name="3026" Text="Eszközablakok"/>
+  <StrRes Name="3027" Text="LCD rács színe"/>
+  <StrRes Name="3028" Text="Szabad sávok elhelyezése"/>
+  <StrRes Name="3029" Text="Legördülő mezőlista mutatása"/>
+  <StrRes Name="3030" Text="Indítóképernyő mutatása"/>
+  <StrRes Name="3031" Text="Alapértelmezések visszaállítása"/>
+  <StrRes Name="3032" Text="Sávcímeket mutat"/>
+  <StrRes Name="3100" Text="DataSet kiválasztása"/>
+  <StrRes Name="3101" Text="Rekordok száma:"/>
+  <StrRes Name="dbNotAssigned" Text="[nincs hozzárendelve]"/>
+  <StrRes Name="3200" Text="Group"/>
+  <StrRes Name="3201" Text="Töréspont"/>
+  <StrRes Name="3202" Text="Opciók"/>
+  <StrRes Name="3203" Text="Adatmező"/>
+  <StrRes Name="3204" Text="Kifejezés"/>
+  <StrRes Name="3205" Text="Csoportokat együttart"/>
+  <StrRes Name="3206" Text="Új oldalt kezd"/>
+  <StrRes Name="3207" Text="Körvonalasan mutat"/>
+  <StrRes Name="3300" Text="Rendszer memo"/>
+  <StrRes Name="3301" Text="Adatsáv"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="Adatmező"/>
+  <StrRes Name="3304" Text="Függvény"/>
+  <StrRes Name="3305" Text="Kifejezés"/>
+  <StrRes Name="3306" Text="Halmozott érték"/>
+  <StrRes Name="3307" Text="Rendszerváltozó"/>
+  <StrRes Name="3308" Text="Láthatatlan sávokat számol"/>
+  <StrRes Name="3309" Text="Szöveg"/>
+  <StrRes Name="3310" Text="Futó összesen"/>
+  <StrRes Name="agAggregate" Text="Halmozót beszúr"/>
+  <StrRes Name="vt1" Text="[DÁTUM]"/>
+  <StrRes Name="vt2" Text="[IDŐ]"/>
+  <StrRes Name="vt3" Text="[OLDAL#]"/>
+  <StrRes Name="vt4" Text="[ÖSSZES OLDAL#]"/>
+  <StrRes Name="vt5" Text="[OLDAL#] [ÖSSZES OLDALBÓL#]"/>
+  <StrRes Name="vt6" Text="[SOR#]"/>
+  <StrRes Name="3400" Text="OLE objektum"/>
+  <StrRes Name="3401" Text="Beszúrás..."/>
+  <StrRes Name="3402" Text="Szerkesztés..."/>
+  <StrRes Name="3403" Text="Bezár"/>
+  <StrRes Name="olStretched" Text="Nyújtott"/>
+  <StrRes Name="3500" Text="Vonalkódszerkesztő"/>
+  <StrRes Name="3501" Text="Kód"/>
+  <StrRes Name="3502" Text="Vonalkód típusa"/>
+  <StrRes Name="3503" Text="Nagyítás:"/>
+  <StrRes Name="3504" Text="Opciók"/>
+  <StrRes Name="3505" Text="Elforgatás"/>
+  <StrRes Name="3506" Text="Ellenörző összeget számol"/>
+  <StrRes Name="3507" Text="Szöveg"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Ellenörző összeget számol"/>
+  <StrRes Name="bcShowText" Text="Szöveget mutatja"/>
+  <StrRes Name="3600" Text="Álnevek szerkesztése"/>
+  <StrRes Name="3601" Text="Nyomjon entert a szerkesztéshez"/>
+  <StrRes Name="3602" Text="Dataset álnév"/>
+  <StrRes Name="3603" Text="Mező álnevek"/>
+  <StrRes Name="3604" Text="Alaphelyzet"/>
+  <StrRes Name="3605" Text="Update"/>
+  <StrRes Name="alUserName" Text="Felhasználó neve"/>
+  <StrRes Name="alOriginal" Text="Eredeti név"/>
+  <StrRes Name="3700" Text="Paraméterszerkesztő"/>
+  <StrRes Name="qpName" Text="Név"/>
+  <StrRes Name="qpDataType" Text="Adattípus"/>
+  <StrRes Name="qpValue" Text="Érték"/>
+  <StrRes Name="3800" Text="Mester-Részletező kapcsolat"/>
+  <StrRes Name="3801" Text="Detail mezők"/>
+  <StrRes Name="3802" Text="Master mezők"/>
+  <StrRes Name="3803" Text="Csatolt mezők"/>
+  <StrRes Name="3804" Text="Hozzáad"/>
+  <StrRes Name="3805" Text="Töröl"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Kifejezés beszúrása"/>
+  <StrRes Name="3902" Text="Halmozó beszúrása"/>
+  <StrRes Name="3903" Text="Formázás beszúrása"/>
+  <StrRes Name="3904" Text="Szótörés"/>
+  <StrRes Name="3905" Text="Text"/>
+  <StrRes Name="3906" Text="Formázás"/>
+  <StrRes Name="3907" Text="Kiemel"/>
+  <StrRes Name="4000" Text="Kép"/>
+  <StrRes Name="4001" Text="Betölt"/>
+  <StrRes Name="4002" Text="Másol"/>
+  <StrRes Name="4003" Text="Beilleszt"/>
+  <StrRes Name="4004" Text="Töröl"/>
+  <StrRes Name="piEmpty" Text="Üres"/>
+  <StrRes Name="4100" Text="Grafikonszerkesztő"/>
+  <StrRes Name="4101" Text="Sorozat hozzáadása"/>
+  <StrRes Name="4102" Text="Sorozat törlése"/>
+  <StrRes Name="4103" Text="Grafikon szerkesztés"/>
+  <StrRes Name="4104" Text="Sávforrás"/>
+  <StrRes Name="4105" Text="Rögzített adat"/>
+  <StrRes Name="4106" Text="Dataset"/>
+  <StrRes Name="4107" Text="Adatforrás"/>
+  <StrRes Name="4108" Text="Értékek"/>
+  <StrRes Name="4109" Text="Select the chart series or add a new one."/>
+  <StrRes Name="4114" Text="Egyéb opciók"/>
+  <StrRes Name="4115" Text="TopN értékek"/>
+  <StrRes Name="4116" Text="TopN címek"/>
+  <StrRes Name="4117" Text="Sorrend"/>
+  <StrRes Name="4126" Text="X tengey"/>
+  <StrRes Name="ch3D" Text="3D nézet"/>
+  <StrRes Name="chAxis" Text="Tengelyt mutat"/>
+  <StrRes Name="chsoNone" Text="Semilyen"/>
+  <StrRes Name="chsoAscending" Text="Növekvő"/>
+  <StrRes Name="chsoDescending" Text="Csökkenő"/>
+  <StrRes Name="chxtText" Text="Szöveg"/>
+  <StrRes Name="chxtNumber" Text="Száma"/>
+  <StrRes Name="chxtDate" Text="Dátum"/>
+  <StrRes Name="4200" Text="Rich Text szerkesztő"/>
+  <StrRes Name="4201" Text="Fájlt megnyit"/>
+  <StrRes Name="4202" Text="Fájlt ment"/>
+  <StrRes Name="4203" Text="Vissza"/>
+  <StrRes Name="4204" Text="Betű"/>
+  <StrRes Name="4205" Text="Kifejezést beszúr"/>
+  <StrRes Name="4206" Text="Félkövér"/>
+  <StrRes Name="4207" Text="Dőlt"/>
+  <StrRes Name="4208" Text="Aláhúzott"/>
+  <StrRes Name="4209" Text="Balra igazított"/>
+  <StrRes Name="4210" Text="Középre igazított"/>
+  <StrRes Name="4211" Text="Jobbra igazított"/>
+  <StrRes Name="4212" Text="Sorkizárt"/>
+  <StrRes Name="4213" Text="Felsorolásjelek"/>
+  <StrRes Name="4300" Text="Kereszttábla-szerkesztő"/>
+  <StrRes Name="4301" Text="Forrásadatok"/>
+  <StrRes Name="4302" Text="Méretek"/>
+  <StrRes Name="4303" Text="Sorok"/>
+  <StrRes Name="4304" Text="Oszlopok"/>
+  <StrRes Name="4305" Text="Cellák"/>
+  <StrRes Name="4306" Text="Kereszttábla struktúra"/>
+  <StrRes Name="4307" Text="Sor fejléc"/>
+  <StrRes Name="4308" Text="Oszlop fejléc"/>
+  <StrRes Name="4309" Text="Sor grand total"/>
+  <StrRes Name="4310" Text="Oszlop grand total"/>
+  <StrRes Name="4311" Text="Sor/oszlop csere"/>
+  <StrRes Name="4312" Text="!Select style"/>
+  <StrRes Name="4313" Text="!Save current style..."/>
+  <StrRes Name="4314" Text="!Show title"/>
+  <StrRes Name="4315" Text="!Show corner"/>
+  <StrRes Name="4316" Text="!Reprint headers on new page"/>
+  <StrRes Name="4317" Text="!Auto size"/>
+  <StrRes Name="4318" Text="!Border around cells"/>
+  <StrRes Name="4319" Text="!Print down then across"/>
+  <StrRes Name="4320" Text="!Side-by-side cells"/>
+  <StrRes Name="4321" Text="!Join equal cells"/>
+  <StrRes Name="4322" Text="Nincs"/>
+  <StrRes Name="4323" Text="Összeg"/>
+  <StrRes Name="4324" Text="Minimum"/>
+  <StrRes Name="4325" Text="Maximum"/>
+  <StrRes Name="4326" Text="Átlag"/>
+  <StrRes Name="4327" Text="Darab"/>
+  <StrRes Name="4328" Text="Növekvő (A-Z)"/>
+  <StrRes Name="4329" Text="Csökkenő (Z-A)"/>
+  <StrRes Name="4330" Text="Rendezetlen"/>
+  <StrRes Name="crStName" Text="!Enter the style name:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="Részösszeg"/>
+  <StrRes Name="crNone" Text="Nincs"/>
+  <StrRes Name="crSum" Text="Összeg"/>
+  <StrRes Name="crMin" Text="Minimum"/>
+  <StrRes Name="crMax" Text="Maximum"/>
+  <StrRes Name="crAvg" Text="Átlag"/>
+  <StrRes Name="crCount" Text="Darab"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="Kifejezésszerkesztő"/>
+  <StrRes Name="4401" Text="Kifejezés:"/>
+  <StrRes Name="4500" Text="Képernyőformátum"/>
+  <StrRes Name="4501" Text="Kategória"/>
+  <StrRes Name="4502" Text="Formátum"/>
+  <StrRes Name="4503" Text="Formátumsztring:"/>
+  <StrRes Name="4504" Text="Tizedes elválasztó:"/>
+  <StrRes Name="fkText" Text="Szöveg (formázatlan)"/>
+  <StrRes Name="fkNumber" Text="Szám"/>
+  <StrRes Name="fkDateTime" Text="Dátum/idő"/>
+  <StrRes Name="fkBoolean" Text="Logikai"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Nem,Igen;Nem,Igen"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="Hamis,Igaz;Hamis,Igaz"/>
+  <StrRes Name="4600" Text="Kiemelés"/>
+  <StrRes Name="4601" Text="Szín..."/>
+  <StrRes Name="4602" Text="Szín..."/>
+  <StrRes Name="4603" Text="Feltétel"/>
+  <StrRes Name="4604" Text="Betű"/>
+  <StrRes Name="4605" Text="Háttér"/>
+  <StrRes Name="4606" Text="Félkövér"/>
+  <StrRes Name="4607" Text="Dőlt"/>
+  <StrRes Name="4608" Text="Aláhúzott"/>
+  <StrRes Name="4609" Text="Átlátszó"/>
+  <StrRes Name="4610" Text="Egyéb"/>
+  <StrRes Name="4700" Text="Riport beállítások"/>
+  <StrRes Name="4701" Text="Általános"/>
+  <StrRes Name="4702" Text="Nyomtatóbeállítások"/>
+  <StrRes Name="4703" Text="Másolatok"/>
+  <StrRes Name="4704" Text="Általános"/>
+  <StrRes Name="4705" Text="Jelszó"/>
+  <StrRes Name="4706" Text="Gyűjtött másolatok"/>
+  <StrRes Name="4707" Text="Kétmenetes"/>
+  <StrRes Name="4708" Text="Üreset is nyomtat"/>
+  <StrRes Name="4709" Text="Leírás"/>
+  <StrRes Name="4710" Text="Név"/>
+  <StrRes Name="4711" Text="Leírás"/>
+  <StrRes Name="4712" Text="Kép"/>
+  <StrRes Name="4713" Text="Szerző"/>
+  <StrRes Name="4714" Text="Nagyobb"/>
+  <StrRes Name="4715" Text="Kisebb"/>
+  <StrRes Name="4716" Text="Kibocsátás"/>
+  <StrRes Name="4717" Text="Fordítás"/>
+  <StrRes Name="4718" Text="Létrehozva"/>
+  <StrRes Name="4719" Text="Módosítva"/>
+  <StrRes Name="4720" Text="Leírás"/>
+  <StrRes Name="4721" Text="Verzió"/>
+  <StrRes Name="4722" Text="Böngész..."/>
+  <StrRes Name="4723" Text="Beállítások származtatása"/>
+  <StrRes Name="4724" Text="Válassz opciót:"/>
+  <StrRes Name="4725" Text="Nem változtat"/>
+  <StrRes Name="4726" Text="Alapjelentés leválasztása"/>
+  <StrRes Name="4727" Text="Ős alapjelentés:"/>
+  <StrRes Name="4728" Text="Öröklődés"/>
+  <StrRes Name="rePrnOnPort" Text="-on"/>
+  <StrRes Name="riNotInherited" Text="Ez nem származtatott jelentés."/>
+  <StrRes Name="riInherited" Text="Ez a jelentés a %s jelentésből van származtatva."/>
+  <StrRes Name="4800" Text="Sorok"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Lekérdezés-szerkesztő"/>
+  <StrRes Name="5000" Text="Jelszó"/>
+  <StrRes Name="5001" Text="Kérem a jelszót:"/>
+  <StrRes Name="5100" Text="Stílusszerkesztő"/>
+  <StrRes Name="5101" Text="Szín..."/>
+  <StrRes Name="5102" Text="Betű..."/>
+  <StrRes Name="5103" Text="Keret..."/>
+  <StrRes Name="5104" Text="Hozzáad"/>
+  <StrRes Name="5105" Text="Töröl"/>
+  <StrRes Name="5106" Text="Szerkeszt"/>
+  <StrRes Name="5107" Text="Betölt"/>
+  <StrRes Name="5108" Text="Mentés"/>
+  <StrRes Name="5200" Text="Keretszerkesztő"/>
+  <StrRes Name="5201" Text="Keret"/>
+  <StrRes Name="5202" Text="Keretvonal"/>
+  <StrRes Name="5203" Text="Árnyék"/>
+  <StrRes Name="5204" Text="Felső vonal"/>
+  <StrRes Name="5205" Text="Alsó vonal"/>
+  <StrRes Name="5206" Text="Bal vonal"/>
+  <StrRes Name="5207" Text="Jobb vonal"/>
+  <StrRes Name="5208" Text="Az összes keretvonal"/>
+  <StrRes Name="5209" Text="Nincs keret"/>
+  <StrRes Name="5210" Text="Keretszín"/>
+  <StrRes Name="5211" Text="Keretstílus"/>
+  <StrRes Name="5212" Text="Keretvastagság"/>
+  <StrRes Name="5213" Text="Árnyék"/>
+  <StrRes Name="5214" Text="Árnyékszín"/>
+  <StrRes Name="5215" Text="Árnyék szélessége"/>
+  <StrRes Name="5300" Text="Új elem"/>
+  <StrRes Name="5301" Text="Elemek"/>
+  <StrRes Name="5302" Text="Minták"/>
+  <StrRes Name="5303" Text="Jelentés származtatása"/>
+  <StrRes Name="5400" Text="Tab sorrend"/>
+  <StrRes Name="5401" Text="Tab sorrendben felsorolt kontrolok:"/>
+  <StrRes Name="5402" Text="Fel"/>
+  <StrRes Name="5403" Text="Le"/>
+  <StrRes Name="5500" Text="Kiértékel"/>
+  <StrRes Name="5501" Text="Kifejezés"/>
+  <StrRes Name="5502" Text="Eredmény"/>
+  <StrRes Name="5600" Text="Jelentésvarázsló"/>
+  <StrRes Name="5601" Text="Adat"/>
+  <StrRes Name="5602" Text="Mezők"/>
+  <StrRes Name="5603" Text="Csoportok"/>
+  <StrRes Name="5604" Text="Elrendezés"/>
+  <StrRes Name="5605" Text="Stílus"/>
+  <StrRes Name="5606" Text="1. Válasszon adathalmazt."/>
+  <StrRes Name="5607" Text="2. Válassza ki a megjelenítendő mezőket."/>
+  <StrRes Name="5608" Text="3. Készítsen csoportokat (opcionális)."/>
+  <StrRes Name="5609" Text="4. Határozza meg az oldalképet és az adatok elrendezését."/>
+  <StrRes Name="5610" Text="5. Válasszon jelentésstílust."/>
+  <StrRes Name="5611" Text="Hozzáad &#62;"/>
+  <StrRes Name="5612" Text="Mindet hozzáadja &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Eltávolít"/>
+  <StrRes Name="5614" Text="&#60;&#60; Mindet eltávolítja"/>
+  <StrRes Name="5615" Text="Hozzáad &#62;"/>
+  <StrRes Name="5616" Text="&#60; Eltávolít"/>
+  <StrRes Name="5617" Text="Kiválasztott mezők:"/>
+  <StrRes Name="5618" Text="Elérhető mezők:"/>
+  <StrRes Name="5619" Text="Csoportok:"/>
+  <StrRes Name="5620" Text="Irány"/>
+  <StrRes Name="5621" Text="Elrendezés"/>
+  <StrRes Name="5622" Text="Portré"/>
+  <StrRes Name="5623" Text="Tájkép"/>
+  <StrRes Name="5624" Text="Táblázatos"/>
+  <StrRes Name="5625" Text="Oszlopos"/>
+  <StrRes Name="5626" Text="Mezők illeszkedjenek az oldalmérethez"/>
+  <StrRes Name="5627" Text="&#60;&#60; Vissza"/>
+  <StrRes Name="5628" Text="Következő &#62;&#62;"/>
+  <StrRes Name="5629" Text="Befejez"/>
+  <StrRes Name="5630" Text="Új tábla..."/>
+  <StrRes Name="5631" Text="Új lekérdezés..."/>
+  <StrRes Name="5632" Text="Válassz adatbázis kapcsolatot:"/>
+  <StrRes Name="5633" Text="Válassz táblát:"/>
+  <StrRes Name="5634" Text="vagy"/>
+  <StrRes Name="5635" Text="Lekérdezés létrehozása..."/>
+  <StrRes Name="5636" Text="Kapcsolatok beállítása"/>
+  <StrRes Name="wzStd" Text="Standard Jelentésvarázsló"/>
+  <StrRes Name="wzDMP" Text="Mátrix jelentésvarázsló"/>
+  <StrRes Name="wzStdEmpty" Text="Standard Jelentés"/>
+  <StrRes Name="wzDMPEmpty" Text="Mátrix Jelentés"/>
+  <StrRes Name="5700" Text="Kapcsolat varázsló"/>
+  <StrRes Name="5701" Text="Kapcsolat"/>
+  <StrRes Name="5702" Text="Válasszon kapcsolattípust:"/>
+  <StrRes Name="5703" Text="Válasszon adatbázist:"/>
+  <StrRes Name="5704" Text="Bejelentkezés"/>
+  <StrRes Name="5705" Text="Jelszó"/>
+  <StrRes Name="5706" Text="Jelszó kérése"/>
+  <StrRes Name="5707" Text="Használjon nevet/jelszót:"/>
+  <StrRes Name="5708" Text="Tábla"/>
+  <StrRes Name="5709" Text="Válasszon táblanevet:"/>
+  <StrRes Name="5710" Text="Rekordszűrés:"/>
+  <StrRes Name="5711" Text="Lekérdezés"/>
+  <StrRes Name="5712" Text="SQL parancs:"/>
+  <StrRes Name="5713" Text="Lekérdezésépítő"/>
+  <StrRes Name="5714" Text="Lekérdezésparaméterek szerkesztése:"/>
+  <StrRes Name="ftAllFiles" Text="Minden fájl"/>
+  <StrRes Name="ftPictures" Text="Képek"/>
+  <StrRes Name="ftDB" Text="Adatbázisok"/>
+  <StrRes Name="ftRichFile" Text="RichText fájlok"/>
+  <StrRes Name="ftTextFile" Text="Szövegfájlok"/>
+  <StrRes Name="prNotAssigned" Text="(Nincs hozzárendelve)"/>
+  <StrRes Name="prInvProp" Text="Érvénytelen érték"/>
+  <StrRes Name="prDupl" Text="Duplikált név"/>
+  <StrRes Name="prPict" Text="(Kép)"/>
+  <StrRes Name="mvExpr" Text="Kifejezéseket enged"/>
+  <StrRes Name="mvStretch" Text="Nyújt"/>
+  <StrRes Name="mvStretchToMax" Text="Teljes magasságra nyújt"/>
+  <StrRes Name="mvShift" Text="Eltol"/>
+  <StrRes Name="mvShiftOver" Text="Átlapoltat eltolja"/>
+  <StrRes Name="mvVisible" Text="Látható"/>
+  <StrRes Name="mvPrintable" Text="Nyomtatható"/>
+  <StrRes Name="mvFont" Text="Betű..."/>
+  <StrRes Name="mvFormat" Text="Képernyőformátum..."/>
+  <StrRes Name="mvClear" Text="Tartalmat töröl"/>
+  <StrRes Name="mvAutoWidth" Text="Automatikus szélesség"/>
+  <StrRes Name="mvWWrap" Text="Szótörés"/>
+  <StrRes Name="mvSuppress" Text="Ismétlődő értékek elnyomása"/>
+  <StrRes Name="mvHideZ" Text="Nullák rejtése"/>
+  <StrRes Name="mvHTML" Text="HTML Tag-ek engedélyezése"/>
+  <StrRes Name="lvDiagonal" Text="Átlós"/>
+  <StrRes Name="pvAutoSize" Text="Automatikus méret"/>
+  <StrRes Name="pvCenter" Text="Közép"/>
+  <StrRes Name="pvAspect" Text="Arányosan"/>
+  <StrRes Name="bvSplit" Text="Osztható"/>
+  <StrRes Name="bvKeepChild" Text="Gyerekeket együttartja"/>
+  <StrRes Name="bvPrintChild" Text="Gyerek nyomtatása ha láthatatlan"/>
+  <StrRes Name="bvStartPage" Text="Új oldalra"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Nyomtat, ha a részletező üres"/>
+  <StrRes Name="bvKeepDetail" Text="Részleteket együttartja"/>
+  <StrRes Name="bvKeepFooter" Text="Lábléceket együttartja"/>
+  <StrRes Name="bvReprint" Text="Új lapon újranyomtatja"/>
+  <StrRes Name="bvOnFirst" Text="Első oldalon nyomtatja"/>
+  <StrRes Name="bvOnLast" Text="Utolsó oldalon nyomtatja"/>
+  <StrRes Name="bvKeepGroup" Text="Együttartja"/>
+  <StrRes Name="bvFooterAfterEach" Text="Minden sor után lábléc"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Reset Page Numbers"/>
+  <StrRes Name="srParent" Text="Szülőn nyomtatja"/>
+  <StrRes Name="bvKeepHeader" Text="Keep Header Together"/>
+  <StrRes Name="obCatDraw" Text="Rajz"/>
+  <StrRes Name="obCatOther" Text="Egyéb objektumok"/>
+  <StrRes Name="obCatOtherControls" Text="Egyéb kontrolok"/>
+  <StrRes Name="obDiagLine" Text="Átlós vonal"/>
+  <StrRes Name="obRect" Text="Téglalalp"/>
+  <StrRes Name="obRoundRect" Text="Lekerekített téglalap"/>
+  <StrRes Name="obEllipse" Text="Ellipszis"/>
+  <StrRes Name="obTrian" Text="Háromszög"/>
+  <StrRes Name="obDiamond" Text="Gyémánt"/>
+  <StrRes Name="obLabel" Text="Cimke kontrol"/>
+  <StrRes Name="obEdit" Text="Szerkesztődoboz kontrol"/>
+  <StrRes Name="obMemoC" Text="Memo kontrol"/>
+  <StrRes Name="obButton" Text="Gomb kontrol"/>
+  <StrRes Name="obChBoxC" Text="Pipa kontrol"/>
+  <StrRes Name="obRButton" Text="Rádiógomb kontrol"/>
+  <StrRes Name="obLBox" Text="Lista kontrol"/>
+  <StrRes Name="obCBox" Text="Combo kontrol"/>
+  <StrRes Name="obDateEdit" Text="Dátumszerkesztő kontrol"/>
+  <StrRes Name="obImageC" Text="Kép kontrol"/>
+  <StrRes Name="obPanel" Text="Panel kontrol"/>
+  <StrRes Name="obGrBox" Text="CsoportDoboz kontrol"/>
+  <StrRes Name="obBBtn" Text="Képes gomb kontrol"/>
+  <StrRes Name="obSBtn" Text="Gyorsgomb kontrol"/>
+  <StrRes Name="obMEdit" Text="Maszkolt szövegszerkesztő kontrol"/>
+  <StrRes Name="obChLB" Text="PipaLista kontrol"/>
+  <StrRes Name="obDBLookup" Text="DBLookupComboBox kontrol"/>
+  <StrRes Name="obBevel" Text="Keret objektum"/>
+  <StrRes Name="obShape" Text="Alakzat objektum"/>
+  <StrRes Name="obText" Text="Szöveg objektum"/>
+  <StrRes Name="obSysText" Text="Rendszer szöveg"/>
+  <StrRes Name="obLine" Text="Vonal objektum"/>
+  <StrRes Name="obPicture" Text="Kép objektum"/>
+  <StrRes Name="obBand" Text="Sáv objektum"/>
+  <StrRes Name="obDataBand" Text="Adatsáv"/>
+  <StrRes Name="obSubRep" Text="Alriport objektum"/>
+  <StrRes Name="obDlgPage" Text="Párbeszéd"/>
+  <StrRes Name="obRepPage" Text="Riport lap"/>
+  <StrRes Name="obReport" Text="Riport objektum"/>
+  <StrRes Name="obRich" Text="RichText objektum"/>
+  <StrRes Name="obOLE" Text="OLE objektum"/>
+  <StrRes Name="obChBox" Text="Pipadoboz objektum"/>
+  <StrRes Name="obChart" Text="Grafikon objektum"/>
+  <StrRes Name="obBarC" Text="Vonalkód objektum"/>
+  <StrRes Name="obCross" Text="Kereszttábla objektum"/>
+  <StrRes Name="obDBCross" Text="DB kereszttábla objektum"/>
+  <StrRes Name="obGrad" Text="Átmenet objektum"/>
+  <StrRes Name="obDMPText" Text="Mátrix szöveg objektum"/>
+  <StrRes Name="obDMPLine" Text="Mátrix vonal objektum"/>
+  <StrRes Name="obDMPCmd" Text="Mátrix parancsobjektum"/>
+  <StrRes Name="obBDEDB" Text="BDE adatbázis"/>
+  <StrRes Name="obBDETb" Text="BDE tábla"/>
+  <StrRes Name="obBDEQ" Text="BDE Lekérdezés"/>
+  <StrRes Name="obBDEComps" Text="BDE komponensek"/>
+  <StrRes Name="obIBXDB" Text="IBX adatbázis"/>
+  <StrRes Name="obIBXTb" Text="IBX tábla"/>
+  <StrRes Name="obIBXQ" Text="IBX Lekérdezés"/>
+  <StrRes Name="obIBXComps" Text="IBX komponensek"/>
+  <StrRes Name="obADODB" Text="ADO adatbázis"/>
+  <StrRes Name="obADOTb" Text="ADO tábla"/>
+  <StrRes Name="obADOQ" Text="ADO Lekérdezés"/>
+  <StrRes Name="obADOComps" Text="ADO komponensek"/>
+  <StrRes Name="obDBXDB" Text="DBX adatbázis"/>
+  <StrRes Name="obDBXTb" Text="DBX tábla"/>
+  <StrRes Name="obDBXQ" Text="DBX Lekérdezés"/>
+  <StrRes Name="obDBXComps" Text="DBX komponensek"/>
+  <StrRes Name="obFIBDB" Text="FIB adatbázis"/>
+  <StrRes Name="obFIBTb" Text="FIB tábla"/>
+  <StrRes Name="obFIBQ" Text="FIB Lekérdezés"/>
+  <StrRes Name="obFIBComps" Text="FIB komponensek"/>
+  <StrRes Name="ctString" Text="szöveg"/>
+  <StrRes Name="ctDate" Text="Dátum és idő"/>
+  <StrRes Name="ctConv" Text="Átalakítások"/>
+  <StrRes Name="ctFormat" Text="Formázás"/>
+  <StrRes Name="ctMath" Text="Matematikai"/>
+  <StrRes Name="ctOther" Text="Egyéb"/>
+  <StrRes Name="IntToStr" Text="Átalakít egy egész értéket szöveggé"/>
+  <StrRes Name="FloatToStr" Text="Átalakít egy lebegőpontos értéket szöveggé"/>
+  <StrRes Name="DateToStr" Text="Átalakít egy dátumot szöveggé"/>
+  <StrRes Name="TimeToStr" Text="Átalakít egy időt szöveggé"/>
+  <StrRes Name="DateTimeToStr" Text="Átalakít egy dátum-és-idő értéket szöveggé"/>
+  <StrRes Name="VarToStr" Text="Átalakít egy variant értéket szöveggé"/>
+  <StrRes Name="StrToInt" Text="Átalakít egy szöveget egésszé"/>
+  <StrRes Name="StrToInt64" Text="Converts a string to an Int64 value"/>
+  <StrRes Name="StrToFloat" Text="Átalakít egy szöveget lebegőpontossá"/>
+  <StrRes Name="StrToDate" Text="Átalakít egy szöveget dátummá"/>
+  <StrRes Name="StrToTime" Text="Átalakít egy szöveget idővé"/>
+  <StrRes Name="StrToDateTime" Text="Átalakít egy szöveget dátum-és-idő-vé"/>
+  <StrRes Name="Format" Text="Visszaad egy tömbből összerakott formázott szöveget"/>
+  <StrRes Name="FormatFloat" Text="Formáz egy lebegőpontos értéket"/>
+  <StrRes Name="FormatDateTime" Text="Formáz egy dátum-és-idő értéket"/>
+  <StrRes Name="FormatMaskText" Text="Maszkkal formázott szöveget ad vissza"/>
+  <StrRes Name="EncodeDate" Text="Visszaad egy TDateTime típust adott Év, Hó, és Nap-ból"/>
+  <StrRes Name="DecodeDate" Text="Felbont egy TDateTime-ot Év, Hó, és Nap értékekké"/>
+  <StrRes Name="EncodeTime" Text="Visszaad egy TDateTime-ot Óra, Perc, Másodperc, és ezredmásodpercből"/>
+  <StrRes Name="DecodeTime" Text="Felbont egy TDateTime-ot Óra, Perc, Másodperc, és ezredmásodperccé"/>
+  <StrRes Name="Date" Text="Visszaadja a jelenlegi dátumot"/>
+  <StrRes Name="Time" Text="Visszaadja a jelenlegi időt"/>
+  <StrRes Name="Now" Text="Visszaadja a jelenlegi dátumot és időt"/>
+  <StrRes Name="DayOfWeek" Text="Dátumból a hét napját adja vissza"/>
+  <StrRes Name="IsLeapYear" Text="Jelzi, ha az év szökőév"/>
+  <StrRes Name="DaysInMonth" Text="Adott hónap napjainak számát adja vissza"/>
+  <StrRes Name="Length" Text="Szöveg hosszát adja vissza"/>
+  <StrRes Name="Copy" Text="Résszöveget ad vissza"/>
+  <StrRes Name="Pos" Text="Résszöveg szövegen belüli pozicióját adja vissza"/>
+  <StrRes Name="Delete" Text="Résszöveget eltávolít"/>
+  <StrRes Name="Insert" Text="Résszöveget hozzáad"/>
+  <StrRes Name="Uppercase" Text="Nagybetűsre alakít"/>
+  <StrRes Name="Lowercase" Text="Kisbetűsre alakít"/>
+  <StrRes Name="Trim" Text="Bevezető és lezáró szóközöket eltávolítja"/>
+  <StrRes Name="NameCase" Text="Nagykezdőbetűsre alakít"/>
+  <StrRes Name="CompareText" Text="Két szöveget hasonlít"/>
+  <StrRes Name="Chr" Text="Egészet karakterré alakít"/>
+  <StrRes Name="Ord" Text="Karaktert egésszé alakít"/>
+  <StrRes Name="SetLength" Text="Szöveg hosszát állítja be"/>
+  <StrRes Name="Round" Text="Törtet a legközelebbi egészre alakítja"/>
+  <StrRes Name="Trunc" Text="Tört egész részét adja vissza"/>
+  <StrRes Name="Int" Text="Tört egész részét adja vissza"/>
+  <StrRes Name="Frac" Text="Tört törtrészét adja vissza"/>
+  <StrRes Name="Sqrt" Text="Négyzetgyököt von"/>
+  <StrRes Name="Abs" Text="Abszolút értéket ad vissza"/>
+  <StrRes Name="Sin" Text="Színusz (radiánban)"/>
+  <StrRes Name="Cos" Text="Koszínusz (radiánban)"/>
+  <StrRes Name="ArcTan" Text="Arkusz tangens"/>
+  <StrRes Name="Tan" Text="Tangens"/>
+  <StrRes Name="Exp" Text="Kitevő"/>
+  <StrRes Name="Ln" Text="e alapú logaritmus"/>
+  <StrRes Name="Pi" Text="PI"/>
+  <StrRes Name="Inc" Text="Értéket növeli"/>
+  <StrRes Name="Dec" Text="Értéket csökkenti"/>
+  <StrRes Name="RaiseException" Text="Kivételt generál"/>
+  <StrRes Name="ShowMessage" Text="Üzenetdoboz"/>
+  <StrRes Name="Randomize" Text="Véletlenszámgenerátort indítja"/>
+  <StrRes Name="Random" Text="Véletlenszám"/>
+  <StrRes Name="ValidInt" Text="Igaz, ha érvényes egész a szöveg"/>
+  <StrRes Name="ValidFloat" Text="Igaz, érvényes lebegőpontos szám a szöveg"/>
+  <StrRes Name="ValidDate" Text="Igaz, ha érvényes dátum a szöveg"/>
+  <StrRes Name="IIF" Text="TrueValue, ha a kifejezés igaz, egyébként FalseValue"/>
+  <StrRes Name="Get" Text="Belső használatra"/>
+  <StrRes Name="Set" Text="Belső használatra"/>
+  <StrRes Name="InputBox" Text="Szövegbeviteli doboz"/>
+  <StrRes Name="InputQuery" Text="Szövegbeviteli doboz"/>
+  <StrRes Name="MessageDlg" Text="Üzenetdoboz"/>
+  <StrRes Name="CreateOleObject" Text="OLE objektum létrehozása"/>
+  <StrRes Name="VarArrayCreate" Text="Variant tömb létrehozása"/>
+  <StrRes Name="VarType" Text="Variant típusát adja vissza"/>
+  <StrRes Name="DayOf" Text="Adott dátumból a nap (1..31)"/>
+  <StrRes Name="MonthOf" Text="Adott dátumból a hónap (1..12)"/>
+  <StrRes Name="YearOf" Text="Adott dátumból az év"/>
+  <StrRes Name="ctAggregate" Text="Összesítő"/>
+  <StrRes Name="Sum" Text="Kiszámítja a kifejezés összegét a sáv adatsorán"/>
+  <StrRes Name="Avg" Text="Kiszámítja a kifejezés átlagát a sáv adatsorán"/>
+  <StrRes Name="Min" Text="Kiszámítja a kifejezés minimumát a sáv adatsorán"/>
+  <StrRes Name="Max" Text="Kiszámítja a kifejezés maximumát a sáv adatsorán"/>
+  <StrRes Name="Count" Text="Adatsorok száma"/>
+  <StrRes Name="wzDBConn" Text="Új kapcsolat varázsló"/>
+  <StrRes Name="wzDBTable" Text="Új tábla varázsló"/>
+  <StrRes Name="wzDBQuery" Text="Új lekérdezés varázsló"/>
+  <StrRes Name="5800" Text="Kapcsolatok"/>
+  <StrRes Name="5801" Text="Új"/>
+  <StrRes Name="5802" Text="Törlés"/>
+  <StrRes Name="cpName" Text="Név"/>
+  <StrRes Name="cpConnStr" Text="Kapcsolati szöveg"/>
+  <StrRes Name="startCreateNew" Text="Új jelentés létrehozása"/>
+  <StrRes Name="startCreateBlank" Text="Üres jelentés létrehozása"/>
+  <StrRes Name="startOpenReport" Text="Jelentés megnyitása"/>
+  <StrRes Name="startOpenLast" Text="Utolsó jelentés megnyitása"/>
+  <StrRes Name="startEditAliases" Text="Kapcsolati álnevek szerkesztése"/>
+  <StrRes Name="startHelp" Text="Segítség"/>
+  <StrRes Name="5900" Text="Figyelő"/>
+  <StrRes Name="5901" Text="Figyelő hozzáadása"/>
+  <StrRes Name="5902" Text="Figyelő törlése"/>
+  <StrRes Name="5903" Text="Figyelő szerkesztése"/>
+  <StrRes Name="6000" Text="Öröklődés hiba"/>
+  <StrRes Name="6001" Text="Ős és leszármazott jelentésben objektumtöbbszöröződés van. Mit tegyünk?"/>
+  <StrRes Name="6002" Text="Többes objektumok törlése"/>
+  <StrRes Name="6003" Text="Többes objektumok átnevezése"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

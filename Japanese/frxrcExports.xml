@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="932">
+  <StrRes Name="8000" Text="エクセルファイルへのエクスポート"/>
+  <StrRes Name="8001" Text="スタイル"/>
+  <StrRes Name="8002" Text="画像"/>
+  <StrRes Name="8003" Text="セルの結合"/>
+  <StrRes Name="8004" Text="高速エクスポート"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="テキスト形式"/>
+  <StrRes Name="8007" Text="背景"/>
+  <StrRes Name="8008" Text="エクスポート後エクセルで開く"/>
+  <StrRes Name="8009" Text="エクセルブック (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="エクセルファイルへのエクスポート"/>
+  <StrRes Name="8101" Text="スタイル"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="背景"/>
+  <StrRes Name="8104" Text="エクスポート後にエクセルで開く"/>
+  <StrRes Name="8105" Text="XML スプレッドシート (*.xml)|*.xml"/>
+  <StrRes Name="8106" Text=".xml"/>
+  <StrRes Name="8200" Text="HTML ファイルへのエクスポート"/>
+  <StrRes Name="8201" Text="エクスポート後に開く"/>
+  <StrRes Name="8202" Text="スタイル"/>
+  <StrRes Name="8203" Text="画像"/>
+  <StrRes Name="8204" Text="１つのフォルダに収める"/>
+  <StrRes Name="8205" Text="固定幅"/>
+  <StrRes Name="8206" Text="ページナビゲータ"/>
+  <StrRes Name="8207" Text="複数ページに分割"/>
+  <StrRes Name="8208" Text="Mozilla ブラウザ"/>
+  <StrRes Name="8209" Text="背景"/>
+  <StrRes Name="8210" Text="HTML 形式 (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="テキストファイル(ドットマトリックスプリンタ用) へのエクスポート"/>
+  <StrRes Name="8301" Text="プレビュー ON/OFF"/>
+  <StrRes Name="8302" Text=" エクスポート設定  "/>
+  <StrRes Name="8303" Text="ページ区切り"/>
+  <StrRes Name="8304" Text="OEM コードページ"/>
+  <StrRes Name="8305" Text="空白行"/>
+  <StrRes Name="8306" Text="リードスペース"/>
+  <StrRes Name="8307" Text="ページ指定"/>
+  <StrRes Name="8308" Text="1,3,6のようにページ番号をカンマで区切って指定するか、4-8のようにページ範囲を指定してください。"/>
+  <StrRes Name="8309" Text=" 拡大/縮小 "/>
+  <StrRes Name="8310" Text="横方向"/>
+  <StrRes Name="8311" Text="縦方向"/>
+  <StrRes Name="8312" Text=" フレーム "/>
+  <StrRes Name="8313" Text="なし"/>
+  <StrRes Name="8314" Text="標準"/>
+  <StrRes Name="8315" Text="画像"/>
+  <StrRes Name="8316" Text="OEM コードページのみ"/>
+  <StrRes Name="8317" Text="エクスポート後印刷する"/>
+  <StrRes Name="8318" Text="設定を保存する"/>
+  <StrRes Name="8319" Text=" プレビュー "/>
+  <StrRes Name="8320" Text="幅:"/>
+  <StrRes Name="8321" Text="高さ:"/>
+  <StrRes Name="8322" Text="ページ"/>
+  <StrRes Name="8323" Text="拡大"/>
+  <StrRes Name="8324" Text="縮小"/>
+  <StrRes Name="8325" Text="テキストファイル (ドットマトリックスプリンタ用)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="印刷"/>
+  <StrRes Name="8401" Text="プリンタ"/>
+  <StrRes Name="8402" Text="プリンタ名"/>
+  <StrRes Name="8403" Text="設定..."/>
+  <StrRes Name="8404" Text="印刷部数"/>
+  <StrRes Name="8405" Text="印刷部数"/>
+  <StrRes Name="8406" Text=" プリンタ初期化設定 "/>
+  <StrRes Name="8407" Text="プリンタの種類"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="プリンタ初期化テンプレート (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="プリンタ初期化テンプレート (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="リッチテキスト形式へのエクスポート"/>
+  <StrRes Name="8501" Text="画像"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="エクスポート後に開く"/>
+  <StrRes Name="8504" Text="リッチテキスト形式 (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="エクスポート設定"/>
+  <StrRes Name="8601" Text=" 画質設定 "/>
+  <StrRes Name="8602" Text="JPEG 圧縮品質"/>
+  <StrRes Name="8603" Text="解像度 (dpi)"/>
+  <StrRes Name="8604" Text="ファイルを分割する"/>
+  <StrRes Name="8605" Text="余白を削除する"/>
+  <StrRes Name="8606" Text="モノクロ"/>
+  <StrRes Name="8700" Text="PDF 形式へのエクスポート"/>
+  <StrRes Name="8701" Text="圧縮"/>
+  <StrRes Name="8702" Text="フォント埋め込み"/>
+  <StrRes Name="8703" Text="印刷に最適化"/>
+  <StrRes Name="8704" Text="概観"/>
+  <StrRes Name="8705" Text="背景"/>
+  <StrRes Name="8706" Text="エクスポート後に開く"/>
+  <StrRes Name="8707" Text="Adobe PDF 形式 (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="リッチテキスト形式"/>
+  <StrRes Name="BMPexport" Text="BMP イメージ"/>
+  <StrRes Name="JPEGexport" Text="JPEG イメージ"/>
+  <StrRes Name="TIFFexport" Text="TIFF イメージ"/>
+  <StrRes Name="TextExport" Text="テキストファイル (マトリックスプリンタ)"/>
+  <StrRes Name="XlsOLEexport" Text="エクセルブック"/>
+  <StrRes Name="HTMLexport" Text="HTML 形式"/>
+  <StrRes Name="XlsXMLexport" Text="XML スプレッドシート"/>
+  <StrRes Name="PDFexport" Text="PDF 形式"/>
+  <StrRes Name="ProgressWait" Text="しばらくお待ちください"/>
+  <StrRes Name="ProgressRows" Text="行を設定しています"/>
+  <StrRes Name="ProgressColumns" Text="列を設定しています"/>
+  <StrRes Name="ProgressStyles" Text="スタイルを設定しています"/>
+  <StrRes Name="ProgressObjects" Text="オブジェクトをエクスポートしています"/>
+  <StrRes Name="TIFFexportFilter" Text="Tiff イメージ (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="BMP イメージ (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="JPEG イメージ (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="先頭"/>
+  <StrRes Name="HTMLNavPrev" Text="前へ"/>
+  <StrRes Name="HTMLNavNext" Text="次へ"/>
+  <StrRes Name="HTMLNavLast" Text="最後"/>
+  <StrRes Name="HTMLNavRefresh" Text="最新の情報に更新"/>
+  <StrRes Name="HTMLNavPrint" Text="印刷"/>
+  <StrRes Name="HTMLNavTotal" Text="総ページ数"/>
+  <StrRes Name="8800" Text="Export to Text"/>
+  <StrRes Name="8801" Text="Text file (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Text file"/>
+  <StrRes Name="8850" Text="Export to CSV"/>
+  <StrRes Name="8851" Text="CSV file (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Separator"/>
+  <StrRes Name="CSVExport" Text="CSV file"/>
+  <StrRes Name="8900" Text="Send by E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Account"/>
+  <StrRes Name="8903" Text="Connection"/>
+  <StrRes Name="8904" Text="Address"/>
+  <StrRes Name="8905" Text="Attachment"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="From Address"/>
+  <StrRes Name="8908" Text="From Name"/>
+  <StrRes Name="8909" Text="Host"/>
+  <StrRes Name="8910" Text="Login"/>
+  <StrRes Name="8911" Text="Mail"/>
+  <StrRes Name="8912" Text="Message"/>
+  <StrRes Name="8913" Text="Text"/>
+  <StrRes Name="8914" Text="Organization"/>
+  <StrRes Name="8915" Text="Password"/>
+  <StrRes Name="8916" Text="Port"/>
+  <StrRes Name="8917" Text="Remember properties"/>
+  <StrRes Name="8918" Text="Required fields are not filled"/>
+  <StrRes Name="8919" Text="Advanced export settings"/>
+  <StrRes Name="8920" Text="Signature"/>
+  <StrRes Name="8921" Text="Build"/>
+  <StrRes Name="8922" Text="Subject"/>
+  <StrRes Name="8923" Text="Best regards"/>
+  <StrRes Name="8924" Text="Send mail to"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="FastReport file"/>
+  <StrRes Name="GifexportFilter" Text="Gif file (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif image"/>
+  <StrRes Name="8950" Text="Continuous"/>
+  <StrRes Name="8951" Text="Page Header/Footer"/>
+  <StrRes Name="8952" Text="Text"/>
+  <StrRes Name="8953" Text="Header/Footer"/>
+  <StrRes Name="8954" Text="None"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

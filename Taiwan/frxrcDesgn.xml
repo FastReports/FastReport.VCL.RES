@@ -1,0 +1,844 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="950">
+  <StrRes Name="2000" Text="物件檢視器"/>
+  <StrRes Name="oiProp" Text="屬性"/>
+  <StrRes Name="oiEvent" Text="事件"/>
+  <StrRes Name="2100" Text="資料樹"/>
+  <StrRes Name="2101" Text="資料"/>
+  <StrRes Name="2102" Text="變數"/>
+  <StrRes Name="2103" Text="函數"/>
+  <StrRes Name="2104" Text="建立欄位"/>
+  <StrRes Name="2105" Text="建立標題"/>
+  <StrRes Name="2106" Text="類別"/>
+  <StrRes Name="dtNoData" Text="沒有資料庫可以使用"/>
+  <StrRes Name="dtNoData1" Text="執行&#38;#34;Report|Data...&#38;#34;功能表，加入存在的資料集(dataset)至報表，或切換到&#38;#34;Data&#38;#34;標籤並建立新的資料集"/>
+  <StrRes Name="dtData" Text="資料"/>
+  <StrRes Name="dtSysVar" Text="系統變數"/>
+  <StrRes Name="dtVar" Text="變數"/>
+  <StrRes Name="dtFunc" Text="函數"/>
+  <StrRes Name="2200" Text="報表樹"/>
+  <StrRes Name="2300" Text="開啟腳本"/>
+  <StrRes Name="2301" Text="儲存腳本"/>
+  <StrRes Name="2302" Text="執行腳本"/>
+  <StrRes Name="2303" Text="追蹤至"/>
+  <StrRes Name="2304" Text="結束腳本"/>
+  <StrRes Name="2305" Text="求值"/>
+  <StrRes Name="2306" Text="語言:"/>
+  <StrRes Name="2307" Text="對齊"/>
+  <StrRes Name="2308" Text="齊左"/>
+  <StrRes Name="2309" Text="水平置中"/>
+  <StrRes Name="2310" Text="齊右"/>
+  <StrRes Name="2311" Text="齊上"/>
+  <StrRes Name="2312" Text="垂直置中"/>
+  <StrRes Name="2313" Text="齊底"/>
+  <StrRes Name="2314" Text="水平空間"/>
+  <StrRes Name="2315" Text="垂直空間"/>
+  <StrRes Name="2316" Text="水平置中"/>
+  <StrRes Name="2317" Text="垂直置中"/>
+  <StrRes Name="2318" Text="相同寬度"/>
+  <StrRes Name="2319" Text="相同高度"/>
+  <StrRes Name="2320" Text="文字"/>
+  <StrRes Name="2321" Text="樣式"/>
+  <StrRes Name="2322" Text="字型名稱"/>
+  <StrRes Name="2323" Text="字型大小"/>
+  <StrRes Name="2324" Text="粗體"/>
+  <StrRes Name="2325" Text="斜體"/>
+  <StrRes Name="2326" Text="底線"/>
+  <StrRes Name="2327" Text="字體顏色"/>
+  <StrRes Name="2328" Text="強調"/>
+  <StrRes Name="2329" Text="文字方向"/>
+  <StrRes Name="2330" Text="左靠"/>
+  <StrRes Name="2331" Text="置中"/>
+  <StrRes Name="2332" Text="右靠"/>
+  <StrRes Name="2333" Text="左靠"/>
+  <StrRes Name="2334" Text="上面切齊"/>
+  <StrRes Name="2335" Text="垂直置中"/>
+  <StrRes Name="2336" Text="底部切齊"/>
+  <StrRes Name="2337" Text="外框"/>
+  <StrRes Name="2338" Text="上方線"/>
+  <StrRes Name="2339" Text="下方線"/>
+  <StrRes Name="2340" Text="左邊線"/>
+  <StrRes Name="2341" Text="右邊線"/>
+  <StrRes Name="2342" Text="框線"/>
+  <StrRes Name="2343" Text="沒有邊框"/>
+  <StrRes Name="2344" Text="陰影"/>
+  <StrRes Name="2345" Text="背景顏色"/>
+  <StrRes Name="2346" Text="外框顏色"/>
+  <StrRes Name="2347" Text="外框樣式"/>
+  <StrRes Name="2348" Text="外框寬度"/>
+  <StrRes Name="2349" Text="標準"/>
+  <StrRes Name="2350" Text="新報表"/>
+  <StrRes Name="2351" Text="開啟報表"/>
+  <StrRes Name="2352" Text="儲存報表"/>
+  <StrRes Name="2353" Text="預覽"/>
+  <StrRes Name="2354" Text="新報表頁面"/>
+  <StrRes Name="2355" Text="新對話視窗"/>
+  <StrRes Name="2356" Text="刪除頁"/>
+  <StrRes Name="2357" Text="頁面設定"/>
+  <StrRes Name="2358" Text="變數"/>
+  <StrRes Name="2359" Text="剪下"/>
+  <StrRes Name="2360" Text="複製"/>
+  <StrRes Name="2361" Text="貼上"/>
+  <StrRes Name="2362" Text="複製格式"/>
+  <StrRes Name="2363" Text="復原"/>
+  <StrRes Name="2364" Text="取消復原"/>
+  <StrRes Name="2365" Text="群組"/>
+  <StrRes Name="2366" Text="取消群組"/>
+  <StrRes Name="2367" Text="顯示格子"/>
+  <StrRes Name="2368" Text="與格子切齊"/>
+  <StrRes Name="2369" Text="Fit to Grid"/>
+  <StrRes Name="2370" Text="顯示比率"/>
+  <StrRes Name="2371" Text="額外工具"/>
+  <StrRes Name="2372" Text="選取工具"/>
+  <StrRes Name="2373" Text="徒手工具"/>
+  <StrRes Name="2374" Text="縮放工具"/>
+  <StrRes Name="2375" Text="編輯文字工具"/>
+  <StrRes Name="2376" Text="複製格式工具"/>
+  <StrRes Name="2377" Text="插入Band"/>
+  <StrRes Name="2378" Text="檔案(&amp;F)"/>
+  <StrRes Name="2379" Text="編輯(&amp;E)"/>
+  <StrRes Name="2380" Text="尋找..."/>
+  <StrRes Name="2381" Text="找下一個"/>
+  <StrRes Name="2382" Text="取代..."/>
+  <StrRes Name="2383" Text="報表(&amp;R)"/>
+  <StrRes Name="2384" Text="資料..."/>
+  <StrRes Name="2385" Text="選項..."/>
+  <StrRes Name="2386" Text="樣式..."/>
+  <StrRes Name="2387" Text="檢視(&amp;V)"/>
+  <StrRes Name="2388" Text="工具列"/>
+  <StrRes Name="2389" Text="標準"/>
+  <StrRes Name="2390" Text="文字"/>
+  <StrRes Name="2391" Text="外框"/>
+  <StrRes Name="2392" Text="對齊盤"/>
+  <StrRes Name="2393" Text="額外工具"/>
+  <StrRes Name="2394" Text="物件檢視器"/>
+  <StrRes Name="2395" Text="資料樹"/>
+  <StrRes Name="2396" Text="報表樹"/>
+  <StrRes Name="2397" Text="尺規"/>
+  <StrRes Name="2398" Text="導線"/>
+  <StrRes Name="2399" Text="刪除導線"/>
+  <StrRes Name="2400" Text="選項..."/>
+  <StrRes Name="2401" Text="說明(&amp;H)"/>
+  <StrRes Name="2402" Text="內容..."/>
+  <StrRes Name="2403" Text="關於 FastReport..."/>
+  <StrRes Name="2404" Text="Tab 次序..."/>
+  <StrRes Name="2405" Text="復原"/>
+  <StrRes Name="2406" Text="取消復原"/>
+  <StrRes Name="2407" Text="剪下"/>
+  <StrRes Name="2408" Text="複製"/>
+  <StrRes Name="2409" Text="貼上"/>
+  <StrRes Name="2410" Text="群組"/>
+  <StrRes Name="2411" Text="取消群組"/>
+  <StrRes Name="2412" Text="刪除"/>
+  <StrRes Name="2413" Text="刪除頁"/>
+  <StrRes Name="2414" Text="全選"/>
+  <StrRes Name="2415" Text="編輯..."/>
+  <StrRes Name="2416" Text="提升至上一層"/>
+  <StrRes Name="2417" Text="送至下一層"/>
+  <StrRes Name="2418" Text="新..."/>
+  <StrRes Name="2419" Text="新報表"/>
+  <StrRes Name="2420" Text="新頁面"/>
+  <StrRes Name="2421" Text="新對話視窗"/>
+  <StrRes Name="2422" Text="開啟..."/>
+  <StrRes Name="2423" Text="儲存"/>
+  <StrRes Name="2424" Text="另存新檔..."/>
+  <StrRes Name="2425" Text="變數..."/>
+  <StrRes Name="2426" Text="頁面設定..."/>
+  <StrRes Name="2427" Text="預覽"/>
+  <StrRes Name="2428" Text="離開"/>
+  <StrRes Name="2429" Text="報表抬頭"/>
+  <StrRes Name="2430" Text="報表合計"/>
+  <StrRes Name="2431" Text="頁首"/>
+  <StrRes Name="2432" Text="頁尾"/>
+  <StrRes Name="2433" Text="頭"/>
+  <StrRes Name="2434" Text="尾"/>
+  <StrRes Name="2435" Text="主資料"/>
+  <StrRes Name="2436" Text="明細資料"/>
+  <StrRes Name="2437" Text="子明細資料"/>
+  <StrRes Name="2438" Text="第4階資料"/>
+  <StrRes Name="2439" Text="第5階資料"/>
+  <StrRes Name="2440" Text="第6階資料"/>
+  <StrRes Name="2441" Text="群組首"/>
+  <StrRes Name="2442" Text="群組尾"/>
+  <StrRes Name="2443" Text="子"/>
+  <StrRes Name="2444" Text="欄首"/>
+  <StrRes Name="2445" Text="欄尾"/>
+  <StrRes Name="2446" Text="重疊"/>
+  <StrRes Name="2447" Text="垂直Band"/>
+  <StrRes Name="2448" Text="頭"/>
+  <StrRes Name="2449" Text="尾"/>
+  <StrRes Name="2450" Text="主資料"/>
+  <StrRes Name="2451" Text="明細資料"/>
+  <StrRes Name="2452" Text="子明細資料"/>
+  <StrRes Name="2453" Text="群組首"/>
+  <StrRes Name="2454" Text="群組尾"/>
+  <StrRes Name="2455" Text="子"/>
+  <StrRes Name="2456" Text="0度"/>
+  <StrRes Name="2457" Text="45度"/>
+  <StrRes Name="2458" Text="90度"/>
+  <StrRes Name="2459" Text="180度"/>
+  <StrRes Name="2460" Text="270度"/>
+  <StrRes Name="2461" Text="字型設定"/>
+  <StrRes Name="2462" Text="粗體"/>
+  <StrRes Name="2463" Text="斜體"/>
+  <StrRes Name="2464" Text="底線"/>
+  <StrRes Name="2465" Text="上標"/>
+  <StrRes Name="2466" Text="下標"/>
+  <StrRes Name="2467" Text="壓縮"/>
+  <StrRes Name="2468" Text="寬"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Report (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal files (*.pas)|*.pas|C++ files (*.cpp)|*.cpp|JavaScript files (*.js)|*.js|Basic files (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2473" Text="Pascal files (*.pas)|*.pas|C++ files (*.cpp)|*.cpp|JavaScript files (*.js)|*.js|Basic files (*.vb)|*.vb|All files|*.*"/>
+  <StrRes Name="2474" Text="連線..."/>
+  <StrRes Name="2475" Text="語言"/>
+  <StrRes Name="2476" Text="切換中斷點"/>
+  <StrRes Name="2477" Text="執行到游標位置"/>
+  <StrRes Name="2478" Text="!Add child band"/>
+  <StrRes Name="dsCm" Text="公分"/>
+  <StrRes Name="dsInch" Text="英吋"/>
+  <StrRes Name="dsPix" Text="像素"/>
+  <StrRes Name="dsChars" Text="字元"/>
+  <StrRes Name="dsCode" Text="程式"/>
+  <StrRes Name="dsData" Text="資料"/>
+  <StrRes Name="dsPage" Text="頁面"/>
+  <StrRes Name="dsRepFilter" Text="Report (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Compressed report (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="儲存變更至預覽頁面?"/>
+  <StrRes Name="dsSaveChangesTo" Text="儲存修改至 "/>
+  <StrRes Name="dsCantLoad" Text="無法載入檔案"/>
+  <StrRes Name="dsStyleFile" Text="樣式"/>
+  <StrRes Name="dsCantFindProc" Text="找不到主程序"/>
+  <StrRes Name="dsClearScript" Text="清除所有的腳本，你要繼續嗎?"/>
+  <StrRes Name="dsNoStyle" Text="沒有樣式"/>
+  <StrRes Name="dsStyleSample" Text="樣式範例"/>
+  <StrRes Name="dsTextNotFound" Text="文字 '%s' 找不到"/>
+  <StrRes Name="dsReplace" Text="取代文字 '%s'?"/>
+  <StrRes Name="2600" Text="關於 FastReport"/>
+  <StrRes Name="2601" Text="拜訪我們的網站以取得更多的資訊:"/>
+  <StrRes Name="2602" Text="銷售:"/>
+  <StrRes Name="2603" Text="支援:"/>
+  <StrRes Name="2700" Text="頁面選項"/>
+  <StrRes Name="2701" Text="紙張"/>
+  <StrRes Name="2702" Text="寬度"/>
+  <StrRes Name="2703" Text="高度"/>
+  <StrRes Name="2704" Text="大小"/>
+  <StrRes Name="2705" Text="方向"/>
+  <StrRes Name="2706" Text="左"/>
+  <StrRes Name="2707" Text="上"/>
+  <StrRes Name="2708" Text="右"/>
+  <StrRes Name="2709" Text="下"/>
+  <StrRes Name="2710" Text="邊界"/>
+  <StrRes Name="2711" Text="紙張來源"/>
+  <StrRes Name="2712" Text="第一頁"/>
+  <StrRes Name="2713" Text="其他頁"/>
+  <StrRes Name="2714" Text="直印"/>
+  <StrRes Name="2715" Text="橫印"/>
+  <StrRes Name="2716" Text="其他選項"/>
+  <StrRes Name="2717" Text="Columns"/>
+  <StrRes Name="2718" Text="Number"/>
+  <StrRes Name="2719" Text="寬"/>
+  <StrRes Name="2720" Text="位置"/>
+  <StrRes Name="2721" Text="其他"/>
+  <StrRes Name="2722" Text="雙面列印"/>
+  <StrRes Name="2723" Text="列印至前一頁"/>
+  <StrRes Name="2724" Text="鏡射邊界"/>
+  <StrRes Name="2725" Text="在設計模式使用大的紙張高度"/>
+  <StrRes Name="2726" Text="Endless page width"/>
+  <StrRes Name="2727" Text="Endless page height"/>
+  <StrRes Name="2800" Text="選取報表資料集"/>
+  <StrRes Name="2900" Text="編輯變數"/>
+  <StrRes Name="2901" Text="種類"/>
+  <StrRes Name="2902" Text="變數"/>
+  <StrRes Name="2903" Text="編輯"/>
+  <StrRes Name="2904" Text="刪除"/>
+  <StrRes Name="2905" Text="清單"/>
+  <StrRes Name="2906" Text="載入"/>
+  <StrRes Name="2907" Text="儲存"/>
+  <StrRes Name="2908" Text=" 運算式:"/>
+  <StrRes Name="2909" Text="Dictionary (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Dictionary (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(未定義變數)"/>
+  <StrRes Name="vaVar" Text="變數"/>
+  <StrRes Name="vaDupName" Text="名稱重複"/>
+  <StrRes Name="3000" Text="設計選項"/>
+  <StrRes Name="3001" Text="格子"/>
+  <StrRes Name="3002" Text="型態"/>
+  <StrRes Name="3003" Text="大小"/>
+  <StrRes Name="3004" Text="對話視窗:"/>
+  <StrRes Name="3005" Text="其他"/>
+  <StrRes Name="3006" Text="字型"/>
+  <StrRes Name="3007" Text="程式碼視窗"/>
+  <StrRes Name="3008" Text="文字編輯器"/>
+  <StrRes Name="3009" Text="大小"/>
+  <StrRes Name="3010" Text="大小"/>
+  <StrRes Name="3011" Text="顏色"/>
+  <StrRes Name="3012" Text="間距:"/>
+  <StrRes Name="3013" Text="公分"/>
+  <StrRes Name="3014" Text="英吋"/>
+  <StrRes Name="3015" Text="點"/>
+  <StrRes Name="3016" Text="點"/>
+  <StrRes Name="3017" Text="點"/>
+  <StrRes Name="3018" Text="公分:"/>
+  <StrRes Name="3019" Text="英吋:"/>
+  <StrRes Name="3020" Text="像素:"/>
+  <StrRes Name="3021" Text="顯示格子"/>
+  <StrRes Name="3022" Text="與格子切齊"/>
+  <StrRes Name="3023" Text="插入後顯示編輯器"/>
+  <StrRes Name="3024" Text="使用物件的字型設定"/>
+  <StrRes Name="3025" Text="工作空間"/>
+  <StrRes Name="3026" Text="工具視窗"/>
+  <StrRes Name="3027" Text="LCD 格子顏色"/>
+  <StrRes Name="3028" Text="自由擺設Band的位置"/>
+  <StrRes Name="3029" Text="顯示下拉式欄位清單"/>
+  <StrRes Name="3030" Text="顯示啟動畫面"/>
+  <StrRes Name="3031" Text="回存預設值"/>
+  <StrRes Name="3032" Text="顯示Band的標題"/>
+  <StrRes Name="3100" Text="選取資料集"/>
+  <StrRes Name="3101" Text="記錄筆數:"/>
+  <StrRes Name="dbNotAssigned" Text="[未指定]"/>
+  <StrRes Name="3200" Text="群組"/>
+  <StrRes Name="3201" Text="群組分隔於"/>
+  <StrRes Name="3202" Text="選項"/>
+  <StrRes Name="3203" Text="資料欄位"/>
+  <StrRes Name="3204" Text="運算式"/>
+  <StrRes Name="3205" Text="保持與群組在一起"/>
+  <StrRes Name="3206" Text="換頁"/>
+  <StrRes Name="3207" Text="顯示在大綱"/>
+  <StrRes Name="3300" Text="系統備忘"/>
+  <StrRes Name="3301" Text="資料band"/>
+  <StrRes Name="3302" Text="資料集"/>
+  <StrRes Name="3303" Text="資料欄位"/>
+  <StrRes Name="3304" Text="函數"/>
+  <StrRes Name="3305" Text="表示式"/>
+  <StrRes Name="3306" Text="合計值"/>
+  <StrRes Name="3307" Text="系統變數"/>
+  <StrRes Name="3308" Text="計算不可見band的數目"/>
+  <StrRes Name="3309" Text="文字"/>
+  <StrRes Name="3310" Text="執行總數"/>
+  <StrRes Name="agAggregate" Text="插入合計"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] / [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE 物件"/>
+  <StrRes Name="3401" Text="插入..."/>
+  <StrRes Name="3402" Text="編輯..."/>
+  <StrRes Name="3403" Text="關閉"/>
+  <StrRes Name="olStretched" Text="可伸縮"/>
+  <StrRes Name="3500" Text="條碼編輯器"/>
+  <StrRes Name="3501" Text="碼"/>
+  <StrRes Name="3502" Text="條碼類型"/>
+  <StrRes Name="3503" Text="比率:"/>
+  <StrRes Name="3504" Text="選項"/>
+  <StrRes Name="3505" Text="旋轉"/>
+  <StrRes Name="3506" Text="計算檢查碼 "/>
+  <StrRes Name="3507" Text="文字"/>
+  <StrRes Name="3508" Text="0度"/>
+  <StrRes Name="3509" Text="90度"/>
+  <StrRes Name="3510" Text="180度"/>
+  <StrRes Name="3511" Text="270度"/>
+  <StrRes Name="bcCalcChecksum" Text="計算檢查碼"/>
+  <StrRes Name="bcShowText" Text="顯示文字"/>
+  <StrRes Name="3600" Text="編輯別名"/>
+  <StrRes Name="3601" Text="按 Enter 編輯項目"/>
+  <StrRes Name="3602" Text="資料集別名"/>
+  <StrRes Name="3603" Text="欄位別名"/>
+  <StrRes Name="3604" Text="重置"/>
+  <StrRes Name="3605" Text="更新"/>
+  <StrRes Name="alUserName" Text="使用者名稱"/>
+  <StrRes Name="alOriginal" Text="原來的名稱"/>
+  <StrRes Name="3700" Text="參數編輯器"/>
+  <StrRes Name="qpName" Text="名稱"/>
+  <StrRes Name="qpDataType" Text="資料型態"/>
+  <StrRes Name="qpValue" Text="值"/>
+  <StrRes Name="3800" Text="Master-Detail 連結"/>
+  <StrRes Name="3801" Text="Detail 欄位"/>
+  <StrRes Name="3802" Text="Master 欄位"/>
+  <StrRes Name="3803" Text="Linked 欄位"/>
+  <StrRes Name="3804" Text="新增"/>
+  <StrRes Name="3805" Text="清除"/>
+  <StrRes Name="3900" Text="備忘"/>
+  <StrRes Name="3901" Text="插入運算式"/>
+  <StrRes Name="3902" Text="插入合計"/>
+  <StrRes Name="3903" Text="插入輸出格式"/>
+  <StrRes Name="3904" Text="文字自動換行"/>
+  <StrRes Name="3905" Text="文字"/>
+  <StrRes Name="3906" Text="格式"/>
+  <StrRes Name="3907" Text="強調"/>
+  <StrRes Name="4000" Text="圖像"/>
+  <StrRes Name="4001" Text="載入"/>
+  <StrRes Name="4002" Text="複製"/>
+  <StrRes Name="4003" Text="貼上"/>
+  <StrRes Name="4004" Text="清除"/>
+  <StrRes Name="piEmpty" Text="清空"/>
+  <StrRes Name="4100" Text="統計圖編輯器"/>
+  <StrRes Name="4101" Text="新增系列"/>
+  <StrRes Name="4102" Text="刪除系列"/>
+  <StrRes Name="4103" Text="編輯圖表"/>
+  <StrRes Name="4104" Text="Band來源"/>
+  <StrRes Name="4105" Text="固定資料"/>
+  <StrRes Name="4106" Text="資料集"/>
+  <StrRes Name="4107" Text="資料來源"/>
+  <StrRes Name="4108" Text="值"/>
+  <StrRes Name="4109" Text="選取圖表系列或加入新圖表"/>
+  <StrRes Name="4114" Text="其他選項"/>
+  <StrRes Name="4115" Text="前N名的值"/>
+  <StrRes Name="4116" Text="前N名的標題"/>
+  <StrRes Name="4117" Text="排列順序"/>
+  <StrRes Name="4126" Text="X 軸"/>
+  <StrRes Name="ch3D" Text="3D 檢視"/>
+  <StrRes Name="chAxis" Text="顯示軸"/>
+  <StrRes Name="chsoNone" Text="無"/>
+  <StrRes Name="chsoAscending" Text="遞增"/>
+  <StrRes Name="chsoDescending" Text="遞減"/>
+  <StrRes Name="chxtText" Text="文字"/>
+  <StrRes Name="chxtNumber" Text="數值"/>
+  <StrRes Name="chxtDate" Text="日期"/>
+  <StrRes Name="4200" Text="RTF 文件編輯器"/>
+  <StrRes Name="4201" Text="開啟檔案"/>
+  <StrRes Name="4202" Text="儲存檔案"/>
+  <StrRes Name="4203" Text="復原"/>
+  <StrRes Name="4204" Text="字型"/>
+  <StrRes Name="4205" Text="插入運算式"/>
+  <StrRes Name="4206" Text="粗體"/>
+  <StrRes Name="4207" Text="斜體"/>
+  <StrRes Name="4208" Text="底線"/>
+  <StrRes Name="4209" Text="左靠"/>
+  <StrRes Name="4210" Text="置中"/>
+  <StrRes Name="4211" Text="右靠"/>
+  <StrRes Name="4212" Text="左靠"/>
+  <StrRes Name="4213" Text="項目編號"/>
+  <StrRes Name="4300" Text="交叉報表編輯器"/>
+  <StrRes Name="4301" Text="來源資料"/>
+  <StrRes Name="4302" Text="空間"/>
+  <StrRes Name="4303" Text="列"/>
+  <StrRes Name="4304" Text="欄"/>
+  <StrRes Name="4305" Text="小方格"/>
+  <StrRes Name="4306" Text="交叉報表結構"/>
+  <StrRes Name="4307" Text="列首"/>
+  <StrRes Name="4308" Text="欄首"/>
+  <StrRes Name="4309" Text="列總計"/>
+  <StrRes Name="4310" Text="欄總計"/>
+  <StrRes Name="4311" Text="列/欄互換"/>
+  <StrRes Name="4312" Text="!Select style"/>
+  <StrRes Name="4313" Text="!Save current style..."/>
+  <StrRes Name="4314" Text="!Show title"/>
+  <StrRes Name="4315" Text="!Show corner"/>
+  <StrRes Name="4316" Text="!Reprint headers on new page"/>
+  <StrRes Name="4317" Text="!Auto size"/>
+  <StrRes Name="4318" Text="!Border around cells"/>
+  <StrRes Name="4319" Text="!Print down then across"/>
+  <StrRes Name="4320" Text="!Side-by-side cells"/>
+  <StrRes Name="4321" Text="!Join equal cells"/>
+  <StrRes Name="4322" Text="無"/>
+  <StrRes Name="4323" Text="合計"/>
+  <StrRes Name="4324" Text="最小值"/>
+  <StrRes Name="4325" Text="最大值"/>
+  <StrRes Name="4326" Text="平均值"/>
+  <StrRes Name="4327" Text="計數"/>
+  <StrRes Name="4328" Text="遞增 (A-Z)"/>
+  <StrRes Name="4329" Text="遞減 (Z-A)"/>
+  <StrRes Name="4330" Text="不排序"/>
+  <StrRes Name="crStName" Text="!Enter the style name:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="小計"/>
+  <StrRes Name="crNone" Text="無"/>
+  <StrRes Name="crSum" Text="合計"/>
+  <StrRes Name="crMin" Text="最小值"/>
+  <StrRes Name="crMax" Text="最大值"/>
+  <StrRes Name="crAvg" Text="平均值"/>
+  <StrRes Name="crCount" Text="計數"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="4400" Text="運算式編輯器"/>
+  <StrRes Name="4401" Text="運算式:"/>
+  <StrRes Name="4500" Text="顯示格式"/>
+  <StrRes Name="4501" Text="種類"/>
+  <StrRes Name="4502" Text="格式"/>
+  <StrRes Name="4503" Text="格式字串:"/>
+  <StrRes Name="4504" Text="小數點分隔字元:"/>
+  <StrRes Name="fkText" Text="Text (no formatting)"/>
+  <StrRes Name="fkNumber" Text="Number"/>
+  <StrRes Name="fkDateTime" Text="Date/Time"/>
+  <StrRes Name="fkBoolean" Text="Boolean"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="No,Yes;No,Yes"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="強調"/>
+  <StrRes Name="4601" Text="顏色..."/>
+  <StrRes Name="4602" Text="顏色..."/>
+  <StrRes Name="4603" Text="條件"/>
+  <StrRes Name="4604" Text="字型"/>
+  <StrRes Name="4605" Text="背景"/>
+  <StrRes Name="4606" Text="粗體"/>
+  <StrRes Name="4607" Text="斜體"/>
+  <StrRes Name="4608" Text="底線"/>
+  <StrRes Name="4609" Text="透明"/>
+  <StrRes Name="4610" Text="其他"/>
+  <StrRes Name="4700" Text="報表設定"/>
+  <StrRes Name="4701" Text="一般"/>
+  <StrRes Name="4702" Text="印表機設定"/>
+  <StrRes Name="4703" Text="列印份數"/>
+  <StrRes Name="4704" Text="一般"/>
+  <StrRes Name="4705" Text="密碼"/>
+  <StrRes Name="4706" Text="Collate copies"/>
+  <StrRes Name="4707" Text="雙重處理"/>
+  <StrRes Name="4708" Text="假如無資料也要列印"/>
+  <StrRes Name="4709" Text="描述"/>
+  <StrRes Name="4710" Text="名稱"/>
+  <StrRes Name="4711" Text="描述"/>
+  <StrRes Name="4712" Text="圖像"/>
+  <StrRes Name="4713" Text="作者"/>
+  <StrRes Name="4714" Text="Major"/>
+  <StrRes Name="4715" Text="Minor"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="建立"/>
+  <StrRes Name="4719" Text="修改"/>
+  <StrRes Name="4720" Text="描述"/>
+  <StrRes Name="4721" Text="版本"/>
+  <StrRes Name="4722" Text="瀏覽..."/>
+  <StrRes Name="4723" Text="繼承設定"/>
+  <StrRes Name="4724" Text="選擇選項:"/>
+  <StrRes Name="4725" Text="不變"/>
+  <StrRes Name="4726" Text="Detach the base report"/>
+  <StrRes Name="4727" Text="插入基礎報表:"/>
+  <StrRes Name="4728" Text="繼承"/>
+  <StrRes Name="rePrnOnPort" Text="在"/>
+  <StrRes Name="riNotInherited" Text="此報表未繼承"/>
+  <StrRes Name="riInherited" Text="此報表繼承基礎報表: %s"/>
+  <StrRes Name="4800" Text="字串清單"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="密碼"/>
+  <StrRes Name="5001" Text="輸入密碼:"/>
+  <StrRes Name="5100" Text="樣式編輯器"/>
+  <StrRes Name="5101" Text="顏色..."/>
+  <StrRes Name="5102" Text="字型..."/>
+  <StrRes Name="5103" Text="外框..."/>
+  <StrRes Name="5104" Text="加入"/>
+  <StrRes Name="5105" Text="刪除"/>
+  <StrRes Name="5106" Text="編輯"/>
+  <StrRes Name="5107" Text="載入"/>
+  <StrRes Name="5108" Text="儲存"/>
+  <StrRes Name="5200" Text="外框編輯器"/>
+  <StrRes Name="5201" Text="外框"/>
+  <StrRes Name="5202" Text="框線"/>
+  <StrRes Name="5203" Text="陰影"/>
+  <StrRes Name="5204" Text="上線"/>
+  <StrRes Name="5205" Text="底線"/>
+  <StrRes Name="5206" Text="左線"/>
+  <StrRes Name="5207" Text="右線"/>
+  <StrRes Name="5208" Text="外框線"/>
+  <StrRes Name="5209" Text="無框線"/>
+  <StrRes Name="5210" Text="外框顏色"/>
+  <StrRes Name="5211" Text="外框樣式"/>
+  <StrRes Name="5212" Text="外框寬度"/>
+  <StrRes Name="5213" Text="陰影"/>
+  <StrRes Name="5214" Text="陰影顏色"/>
+  <StrRes Name="5215" Text="陰影寬度"/>
+  <StrRes Name="5300" Text="新項目"/>
+  <StrRes Name="5301" Text="項目"/>
+  <StrRes Name="5302" Text="樣板"/>
+  <StrRes Name="5303" Text="繼承報表"/>
+  <StrRes Name="5400" Text="Tab鍵次序"/>
+  <StrRes Name="5401" Text="控制項的Tab鍵次序:"/>
+  <StrRes Name="5402" Text="上移"/>
+  <StrRes Name="5403" Text="下移"/>
+  <StrRes Name="5500" Text="求值"/>
+  <StrRes Name="5501" Text="運算式"/>
+  <StrRes Name="5502" Text="結果"/>
+  <StrRes Name="5600" Text="報表精靈"/>
+  <StrRes Name="5601" Text="資料"/>
+  <StrRes Name="5602" Text="欄位"/>
+  <StrRes Name="5603" Text="群組"/>
+  <StrRes Name="5604" Text="格式"/>
+  <StrRes Name="5605" Text="樣式"/>
+  <StrRes Name="5606" Text="Step 1. 選取資料集"/>
+  <StrRes Name="5607" Text="Step 2. 選取要顯示的欄位"/>
+  <StrRes Name="5608" Text="Step 3. 建立群組(選項)"/>
+  <StrRes Name="5609" Text="Step 4. 定義頁面方向及資料格式"/>
+  <StrRes Name="5610" Text="Step 5. 選擇報表樣式"/>
+  <StrRes Name="5611" Text="加入 &#62;"/>
+  <StrRes Name="5612" Text="全部加入 &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; 移除"/>
+  <StrRes Name="5614" Text="&#60;&#60; 全部移除"/>
+  <StrRes Name="5615" Text="加入 &#62;"/>
+  <StrRes Name="5616" Text="&#60; 移除"/>
+  <StrRes Name="5617" Text="選取的欄位:"/>
+  <StrRes Name="5618" Text="可用的欄位:"/>
+  <StrRes Name="5619" Text="群組:"/>
+  <StrRes Name="5620" Text="方向"/>
+  <StrRes Name="5621" Text="格式"/>
+  <StrRes Name="5622" Text="直印"/>
+  <StrRes Name="5623" Text="橫印"/>
+  <StrRes Name="5624" Text="Tabular"/>
+  <StrRes Name="5625" Text="Columnar"/>
+  <StrRes Name="5626" Text="調整欄位至頁面寬度"/>
+  <StrRes Name="5627" Text="&#60;&#60; 上一步"/>
+  <StrRes Name="5628" Text="下一步 &#62;&#62;"/>
+  <StrRes Name="5629" Text="完成"/>
+  <StrRes Name="5630" Text="新資料表..."/>
+  <StrRes Name="5631" Text="新查詢..."/>
+  <StrRes Name="5632" Text="選取資料庫連線:"/>
+  <StrRes Name="5633" Text="選取資料表:"/>
+  <StrRes Name="5634" Text="或"/>
+  <StrRes Name="5635" Text="建立查詢..."/>
+  <StrRes Name="5636" Text="架構連線"/>
+  <StrRes Name="wzStd" Text="標準報表精靈"/>
+  <StrRes Name="wzDMP" Text="點矩陣報表精靈"/>
+  <StrRes Name="wzStdEmpty" Text="標準報表"/>
+  <StrRes Name="wzDMPEmpty" Text="點矩陣報表"/>
+  <StrRes Name="5700" Text="連線精靈"/>
+  <StrRes Name="5701" Text="連線"/>
+  <StrRes Name="5702" Text="選擇連線型態:"/>
+  <StrRes Name="5703" Text="選取資料庫:"/>
+  <StrRes Name="5704" Text="登入"/>
+  <StrRes Name="5705" Text="密碼"/>
+  <StrRes Name="5706" Text="提示登入畫面"/>
+  <StrRes Name="5707" Text="使用 登入/密碼:"/>
+  <StrRes Name="5708" Text="資料表"/>
+  <StrRes Name="5709" Text="選取紀錄名稱:"/>
+  <StrRes Name="5710" Text="過濾紀錄:"/>
+  <StrRes Name="5711" Text="查詢"/>
+  <StrRes Name="5712" Text="SQL 敘數:"/>
+  <StrRes Name="5713" Text="查詢產生器"/>
+  <StrRes Name="5714" Text="編輯查詢參數"/>
+  <StrRes Name="ftAllFiles" Text="所有檔案"/>
+  <StrRes Name="ftPictures" Text="圖像"/>
+  <StrRes Name="ftDB" Text="資料庫"/>
+  <StrRes Name="ftRichFile" Text="RichText file"/>
+  <StrRes Name="ftTextFile" Text="文字檔"/>
+  <StrRes Name="prNotAssigned" Text="(未指定)"/>
+  <StrRes Name="prInvProp" Text="不合法的屬性值"/>
+  <StrRes Name="prDupl" Text="名稱重複"/>
+  <StrRes Name="prPict" Text="(圖像)"/>
+  <StrRes Name="mvExpr" Text="允許運算式"/>
+  <StrRes Name="mvStretch" Text="Stretch"/>
+  <StrRes Name="mvStretchToMax" Text="展開至最大高度"/>
+  <StrRes Name="mvShift" Text="Shift"/>
+  <StrRes Name="mvShiftOver" Text="Shift When Overlapped"/>
+  <StrRes Name="mvVisible" Text="Visible"/>
+  <StrRes Name="mvPrintable" Text="可列印"/>
+  <StrRes Name="mvFont" Text="字型..."/>
+  <StrRes Name="mvFormat" Text="顯示格式..."/>
+  <StrRes Name="mvClear" Text="清除內容"/>
+  <StrRes Name="mvAutoWidth" Text="自動寬度"/>
+  <StrRes Name="mvWWrap" Text="自動換行"/>
+  <StrRes Name="mvSuppress" Text="消除重複的值"/>
+  <StrRes Name="mvHideZ" Text="隱藏前置的 0"/>
+  <StrRes Name="mvHTML" Text="允許HTML標籤"/>
+  <StrRes Name="lvDiagonal" Text="Diagonal"/>
+  <StrRes Name="pvAutoSize" Text="自動大小"/>
+  <StrRes Name="pvCenter" Text="置中"/>
+  <StrRes Name="pvAspect" Text="保持比率"/>
+  <StrRes Name="bvSplit" Text="允許分割"/>
+  <StrRes Name="bvKeepChild" Text="Keep Child Together"/>
+  <StrRes Name="bvPrintChild" Text="Print Child If Invisible"/>
+  <StrRes Name="bvStartPage" Text="換頁"/>
+  <StrRes Name="bvPrintIfEmpty" Text="假如無明細資料照樣列印"/>
+  <StrRes Name="bvKeepDetail" Text="Keep Detail Together"/>
+  <StrRes Name="bvKeepFooter" Text="Keep Footer Together"/>
+  <StrRes Name="bvReprint" Text="Reprint On New Page"/>
+  <StrRes Name="bvOnFirst" Text="列印在第一頁"/>
+  <StrRes Name="bvOnLast" Text="列印在最後一頁"/>
+  <StrRes Name="bvKeepGroup" Text="保持在一起"/>
+  <StrRes Name="bvFooterAfterEach" Text="Footer after each row"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="重置頁碼"/>
+  <StrRes Name="srParent" Text="Print On Parent"/>
+  <StrRes Name="bvKeepHeader" Text="Keep Header Together"/>
+  <StrRes Name="obCatDraw" Text="Draw"/>
+  <StrRes Name="obCatOther" Text="其他物件"/>
+  <StrRes Name="obCatOtherControls" Text="其他控制項"/>
+  <StrRes Name="obDiagLine" Text="Diagonal line"/>
+  <StrRes Name="obRect" Text="矩形"/>
+  <StrRes Name="obRoundRect" Text="圓角矩形"/>
+  <StrRes Name="obEllipse" Text="橢圓形"/>
+  <StrRes Name="obTrian" Text="三角形"/>
+  <StrRes Name="obDiamond" Text="鑽石"/>
+  <StrRes Name="obLabel" Text="Label control"/>
+  <StrRes Name="obEdit" Text="Edit control"/>
+  <StrRes Name="obMemoC" Text="Memo control"/>
+  <StrRes Name="obButton" Text="Button control"/>
+  <StrRes Name="obChBoxC" Text="CheckBox control"/>
+  <StrRes Name="obRButton" Text="RadioButton control"/>
+  <StrRes Name="obLBox" Text="ListBox control"/>
+  <StrRes Name="obCBox" Text="ComboBox control"/>
+  <StrRes Name="obDateEdit" Text="DateEdit control"/>
+  <StrRes Name="obImageC" Text="Image control"/>
+  <StrRes Name="obPanel" Text="Panel control"/>
+  <StrRes Name="obGrBox" Text="GroupBox control"/>
+  <StrRes Name="obBBtn" Text="BitBtn control"/>
+  <StrRes Name="obSBtn" Text="SpeedButton control"/>
+  <StrRes Name="obMEdit" Text="MaskEdit control"/>
+  <StrRes Name="obChLB" Text="CheckListBox control"/>
+  <StrRes Name="obDBLookup" Text="DBLookupComboBox control"/>
+  <StrRes Name="obBevel" Text="Bevel object"/>
+  <StrRes Name="obShape" Text="Shape object"/>
+  <StrRes Name="obText" Text="Text object"/>
+  <StrRes Name="obSysText" Text="System text"/>
+  <StrRes Name="obLine" Text="Line object"/>
+  <StrRes Name="obPicture" Text="Picture object"/>
+  <StrRes Name="obBand" Text="Band object"/>
+  <StrRes Name="obDataBand" Text="Data band"/>
+  <StrRes Name="obSubRep" Text="Subreport object"/>
+  <StrRes Name="obDlgPage" Text="Dialog form"/>
+  <StrRes Name="obRepPage" Text="Report page"/>
+  <StrRes Name="obReport" Text="Report object"/>
+  <StrRes Name="obRich" Text="RichText object"/>
+  <StrRes Name="obOLE" Text="OLE object"/>
+  <StrRes Name="obChBox" Text="CheckBox object"/>
+  <StrRes Name="obChart" Text="Chart object"/>
+  <StrRes Name="obBarC" Text="Barcode object"/>
+  <StrRes Name="obCross" Text="Cross-tab object"/>
+  <StrRes Name="obDBCross" Text="DB Cross-tab object"/>
+  <StrRes Name="obGrad" Text="Gradient object"/>
+  <StrRes Name="obDMPText" Text="Dot-matrix Text object"/>
+  <StrRes Name="obDMPLine" Text="Dot-matrix Line object"/>
+  <StrRes Name="obBDEDB" Text="BDE Database"/>
+  <StrRes Name="obBDETb" Text="BDE Table"/>
+  <StrRes Name="obBDEQ" Text="BDE Query"/>
+  <StrRes Name="obBDEComps" Text="BDE components"/>
+  <StrRes Name="obIBXDB" Text="IBX Database"/>
+  <StrRes Name="obIBXTb" Text="IBX Table"/>
+  <StrRes Name="obIBXQ" Text="IBX Query"/>
+  <StrRes Name="obIBXComps" Text="IBX Components"/>
+  <StrRes Name="obADODB" Text="ADO Database"/>
+  <StrRes Name="obADOTb" Text="ADO Table"/>
+  <StrRes Name="obADOQ" Text="ADO Query"/>
+  <StrRes Name="obADOComps" Text="ADO Components"/>
+  <StrRes Name="obDBXDB" Text="DBX Database"/>
+  <StrRes Name="obDBXTb" Text="DBX Table"/>
+  <StrRes Name="obDBXQ" Text="DBX Query"/>
+  <StrRes Name="obDBXComps" Text="DBX Components"/>
+  <StrRes Name="obFIBDB" Text="FIB Database"/>
+  <StrRes Name="obFIBTb" Text="FIB Table"/>
+  <StrRes Name="obFIBQ" Text="FIB Query"/>
+  <StrRes Name="obFIBComps" Text="FIB Components"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Command object"/>
+  <StrRes Name="ctString" Text="String"/>
+  <StrRes Name="ctDate" Text="Date and Time"/>
+  <StrRes Name="ctConv" Text="Conversions"/>
+  <StrRes Name="ctFormat" Text="Formatting"/>
+  <StrRes Name="ctMath" Text="Mathematical"/>
+  <StrRes Name="ctOther" Text="Other"/>
+  <StrRes Name="IntToStr" Text="Converts an integer value to a string"/>
+  <StrRes Name="FloatToStr" Text="Converts a float value to a string"/>
+  <StrRes Name="DateToStr" Text="Converts a date to a string"/>
+  <StrRes Name="TimeToStr" Text="Converts a time to a string"/>
+  <StrRes Name="DateTimeToStr" Text="Converts a date-and-time value to a string"/>
+  <StrRes Name="VarToStr" Text="Converts a variant value to a string"/>
+  <StrRes Name="StrToInt" Text="Converts a string to an integer value"/>
+  <StrRes Name="StrToInt64" Text="Converts a string to an Int64 value"/>
+  <StrRes Name="StrToFloat" Text="Converts a string to a floating-point value"/>
+  <StrRes Name="StrToDate" Text="Converts a string to a date format"/>
+  <StrRes Name="StrToTime" Text="Converts a string to a time format"/>
+  <StrRes Name="StrToDateTime" Text="Converts a string to a date-and-time format"/>
+  <StrRes Name="Format" Text="Returns formatted string assembled from a series of array arguments"/>
+  <StrRes Name="FormatFloat" Text="Formats a floating-point value"/>
+  <StrRes Name="FormatDateTime" Text="Formats a date-and-time value"/>
+  <StrRes Name="FormatMaskText" Text="Returns a string formatted using an edit mask"/>
+  <StrRes Name="EncodeDate" Text="Returns a TDateTime type for a specified Year, Month, and Day"/>
+  <StrRes Name="DecodeDate" Text="Breaks TDateTime into Year, Month, and Day values"/>
+  <StrRes Name="EncodeTime" Text="Returns a TDateTime type for a specified Hour, Min, Sec, and MSec"/>
+  <StrRes Name="DecodeTime" Text="Breaks TDateTime into hours, minutes, seconds, and milliseconds"/>
+  <StrRes Name="Date" Text="Returns current date"/>
+  <StrRes Name="Time" Text="Returns current time"/>
+  <StrRes Name="Now" Text="Return current date and time"/>
+  <StrRes Name="DayOfWeek" Text="Returns the day of the week for a specified date"/>
+  <StrRes Name="IsLeapYear" Text="Indicates whether a specified year is a leap year"/>
+  <StrRes Name="DaysInMonth" Text="Returns a number of days in a specified month"/>
+  <StrRes Name="Length" Text="Returns a length of a string"/>
+  <StrRes Name="Copy" Text="Returns a substring of a string"/>
+  <StrRes Name="Pos" Text="Returns a position of a substring in a string"/>
+  <StrRes Name="Delete" Text="Removes a substring from a string"/>
+  <StrRes Name="Insert" Text="Inserts a substring into a string"/>
+  <StrRes Name="Uppercase" Text="Converts all character in a string to upper case"/>
+  <StrRes Name="Lowercase" Text="Converts all character in a string to lower case"/>
+  <StrRes Name="Trim" Text="Trims all trailing and leading spaces in a string"/>
+  <StrRes Name="NameCase" Text="Converts first character of a word to upper case"/>
+  <StrRes Name="CompareText" Text="Compares two strings"/>
+  <StrRes Name="Chr" Text="Converts an integer value to a char"/>
+  <StrRes Name="Ord" Text="Converts a character value to an integer"/>
+  <StrRes Name="SetLength" Text="Sets the length of a string"/>
+  <StrRes Name="Round" Text="Rounds a floating-point value to the nearest whole number"/>
+  <StrRes Name="Trunc" Text="Truncates a floating-point value to an integer"/>
+  <StrRes Name="Int" Text="Returns the integer part of a real number"/>
+  <StrRes Name="Frac" Text="Returns the fractional part of a real number"/>
+  <StrRes Name="Sqrt" Text="Returns the square root of a specified number"/>
+  <StrRes Name="Abs" Text="Returns an absolute value"/>
+  <StrRes Name="Sin" Text="Returns the sine of an angle (in radians)"/>
+  <StrRes Name="Cos" Text="Returns the cosine of an angle (in radians)"/>
+  <StrRes Name="ArcTan" Text="Returns the arctangent"/>
+  <StrRes Name="Tan" Text="Returns the tangent"/>
+  <StrRes Name="Exp" Text="Returns the exponential"/>
+  <StrRes Name="Ln" Text="Returns the natural log of a real expression"/>
+  <StrRes Name="Pi" Text="Returns the 3.1415926... number"/>
+  <StrRes Name="Inc" Text="Increments a value"/>
+  <StrRes Name="Dec" Text="Decrements a value"/>
+  <StrRes Name="RaiseException" Text="Raises an exception"/>
+  <StrRes Name="ShowMessage" Text="Shows a message box"/>
+  <StrRes Name="Randomize" Text="Starts the random numbers generator"/>
+  <StrRes Name="Random" Text="Returns a random number"/>
+  <StrRes Name="ValidInt" Text="Returns True if specified string contains a valid integer"/>
+  <StrRes Name="ValidFloat" Text="Returns True if specified string contains a valid float"/>
+  <StrRes Name="ValidDate" Text="Returns True if specified string contains a valid date"/>
+  <StrRes Name="IIF" Text="Returns TrueValue if specified Expr is True, otherwise returns FalseValue"/>
+  <StrRes Name="Get" Text="For internal use only"/>
+  <StrRes Name="Set" Text="For internal use only"/>
+  <StrRes Name="InputBox" Text="Displays an input dialog box that enables the user to enter a string"/>
+  <StrRes Name="InputQuery" Text="Displays an input dialog box that enables the user to enter a string"/>
+  <StrRes Name="MessageDlg" Text="Shows a message box"/>
+  <StrRes Name="CreateOleObject" Text="Creates an OLE object"/>
+  <StrRes Name="VarArrayCreate" Text="Creates a variant array"/>
+  <StrRes Name="VarType" Text="Return a type of the variant value"/>
+  <StrRes Name="DayOf" Text="Returns day number (1..31) of given Date"/>
+  <StrRes Name="MonthOf" Text="Returns month number (1..12) of given Date"/>
+  <StrRes Name="YearOf" Text="Returns year of given Date"/>
+  <StrRes Name="ctAggregate" Text="Aggregate"/>
+  <StrRes Name="Sum" Text="Calculates the sum of the Expr for the Band datarow"/>
+  <StrRes Name="Avg" Text="Calculates the average of the Expr for the Band datarow"/>
+  <StrRes Name="Min" Text="Calculates the minimum of the Expr for the Band datarow"/>
+  <StrRes Name="Max" Text="Calculates the maximum of the Expr for the Band datarow"/>
+  <StrRes Name="Count" Text="Calculates the number of datarows"/>
+  <StrRes Name="wzDBConn" Text="新連線精靈"/>
+  <StrRes Name="wzDBTable" Text="新資料表精靈"/>
+  <StrRes Name="wzDBQuery" Text="新查詢精靈"/>
+  <StrRes Name="5800" Text="連線"/>
+  <StrRes Name="5801" Text="新"/>
+  <StrRes Name="5802" Text="刪除"/>
+  <StrRes Name="cpName" Text="名稱"/>
+  <StrRes Name="cpConnStr" Text="連線字串"/>
+  <StrRes Name="startCreateNew" Text="建立新報表"/>
+  <StrRes Name="startCreateBlank" Text="建立空白報表"/>
+  <StrRes Name="startOpenReport" Text="開啟報表"/>
+  <StrRes Name="startOpenLast" Text="開啟最近使用過的報表"/>
+  <StrRes Name="startEditAliases" Text="編輯連線的別名"/>
+  <StrRes Name="startHelp" Text="說明"/>
+  <StrRes Name="5900" Text="Watches"/>
+  <StrRes Name="5901" Text="Add Watch"/>
+  <StrRes Name="5902" Text="Delete Watch"/>
+  <StrRes Name="5903" Text="Edit Watch"/>
+  <StrRes Name="6000" Text="繼承錯誤"/>
+  <StrRes Name="6001" Text="基底與繼承的報表有重複的物件，我們該怎麼做?"/>
+  <StrRes Name="6002" Text="刪除重複"/>
+  <StrRes Name="6003" Text="重複的物件更名"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

@@ -1,0 +1,844 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1252">
+  <StrRes Name="2000" Text="Object Inspector"/>
+  <StrRes Name="oiProp" Text="Properties"/>
+  <StrRes Name="oiEvent" Text="Events"/>
+  <StrRes Name="2100" Text="Datatræ"/>
+  <StrRes Name="2101" Text="Data"/>
+  <StrRes Name="2102" Text="Variable"/>
+  <StrRes Name="2103" Text="Funktioner"/>
+  <StrRes Name="2104" Text="Lav felt"/>
+  <StrRes Name="2105" Text="Lav kort titel"/>
+  <StrRes Name="2106" Text="Classes"/>
+  <StrRes Name="dtNoData" Text="Intet data tilgængeligt."/>
+  <StrRes Name="dtNoData1" Text="Gå til &#38;#34;Rapport|Data...&#38;#34; menuen for at tilføje et eksisterende datasæt til din rapport, eller skift til &#38;#34;Data&#38;#34; fanebladet og lav nye datasæt."/>
+  <StrRes Name="dtData" Text="Data"/>
+  <StrRes Name="dtSysVar" Text="Systemvariabel"/>
+  <StrRes Name="dtVar" Text="Variable"/>
+  <StrRes Name="dtFunc" Text="Funktioner"/>
+  <StrRes Name="2200" Text="Rapporttræ"/>
+  <StrRes Name="2300" Text="Åbn Skript-fil"/>
+  <StrRes Name="2301" Text="Gem Skript i fil"/>
+  <StrRes Name="2302" Text="Kør skript"/>
+  <StrRes Name="2303" Text="Spor ind i"/>
+  <StrRes Name="2304" Text="Afbryd skript"/>
+  <StrRes Name="2305" Text="Evaluer"/>
+  <StrRes Name="2306" Text="Sprog:"/>
+  <StrRes Name="2307" Text="Stille op på linie"/>
+  <StrRes Name="2308" Text="Stil op til venstre"/>
+  <StrRes Name="2309" Text="Stil op i midten"/>
+  <StrRes Name="2310" Text="Stil op til højre"/>
+  <StrRes Name="2311" Text="Stil op i top"/>
+  <StrRes Name="2312" Text="Stil op centreret"/>
+  <StrRes Name="2313" Text="Stil op i bund"/>
+  <StrRes Name="2314" Text="Afstand horisontalt"/>
+  <StrRes Name="2315" Text="Afstand vertikalt"/>
+  <StrRes Name="2316" Text="Centrer horisontalt i bånd"/>
+  <StrRes Name="2317" Text="Centrer vertikalt i bånd"/>
+  <StrRes Name="2318" Text="Samme bredde"/>
+  <StrRes Name="2319" Text="Samme højde"/>
+  <StrRes Name="2320" Text="Tekst"/>
+  <StrRes Name="2321" Text="Stil"/>
+  <StrRes Name="2322" Text="Skrifttypenavn"/>
+  <StrRes Name="2323" Text="Skrifttypestørrelse"/>
+  <StrRes Name="2324" Text="Fed"/>
+  <StrRes Name="2325" Text="Kursiv"/>
+  <StrRes Name="2326" Text="Understreg"/>
+  <StrRes Name="2327" Text="Skrifttypefarve"/>
+  <StrRes Name="2328" Text="Fremhæv"/>
+  <StrRes Name="2329" Text="Tekstrotation"/>
+  <StrRes Name="2330" Text="Venstrejustering"/>
+  <StrRes Name="2331" Text="Centreret"/>
+  <StrRes Name="2332" Text="Højrejustering"/>
+  <StrRes Name="2333" Text="Lige margener"/>
+  <StrRes Name="2334" Text="Justering øverst"/>
+  <StrRes Name="2335" Text="Midterjustering"/>
+  <StrRes Name="2336" Text="Bundjustering"/>
+  <StrRes Name="2337" Text="Ramme"/>
+  <StrRes Name="2338" Text="Linie øverst"/>
+  <StrRes Name="2339" Text="Linie i bund"/>
+  <StrRes Name="2340" Text="Venstrelinie"/>
+  <StrRes Name="2341" Text="Højrelinie"/>
+  <StrRes Name="2342" Text="Alle rammelinier"/>
+  <StrRes Name="2343" Text="Ingen ramme"/>
+  <StrRes Name="2344" Text="Skygge"/>
+  <StrRes Name="2345" Text="Baggrundsfarve"/>
+  <StrRes Name="2346" Text="Rammefarve"/>
+  <StrRes Name="2347" Text="Rammestil"/>
+  <StrRes Name="2348" Text="Rammebredde"/>
+  <StrRes Name="2349" Text="Standard"/>
+  <StrRes Name="2350" Text="Ny rapport"/>
+  <StrRes Name="2351" Text="Åbn rapport"/>
+  <StrRes Name="2352" Text="Gem rapport"/>
+  <StrRes Name="2353" Text="Vis udskrift"/>
+  <StrRes Name="2354" Text="Ny rapport side"/>
+  <StrRes Name="2355" Text="Ny dialog side"/>
+  <StrRes Name="2356" Text="Slet side"/>
+  <StrRes Name="2357" Text="Sideopsætning"/>
+  <StrRes Name="2358" Text="Variable"/>
+  <StrRes Name="2359" Text="Klip"/>
+  <StrRes Name="2360" Text="Kopier"/>
+  <StrRes Name="2361" Text="Sæt ind"/>
+  <StrRes Name="2362" Text="Kopier formattering"/>
+  <StrRes Name="2363" Text="Fortryd"/>
+  <StrRes Name="2364" Text="Gentag"/>
+  <StrRes Name="2365" Text="Gruppering"/>
+  <StrRes Name="2366" Text="Fjern gruppering"/>
+  <StrRes Name="2367" Text="Vis gitter"/>
+  <StrRes Name="2368" Text="Juster til gitter"/>
+  <StrRes Name="2369" Text="Tilpas til gitter"/>
+  <StrRes Name="2370" Text="Zoom"/>
+  <StrRes Name="2371" Text="Ekstra værktøjer"/>
+  <StrRes Name="2372" Text="Vælg værktøj"/>
+  <StrRes Name="2373" Text="Hånd-værktøj"/>
+  <StrRes Name="2374" Text="Zoom-værktøj"/>
+  <StrRes Name="2375" Text="Editer Tekst-værktøj"/>
+  <StrRes Name="2376" Text="Kopier formattering-værktøj"/>
+  <StrRes Name="2377" Text="Indsæt Bånd"/>
+  <StrRes Name="2378" Text="&amp;Fil"/>
+  <StrRes Name="2379" Text="&amp;Editer"/>
+  <StrRes Name="2380" Text="Find..."/>
+  <StrRes Name="2381" Text="Find Næste"/>
+  <StrRes Name="2382" Text="Erstat..."/>
+  <StrRes Name="2383" Text="&amp;Rapport"/>
+  <StrRes Name="2384" Text="Data..."/>
+  <StrRes Name="2385" Text="Valgmuligheder..."/>
+  <StrRes Name="2386" Text="Stil..."/>
+  <StrRes Name="2387" Text="&amp;Vis"/>
+  <StrRes Name="2388" Text="Værktøjslinier"/>
+  <StrRes Name="2389" Text="Standard"/>
+  <StrRes Name="2390" Text="Tekst"/>
+  <StrRes Name="2391" Text="Ramme"/>
+  <StrRes Name="2392" Text="Justeringspalette"/>
+  <StrRes Name="2393" Text="Ekstra værktøjer"/>
+  <StrRes Name="2394" Text="Objekt Inspector"/>
+  <StrRes Name="2395" Text="Datatræ"/>
+  <StrRes Name="2396" Text="Rapporttræ"/>
+  <StrRes Name="2397" Text="Linialer"/>
+  <StrRes Name="2398" Text="Guides"/>
+  <StrRes Name="2399" Text="Slet Guides"/>
+  <StrRes Name="2400" Text="Valgmuligheder..."/>
+  <StrRes Name="2401" Text="&amp;Hjælp"/>
+  <StrRes Name="2402" Text="Indhold af hjælpen..."/>
+  <StrRes Name="2403" Text="Om FastReport..."/>
+  <StrRes Name="2404" Text="Tab Orden..."/>
+  <StrRes Name="2405" Text="Fortryd"/>
+  <StrRes Name="2406" Text="Gentag"/>
+  <StrRes Name="2407" Text="Klip"/>
+  <StrRes Name="2408" Text="Kopier"/>
+  <StrRes Name="2409" Text="Sæt ind"/>
+  <StrRes Name="2410" Text="Gruppering"/>
+  <StrRes Name="2411" Text="Fjern gruppering"/>
+  <StrRes Name="2412" Text="Slet"/>
+  <StrRes Name="2413" Text="Slet side"/>
+  <StrRes Name="2414" Text="Vælg alle"/>
+  <StrRes Name="2415" Text="Editer..."/>
+  <StrRes Name="2416" Text="Sæt forrest"/>
+  <StrRes Name="2417" Text="Sæt baggerst"/>
+  <StrRes Name="2418" Text="Ny..."/>
+  <StrRes Name="2419" Text="Ny rapport"/>
+  <StrRes Name="2420" Text="Ny side"/>
+  <StrRes Name="2421" Text="Ny dialog"/>
+  <StrRes Name="2422" Text="Åbn..."/>
+  <StrRes Name="2423" Text="Gem"/>
+  <StrRes Name="2424" Text="Gem som..."/>
+  <StrRes Name="2425" Text="Variable..."/>
+  <StrRes Name="2426" Text="Sideopsætning..."/>
+  <StrRes Name="2427" Text="Vis udskrift"/>
+  <StrRes Name="2428" Text="Afslut"/>
+  <StrRes Name="2429" Text="Rapporttitel"/>
+  <StrRes Name="2430" Text="Rapportinformation"/>
+  <StrRes Name="2431" Text="Sidehoved"/>
+  <StrRes Name="2432" Text="Sidefod"/>
+  <StrRes Name="2433" Text="Hoved"/>
+  <StrRes Name="2434" Text="Fod"/>
+  <StrRes Name="2435" Text="Master Data"/>
+  <StrRes Name="2436" Text="Detail Data"/>
+  <StrRes Name="2437" Text="Subdetail Data"/>
+  <StrRes Name="2438" Text="Data 4.niveau"/>
+  <StrRes Name="2439" Text="Data 5.niveau"/>
+  <StrRes Name="2440" Text="Data 6.niveau"/>
+  <StrRes Name="2441" Text="Gruppehoved"/>
+  <StrRes Name="2442" Text="Gruppefod"/>
+  <StrRes Name="2443" Text="Barn"/>
+  <StrRes Name="2444" Text="Kolonnehoved"/>
+  <StrRes Name="2445" Text="Kolonnefod"/>
+  <StrRes Name="2446" Text="Overlay"/>
+  <StrRes Name="2447" Text="Vertikale bånd"/>
+  <StrRes Name="2448" Text="Hoved"/>
+  <StrRes Name="2449" Text="Fod"/>
+  <StrRes Name="2450" Text="Master Data"/>
+  <StrRes Name="2451" Text="Detail Data"/>
+  <StrRes Name="2452" Text="Subdetail Data"/>
+  <StrRes Name="2453" Text="Gruppehoved"/>
+  <StrRes Name="2454" Text="Gruppefod"/>
+  <StrRes Name="2455" Text="Barn"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Skrifttypeopsætning"/>
+  <StrRes Name="2462" Text="Fed"/>
+  <StrRes Name="2463" Text="Kursiv"/>
+  <StrRes Name="2464" Text="Understreg"/>
+  <StrRes Name="2465" Text="Hævet skrift"/>
+  <StrRes Name="2466" Text="Sænket skrift"/>
+  <StrRes Name="2467" Text="Sammenpresset"/>
+  <StrRes Name="2468" Text="Bred"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Rapport (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal filer (*.pas)|*.pas|C++ filer (*.cpp)|*.cpp|JavaSkript filer (*.js)|*.js|Basic filer (*.vb)|*.vb|Alle filer|*.*"/>
+  <StrRes Name="2473" Text="Pascal filer (*.pas)|*.pas|C++ filer (*.cpp)|*.cpp|JavaSkript filer (*.js)|*.js|Basic filer (*.vb)|*.vb|Alle filer|*.*"/>
+  <StrRes Name="2474" Text="Forbindelser..."/>
+  <StrRes Name="2475" Text="Sprog"/>
+  <StrRes Name="2476" Text="Skift mellem stop"/>
+  <StrRes Name="2477" Text="Kør til markør"/>
+  <StrRes Name="2478" Text="Tilføj barne bånd (child)"/>
+  <StrRes Name="dsCm" Text="Centimeter"/>
+  <StrRes Name="dsInch" Text="Tommer"/>
+  <StrRes Name="dsPix" Text="Pixels"/>
+  <StrRes Name="dsChars" Text="Karakterer"/>
+  <StrRes Name="dsCode" Text="Kode"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Side"/>
+  <StrRes Name="dsRepFilter" Text="Rapport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Komprimeret rapport (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Gem ændringer i vis udskrift?"/>
+  <StrRes Name="dsSaveChangesTo" Text="Gem ændringer til "/>
+  <StrRes Name="dsCantLoad" Text="Kunne ikke hente filen"/>
+  <StrRes Name="dsStyleFile" Text="Stil"/>
+  <StrRes Name="dsCantFindProc" Text="Kunne ikke finde main proc"/>
+  <StrRes Name="dsClearScript" Text="Dette vil fjerne alt kode. Ønsker du at fortsætte?"/>
+  <StrRes Name="dsNoStyle" Text="Ingen stil"/>
+  <StrRes Name="dsStyleSample" Text="Prøve på stil"/>
+  <StrRes Name="dsTextNotFound" Text="Teksten '%s' blev ikke fundet"/>
+  <StrRes Name="dsReplace" Text="Erstat denne forkomst af '%s'?"/>
+  <StrRes Name="2600" Text="Om FastReport"/>
+  <StrRes Name="2601" Text="Besøg vores webside for mere info:"/>
+  <StrRes Name="2602" Text="Salg:"/>
+  <StrRes Name="2603" Text="Support:"/>
+  <StrRes Name="2700" Text="Sideopsætning"/>
+  <StrRes Name="2701" Text="Papir"/>
+  <StrRes Name="2702" Text="Bredde"/>
+  <StrRes Name="2703" Text="Højde"/>
+  <StrRes Name="2704" Text="Størrelse"/>
+  <StrRes Name="2705" Text="Retning"/>
+  <StrRes Name="2706" Text="Venstre"/>
+  <StrRes Name="2707" Text="Øverst"/>
+  <StrRes Name="2708" Text="Højre"/>
+  <StrRes Name="2709" Text="Bund"/>
+  <StrRes Name="2710" Text="Margener"/>
+  <StrRes Name="2711" Text="Papirkilde"/>
+  <StrRes Name="2712" Text="Første side"/>
+  <StrRes Name="2713" Text="Andre sider"/>
+  <StrRes Name="2714" Text="Stående"/>
+  <StrRes Name="2715" Text="Liggende"/>
+  <StrRes Name="2716" Text="Andre valgmuligheder"/>
+  <StrRes Name="2717" Text="Kolonner"/>
+  <StrRes Name="2718" Text="Nummer"/>
+  <StrRes Name="2719" Text="Bredde"/>
+  <StrRes Name="2720" Text="Positioner"/>
+  <StrRes Name="2721" Text="Andre"/>
+  <StrRes Name="2722" Text="Duplex"/>
+  <StrRes Name="2723" Text="Udskriv til forgående side"/>
+  <StrRes Name="2724" Text="Spejl margener"/>
+  <StrRes Name="2725" Text="Stor højde i designmodus"/>
+  <StrRes Name="2726" Text="Bredde for endeløse sider"/>
+  <StrRes Name="2727" Text="Højde for endeløse sider"/>
+  <StrRes Name="2800" Text="Vælg rapportens datasæt"/>
+  <StrRes Name="2900" Text="Editer Variable"/>
+  <StrRes Name="2901" Text="Kategori"/>
+  <StrRes Name="2902" Text="Variable"/>
+  <StrRes Name="2903" Text="Editer"/>
+  <StrRes Name="2904" Text="Slet"/>
+  <StrRes Name="2905" Text="List"/>
+  <StrRes Name="2906" Text="Hent"/>
+  <StrRes Name="2907" Text="Gem"/>
+  <StrRes Name="2908" Text=" Udtryk:"/>
+  <StrRes Name="2909" Text="Ordbog (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Ordbog (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(Ingen variable defineret)"/>
+  <StrRes Name="vaVar" Text="Variable"/>
+  <StrRes Name="vaDupName" Text="Gentag navn"/>
+  <StrRes Name="3000" Text="Designeropsætning"/>
+  <StrRes Name="3001" Text="Gitter"/>
+  <StrRes Name="3002" Text="Type"/>
+  <StrRes Name="3003" Text="Størrelse"/>
+  <StrRes Name="3004" Text="Dialog form:"/>
+  <StrRes Name="3005" Text="Andre"/>
+  <StrRes Name="3006" Text="Skrifttype"/>
+  <StrRes Name="3007" Text="Kode-vindue"/>
+  <StrRes Name="3008" Text="Memoeditor"/>
+  <StrRes Name="3009" Text="Størrelse"/>
+  <StrRes Name="3010" Text="Størrelse"/>
+  <StrRes Name="3011" Text="Farver"/>
+  <StrRes Name="3012" Text="Mellemrum mellem bånd:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Centimeter:"/>
+  <StrRes Name="3019" Text="Tommer:"/>
+  <StrRes Name="3020" Text="Pixels:"/>
+  <StrRes Name="3021" Text="Vis gitter"/>
+  <StrRes Name="3022" Text="Juster til gitter"/>
+  <StrRes Name="3023" Text="Vis editor efter indsæt"/>
+  <StrRes Name="3024" Text="Brug objektets skrifttypeopsætning"/>
+  <StrRes Name="3025" Text="Arbejdsrum"/>
+  <StrRes Name="3026" Text="Værktøjsvindue"/>
+  <StrRes Name="3027" Text="LCD gitterfarve"/>
+  <StrRes Name="3028" Text="Frigør bånds placering"/>
+  <StrRes Name="3029" Text="Vis drop-down feltliste"/>
+  <StrRes Name="3030" Text="Vis opstartsbillede"/>
+  <StrRes Name="3031" Text="Gendan standarder"/>
+  <StrRes Name="3032" Text="Vis bånd captions"/>
+  <StrRes Name="3100" Text="Vælg Datasæt"/>
+  <StrRes Name="3101" Text="Antal poster:"/>
+  <StrRes Name="dbNotAssigned" Text="[ikke tilknyttet]"/>
+  <StrRes Name="3200" Text="Gruppe"/>
+  <StrRes Name="3201" Text="Break on"/>
+  <StrRes Name="3202" Text="Valgmuligheder"/>
+  <StrRes Name="3203" Text="Datafelt"/>
+  <StrRes Name="3204" Text="Udtryk"/>
+  <StrRes Name="3205" Text="Hold gruppen sammen"/>
+  <StrRes Name="3206" Text="Start ny side"/>
+  <StrRes Name="3207" Text="Vis i oversigt"/>
+  <StrRes Name="3300" Text="System Memo"/>
+  <StrRes Name="3301" Text="Data bånd"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="DataFelt"/>
+  <StrRes Name="3304" Text="Funktion"/>
+  <StrRes Name="3305" Text="Udtryk"/>
+  <StrRes Name="3306" Text="Aggregatværdi"/>
+  <StrRes Name="3307" Text="Systemvariabel"/>
+  <StrRes Name="3308" Text="Tæl usynlige bånd"/>
+  <StrRes Name="3309" Text="Tekst"/>
+  <StrRes Name="3310" Text="Running total"/>
+  <StrRes Name="agAggregate" Text="Indsæt Aggregat"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] af [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE Objekt"/>
+  <StrRes Name="3401" Text="Indsæt..."/>
+  <StrRes Name="3402" Text="Editer..."/>
+  <StrRes Name="3403" Text="Luk"/>
+  <StrRes Name="olStretched" Text="Udstrukket"/>
+  <StrRes Name="3500" Text="Strengkode Editor"/>
+  <StrRes Name="3501" Text="Kode"/>
+  <StrRes Name="3502" Text="Stregkodetype"/>
+  <StrRes Name="3503" Text="Zoom:"/>
+  <StrRes Name="3504" Text="Valgmulighed"/>
+  <StrRes Name="3505" Text="Rotation"/>
+  <StrRes Name="3506" Text="Beregn Checksum "/>
+  <StrRes Name="3507" Text="Tekst"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Beregn CheckSum"/>
+  <StrRes Name="bcShowText" Text="Vis tekst"/>
+  <StrRes Name="3600" Text="Editer Aliaser"/>
+  <StrRes Name="3601" Text="Tryk Enter for at redigere element"/>
+  <StrRes Name="3602" Text="Dataset alias"/>
+  <StrRes Name="3603" Text="Feltaliaser"/>
+  <StrRes Name="3604" Text="Nulstil"/>
+  <StrRes Name="3605" Text="Opdater"/>
+  <StrRes Name="alUserName" Text="Brugernavn"/>
+  <StrRes Name="alOriginal" Text="Originalt navn"/>
+  <StrRes Name="3700" Text="Parameter Editor"/>
+  <StrRes Name="qpName" Text="Navn"/>
+  <StrRes Name="qpDataType" Text="Datatype"/>
+  <StrRes Name="qpValue" Text="Værdi"/>
+  <StrRes Name="3800" Text="Master-Detail Link"/>
+  <StrRes Name="3801" Text="Detail felter"/>
+  <StrRes Name="3802" Text="Master felter"/>
+  <StrRes Name="3803" Text="Sammensatte felter"/>
+  <StrRes Name="3804" Text="Tilføj"/>
+  <StrRes Name="3805" Text="Rens"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Indsæt udtryk"/>
+  <StrRes Name="3902" Text="Indsæt aggregat"/>
+  <StrRes Name="3903" Text="Indsæt formattering"/>
+  <StrRes Name="3904" Text="Tekstombrydning"/>
+  <StrRes Name="3905" Text="Tekst"/>
+  <StrRes Name="3906" Text="Format"/>
+  <StrRes Name="3907" Text="Fremhæv"/>
+  <StrRes Name="4000" Text="Billede"/>
+  <StrRes Name="4001" Text="Hent"/>
+  <StrRes Name="4002" Text="Kopier"/>
+  <StrRes Name="4003" Text="Overfør"/>
+  <StrRes Name="4004" Text="Rens"/>
+  <StrRes Name="piEmpty" Text="Tomt"/>
+  <StrRes Name="4100" Text="Diagrameditor"/>
+  <StrRes Name="4101" Text="Tilføj serie"/>
+  <StrRes Name="4102" Text="Slet serie"/>
+  <StrRes Name="4103" Text="Edit Graf"/>
+  <StrRes Name="4104" Text="Båndkilde"/>
+  <StrRes Name="4105" Text="Fast data"/>
+  <StrRes Name="4106" Text="Datasæt"/>
+  <StrRes Name="4107" Text="Datakilde"/>
+  <StrRes Name="4108" Text="Værdier"/>
+  <StrRes Name="4109" Text="Vælg serier til grafen eller tilføj en ny."/>
+  <StrRes Name="4114" Text="Andre valgmuligheder"/>
+  <StrRes Name="4115" Text="ØverstN værdier"/>
+  <StrRes Name="4116" Text="ØverstN caption"/>
+  <StrRes Name="4117" Text="Sorteringsorden"/>
+  <StrRes Name="4126" Text="X Akse"/>
+  <StrRes Name="ch3D" Text="3D visning"/>
+  <StrRes Name="chAxis" Text="Viser Akser"/>
+  <StrRes Name="chsoNone" Text="Ingen"/>
+  <StrRes Name="chsoAscending" Text="Stigende"/>
+  <StrRes Name="chsoDescending" Text="Faldende"/>
+  <StrRes Name="chxtText" Text="Tekst"/>
+  <StrRes Name="chxtNumber" Text="Numerisk"/>
+  <StrRes Name="chxtDate" Text="Dato"/>
+  <StrRes Name="4200" Text="Rich Editor"/>
+  <StrRes Name="4201" Text="Åbn Fil"/>
+  <StrRes Name="4202" Text="Gem Fil"/>
+  <StrRes Name="4203" Text="Fortryd"/>
+  <StrRes Name="4204" Text="Skrifttype"/>
+  <StrRes Name="4205" Text="Indsæt udtryk"/>
+  <StrRes Name="4206" Text="Fed"/>
+  <StrRes Name="4207" Text="Kursiv"/>
+  <StrRes Name="4208" Text="Understreg"/>
+  <StrRes Name="4209" Text="Juster til venstre"/>
+  <StrRes Name="4210" Text="Centreret"/>
+  <StrRes Name="4211" Text="Juster til højre"/>
+  <StrRes Name="4212" Text="Lige margener"/>
+  <StrRes Name="4213" Text="Opstilling"/>
+  <StrRes Name="4300" Text="Kryds-tab Editor"/>
+  <StrRes Name="4301" Text="Kildedata"/>
+  <StrRes Name="4302" Text="Dimensioner"/>
+  <StrRes Name="4303" Text="Rækker"/>
+  <StrRes Name="4304" Text="Kolonner"/>
+  <StrRes Name="4305" Text="Celler"/>
+  <StrRes Name="4306" Text="Kryds-tab struktur"/>
+  <StrRes Name="4307" Text="Række-hoved"/>
+  <StrRes Name="4308" Text="Kolonne-hoved"/>
+  <StrRes Name="4309" Text="Række grand total"/>
+  <StrRes Name="4310" Text="Kolonne grand total"/>
+  <StrRes Name="4311" Text="Byt række/kolonne"/>
+  <StrRes Name="4312" Text="Vælg stil"/>
+  <StrRes Name="4313" Text="Gem aktuelle stil..."/>
+  <StrRes Name="4314" Text="Vis titel"/>
+  <StrRes Name="4315" Text="Vis hjørne"/>
+  <StrRes Name="4316" Text="Genskriv hoved på ny side"/>
+  <StrRes Name="4317" Text="Auto størrelse"/>
+  <StrRes Name="4318" Text="Kant omkring celler"/>
+  <StrRes Name="4319" Text="Udskriv nedad og herefter på langs"/>
+  <StrRes Name="4320" Text="Side-om-side celler"/>
+  <StrRes Name="4321" Text="Sammensæt identiske celler"/>
+  <StrRes Name="4322" Text="Ingen"/>
+  <StrRes Name="4323" Text="Sum"/>
+  <StrRes Name="4324" Text="Min"/>
+  <StrRes Name="4325" Text="Maks"/>
+  <StrRes Name="4326" Text="Gennemsnit"/>
+  <StrRes Name="4327" Text="Antal"/>
+  <StrRes Name="4328" Text="Stigende (A-Å)"/>
+  <StrRes Name="4329" Text="Faldende (Å-A)"/>
+  <StrRes Name="4330" Text="Ingen Sortering"/>
+  <StrRes Name="crStName" Text="Angiv stil-navnet:"/>
+  <StrRes Name="crResize" Text="For at ændre størrelse på en krydstab, sæt da dens &#38;#34;Auto størrelse&#38;#34;-egenskab til Falsk."/>
+  <StrRes Name="crSubtotal" Text="Subtotal"/>
+  <StrRes Name="crNone" Text="Ingen"/>
+  <StrRes Name="crSum" Text="Sum"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Maks"/>
+  <StrRes Name="crAvg" Text="Avg"/>
+  <StrRes Name="crCount" Text="Antal"/>
+  <StrRes Name="crAsc" Text="A-Å"/>
+  <StrRes Name="crDesc" Text="Å-A"/>
+  <StrRes Name="4400" Text="Udtrykseditor"/>
+  <StrRes Name="4401" Text="Udtryk:"/>
+  <StrRes Name="4500" Text="Format for visning"/>
+  <StrRes Name="4501" Text="Kategori"/>
+  <StrRes Name="4502" Text="Format"/>
+  <StrRes Name="4503" Text="Formateringsstreng:"/>
+  <StrRes Name="4504" Text="Decimalseparator:"/>
+  <StrRes Name="fkText" Text="Tekst (ingen formattering)"/>
+  <StrRes Name="fkNumber" Text="Tal"/>
+  <StrRes Name="fkDateTime" Text="Dato/Tid"/>
+  <StrRes Name="fkBoolean" Text="Boolean"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="November 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, November 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Nej,Ja;Nej,Ja"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="Falsk,Sand;Falsk,Sand"/>
+  <StrRes Name="4600" Text="Fremhæv"/>
+  <StrRes Name="4601" Text="Farve..."/>
+  <StrRes Name="4602" Text="Farve..."/>
+  <StrRes Name="4603" Text="Betingelse"/>
+  <StrRes Name="4604" Text="Skrifttype"/>
+  <StrRes Name="4605" Text="Baggrund"/>
+  <StrRes Name="4606" Text="Fed"/>
+  <StrRes Name="4607" Text="Kursiv"/>
+  <StrRes Name="4608" Text="Understreg"/>
+  <StrRes Name="4609" Text="Transparent"/>
+  <StrRes Name="4610" Text="Andet"/>
+  <StrRes Name="4700" Text="Rapportopsætning"/>
+  <StrRes Name="4701" Text="Generelt"/>
+  <StrRes Name="4702" Text="Printeropsætning"/>
+  <StrRes Name="4703" Text="Kopier"/>
+  <StrRes Name="4704" Text="Generelt"/>
+  <StrRes Name="4705" Text="Kodeord"/>
+  <StrRes Name="4706" Text="Sætvis"/>
+  <StrRes Name="4707" Text="Dobeltgennemløb"/>
+  <StrRes Name="4708" Text="Udskriv hvis tom"/>
+  <StrRes Name="4709" Text="Beskrivelse"/>
+  <StrRes Name="4710" Text="Navn"/>
+  <StrRes Name="4711" Text="Beskrivelse"/>
+  <StrRes Name="4712" Text="Billede"/>
+  <StrRes Name="4713" Text="Forfatter"/>
+  <StrRes Name="4714" Text="Stor"/>
+  <StrRes Name="4715" Text="Lille"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="Lavet"/>
+  <StrRes Name="4719" Text="Ændret"/>
+  <StrRes Name="4720" Text="Beskrivelse"/>
+  <StrRes Name="4721" Text="Version"/>
+  <StrRes Name="4722" Text="Gennemse..."/>
+  <StrRes Name="4723" Text="Arve-opsætning"/>
+  <StrRes Name="4724" Text="Vælg en valgmulighed:"/>
+  <StrRes Name="4725" Text="Skift ikke"/>
+  <StrRes Name="4726" Text="Adskild basis-rapporten"/>
+  <StrRes Name="4727" Text="Nedarv fra basisrapporten:"/>
+  <StrRes Name="4728" Text="Arv"/>
+  <StrRes Name="rePrnOnPort" Text="på"/>
+  <StrRes Name="riNotInherited" Text="Denne rapport er ikke nedarvet."/>
+  <StrRes Name="riInherited" Text="Denne rapport er nedarvet fra basisrapporten: %s"/>
+  <StrRes Name="4800" Text="Linier"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Forespørgselsbygger"/>
+  <StrRes Name="5000" Text="Kodeord"/>
+  <StrRes Name="5001" Text="Angiv kodeord:"/>
+  <StrRes Name="5100" Text="Stil-editor"/>
+  <StrRes Name="5101" Text="Farve..."/>
+  <StrRes Name="5102" Text="Skrifttype..."/>
+  <StrRes Name="5103" Text="Ramme..."/>
+  <StrRes Name="5104" Text="Tilføj"/>
+  <StrRes Name="5105" Text="Slet"/>
+  <StrRes Name="5106" Text="Editer"/>
+  <StrRes Name="5107" Text="Hent"/>
+  <StrRes Name="5108" Text="Gem"/>
+  <StrRes Name="5200" Text="Rammeeditor"/>
+  <StrRes Name="5201" Text="Ramme"/>
+  <StrRes Name="5202" Text="Rammelinie"/>
+  <StrRes Name="5203" Text="Skygge"/>
+  <StrRes Name="5204" Text="Linie øverst"/>
+  <StrRes Name="5205" Text="Linie i bund"/>
+  <StrRes Name="5206" Text="Venstre-linie"/>
+  <StrRes Name="5207" Text="Højre-linie"/>
+  <StrRes Name="5208" Text="Alle ramme-linier"/>
+  <StrRes Name="5209" Text="Ingen ramme"/>
+  <StrRes Name="5210" Text="Ramme-farve"/>
+  <StrRes Name="5211" Text="Ramme-stil"/>
+  <StrRes Name="5212" Text="Ramme bredde"/>
+  <StrRes Name="5213" Text="Skygge"/>
+  <StrRes Name="5214" Text="Skyggefarve"/>
+  <StrRes Name="5215" Text="Skyggebredde"/>
+  <StrRes Name="5300" Text="Nyt element"/>
+  <StrRes Name="5301" Text="Elementer"/>
+  <StrRes Name="5302" Text="Skabeloner"/>
+  <StrRes Name="5303" Text="Nedarv rapporten"/>
+  <StrRes Name="5400" Text="Tab Orden"/>
+  <StrRes Name="5401" Text="Kontroller listet i tab-orden:"/>
+  <StrRes Name="5402" Text="Flyt op"/>
+  <StrRes Name="5403" Text="Flyt ned"/>
+  <StrRes Name="5500" Text="Evaluer"/>
+  <StrRes Name="5501" Text="Udtryk"/>
+  <StrRes Name="5502" Text="Resultat"/>
+  <StrRes Name="5600" Text="Rapportguide"/>
+  <StrRes Name="5601" Text="Data"/>
+  <StrRes Name="5602" Text="Felter"/>
+  <StrRes Name="5603" Text="Grupper"/>
+  <StrRes Name="5604" Text="Layout"/>
+  <StrRes Name="5605" Text="Stil"/>
+  <StrRes Name="5606" Text="1. skridt: Vælg datasæt."/>
+  <StrRes Name="5607" Text="2. skridt: Vælg felter der skal vises."/>
+  <StrRes Name="5608" Text="3. skridt: Lav grupper (valgfri)."/>
+  <StrRes Name="5609" Text="4. skridt: Definer sideorientering og data layout."/>
+  <StrRes Name="5610" Text="5. skridt: Vælg rapportens stil."/>
+  <StrRes Name="5611" Text="Tilføj &#62;"/>
+  <StrRes Name="5612" Text="Tilføj alle &#62;&#62;"/>
+  <StrRes Name="5613" Text="&#60; Fjern"/>
+  <StrRes Name="5614" Text="&#60;&#60; Fjern alle"/>
+  <StrRes Name="5615" Text="Tilføj &#62;"/>
+  <StrRes Name="5616" Text="&#60; Fjern"/>
+  <StrRes Name="5617" Text="Valgte felter:"/>
+  <StrRes Name="5618" Text="Tilgængelige felter:"/>
+  <StrRes Name="5619" Text="Grupper:"/>
+  <StrRes Name="5620" Text="Retning"/>
+  <StrRes Name="5621" Text="Layout"/>
+  <StrRes Name="5622" Text="Stående"/>
+  <StrRes Name="5623" Text="Liggende"/>
+  <StrRes Name="5624" Text="Tabular"/>
+  <StrRes Name="5625" Text="Kolonnevis"/>
+  <StrRes Name="5626" Text="Tilpas felter til sidebredden"/>
+  <StrRes Name="5627" Text="&#60;&#60; Tilbage"/>
+  <StrRes Name="5628" Text="Næste &#62;&#62;"/>
+  <StrRes Name="5629" Text="Afslut"/>
+  <StrRes Name="5630" Text="Ny tabel..."/>
+  <StrRes Name="5631" Text="Ny forespørgsel..."/>
+  <StrRes Name="5632" Text="Vælg en database forbindelse:"/>
+  <StrRes Name="5633" Text="Vælg en tabel:"/>
+  <StrRes Name="5634" Text="eller"/>
+  <StrRes Name="5635" Text="Lav en forespørgsel..."/>
+  <StrRes Name="5636" Text="Konfigurer forbindelser"/>
+  <StrRes Name="wzStd" Text="Standard rapportguide"/>
+  <StrRes Name="wzDMP" Text="Dot-Matrix rapportguide"/>
+  <StrRes Name="wzStdEmpty" Text="Standard rapport"/>
+  <StrRes Name="wzDMPEmpty" Text="Dot-Matrix rapport"/>
+  <StrRes Name="5700" Text="Forbindelsesguide"/>
+  <StrRes Name="5701" Text="Forbindelse"/>
+  <StrRes Name="5702" Text="Vælg forbindelsestype:"/>
+  <StrRes Name="5703" Text="Vælg database:"/>
+  <StrRes Name="5704" Text="Login"/>
+  <StrRes Name="5705" Text="Kodeord"/>
+  <StrRes Name="5706" Text="Spørg efter login"/>
+  <StrRes Name="5707" Text="Brug login/kodeord:"/>
+  <StrRes Name="5708" Text="Tabel"/>
+  <StrRes Name="5709" Text="Vælg tabelnavn:"/>
+  <StrRes Name="5710" Text="Filtrer poster:"/>
+  <StrRes Name="5711" Text="Forespørgsel"/>
+  <StrRes Name="5712" Text="SQL udtryk:"/>
+  <StrRes Name="5713" Text="Forespørgselsbygger"/>
+  <StrRes Name="5714" Text="Editer forespørgselsparametrer"/>
+  <StrRes Name="ftAllFiles" Text="Alle Filer"/>
+  <StrRes Name="ftPictures" Text="Billeder"/>
+  <StrRes Name="ftDB" Text="Databaser"/>
+  <StrRes Name="ftRichFile" Text="RichTekst fil"/>
+  <StrRes Name="ftTextFile" Text="Tekst fil"/>
+  <StrRes Name="prNotAssigned" Text="(Ikke tilknyttet)"/>
+  <StrRes Name="prInvProp" Text="Ugyldig egenskabsværdi"/>
+  <StrRes Name="prDupl" Text="Dupliker navn"/>
+  <StrRes Name="prPict" Text="(Billede)"/>
+  <StrRes Name="mvExpr" Text="Tillad udtryk"/>
+  <StrRes Name="mvStretch" Text="Udstræk"/>
+  <StrRes Name="mvStretchToMax" Text="Træk ud til maksimal højde"/>
+  <StrRes Name="mvShift" Text="Byt"/>
+  <StrRes Name="mvShiftOver" Text="Byt ved overlap"/>
+  <StrRes Name="mvVisible" Text="Synlig"/>
+  <StrRes Name="mvPrintable" Text="Udskriftsbar"/>
+  <StrRes Name="mvFont" Text="Skrifttype..."/>
+  <StrRes Name="mvFormat" Text="Vis format..."/>
+  <StrRes Name="mvClear" Text="Rens indhold"/>
+  <StrRes Name="mvAutoWidth" Text="Auto bredde"/>
+  <StrRes Name="mvWWrap" Text="Word Wrap"/>
+  <StrRes Name="mvSuppress" Text="Undertryk gentagne værdier"/>
+  <StrRes Name="mvHideZ" Text="Skjul nuller"/>
+  <StrRes Name="mvHTML" Text="Tillad HTML Tags"/>
+  <StrRes Name="lvDiagonal" Text="Diagonal"/>
+  <StrRes Name="pvAutoSize" Text="Auto størrelse"/>
+  <StrRes Name="pvCenter" Text="Centreret"/>
+  <StrRes Name="pvAspect" Text="Lås højde-bredde-forhold"/>
+  <StrRes Name="bvSplit" Text="Tillad deling"/>
+  <StrRes Name="bvKeepChild" Text="Hold børn sammen"/>
+  <StrRes Name="bvPrintChild" Text="Udskriv børn hvis usynlig"/>
+  <StrRes Name="bvStartPage" Text="Start ny side"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Udskriv hvis Detail er tom"/>
+  <StrRes Name="bvKeepDetail" Text="Hold Detail sammen"/>
+  <StrRes Name="bvKeepFooter" Text="Hold Fødder sammen"/>
+  <StrRes Name="bvReprint" Text="Genudskriv på ny side"/>
+  <StrRes Name="bvOnFirst" Text="Udskriv på første side"/>
+  <StrRes Name="bvOnLast" Text="Udskriv på sidste side"/>
+  <StrRes Name="bvKeepGroup" Text="Hold sammen"/>
+  <StrRes Name="bvFooterAfterEach" Text="Fod efter hver række"/>
+  <StrRes Name="bvDrillDown" Text="Kør ned"/>
+  <StrRes Name="bvResetPageNo" Text="Nulstil sidenumre"/>
+  <StrRes Name="srParent" Text="Udskriv på forældre"/>
+  <StrRes Name="bvKeepHeader" Text="Hold hoveder sammen"/>
+  <StrRes Name="obCatDraw" Text="Tegn"/>
+  <StrRes Name="obCatOther" Text="Andre objekter"/>
+  <StrRes Name="obCatOtherControls" Text="Andre kontroller"/>
+  <StrRes Name="obDiagLine" Text="Diagonallinie"/>
+  <StrRes Name="obRect" Text="Rektangel"/>
+  <StrRes Name="obRoundRect" Text="Afrundet rektangel"/>
+  <StrRes Name="obEllipse" Text="Ellipse"/>
+  <StrRes Name="obTrian" Text="Trekant"/>
+  <StrRes Name="obDiamond" Text="Diamant"/>
+  <StrRes Name="obLabel" Text="Label-kontrol"/>
+  <StrRes Name="obEdit" Text="Edit-kontrol"/>
+  <StrRes Name="obMemoC" Text="Memo-kontrol"/>
+  <StrRes Name="obButton" Text="Button-kontrol"/>
+  <StrRes Name="obChBoxC" Text="CheckBox-kontrol"/>
+  <StrRes Name="obRButton" Text="RadioButton-kontrol"/>
+  <StrRes Name="obLBox" Text="ListBox-kontrol"/>
+  <StrRes Name="obCBox" Text="ComboBox-kontrol"/>
+  <StrRes Name="obDateEdit" Text="DateEdit-kontrol"/>
+  <StrRes Name="obImageC" Text="Billede-kontrol"/>
+  <StrRes Name="obPanel" Text="Panel-kontrol"/>
+  <StrRes Name="obGrBox" Text="GroupBox-kontrol"/>
+  <StrRes Name="obBBtn" Text="BitBtn-kontrol"/>
+  <StrRes Name="obSBtn" Text="SpeedButton-kontrol"/>
+  <StrRes Name="obMEdit" Text="MaskEdit-kontrol"/>
+  <StrRes Name="obChLB" Text="CheckListBox-kontrol"/>
+  <StrRes Name="obDBLookup" Text="DBLookupComboBox-kontrol"/>
+  <StrRes Name="obBevel" Text="Bevel-objekt"/>
+  <StrRes Name="obShape" Text="Shape-objekt"/>
+  <StrRes Name="obText" Text="Tekst-objekt"/>
+  <StrRes Name="obSysText" Text="System tekst"/>
+  <StrRes Name="obLine" Text="Linie-objekt"/>
+  <StrRes Name="obPicture" Text="Billede-objekt"/>
+  <StrRes Name="obBand" Text="Bånd-objekt"/>
+  <StrRes Name="obDataBand" Text="Databånd"/>
+  <StrRes Name="obSubRep" Text="Underrapport-objekt"/>
+  <StrRes Name="obDlgPage" Text="Dialog form"/>
+  <StrRes Name="obRepPage" Text="Rapportside"/>
+  <StrRes Name="obReport" Text="Rapport-objekt"/>
+  <StrRes Name="obRich" Text="RichTekst-objekt"/>
+  <StrRes Name="obOLE" Text="OLE-objekt"/>
+  <StrRes Name="obChBox" Text="CheckBox-objekt"/>
+  <StrRes Name="obChart" Text="Diagram-objekt"/>
+  <StrRes Name="obBarC" Text="Stregkode-objekt"/>
+  <StrRes Name="obCross" Text="Kryds-tab-objekt"/>
+  <StrRes Name="obDBCross" Text="DB Kryds-tab-objekt"/>
+  <StrRes Name="obGrad" Text="Gradient-objekt"/>
+  <StrRes Name="obDMPText" Text="Dot-matrix tekstobjekt"/>
+  <StrRes Name="obDMPLine" Text="Dot-matrix linieobjekt"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix kommandoobjekt"/>
+  <StrRes Name="obBDEDB" Text="BDE database"/>
+  <StrRes Name="obBDETb" Text="BDE tabel"/>
+  <StrRes Name="obBDEQ" Text="BDE forespørgsel"/>
+  <StrRes Name="obBDEComps" Text="BDE komponenter"/>
+  <StrRes Name="obIBXDB" Text="IBX database"/>
+  <StrRes Name="obIBXTb" Text="IBX tabel"/>
+  <StrRes Name="obIBXQ" Text="IBX forespørgsel"/>
+  <StrRes Name="obIBXComps" Text="IBX komponenter"/>
+  <StrRes Name="obADODB" Text="ADO database"/>
+  <StrRes Name="obADOTb" Text="ADO tabel"/>
+  <StrRes Name="obADOQ" Text="ADO forespørgsel"/>
+  <StrRes Name="obADOComps" Text="ADO komponenter"/>
+  <StrRes Name="obDBXDB" Text="DBX database"/>
+  <StrRes Name="obDBXTb" Text="DBX tabel"/>
+  <StrRes Name="obDBXQ" Text="DBX forespørgsel"/>
+  <StrRes Name="obDBXComps" Text="DBX komponenter"/>
+  <StrRes Name="obFIBDB" Text="FIB Database"/>
+  <StrRes Name="obFIBTb" Text="FIB Tabel"/>
+  <StrRes Name="obFIBQ" Text="FIB forespørgsel"/>
+  <StrRes Name="obFIBComps" Text="FIB komponenter"/>
+  <StrRes Name="ctString" Text="Strenge"/>
+  <StrRes Name="ctDate" Text="Dato og Tid"/>
+  <StrRes Name="ctConv" Text="Konverteringer"/>
+  <StrRes Name="ctFormat" Text="Formatering"/>
+  <StrRes Name="ctMath" Text="Matematiske"/>
+  <StrRes Name="ctOther" Text="Andre"/>
+  <StrRes Name="IntToStr" Text="Konverter en integer værdi til en streng"/>
+  <StrRes Name="FloatToStr" Text="Konverter en float værdi til en streng"/>
+  <StrRes Name="DateToStr" Text="Konverter en dato til en streng"/>
+  <StrRes Name="TimeToStr" Text="Konverter en tid til en streng"/>
+  <StrRes Name="DateTimeToStr" Text="Konverter en dato-og-tid værdi til en streng"/>
+  <StrRes Name="VarToStr" Text="Konverter en variant værdi til en streng"/>
+  <StrRes Name="StrToInt" Text="Konverter en streng til en integer værdi"/>
+  <StrRes Name="StrToInt64" Text="Konverter en streng til en Int64 værdi"/>
+  <StrRes Name="StrToFloat" Text="Konverter en streng til en floating-point værdi"/>
+  <StrRes Name="StrToDate" Text="Konverter en streng til et dato format"/>
+  <StrRes Name="StrToTime" Text="Konverter en streng til et tids format"/>
+  <StrRes Name="StrToDateTime" Text="Konverter en streng til et dato-og-tids format"/>
+  <StrRes Name="Format" Text="Returnerer en formatteret streng sammensat fra en serie af array argumenter"/>
+  <StrRes Name="FormatFloat" Text="Formaterer en floating-point værdi"/>
+  <StrRes Name="FormatDateTime" Text="Formaterer en dato-og-tid værdi"/>
+  <StrRes Name="FormatMaskText" Text="Returnerer en streng formateret ved brug af en editmaske"/>
+  <StrRes Name="EncodeDate" Text="Returnerer en TDateTime type for et specificeret år, måned, og dag"/>
+  <StrRes Name="DecodeDate" Text="Deler TDateTime ind i år, måned, og dag værdier"/>
+  <StrRes Name="EncodeTime" Text="Returnerer en TDateTime type for et specificeret time, min, sec, og msec"/>
+  <StrRes Name="DecodeTime" Text="Deler TDateTime ind i time, minutter, sekunder, og millisekunder"/>
+  <StrRes Name="Date" Text="Returner aktuel dato"/>
+  <StrRes Name="Time" Text="Returner aktuel tid"/>
+  <StrRes Name="Now" Text="Returner aktuel dato og tid"/>
+  <StrRes Name="DayOfWeek" Text="Returnerer dagen i ugen for den specificeret dato"/>
+  <StrRes Name="IsLeapYear" Text="Indikerer om et specificeret år er et skudår"/>
+  <StrRes Name="DaysInMonth" Text="Returnerer antallet af dage i en specificeret måned"/>
+  <StrRes Name="Length" Text="Returnerer længden af en streng"/>
+  <StrRes Name="Copy" Text="Returnerer en substreng fra en streng"/>
+  <StrRes Name="Pos" Text="Returnerer positionen for en substreng in en streng"/>
+  <StrRes Name="Delete" Text="Fjerner en substreng fra en streng"/>
+  <StrRes Name="Insert" Text="Indsætter en substring ind i en streng"/>
+  <StrRes Name="Uppercase" Text="Konverter alle karakterer i en string til store bogstaver"/>
+  <StrRes Name="Lowercase" Text="Konverter alle karakterer i en string til små bogstaver"/>
+  <StrRes Name="Trim" Text="Fjerner alle afsluttende og begyndende mellemrum i en streng"/>
+  <StrRes Name="NameCase" Text="Konverter første karakter i et ord til stort bogstav"/>
+  <StrRes Name="CompareText" Text="Sammenligner to strenge"/>
+  <StrRes Name="Chr" Text="Konverter en integer-værdi til en char"/>
+  <StrRes Name="Ord" Text="Konverter en karakterværdi til en integer"/>
+  <StrRes Name="SetLength" Text="Sætter længden af en streng"/>
+  <StrRes Name="Round" Text="Afrunder en floating-point værdi til det nærmeste hele tal"/>
+  <StrRes Name="Trunc" Text="Trunkere en floating-point værdi til en integer"/>
+  <StrRes Name="Int" Text="Returnerer heltals-delen af et reelt tal"/>
+  <StrRes Name="Frac" Text="Returnerer decimaltals-delen af et reelt tal"/>
+  <StrRes Name="Sqrt" Text="Returnerer kvadratrodsværdien af et angivet tal"/>
+  <StrRes Name="Abs" Text="Returnerer en absolut værdi"/>
+  <StrRes Name="Sin" Text="Returnerer sinusværdien af en vinkel (i radians)"/>
+  <StrRes Name="Cos" Text="Returnerer cosinusværdien af en vinkel (i radians)"/>
+  <StrRes Name="ArcTan" Text="Returnerer arctangent-værdien"/>
+  <StrRes Name="Tan" Text="Returnerer tangent-værdien"/>
+  <StrRes Name="Exp" Text="Returnerer eksponential-værdien"/>
+  <StrRes Name="Ln" Text="Returnerer den naturlige log for et real-udtryk"/>
+  <StrRes Name="Pi" Text="Returnerer et 3.1415926...-tal"/>
+  <StrRes Name="Inc" Text="Forøger en værdi"/>
+  <StrRes Name="Dec" Text="Formindsker en værdi"/>
+  <StrRes Name="RaiseException" Text="Rejser en undtagelse"/>
+  <StrRes Name="ShowMessage" Text="Viser en beskedboks"/>
+  <StrRes Name="Randomize" Text="Starter en tilfældighedstalgenerator"/>
+  <StrRes Name="Random" Text="Returnerer et tilfædigt tal"/>
+  <StrRes Name="ValidInt" Text="Returnerer sand, hvis den angivne streng indeholder en gyldig integer"/>
+  <StrRes Name="ValidFloat" Text="Returnerer sand, hvis den angivne streng indeholder en gyldig float"/>
+  <StrRes Name="ValidDate" Text="Returnerer sand, hvis den angivne streng indeholder en gyldig date"/>
+  <StrRes Name="IIF" Text="Returnerer SandVærdi hvis den angivne Expr er sand, eller returneres FalskVærdi"/>
+  <StrRes Name="Get" Text="Udelukkende for internt brug"/>
+  <StrRes Name="Set" Text="Udelukkende for internt brug"/>
+  <StrRes Name="InputBox" Text="Viser en indput-dialogboks, der tillader brugeren at angive en streng"/>
+  <StrRes Name="InputQuery" Text="Viser en indput-dialogboks, der tillader brugeren at angive en streng"/>
+  <StrRes Name="MessageDlg" Text="Viser en beskedboks"/>
+  <StrRes Name="CreateOleObject" Text="Laver et OLE objekt"/>
+  <StrRes Name="VarArrayCreate" Text="Laver et variant array"/>
+  <StrRes Name="VarType" Text="Returnerer typen af variant værdien"/>
+  <StrRes Name="DayOf" Text="Returnerer dagsnummeret (1..31) for en given dato"/>
+  <StrRes Name="MonthOf" Text="Returnerer månedsnummeret(1..12) for en given dato"/>
+  <StrRes Name="YearOf" Text="Returnerer årstallet for en given dato"/>
+  <StrRes Name="wzDBConn" Text="Ny Forbindelsguide"/>
+  <StrRes Name="wzDBTable" Text="Ny Tabelguide"/>
+  <StrRes Name="wzDBQuery" Text="Ny Forespørgsesguide"/>
+  <StrRes Name="ctAggregate" Text="Aggregerer"/>
+  <StrRes Name="Sum" Text="Beregner summen af udtrykket for båndets datarække"/>
+  <StrRes Name="Avg" Text="Beregner gennemsnittet af udtrykket for båndets datarække"/>
+  <StrRes Name="Min" Text="Beregner minimum af udtrykket for båndets datarække"/>
+  <StrRes Name="Max" Text="Beregner maksimum af udtrykket for båndets datarække"/>
+  <StrRes Name="Count" Text="Beregner antallet af datarækker"/>
+  <StrRes Name="5800" Text="Forbindelse"/>
+  <StrRes Name="5801" Text="Ny"/>
+  <StrRes Name="5802" Text="Slet"/>
+  <StrRes Name="cpName" Text="Navn"/>
+  <StrRes Name="cpConnStr" Text="Forbindelsesstreng"/>
+  <StrRes Name="startCreateNew" Text="Lav en ny rapport"/>
+  <StrRes Name="startCreateBlank" Text="Lav en tom rapport"/>
+  <StrRes Name="startOpenReport" Text="Åbn rapport"/>
+  <StrRes Name="startOpenLast" Text="Åbn sidste rapport"/>
+  <StrRes Name="startEditAliases" Text="Rediger forbindelses-aliaserne"/>
+  <StrRes Name="startHelp" Text="Hjælp"/>
+  <StrRes Name="5900" Text="Vagter (Watches)"/>
+  <StrRes Name="5901" Text="Tilføj vagt"/>
+  <StrRes Name="5902" Text="Slet vagt"/>
+  <StrRes Name="5903" Text="Editer vagt"/>
+  <StrRes Name="6000" Text="Nedarvningsfejl"/>
+  <StrRes Name="6001" Text="Basis og nedarvnings rapporterne har duplerede objekter. Hvad skal vi gøre?"/>
+  <StrRes Name="6002" Text="Slet dupletter"/>
+  <StrRes Name="6003" Text="Omdøb dupletter"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

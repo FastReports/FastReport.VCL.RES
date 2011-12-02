@@ -1,0 +1,230 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1257">
+  <StrRes Name="1" Text="ok"/>
+  <StrRes Name="2" Text="Atcelt"/>
+  <StrRes Name="3" Text="Visi"/>
+  <StrRes Name="4" Text="Tekosa"/>
+  <StrRes Name="5" Text="Numuri:"/>
+  <StrRes Name="6" Text="Lappusu dalisana"/>
+  <StrRes Name="7" Text="Lappuses"/>
+  <StrRes Name="8" Text="Izvelnes"/>
+  <StrRes Name="9" Text="Ievadiet numurus/vai lappuses parametrus, sadalits ar komatiem. Piemeram, 1,3,5-12"/>
+  <StrRes Name="100" Text="Iprieksejs parskats"/>
+  <StrRes Name="101" Text="Druka"/>
+  <StrRes Name="102" Text=" Druka "/>
+  <StrRes Name="103" Text="Atvert"/>
+  <StrRes Name="104" Text=" Atvert "/>
+  <StrRes Name="105" Text="Saglabat"/>
+  <StrRes Name="106" Text=" Saglabat "/>
+  <StrRes Name="107" Text="Eksports"/>
+  <StrRes Name="108" Text=" Eksports "/>
+  <StrRes Name="109" Text="Meklet"/>
+  <StrRes Name="110" Text=" Meklet "/>
+  <StrRes Name="111" Text="Pilnigi"/>
+  <StrRes Name="112" Text=" Visa lappuse "/>
+  <StrRes Name="113" Text="Platuma"/>
+  <StrRes Name="114" Text=" Platuma "/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Divas lappuses"/>
+  <StrRes Name="118" Text=" Divas lappuses "/>
+  <StrRes Name="119" Text="Merogs"/>
+  <StrRes Name="120" Text="Laukumi"/>
+  <StrRes Name="121" Text="Lappuses parametri"/>
+  <StrRes Name="122" Text="Koks"/>
+  <StrRes Name="123" Text="Atskaites koks"/>
+  <StrRes Name="124" Text="Zoom In"/>
+  <StrRes Name="125" Text="Zoom In"/>
+  <StrRes Name="126" Text="Zoom Out"/>
+  <StrRes Name="127" Text="Zoom Out"/>
+  <StrRes Name="128" Text="Outline"/>
+  <StrRes Name="129" Text="Report outline"/>
+  <StrRes Name="130" Text="Thumbnails"/>
+  <StrRes Name="131" Text="Thumbnails"/>
+  <StrRes Name="132" Text="Labojums"/>
+  <StrRes Name="133" Text="Rediget lappusi"/>
+  <StrRes Name="134" Text="Pirma"/>
+  <StrRes Name="135" Text="Uz pirmo lappusi"/>
+  <StrRes Name="136" Text="Iepriekseja"/>
+  <StrRes Name="137" Text="Uz ieprieksejo lappusi"/>
+  <StrRes Name="138" Text="Nakosa"/>
+  <StrRes Name="139" Text="Uz nakoso lappusi"/>
+  <StrRes Name="140" Text="Pedeja"/>
+  <StrRes Name="141" Text="Uz pedejo lappusi"/>
+  <StrRes Name="142" Text="Lappuses numurs"/>
+  <StrRes Name="150" Text="Full Screen"/>
+  <StrRes Name="151" Text="Export to PDF"/>
+  <StrRes Name="152" Text="Send by E-mail"/>
+  <StrRes Name="zmPageWidth" Text="Platuma"/>
+  <StrRes Name="zmWholePage" Text="Visa lappuse"/>
+  <StrRes Name="200" Text="Druka"/>
+  <StrRes Name="201" Text="Printeris"/>
+  <StrRes Name="202" Text="Lappuses"/>
+  <StrRes Name="203" Text="Daudzums"/>
+  <StrRes Name="204" Text="Skirot pec kopijam"/>
+  <StrRes Name="205" Text="Kopijas"/>
+  <StrRes Name="206" Text="Druka"/>
+  <StrRes Name="207" Text="!Other"/>
+  <StrRes Name="208" Text="Kur:"/>
+  <StrRes Name="209" Text="Iestatijumi..."/>
+  <StrRes Name="210" Text="Druka faila"/>
+  <StrRes Name="211" Text="!Order"/>
+  <StrRes Name="212" Text="Name:"/>
+  <StrRes Name="213" Text="Print mode"/>
+  <StrRes Name="214" Text="Print on sheet"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Visas lappuses"/>
+  <StrRes Name="ppOdd" Text="Nepara lappuses"/>
+  <StrRes Name="ppEven" Text="Parskaita lappuses"/>
+  <StrRes Name="pgDefault" Text="Default"/>
+  <StrRes Name="pmDefault" Text="Default"/>
+  <StrRes Name="pmSplit" Text="Split big pages"/>
+  <StrRes Name="pmJoin" Text="Join small pages"/>
+  <StrRes Name="pmScale" Text="Scale"/>
+  <StrRes Name="poDirect" Text="!Direct (1-9)"/>
+  <StrRes Name="poReverse" Text="!Reverse (9-1)"/>
+  <StrRes Name="300" Text="Meklet tekstu"/>
+  <StrRes Name="301" Text="Teksts:"/>
+  <StrRes Name="302" Text="Meklesanas iestatijumi"/>
+  <StrRes Name="303" Text="Aizvietot"/>
+  <StrRes Name="304" Text="Meklet no sakuma"/>
+  <StrRes Name="305" Text="Atpazit registru"/>
+  <StrRes Name="400" Text="Lappuses iestatijumi"/>
+  <StrRes Name="401" Text="Platums"/>
+  <StrRes Name="402" Text="Augstums"/>
+  <StrRes Name="403" Text="Izmers"/>
+  <StrRes Name="404" Text="Orientacija"/>
+  <StrRes Name="405" Text="Kreisais"/>
+  <StrRes Name="406" Text="Augsejais"/>
+  <StrRes Name="407" Text="Labais"/>
+  <StrRes Name="408" Text="Apaksejais"/>
+  <StrRes Name="409" Text="Laukumi"/>
+  <StrRes Name="410" Text="Vertikali"/>
+  <StrRes Name="411" Text="Horizontali"/>
+  <StrRes Name="412" Text="Citi"/>
+  <StrRes Name="413" Text="Pievienot tekosajai lappusei"/>
+  <StrRes Name="414" Text="Pievienot visam lappusem"/>
+  <StrRes Name="500" Text="Druka"/>
+  <StrRes Name="501" Text="Printeris"/>
+  <StrRes Name="502" Text="Lappuses"/>
+  <StrRes Name="503" Text="Kopijas"/>
+  <StrRes Name="504" Text="Daudzums"/>
+  <StrRes Name="505" Text="Izvelnes"/>
+  <StrRes Name="506" Text="ESC-komandas"/>
+  <StrRes Name="507" Text="Druka faila"/>
+  <StrRes Name="508" Text="OEM-kodesana"/>
+  <StrRes Name="509" Text="Pseidografika"/>
+  <StrRes Name="510" Text="Drukas fails (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Apstiprinat"/>
+  <StrRes Name="mbError" Text="Kluda"/>
+  <StrRes Name="mbInfo" Text="Informacija"/>
+  <StrRes Name="xrCantFindClass" Text="Neizdevas atrast klasi"/>
+  <StrRes Name="prVirtual" Text="Virtuala"/>
+  <StrRes Name="prDefault" Text="Pec noklusejuma"/>
+  <StrRes Name="prCustom" Text="Lietotaja"/>
+  <StrRes Name="enUnconnHeader" Text="Nav pieslegts header/footer"/>
+  <StrRes Name="enUnconnGroup" Text="Nav grupas datu koda"/>
+  <StrRes Name="enUnconnGFooter" Text="Nav grupas virsraksta"/>
+  <StrRes Name="enBandPos" Text="Nepareizi izvietots datu kods:"/>
+  <StrRes Name="dbNotConn" Text="Komponents %s nav pievienots datiem"/>
+  <StrRes Name="dbFldNotFound" Text="Laukums nav atrasts:"/>
+  <StrRes Name="clDSNotIncl" Text="(komponents nav pievienots pie Report.DataSets)"/>
+  <StrRes Name="clUnknownVar" Text="Neatpazits labojums vai datu laukums:"/>
+  <StrRes Name="clScrError" Text="Kuda skripta %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Nav atrasta datu ievade &#38;#34;%s&#38;#34;"/>
+  <StrRes Name="clErrors" Text="Tika atrastas sekojosas kludas:"/>
+  <StrRes Name="clExprError" Text="Kluda izteiksme"/>
+  <StrRes Name="clFP3files" Text="Atskaite gatava"/>
+  <StrRes Name="clSaving" Text="Tiek saglabats fails..."/>
+  <StrRes Name="clCancel" Text="Atcelt"/>
+  <StrRes Name="clClose" Text="Aizvert"/>
+  <StrRes Name="clPrinting" Text="Tiek drukata lappuse"/>
+  <StrRes Name="clLoading" Text="Notiek faila ielade..."/>
+  <StrRes Name="clPageOf" Text="Lappuse %d no %d"/>
+  <StrRes Name="clFirstPass" Text="Pirma parbaude: lappuse "/>
+  <StrRes Name="clNoPrinters" Text="Jusu sistemai nav uzstadits printeris"/>
+  <StrRes Name="clDecompressError" Text="Datu konvertesanas kluda"/>
+  <StrRes Name="crFillMx" Text="Tiek aizpildits cross-tab..."/>
+  <StrRes Name="crBuildMx" Text="Tiek pievienots cross-tab..."/>
+  <StrRes Name="prRunningFirst" Text="Pirma parbaude: lappuse %d"/>
+  <StrRes Name="prRunning" Text="Tiek sagatavota lappuse %d"/>
+  <StrRes Name="prPrinting" Text="Tiek drukata lappuse %d"/>
+  <StrRes Name="prExporting" Text="Lappuses eksportesana %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="dupDefault" Text="Default"/>
+  <StrRes Name="dupVert" Text="Vertical"/>
+  <StrRes Name="dupHorz" Text="Horizontal"/>
+  <StrRes Name="dupSimpl" Text="Simplex"/>
+  <StrRes Name="SLangNotFound" Text="Valoda '%s' nav atrasta"/>
+  <StrRes Name="SInvalidLanguage" Text="Valodas apraksta kluda"/>
+  <StrRes Name="SIdRedeclared" Text="Pardevets identifikators: "/>
+  <StrRes Name="SUnknownType" Text="Neatpazits veids: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Nesavienojami veidi"/>
+  <StrRes Name="SIdUndeclared" Text="Neatpazits identifikators: "/>
+  <StrRes Name="SClassRequired" Text="Tiek veikta klase"/>
+  <StrRes Name="SIndexRequired" Text="Tiek veikts indekss"/>
+  <StrRes Name="SStringError" Text="Rindai nav uzstadijumu vai veidu"/>
+  <StrRes Name="SClassError" Text="Klase nesatur %s pec noklusejuma"/>
+  <StrRes Name="SArrayRequired" Text="Tiek veikts masivs"/>
+  <StrRes Name="SVarRequired" Text="Tiek veiktas izmainas"/>
+  <StrRes Name="SNotEnoughParams" Text="Nepietiekami parametri"/>
+  <StrRes Name="STooManyParams" Text="Parlieku daudz parametru"/>
+  <StrRes Name="SLeftCantAssigned" Text="Nevar tikt apstiprinata kreisa izteiksmes puse"/>
+  <StrRes Name="SForError" Text="Izmainam cikla FOR jabut skaitlu izteiksme"/>
+  <StrRes Name="SEventError" Text="Izmainu apstradei janotiek saskana ar proceduru"/>
+  <StrRes Name="600" Text="Expand all"/>
+  <StrRes Name="601" Text="Collapse all"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>

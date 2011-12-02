@@ -1,0 +1,274 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1256">
+  <StrRes Name="propActive" Text="تحدد وضعية الاتصال بمصدر البيانات"/>
+  <StrRes Name="propActive.TfrxHighlight" Text="تحدد وضعية التنسيق المشروط"/>
+  <StrRes Name="propAliasName" Text="التسمية المستعارة لقاعدة BDE"/>
+  <StrRes Name="propAlign" Text="محاذاة الكائن بالنسبة للمقطع أو الصفحة"/>
+  <StrRes Name="propAlignment" Text="محاذاة نص الكائن"/>
+  <StrRes Name="propAllowAllUp" Text="تحدد إلغاء تحديد جميع أزرار التبديل في مجموعة دفعة واحدة"/>
+  <StrRes Name="propAllowEdit" Text="تحدد إمكانية تعديل المستخدم للصفحة المجهزة"/>
+  <StrRes Name="propAllowExpressions" Text="تحدد إمكانية استخدام التعابير"/>
+  <StrRes Name="propAllowGrayed" Text="تحدد استخدام الحالة الباهتة لمربع التحديد"/>
+  <StrRes Name="propAllowHTMLTags" Text="تحد إمكانية استخدام الهتمل"/>
+  <StrRes Name="propAllowSplit" Text="تحدد إمكانية تقسيم المقطع على عدة صفحات"/>
+  <StrRes Name="propAuthor" Text="مؤلف التقرير"/>
+  <StrRes Name="propAutoSize.TfrxPictureView" Text="تحدد ضبط الصورة لحجمها تلقائيا"/>
+  <StrRes Name="propAutoWidth" Text="تحدد ضبط مربع النص لحجمه تلقائياً"/>
+  <StrRes Name="propBackPicture" Text="صورة خلفية الصفحة"/>
+  <StrRes Name="propBarType" Text="نوع الباركود"/>
+  <StrRes Name="propBevelInner" Text="نوع التأثير الغاطس"/>
+  <StrRes Name="propBevelOuter" Text="نوع التأثير البارز"/>
+  <StrRes Name="propBevelWidth" Text="عرض التأثير المنحوت"/>
+  <StrRes Name="propBorder" Text="تحدد إظهار الحد الخارجي"/>
+  <StrRes Name="propBorderStyle" Text="نمط النافذة"/>
+  <StrRes Name="propBottomMargin" Text="حجم الهامش السفلي للصفحة"/>
+  <StrRes Name="propBrushStyle" Text="نمط الفرشاة المستخدمة في خلفية الكائنات"/>
+  <StrRes Name="propCalcCheckSum" Text="تحدد حساب الباركود للأرقام بشكل آلي"/>
+  <StrRes Name="propCancel" Text="تحدد تنفيذ الزر عند الضغط على مفتاح خروج"/>
+  <StrRes Name="propCaption" Text="التسمية التوضيحية للأداة"/>
+  <StrRes Name="propCellFields" Text="أسماء الحقول في الخلايا"/>
+  <StrRes Name="propCellLevels" Text="عدد مستويات الخلايا"/>
+  <StrRes Name="propCenter" Text="تحدد توسيط الصورة داخل الكائن"/>
+  <StrRes Name="propCharset" Text="ترميز الخط"/>
+  <StrRes Name="propCharSpacing" Text="المسافة بين الحروف"/>
+  <StrRes Name="propCheckColor" Text="لون علامة التحديد"/>
+  <StrRes Name="propChecked" Text="تحدد حالة التحديد"/>
+  <StrRes Name="propCheckStyle" Text="نمط علامة التحديد"/>
+  <StrRes Name="propChild" Text="التابع مرتبط بهذا المقطع"/>
+  <StrRes Name="propClipped" Text="تحدد إمكانية قطع النص في كائنات المقطع"/>
+  <StrRes Name="propCollate" Text="حالة ترتيب النسخ الإفتراضية"/>
+  <StrRes Name="propColor.TFont" Text="لون النص"/>
+  <StrRes Name="propColor" Text="لون الكائن"/>
+  <StrRes Name="propColor.TfrxFrame" Text="لون الحد"/>
+  <StrRes Name="propColor.TfrxHighlight" Text="لون الكائن عند التنسيق المشروط"/>
+  <StrRes Name="propColumnFields" Text="أسماء الحقول في الأعمدة"/>
+  <StrRes Name="propColumnGap" Text="المسافة بين الأعمدة"/>
+  <StrRes Name="propColumnLevels" Text="عدد مستويات الأعمدة"/>
+  <StrRes Name="propColumns" Text="عدد الأعمدة في مقطع"/>
+  <StrRes Name="propColumnWidth" Text="عرض العمود في مقطع"/>
+  <StrRes Name="propCondition" Text="حالة التجميع. سيتم فصل المجموعة كلما تغيرت القيمة."/>
+  <StrRes Name="propCondition.TfrxHighlight" Text="نص التعبير. إذا تحقق فعل التنسيق المشروط"/>
+  <StrRes Name="propConnected" Text="تحدد حالة الاتصال بقاعدة البيانات"/>
+  <StrRes Name="propConvertNulls" Text="تحدد تغيير القيم null إلى 0 أو false أو نص فارغ"/>
+  <StrRes Name="propCopies" Text="عدد النسخ الإفتراضي"/>
+  <StrRes Name="propCursor" Text="مؤشر الكائن"/>
+  <StrRes Name="propDatabaseName" Text="اسم قاعدة البيانات"/>
+  <StrRes Name="propDataField" Text="اسم الحقل من الجدول مصدر البيانات"/>
+  <StrRes Name="propDataSet" Text="ربط الكائن مع مصدر البيانات"/>
+  <StrRes Name="propDate" Text="قيمة التاريخ للأداة"/>
+  <StrRes Name="propDateFormat" Text="تنسيق التاريخ"/>
+  <StrRes Name="propDecimalSeparator" Text="الفاصلة العشرية"/>
+  <StrRes Name="propDefault" Text="هل الزر إفتراضي"/>
+  <StrRes Name="propDefHeight" Text="الارتفاع الافتراضي للسطر"/>
+  <StrRes Name="propDescription.TfrxReportOptions" Text="وصف التقرير"/>
+  <StrRes Name="propDescription" Text="وصف الكائن"/>
+  <StrRes Name="propDiagonal" Text="تحدد أن وضعية السطر مائل"/>
+  <StrRes Name="propDisplayFormat" Text="تنسيق القيمة"/>
+  <StrRes Name="propDoublePass" Text="تحدد هل سيقوم محرك التقارير بتهيئة التقرير مرة ثانية"/>
+  <StrRes Name="propDown" Text="حالة الزر السريع"/>
+  <StrRes Name="propDownThenAcross" Text="كيفية توزيع التقارير الجدولية على عدة صفحات"/>
+  <StrRes Name="propDriverName" Text="اسم محرك BDE"/>
+  <StrRes Name="propDropShadow" Text="تحدد تضليل الكائن"/>
+  <StrRes Name="propDuplex" Text="تحدد وضعية الطباعة على وجهي الورقة"/>
+  <StrRes Name="propEditMask" Text="صيغة قناع الإدخال"/>
+  <StrRes Name="propEnabled" Text="تحدد تفعيل الأداة"/>
+  <StrRes Name="propEngineOptions" Text="خيارات محرك التقارير"/>
+  <StrRes Name="propExpression" Text="قيمة هذا التعبير سوف تظهر في الكائن"/>
+  <StrRes Name="propExpressionDelimiters" Text="الرموز التي ستستخدم لقفل نص التعبير"/>
+  <StrRes Name="propFieldAliases" Text="تسميات الحقول في مصدر البيانات"/>
+  <StrRes Name="propFilter" Text="معايير التصفية لمصدر البيانات"/>
+  <StrRes Name="propFiltered" Text="تفعيل خاصية التصفية على حسب شروط التصفية"/>
+  <StrRes Name="propFlowTo" Text="مربع النص الذي سيظهر فيه النص الغير ظاهر"/>
+  <StrRes Name="propFont" Text="خصائص الخط للكائن"/>
+  <StrRes Name="propFooterAfterEach" Text="تحدد إظهار التذييل بعد كل مقطع بيانات"/>
+  <StrRes Name="propFormatStr" Text="صيغة التنسيق"/>
+  <StrRes Name="propFrame" Text="خصائص إطار الكائن"/>
+  <StrRes Name="propGapX" Text="موضع الكائن من اليسار"/>
+  <StrRes Name="propGapY" Text="موضع الكائن من الأعلى"/>
+  <StrRes Name="propGlyph" Text="صورة الأداة"/>
+  <StrRes Name="propGroupIndex" Text="تجميع الأزرار في مجموعة"/>
+  <StrRes Name="propHAlign" Text="المحاذاة الأفقية للنص"/>
+  <StrRes Name="propHeight" Text="ارتفاع الكائن"/>
+  <StrRes Name="propHideZeros" Text="إخفاء القيم إذا كانت صفر"/>
+  <StrRes Name="propHighlight" Text="شروط التنسيق المشروط"/>
+  <StrRes Name="propIndexName" Text="اسم الفهرس"/>
+  <StrRes Name="propInitString" Text="النص المبدئي للطابعة مع التقارير النقطية"/>
+  <StrRes Name="propItems" Text="عناصر القائمة للكائن"/>
+  <StrRes Name="propKeepAspectRatio" Text="الإبقاء على الأبعاد الأصلية للصورة"/>
+  <StrRes Name="propKeepChild" Text="إبقاء المقطع مع التابع"/>
+  <StrRes Name="propKeepFooter" Text="إبقاء المقطع مع التذييل"/>
+  <StrRes Name="propKeepHeader" Text="إبقاء المقطع مع الرأس"/>
+  <StrRes Name="propKeepTogether" Text="إبقاء المقطع مع جميع المقاطع الفرعية"/>
+  <StrRes Name="propKind.TfrxFormat" Text="نوع التنسيق"/>
+  <StrRes Name="propKind" Text="نوع الزر"/>
+  <StrRes Name="propLargeDesignHeight" Text="تحدد هل سيكون للصفحة ارتفاع كبير في حالة التصميم"/>
+  <StrRes Name="propLayout" Text="شكل صورة الزر"/>
+  <StrRes Name="propLeft" Text="الموضع الأيسر للكائن"/>
+  <StrRes Name="propLeftMargin" Text="الهامش الأيسر للصفحة"/>
+  <StrRes Name="propLines" Text="نص الكائن"/>
+  <StrRes Name="propLineSpacing" Text="المسافة بين السطور"/>
+  <StrRes Name="propLoginPrompt" Text="إظهار نافذة تسجيل الدخول"/>
+  <StrRes Name="propMargin" Text="المسافة بين زاوية الزر وزاوية الصورة"/>
+  <StrRes Name="propMaster" Text="مصدر البيانات الرئيسي"/>
+  <StrRes Name="propMasterFields" Text="الحقول المحددة للعلاقة بين السجلات الرئيسية والفرعية"/>
+  <StrRes Name="propMaxLength" Text="الحد الأقصى لطول النص"/>
+  <StrRes Name="propMaxWidth" Text="الحد الأقصى لعرض العمود"/>
+  <StrRes Name="propMemo" Text="نص الكائن"/>
+  <StrRes Name="propMinWidth" Text="الحد الأدنى لعرض العمود"/>
+  <StrRes Name="propMirrorMargins" Text="مقابلة الهوامش للصفحات الفردية"/>
+  <StrRes Name="propModalResult" Text="وضعية زر الإغلاق للنموذج"/>
+  <StrRes Name="propName.TFont" Text="اسم الخط"/>
+  <StrRes Name="propName.TfrxReportOptions" Text="اسم التقرير"/>
+  <StrRes Name="propName" Text="اسم الكائن"/>
+  <StrRes Name="propNumGlyphs" Text="عدد الصور في خاصية صورة"/>
+  <StrRes Name="propOpenDataSource" Text="فتح مصدر البيانات تلقائياً"/>
+  <StrRes Name="propOrientation" Text="أبعاد الصفحة"/>
+  <StrRes Name="propOutlineText" Text="النص الذي سيظهر في أداة تحديد الصفحات"/>
+  <StrRes Name="propOutlineVisible" Text="خاصية ظهور نافذة تحديد الصفحات"/>
+  <StrRes Name="propOutlineWidth" Text="عرض نافذة تحديد الصفحات في المعاينة"/>
+  <StrRes Name="propPageNumbers.TfrxPrintOptions" Text="عدد الصفحات المراد طباعتها"/>
+  <StrRes Name="propPaperHeight" Text="ارتفاع الصفحة"/>
+  <StrRes Name="propPaperWidth" Text="عرض الصفحة"/>
+  <StrRes Name="propParagraphGap" Text="المسافة قبل بداية السطر الأول من مقطع نصي"/>
+  <StrRes Name="propParams.TfrxBDEDatabase" Text="متغيرات الاتصال"/>
+  <StrRes Name="propParams" Text="متفيرات الإستعلام"/>
+  <StrRes Name="propParentFont" Text="جلب تنسيق الخط من الأداة الأب"/>
+  <StrRes Name="propPassword" Text="كلمة المرور للتقرير"/>
+  <StrRes Name="propPasswordChar" Text="الرموز البديلة لكلمة المرور عند الإدخال"/>
+  <StrRes Name="propPicture" Text="الصورة"/>
+  <StrRes Name="propPicture.TfrxReportOptions" Text="صورة الوصف للتقرير"/>
+  <StrRes Name="propPosition" Text="الموقع المبدئي للنافذة"/>
+  <StrRes Name="propPreviewOptions" Text="خيارات المعاينة"/>
+  <StrRes Name="propPrintable" Text="طباعة الكائن. الكائنات التي False تظهر في المعاينة ولا تطبع"/>
+  <StrRes Name="propPrintChildIfInvisible" Text="تحدد طباعة التابع إذا كان الرئيسي داخله مساحة كافية"/>
+  <StrRes Name="propPrinter" Text="الطابعة الإفتراضية لهذا التقرير"/>
+  <StrRes Name="propPrintIfDetailEmpty" Text="تحدد طباعة مقطع البيانات إذا كان المقطع الفرعي فارغ"/>
+  <StrRes Name="propPrintIfEmpty" Text="تحدد طباعة الصفحة إذا كان مصدر السجلات فارغ"/>
+  <StrRes Name="propPrintOnFirstPage" Text="تحدد طباعة المقطع في الصفحة الأولى"/>
+  <StrRes Name="propPrintOnLastPage" Text="تحدد طباعة المقطع في الصفحة الأخيرة"/>
+  <StrRes Name="propPrintOnParent" Text="تحدد طباعة المقطع الفرعي على الرئيسي"/>
+  <StrRes Name="propPrintOnPreviousPage" Text="تحدد إنشاء الصفحة ابتداء من المساحة الفارغة في الصفحة السابقة"/>
+  <StrRes Name="propPrintOptions" Text="خيارات طباعة التقرير"/>
+  <StrRes Name="propPrintPages" Text="تحدد طباعة جميع السجلات أو الصفحات الفردية"/>
+  <StrRes Name="propRangeBegin" Text="تحدد بداية السجلات في مصدر البيانات"/>
+  <StrRes Name="propRangeEnd" Text="تحدد نهاية السجلات في مصدر البيانات"/>
+  <StrRes Name="propRangeEndCount" Text="تحدد عدد السجلات في مصدر البيانات"/>
+  <StrRes Name="propReadOnly" Text="نص الكائن للقراءة فقط"/>
+  <StrRes Name="propRepeatHeaders" Text="طباعة رأس العمود والسطر عند صفحة جديدة"/>
+  <StrRes Name="propReportOptions" Text="خيارات التقرير"/>
+  <StrRes Name="propReprintOnNewPage" Text="طباعة المقطع عند صفحة جديدة"/>
+  <StrRes Name="propRestrictions" Text="مجموعة القيود"/>
+  <StrRes Name="propRightMargin" Text="حجم الهامش الأيمن للصفحة"/>
+  <StrRes Name="propRotation.TfrxBarCodeView" Text="أبعاد البار كود"/>
+  <StrRes Name="propRotation" Text="تدوير النص"/>
+  <StrRes Name="propRowCount" Text="عدد السجلات الافتراضية في مقطع البيانات"/>
+  <StrRes Name="propRowFields" Text="أسماء الحقول في التقرير المتقاطع"/>
+  <StrRes Name="propRowLevels" Text="عدد مستويات السطر"/>
+  <StrRes Name="propRTLReading" Text="اتجاه النص من اليمين إلى اليسار"/>
+  <StrRes Name="propSessionName" Text="اسم جلسة BDE"/>
+  <StrRes Name="propShadowColor" Text="لون الظل"/>
+  <StrRes Name="propShadowWidth" Text="عرض الظل"/>
+  <StrRes Name="propShape" Text="نوع الشكل"/>
+  <StrRes Name="propShiftMode" Text="وضعية التبديل للكائن"/>
+  <StrRes Name="propShowColumnHeader" Text="إظهار رأس العمود للتقارير المتقاطعة"/>
+  <StrRes Name="propShowColumnTotal" Text="إظهار مجموع الكلي للعمود للتقارير المتقاطعة"/>
+  <StrRes Name="propShowRowHeader" Text="إظهار رأس السطر للتقارير المتقاطعة"/>
+  <StrRes Name="propShowRowTotal" Text="إظهار مجموع الكلي للسطر للتقارير المتقاطعة"/>
+  <StrRes Name="propShowDialog" Text="إظهار صندوق الطباعة في نافذة المعاينة"/>
+  <StrRes Name="propShowText" Text="إظهار نص الباركود"/>
+  <StrRes Name="propSize" Text="حجم الخط"/>
+  <StrRes Name="propSorted" Text="تحدد حفظ العناصر أم لا"/>
+  <StrRes Name="propSpacing" Text="تحدد عدد البكسلز بين الصورة والنص"/>
+  <StrRes Name="propSQL" Text="جملة SQL"/>
+  <StrRes Name="propStartNewPage" Text="صفحة جديدة قبل طباعة المقطع"/>
+  <StrRes Name="propStretch" Text="تمديد الصورة لتناسب المقطع"/>
+  <StrRes Name="propStretched" Text="تحدد إمكانية تمديد الكائن"/>
+  <StrRes Name="propStretchMode" Text="وضعية تمديد الكائن"/>
+  <StrRes Name="propStyle.TFont" Text="نمط الخط"/>
+  <StrRes Name="propStyle" Text="نمط الأداة"/>
+  <StrRes Name="propStyle.TfrxFrame" Text="نمط إطار الكائن"/>
+  <StrRes Name="propSuppressRepeated" Text="إخفاء القيم المكررة"/>
+  <StrRes Name="propTableName" Text="اسم جدول البيانات"/>
+  <StrRes Name="propTag" Text="رقم علامة الكائن"/>
+  <StrRes Name="propTagStr" Text="نص علامة الكائن"/>
+  <StrRes Name="propText" Text="نص الكائن"/>
+  <StrRes Name="propTitleBeforeHeader" Text="تحدد إظهار عنوان التقرير قبل رأس الصفحة"/>
+  <StrRes Name="propTop" Text="أبعاد الكائن العلوية"/>
+  <StrRes Name="propTopMargin" Text="حجم الهامش العلوي"/>
+  <StrRes Name="propTyp" Text="نوع الإطار"/>
+  <StrRes Name="propUnderlines" Text="تحدد إظهار خطوط الشبكة بعد كل سطر في مربع النص"/>
+  <StrRes Name="propURL" Text="عنوان رابط الكائن"/>
+  <StrRes Name="propUserName" Text="اسم المستخدم لكائن البيانات. هذا لاسم سيظهر في شجرة البيانات"/>
+  <StrRes Name="propVAlign" Text="المحاذاة الرأسية للنص"/>
+  <StrRes Name="propVersionBuild" Text="الإصدار, البناء"/>
+  <StrRes Name="propVersionMajor" Text="الإصدار, الرقم الرئيسي"/>
+  <StrRes Name="propVersionMinor" Text="الإصدار, الرقم الفرعي"/>
+  <StrRes Name="propVersionRelease" Text="الإصدار, النسخة"/>
+  <StrRes Name="propVisible" Text="رؤية الكائن"/>
+  <StrRes Name="propWidth" Text="عرض الكائن"/>
+  <StrRes Name="propWidth.TfrxFrame" Text="عرض الإطار"/>
+  <StrRes Name="propWindowState" Text="الوضع المبدئي للنافذة"/>
+  <StrRes Name="propWordBreak" Text="تقسيم الكلمات"/>
+  <StrRes Name="propWordWrap" Text="تحدد ما إذا كانت الكلمات ستلتف لتبدأ في سطر جديد"/>
+  <StrRes Name="propZoom.TfrxBarCodeView" Text="تكبير/تصغير الباركود"/>
+  <StrRes Name="propConnectionName" Text="اسم اتصال قاعدة البيانات المستخدم في هذا التقرير"/>
+  <StrRes Name="propCurve" Text="شكل حواف المربع مستدير الأطراف"/>
+  <StrRes Name="propDrillDown" Text="تحدد إمكانية تمديد وطي المجموعات"/>
+  <StrRes Name="propFontStyle" Text="نمط خط الطابعة النقطية"/>
+  <StrRes Name="propHideIfSingleDataRecord" Text="إخفاء التذييل إذا كان هناك سجل واحد فقط"/>
+  <StrRes Name="propOutlineExpand" Text="تحدد امكانية تمديد العناصر في محدد الصفحات"/>
+  <StrRes Name="propPlainCells" Text="تحدد طباعة الخلايا متجاورة أو متراصة"/>
+  <StrRes Name="propPrintMode" Text="نمط الطباعة: مباشر, تقسيم الصفحة الكبيرة إلى صفحات صغيرة, والعكس"/>
+  <StrRes Name="propPrintOnSheet" Text="حجم الورق للتقرير. تستخدم عندما تكون PrintMode لا تساوي pmDefault"/>
+  <StrRes Name="propResetPageNumbers" Text="تصفير رقم/عدد الصفحات عند طباعة مجموعة. يجب استخدامها مع خاصية StartNewPage بقيمة true"/>
+  <StrRes Name="propReverse" Text="تحدد طباعة الصفحات في ترتيب عكسي"/>
+  <StrRes Name="propShowFooterIfDrillDown" Text="تحدد إظهار التذييل عند تمديد أو طي المجموعة"/>
+  <StrRes Name="propSizeMode" Text="نمط العرض لكائن OLE"/>
+  <StrRes Name="propVersion" Text="إصدار FastReport"/>
+  <StrRes Name="propWideBarRatio" Text="نسبة عرض خطوط البار كود"/>
+  <StrRes Name="propWysiwyg" Text="تحدد إذا كان الكائن يستخدم إعدادات الطابعة لتنسيق النص. يجب أن تكون هناك طابعة جاهزة."/>
+  <StrRes Name="propArrowEnd" Text="تحدد إظهار السهم في نهاية السطر"/>
+  <StrRes Name="propArrowLength" Text="طول السهم"/>
+  <StrRes Name="propArrowSolid" Text="تحدد تعبئة السهم"/>
+  <StrRes Name="propArrowStart" Text="تحدد إظهار السهم في بداية السطر"/>
+  <StrRes Name="propArrowWidth" Text="عرض السهم"/>
+  <StrRes Name="propCloseDataSource" Text="تحدد إغلاق مصدر البيانات عند الانتهاء من التقرير"/>
+  <StrRes Name="propDatabase" Text="اتصال قاعدة البيانات"/>
+  <StrRes Name="propIndexFieldNames" Text="أسماء حقول الفهرسة"/>
+  <StrRes Name="propCommandTimeOut" Text="مدة تنفيذ التقرير"/>
+  <StrRes Name="propExpandDrillDown" Text="تحدد تمديد العناصر عند بداية التقرير"/>
+  <StrRes Name="propWysiwyg.TfrxMemoView" Text="تحدد إظهار النص في نمط WYSIWYG"/>
+  <StrRes Name="propLeftLine" Text="الخط الأيسر من الإطار"/>
+  <StrRes Name="propTopLine" Text="الخط العلوي من الإطار"/>
+  <StrRes Name="propRightLine" Text="الخط الأيمن من الإطار"/>
+  <StrRes Name="propBottomLine" Text="الخط السفلي من الإطار"/>
+  <StrRes Name="propColor.TfrxFrameLine" Text="لون خط الإطار"/>
+  <StrRes Name="propStyle.TfrxFrameLine" Text="نمط خط الإطار"/>
+  <StrRes Name="propWidth.TfrxFrameLine" Text="عرض خط الإطار"/>
+  <StrRes Name="propFileLink" Text="التعبير أو اسم الملف المحتوي على الصورة"/>
+  <StrRes Name="propEndlessWidth" Text="نمط الصفحة الممتدة. إذا true, الصفحة سوف تمتد حتى تنتهي جميع السجلات"/>
+  <StrRes Name="propEndlessHeight" Text="نمط الصفحة الممتدة. إذا true, الصفحة سوف تمتد حتى تنتهي جميع السجلات"/>
+  <StrRes Name="propAddHeight" Text="تضيف بعد المسافة لارتفاع الخلية"/>
+  <StrRes Name="propAddWidth" Text="تضيف بعد المسافة لعرض الخلية"/>
+  <StrRes Name="propAllowDuplicates" Text="تحدد إذا كانت الخلية ستقبل القيم المتكررة"/>
+  <StrRes Name="propJoinEqualCells" Text="تحدد ضم الخلايا للقيم المتكررة في التقرير الجدولي"/>
+  <StrRes Name="propNextCross" Text="تأشير للتقرير الجدولي التالي للطباعة على الجانب"/>
+  <StrRes Name="propNextCrossGap" Text="المسافة بين التقارير الجدولية المتجاورة"/>
+  <StrRes Name="propShowCorner" Text="تحدد إذا كان التقرير الجدولي سيظهر العناصر في الزاوية العلوية اليسرى"/>
+  <StrRes Name="propSuppressNullRecords" Text="تحدد إذا كان التقرير الجدولي سيخفي الحقول التي بقيمة NULL"/>
+  <StrRes Name="propShowTitle" Text="تحدد إظهار العنوان للتقرير الجدولي"/>
+  <StrRes Name="propAutoSize" Text="تحدد الحجم التلقائي للتقرير الجدولي"/>
+  <StrRes Name="propShowHint" Text="Determines if object should show hint when move cursor on it"/>
+  <StrRes Name="propHint" Text="Hint text"/>
+  <StrRes Name="propPaperSize" Text="PaperSize"/>
+  <StrRes Name="propPageCount" Text="Count of pages"/>
+  <StrRes Name="propBackPictureVisible" Text="Determines if the page should display a background picture"/>
+  <StrRes Name="propBackPicturePrintable" Text="Determines if the page should print a background picture"/>
+  <StrRes Name="propHightQuality" Text="Show picture in high quality"/>
+  <StrRes Name="propLockType" Text="Specifies the lock type to use when opening a dataset"/>
+  <StrRes Name="propIgnoreDupParams" Text="Ignore duplicate parameters in ParamEditor"/>
+  <StrRes Name="propTransparent" Text="Determinates if the picture can be transparent"/>
+  <StrRes Name="propTransparentColor" Text="Transparent color"/>
+  <StrRes Name="propIgnoreNulls" Text="Allow to ingnore Nulls values in Chart"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Determinates if child band shown if group is drilldown"/>
+</Resources>

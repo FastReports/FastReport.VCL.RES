@@ -1,0 +1,851 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1251">
+  <StrRes Name="2000" Text="Инспектор на обекти"/>
+  <StrRes Name="oiProp" Text="Свойства"/>
+  <StrRes Name="oiEvent" Text="Събития"/>
+  <StrRes Name="2100" Text="Дърво данни"/>
+  <StrRes Name="2101" Text="Данни"/>
+  <StrRes Name="2102" Text="Променливи"/>
+  <StrRes Name="2103" Text="Функции"/>
+  <StrRes Name="2104" Text="Създай поле"/>
+  <StrRes Name="2105" Text="Създай заглавие"/>
+  <StrRes Name="2106" Text="Класове"/>
+  <StrRes Name="dtNoData" Text="Няма далични данни."/>
+  <StrRes Name="dtNoData1" Text="Отиди на &#38;#34;Данни за|отчет...&#38;#34; меню за да добавите съществиващи dataset-и към отчета, или премината на &#38;#34;Data&#38;#34; таб и създайте нови dataset-и."/>
+  <StrRes Name="dtData" Text="Данни"/>
+  <StrRes Name="dtSysVar" Text="Системни променливи"/>
+  <StrRes Name="dtVar" Text="Променливи"/>
+  <StrRes Name="dtFunc" Text="Функции"/>
+  <StrRes Name="2200" Text="Дърво на отчета"/>
+  <StrRes Name="2300" Text="Отвори скриптов файл"/>
+  <StrRes Name="2301" Text="Запиши скрипта във файл"/>
+  <StrRes Name="2302" Text="стартирай скрипта"/>
+  <StrRes Name="2303" Text="Трасирай"/>
+  <StrRes Name="2304" Text="Спри скрипта"/>
+  <StrRes Name="2305" Text="Оцени"/>
+  <StrRes Name="2306" Text="Език:"/>
+  <StrRes Name="2307" Text="Подравняване"/>
+  <StrRes Name="2308" Text="Ляво подравняване"/>
+  <StrRes Name="2309" Text="Средно подравняване"/>
+  <StrRes Name="2310" Text="Дясно подравняване"/>
+  <StrRes Name="2311" Text="Горно подравняване"/>
+  <StrRes Name="2312" Text="Средно подравняване"/>
+  <StrRes Name="2313" Text="Долно подравняване"/>
+  <StrRes Name="2314" Text="Остави място хоризонтално"/>
+  <StrRes Name="2315" Text="Остави място вертикално"/>
+  <StrRes Name="2316" Text="Центрирай хоризонтално в лентата"/>
+  <StrRes Name="2317" Text="Центрирай вертикално в лентата"/>
+  <StrRes Name="2318" Text="Същата ширина"/>
+  <StrRes Name="2319" Text="Същата височина"/>
+  <StrRes Name="2320" Text="Текст"/>
+  <StrRes Name="2321" Text="Стил"/>
+  <StrRes Name="2322" Text="Име на шрифт"/>
+  <StrRes Name="2323" Text="Размер на шрифт"/>
+  <StrRes Name="2324" Text="Удебели"/>
+  <StrRes Name="2325" Text="Курсив"/>
+  <StrRes Name="2326" Text="Подчертай"/>
+  <StrRes Name="2327" Text="Цвят на шрифта"/>
+  <StrRes Name="2328" Text="Освети"/>
+  <StrRes Name="2329" Text="Въртене на текста"/>
+  <StrRes Name="2330" Text="Ляво подравняване"/>
+  <StrRes Name="2331" Text="Средно подравняване"/>
+  <StrRes Name="2332" Text="Дясно подравняване"/>
+  <StrRes Name="2333" Text="Форматиране"/>
+  <StrRes Name="2334" Text="Горно подравняване"/>
+  <StrRes Name="2335" Text="Средно подравняване"/>
+  <StrRes Name="2336" Text="Долно подравняване"/>
+  <StrRes Name="2337" Text="Рамка"/>
+  <StrRes Name="2338" Text="Горна линия"/>
+  <StrRes Name="2339" Text="Долна линия"/>
+  <StrRes Name="2340" Text="Лява линия"/>
+  <StrRes Name="2341" Text="Дясна линия"/>
+  <StrRes Name="2342" Text="Всички линии на рамка"/>
+  <StrRes Name="2343" Text="Без рамка"/>
+  <StrRes Name="2344" Text="Сянка"/>
+  <StrRes Name="2345" Text="Фонов цвят"/>
+  <StrRes Name="2346" Text="Цвят на рамка"/>
+  <StrRes Name="2347" Text="Стил на рамка"/>
+  <StrRes Name="2348" Text="Ширина на рамка"/>
+  <StrRes Name="2349" Text="Стандартен"/>
+  <StrRes Name="2350" Text="Нов отчет"/>
+  <StrRes Name="2351" Text="Отвори отчет"/>
+  <StrRes Name="2352" Text="Запиши отчет"/>
+  <StrRes Name="2353" Text="Преглед"/>
+  <StrRes Name="2354" Text="Нова страница в отчета"/>
+  <StrRes Name="2355" Text="Нова диалогова страница"/>
+  <StrRes Name="2356" Text="Изтрий страница"/>
+  <StrRes Name="2357" Text="Настройки на страница"/>
+  <StrRes Name="2358" Text="Променливи"/>
+  <StrRes Name="2359" Text="Отрежи"/>
+  <StrRes Name="2360" Text="Копирай"/>
+  <StrRes Name="2361" Text="Вмъкни"/>
+  <StrRes Name="2362" Text="Копирай форматирането"/>
+  <StrRes Name="2363" Text="Отмени"/>
+  <StrRes Name="2364" Text="Преправи"/>
+  <StrRes Name="2365" Text="Групирай"/>
+  <StrRes Name="2366" Text="Премахни групиране"/>
+  <StrRes Name="2367" Text="Покажи мрежа"/>
+  <StrRes Name="2368" Text="Подравни към мрежата"/>
+  <StrRes Name="2369" Text="Намести към мрежата"/>
+  <StrRes Name="2370" Text="Приближи"/>
+  <StrRes Name="2371" Text="Допълнителни инструменти"/>
+  <StrRes Name="2372" Text="Инструмент Избор"/>
+  <StrRes Name="2373" Text="Инструмент Ръка"/>
+  <StrRes Name="2374" Text="Инструмент Приближаване"/>
+  <StrRes Name="2375" Text="Инструмент Редактиране текст"/>
+  <StrRes Name="2376" Text="Инструмент Копиране на форматиране"/>
+  <StrRes Name="2377" Text="Вмъкни лента"/>
+  <StrRes Name="2378" Text="&amp;Файл"/>
+  <StrRes Name="2379" Text="Р&amp;едактирай"/>
+  <StrRes Name="2380" Text="Намери..."/>
+  <StrRes Name="2381" Text="Намери следващ"/>
+  <StrRes Name="2382" Text="Подмени..."/>
+  <StrRes Name="2383" Text="&amp;Отчен"/>
+  <StrRes Name="2384" Text="Данни..."/>
+  <StrRes Name="2385" Text="Настройки..."/>
+  <StrRes Name="2386" Text="Стилове..."/>
+  <StrRes Name="2387" Text="&amp;Изглед"/>
+  <StrRes Name="2388" Text="Ленти инструменти"/>
+  <StrRes Name="2389" Text="Стандартни"/>
+  <StrRes Name="2390" Text="Текст"/>
+  <StrRes Name="2391" Text="Рамка"/>
+  <StrRes Name="2392" Text="Палитра Подравняване"/>
+  <StrRes Name="2393" Text="Допълнителни инструменти"/>
+  <StrRes Name="2394" Text="Инспектор на обекти"/>
+  <StrRes Name="2395" Text="Дърво с данни"/>
+  <StrRes Name="2396" Text="Дърво на отчета"/>
+  <StrRes Name="2397" Text="Линийки"/>
+  <StrRes Name="2398" Text="Показатели"/>
+  <StrRes Name="2399" Text="Изтрий показателите"/>
+  <StrRes Name="2400" Text="Настройки..."/>
+  <StrRes Name="2401" Text="&amp;Помощ"/>
+  <StrRes Name="2402" Text="Помощно съдържание..."/>
+  <StrRes Name="2403" Text="За FastReport..."/>
+  <StrRes Name="2404" Text="Ред на обхождане..."/>
+  <StrRes Name="2405" Text="Отмени"/>
+  <StrRes Name="2406" Text="Преправи"/>
+  <StrRes Name="2407" Text="Отрежи"/>
+  <StrRes Name="2408" Text="Копирай"/>
+  <StrRes Name="2409" Text="Вмъкни"/>
+  <StrRes Name="2410" Text="Групирай"/>
+  <StrRes Name="2411" Text="Премахни групиране"/>
+  <StrRes Name="2412" Text="Изтрий"/>
+  <StrRes Name="2413" Text="Изтрий страница"/>
+  <StrRes Name="2414" Text="Избери всичко"/>
+  <StrRes Name="2415" Text="Редактирай..."/>
+  <StrRes Name="2416" Text="Премести отпред"/>
+  <StrRes Name="2417" Text="Изпрати отзад"/>
+  <StrRes Name="2418" Text="Нов..."/>
+  <StrRes Name="2419" Text="Нов отчет"/>
+  <StrRes Name="2420" Text="Нова страница"/>
+  <StrRes Name="2421" Text="Нов диалог"/>
+  <StrRes Name="2422" Text="Отвори..."/>
+  <StrRes Name="2423" Text="Запиши"/>
+  <StrRes Name="2424" Text="Запиши като..."/>
+  <StrRes Name="2425" Text="Променливи..."/>
+  <StrRes Name="2426" Text="Настройки на страница..."/>
+  <StrRes Name="2427" Text="Преглед"/>
+  <StrRes Name="2428" Text="Изход"/>
+  <StrRes Name="2429" Text="Заглавие отчет"/>
+  <StrRes Name="2430" Text="Изложение отчет"/>
+  <StrRes Name="2431" Text="Заглавна част на страница"/>
+  <StrRes Name="2432" Text="Завършваща част на страница"/>
+  <StrRes Name="2433" Text="Заглавна част"/>
+  <StrRes Name="2434" Text="Завършваща част"/>
+  <StrRes Name="2435" Text="Главни данни"/>
+  <StrRes Name="2436" Text="Детайлни данни"/>
+  <StrRes Name="2437" Text="Под-детайлни данни"/>
+  <StrRes Name="2438" Text="Данни 4-то ниво"/>
+  <StrRes Name="2439" Text="Данни 5-то ниво"/>
+  <StrRes Name="2440" Text="Данни 6-то ниво"/>
+  <StrRes Name="2441" Text="Групова заглавна част"/>
+  <StrRes Name="2442" Text="Групова завършваща част"/>
+  <StrRes Name="2443" Text="Подчинен"/>
+  <StrRes Name="2444" Text="Заглавна част на колона"/>
+  <StrRes Name="2445" Text="Завършваща част на колона"/>
+  <StrRes Name="2446" Text="Припокриване"/>
+  <StrRes Name="2447" Text="Вертикални ленти"/>
+  <StrRes Name="2448" Text="Заглавна част"/>
+  <StrRes Name="2449" Text="Завършваща част"/>
+  <StrRes Name="2450" Text="Главни данни"/>
+  <StrRes Name="2451" Text="Детайлни данни"/>
+  <StrRes Name="2452" Text="Под-детайлни данни"/>
+  <StrRes Name="2453" Text="Групова заглавна част"/>
+  <StrRes Name="2454" Text="Групова завършваща част"/>
+  <StrRes Name="2455" Text="Подчинен"/>
+  <StrRes Name="2456" Text="0°"/>
+  <StrRes Name="2457" Text="45°"/>
+  <StrRes Name="2458" Text="90°"/>
+  <StrRes Name="2459" Text="180°"/>
+  <StrRes Name="2460" Text="270°"/>
+  <StrRes Name="2461" Text="Настройки шрифт"/>
+  <StrRes Name="2462" Text="Удебели"/>
+  <StrRes Name="2463" Text="Курсив"/>
+  <StrRes Name="2464" Text="Подчертай"/>
+  <StrRes Name="2465" Text="Горен индекс"/>
+  <StrRes Name="2466" Text="Долен индекс"/>
+  <StrRes Name="2467" Text="Сгъстен"/>
+  <StrRes Name="2468" Text="Широк"/>
+  <StrRes Name="2469" Text="12 cpi"/>
+  <StrRes Name="2470" Text="15 cpi"/>
+  <StrRes Name="2471" Text="Отчет (*.fr3)|*.fr3"/>
+  <StrRes Name="2472" Text="Pascal файл (*.pas)|*.pas|C++ файл (*.cpp)|*.cpp|JavaScript файл (*.js)|*.js|Basic файл (*.vb)|*.vb|Всички файлове|*.*"/>
+  <StrRes Name="2473" Text="Pascal файл (*.pas)|*.pas|C++ файл (*.cpp)|*.cpp|JavaScript файл (*.js)|*.js|Basic файл (*.vb)|*.vb|Всички файлове|*.*"/>
+  <StrRes Name="2474" Text="Връзки..."/>
+  <StrRes Name="2475" Text="Език"/>
+  <StrRes Name="2476" Text="Преключи breakpoints"/>
+  <StrRes Name="2477" Text="Изпълни до курсора"/>
+  <StrRes Name="2478" Text="!Add child band"/>
+  <StrRes Name="dsCm" Text="Сантиметри"/>
+  <StrRes Name="dsInch" Text="Инчове"/>
+  <StrRes Name="dsPix" Text="Пиксели"/>
+  <StrRes Name="dsChars" Text="Знаци"/>
+  <StrRes Name="dsCode" Text="Код"/>
+  <StrRes Name="dsData" Text="Data"/>
+  <StrRes Name="dsPage" Text="Страница"/>
+  <StrRes Name="dsRepFilter" Text="Отчет (*.fr3)|*.fr3"/>
+  <StrRes Name="dsComprRepFilter" Text="Компресиран отчет (*.fr3)|*.fr3"/>
+  <StrRes Name="dsSavePreviewChanges" Text="Запазване промените на страницата за преглед?"/>
+  <StrRes Name="dsSaveChangesTo" Text="запази промените в "/>
+  <StrRes Name="dsCantLoad" Text="Файлът не може да бъде зареден"/>
+  <StrRes Name="dsStyleFile" Text="Стил"/>
+  <StrRes Name="dsCantFindProc" Text="Главната процедура не е намерена"/>
+  <StrRes Name="dsClearScript" Text="Ще бъде изтрит целия код. Желаете ли да продължите?"/>
+  <StrRes Name="dsNoStyle" Text="Няма стил"/>
+  <StrRes Name="dsStyleSample" Text="Обикновен стил"/>
+  <StrRes Name="dsTextNotFound" Text="Текстът '%s' не е намерен"/>
+  <StrRes Name="dsReplace" Text="Заменяне на срещнатото '%s'?"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="chr"/>
+  <StrRes Name="2600" Text="За FastReport"/>
+  <StrRes Name="2601" Text="Посетете нашата уебстраница"/>
+  <StrRes Name="2603" Text="Продажби:"/>
+  <StrRes Name="2604" Text="Поддръжка:"/>
+  <StrRes Name="2700" Text="Настройки на страница"/>
+  <StrRes Name="2701" Text="Хартия"/>
+  <StrRes Name="2702" Text="Ширина"/>
+  <StrRes Name="2703" Text="Височина"/>
+  <StrRes Name="2704" Text="Размер"/>
+  <StrRes Name="2705" Text="Ориентация"/>
+  <StrRes Name="2706" Text="Ляво"/>
+  <StrRes Name="2707" Text="Горе"/>
+  <StrRes Name="2708" Text="Дясно"/>
+  <StrRes Name="2709" Text="Долу"/>
+  <StrRes Name="2710" Text="Маржове"/>
+  <StrRes Name="2711" Text="Източник хартия"/>
+  <StrRes Name="2712" Text="Първа страница"/>
+  <StrRes Name="2713" Text="Други страници"/>
+  <StrRes Name="2714" Text="Портрет"/>
+  <StrRes Name="2715" Text="Пейзаж"/>
+  <StrRes Name="2716" Text="Други настройки"/>
+  <StrRes Name="2717" Text="Колони"/>
+  <StrRes Name="2718" Text="Брой"/>
+  <StrRes Name="2719" Text="Ширина"/>
+  <StrRes Name="2720" Text="Позиции"/>
+  <StrRes Name="2721" Text="Други"/>
+  <StrRes Name="2722" Text="Двоен"/>
+  <StrRes Name="2723" Text="Печат на предна страница"/>
+  <StrRes Name="2724" Text="Дублирай маржовете"/>
+  <StrRes Name="2725" Text="Голяма височина в режим на редактиране"/>
+  <StrRes Name="2726" Text="Безкрайна ширина на страница"/>
+  <StrRes Name="2727" Text="Безкрайна височина на страница"/>
+  <StrRes Name="2800" Text="Избери Dataset за отчета"/>
+  <StrRes Name="2900" Text="Редактирай променливи"/>
+  <StrRes Name="2901" Text="Категория"/>
+  <StrRes Name="2902" Text="Променлива"/>
+  <StrRes Name="2903" Text="Редактирай"/>
+  <StrRes Name="2904" Text="Изтрий"/>
+  <StrRes Name="2905" Text="Списък"/>
+  <StrRes Name="2906" Text="Зареди"/>
+  <StrRes Name="2907" Text="Запиши"/>
+  <StrRes Name="2908" Text=" Израз:"/>
+  <StrRes Name="2909" Text="Речник (*.fd3)|*.fd3"/>
+  <StrRes Name="2910" Text="Речник (*.fd3)|*.fd3"/>
+  <StrRes Name="vaNoVar" Text="(Недефинирани променливи)"/>
+  <StrRes Name="vaVar" Text="Променливи"/>
+  <StrRes Name="vaDupName" Text="Дублирай име"/>
+  <StrRes Name="3000" Text="Настройки на редактора"/>
+  <StrRes Name="3001" Text="Мрежа"/>
+  <StrRes Name="3002" Text="Тип"/>
+  <StrRes Name="3003" Text="Размер"/>
+  <StrRes Name="3004" Text="Диалог форма:"/>
+  <StrRes Name="3005" Text="Други"/>
+  <StrRes Name="3006" Text="Шрифтове"/>
+  <StrRes Name="3007" Text="Прозорец код"/>
+  <StrRes Name="3008" Text="Редактор Memo"/>
+  <StrRes Name="3009" Text="Размер"/>
+  <StrRes Name="3010" Text="Размер"/>
+  <StrRes Name="3011" Text="Цветове"/>
+  <StrRes Name="3012" Text="Празнина между лентите:"/>
+  <StrRes Name="3013" Text="cm"/>
+  <StrRes Name="3014" Text="in"/>
+  <StrRes Name="3015" Text="pt"/>
+  <StrRes Name="3016" Text="pt"/>
+  <StrRes Name="3017" Text="pt"/>
+  <StrRes Name="3018" Text="Сантиметри:"/>
+  <StrRes Name="3019" Text="Инча:"/>
+  <StrRes Name="3020" Text="Пиксела:"/>
+  <StrRes Name="3021" Text="Покажи мрежата"/>
+  <StrRes Name="3022" Text="Подравни по мрежата"/>
+  <StrRes Name="3023" Text="Покажи редактора след редактиране"/>
+  <StrRes Name="3024" Text="Използвай настройките на обекта за шрифт"/>
+  <StrRes Name="3025" Text="Работно пространство"/>
+  <StrRes Name="3026" Text="Прозорец с инструменти"/>
+  <StrRes Name="3027" Text="Цвят на мрежата LCD"/>
+  <StrRes Name="3028" Text="Заместите свободни ленти"/>
+  <StrRes Name="3029" Text="Показване на полетата с падащо меню"/>
+  <StrRes Name="3030" Text="Show startup screen"/>
+  <StrRes Name="3031" Text="Възстанови настр. по подразбиране"/>
+  <StrRes Name="3032" Text="Покажи заглавията на лентите"/>
+  <StrRes Name="3100" Text="Избери DataSet"/>
+  <StrRes Name="3101" Text="Номер на записи:"/>
+  <StrRes Name="dbNotAssigned" Text="[неопределено]"/>
+  <StrRes Name="3200" Text="Група"/>
+  <StrRes Name="3201" Text="Разделители"/>
+  <StrRes Name="3202" Text="Настройки"/>
+  <StrRes Name="3203" Text="Поле данни"/>
+  <StrRes Name="3204" Text="Израз"/>
+  <StrRes Name="3205" Text="Пази групата заедно"/>
+  <StrRes Name="3206" Text="Започни нова страница"/>
+  <StrRes Name="3207" Text="Покажи в очертанието"/>
+  <StrRes Name="3300" Text="Системно Memo"/>
+  <StrRes Name="3301" Text="Лента данни"/>
+  <StrRes Name="3302" Text="DataSet"/>
+  <StrRes Name="3303" Text="Поле данни"/>
+  <StrRes Name="3304" Text="Функция"/>
+  <StrRes Name="3305" Text="Израз"/>
+  <StrRes Name="3306" Text="Сумарна стойност"/>
+  <StrRes Name="3307" Text="Системна променлива"/>
+  <StrRes Name="3308" Text="Брой невидими ленти"/>
+  <StrRes Name="3309" Text="Текст"/>
+  <StrRes Name="3310" Text="Стартирай общо"/>
+  <StrRes Name="agAggregate" Text="Вмъкни Aggregate"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] от [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
+  <StrRes Name="3400" Text="OLE обект"/>
+  <StrRes Name="3401" Text="Вмъкни..."/>
+  <StrRes Name="3402" Text="Редактирай..."/>
+  <StrRes Name="3403" Text="Затвори"/>
+  <StrRes Name="olStretched" Text="Разтеглен"/>
+  <StrRes Name="3500" Text="Редактор на баркод"/>
+  <StrRes Name="3501" Text="Код"/>
+  <StrRes Name="3502" Text="Вид баркод"/>
+  <StrRes Name="3503" Text="Приближи:"/>
+  <StrRes Name="3504" Text="Настройки"/>
+  <StrRes Name="3505" Text="Въртене"/>
+  <StrRes Name="3506" Text="Изчисли контролна сума "/>
+  <StrRes Name="3507" Text="Текст"/>
+  <StrRes Name="3508" Text="0°"/>
+  <StrRes Name="3509" Text="90°"/>
+  <StrRes Name="3510" Text="180°"/>
+  <StrRes Name="3511" Text="270°"/>
+  <StrRes Name="bcCalcChecksum" Text="Изчисли контролна сума"/>
+  <StrRes Name="bcShowText" Text="Покажи текст"/>
+  <StrRes Name="3600" Text="Редактирай alias-а"/>
+  <StrRes Name="3601" Text="За редакция натистене Enter"/>
+  <StrRes Name="3602" Text="Alias на Dataset"/>
+  <StrRes Name="3603" Text="Alias на поле"/>
+  <StrRes Name="3604" Text="Преправи"/>
+  <StrRes Name="3605" Text="Обнови"/>
+  <StrRes Name="alUserName" Text="Потребителско име"/>
+  <StrRes Name="alOriginal" Text="Истинско име"/>
+  <StrRes Name="3700" Text="Редактор параметри"/>
+  <StrRes Name="qpName" Text="Име"/>
+  <StrRes Name="qpDataType" Text="Тип данни"/>
+  <StrRes Name="qpValue" Text="Стойност"/>
+  <StrRes Name="3800" Text="Връзка Master-Detail"/>
+  <StrRes Name="3801" Text="Полета Detail"/>
+  <StrRes Name="3802" Text="Полета Master"/>
+  <StrRes Name="3803" Text="Свързани полета"/>
+  <StrRes Name="3804" Text="Добави"/>
+  <StrRes Name="3805" Text="Изчисти"/>
+  <StrRes Name="3900" Text="Memo"/>
+  <StrRes Name="3901" Text="Вмъкни израз"/>
+  <StrRes Name="3902" Text="Вмъкни Aggregate"/>
+  <StrRes Name="3903" Text="Вмъкни форматиране"/>
+  <StrRes Name="3904" Text="Отрязване на думата"/>
+  <StrRes Name="3905" Text="Текст"/>
+  <StrRes Name="3906" Text="Формат"/>
+  <StrRes Name="3907" Text="Подчертаване"/>
+  <StrRes Name="4000" Text="Картинка"/>
+  <StrRes Name="4001" Text="Зареди"/>
+  <StrRes Name="4002" Text="Копирай"/>
+  <StrRes Name="4003" Text="Вмъкни"/>
+  <StrRes Name="4004" Text="Изчисти"/>
+  <StrRes Name="piEmpty" Text="Празно"/>
+  <StrRes Name="4100" Text="Редактор диаграми"/>
+  <StrRes Name="4101" Text="Добави серия"/>
+  <StrRes Name="4102" Text="Изтрий серия"/>
+  <StrRes Name="4103" Text="Редактирай диаграма"/>
+  <StrRes Name="4104" Text="Източник лента"/>
+  <StrRes Name="4105" Text="Фиксирани данни"/>
+  <StrRes Name="4106" Text="Dataset"/>
+  <StrRes Name="4107" Text="Data Source"/>
+  <StrRes Name="4108" Text="Стойности"/>
+  <StrRes Name="4109" Text="Изберете chart series или добавете нови."/>
+  <StrRes Name="4114" Text="Други настройки"/>
+  <StrRes Name="4115" Text="TopN стойности"/>
+  <StrRes Name="4116" Text="TopN заглавие"/>
+  <StrRes Name="4117" Text="Сортиране"/>
+  <StrRes Name="4126" Text="X ос"/>
+  <StrRes Name="ch3D" Text="3D изглед"/>
+  <StrRes Name="chAxis" Text="Покази осите"/>
+  <StrRes Name="chsoNone" Text="Без"/>
+  <StrRes Name="chsoAscending" Text="Възходящ"/>
+  <StrRes Name="chsoDescending" Text="Низходящ"/>
+  <StrRes Name="chxtText" Text="Текстово"/>
+  <StrRes Name="chxtNumber" Text="Цифрово"/>
+  <StrRes Name="chxtDate" Text="Дата"/>
+  <StrRes Name="4200" Text="Текстов редактор"/>
+  <StrRes Name="4201" Text="Отвори файл"/>
+  <StrRes Name="4202" Text="Запиши файл"/>
+  <StrRes Name="4203" Text="Отказ"/>
+  <StrRes Name="4204" Text="Шрифт"/>
+  <StrRes Name="4205" Text="Вмъкни израз"/>
+  <StrRes Name="4206" Text="Удебели"/>
+  <StrRes Name="4207" Text="Курсив"/>
+  <StrRes Name="4208" Text="Подчертай"/>
+  <StrRes Name="4209" Text="Ляво подравняване"/>
+  <StrRes Name="4210" Text="Централно подравняване"/>
+  <StrRes Name="4211" Text="Дясно подравняване"/>
+  <StrRes Name="4212" Text="Форматиране"/>
+  <StrRes Name="4213" Text="Показатели"/>
+  <StrRes Name="4300" Text="Редактор таблици"/>
+  <StrRes Name="4301" Text="Източник данни"/>
+  <StrRes Name="4302" Text="Измерения"/>
+  <StrRes Name="4303" Text="Редове"/>
+  <StrRes Name="4304" Text="Колони"/>
+  <StrRes Name="4305" Text="Клетки"/>
+  <StrRes Name="4306" Text="Структура на таба"/>
+  <StrRes Name="4307" Text="Заглавие на ред"/>
+  <StrRes Name="4308" Text="Заглавие на колона"/>
+  <StrRes Name="4309" Text="Обща сума на ред"/>
+  <StrRes Name="4310" Text="Обща сума на колона"/>
+  <StrRes Name="4311" Text="Размени редове/колони"/>
+  <StrRes Name="4312" Text="!Select style"/>
+  <StrRes Name="4313" Text="!Save current style..."/>
+  <StrRes Name="4314" Text="!Show title"/>
+  <StrRes Name="4315" Text="!Show corner"/>
+  <StrRes Name="4316" Text="!Reprint headers on new page"/>
+  <StrRes Name="4317" Text="!Auto size"/>
+  <StrRes Name="4318" Text="!Border around cells"/>
+  <StrRes Name="4319" Text="!Print down then across"/>
+  <StrRes Name="4320" Text="!Side-by-side cells"/>
+  <StrRes Name="4321" Text="!Join equal cells"/>
+  <StrRes Name="4322" Text="Без"/>
+  <StrRes Name="4323" Text="Сума"/>
+  <StrRes Name="4324" Text="Min"/>
+  <StrRes Name="4325" Text="Max"/>
+  <StrRes Name="4326" Text="Средно"/>
+  <StrRes Name="4327" Text="Брой"/>
+  <StrRes Name="4328" Text="Възходящ (A-Z)"/>
+  <StrRes Name="4329" Text="Низходящ (Z-A)"/>
+  <StrRes Name="4330" Text="Без сортиране"/>
+  <StrRes Name="crStName" Text="!Enter the style name:"/>
+  <StrRes Name="crResize" Text="!To resize a cross-tab, set its &#38;#34;AutoSize&#38;#34; property to False."/>
+  <StrRes Name="crSubtotal" Text="Общо"/>
+  <StrRes Name="crNone" Text="Без"/>
+  <StrRes Name="crSum" Text="Сума"/>
+  <StrRes Name="crMin" Text="Min"/>
+  <StrRes Name="crMax" Text="Max"/>
+  <StrRes Name="crAvg" Text="Средно"/>
+  <StrRes Name="crCount" Text="Брой"/>
+  <StrRes Name="crAsc" Text="A-Z"/>
+  <StrRes Name="crDesc" Text="Z-A"/>
+  <StrRes Name="crFillMx" Text="Запълни..."/>
+  <StrRes Name="crBuildMx" Text="Построй..."/>
+  <StrRes Name="4400" Text="Редактор изрази"/>
+  <StrRes Name="4401" Text="Израз:"/>
+  <StrRes Name="4500" Text="Формат показване"/>
+  <StrRes Name="4501" Text="Категория"/>
+  <StrRes Name="4502" Text="Формат"/>
+  <StrRes Name="4503" Text="Форматиращ низ:"/>
+  <StrRes Name="4504" Text="Десетичен разделител:"/>
+  <StrRes Name="fkText" Text="Текст (без форматиране)"/>
+  <StrRes Name="fkNumber" Text="Число"/>
+  <StrRes Name="fkDateTime" Text="Дата/час"/>
+  <StrRes Name="fkBoolean" Text="Boolean"/>
+  <StrRes Name="fkNumber1" Text="1234.5;%g"/>
+  <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
+  <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
+  <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
+  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 lis 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="Ноември 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, Ноември 28, 2002;hh:mm am/pm, mmmm dd, yyyy"/>
+  <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
+  <StrRes Name="fkBoolean2" Text="Не,Да;Не,Да"/>
+  <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
+  <StrRes Name="fkBoolean4" Text="False,True;False,True"/>
+  <StrRes Name="4600" Text="Освети"/>
+  <StrRes Name="4601" Text="Цвят..."/>
+  <StrRes Name="4602" Text="Цвят..."/>
+  <StrRes Name="4603" Text="Условие"/>
+  <StrRes Name="4604" Text="Шрифт"/>
+  <StrRes Name="4605" Text="Фон"/>
+  <StrRes Name="4606" Text="Удебели"/>
+  <StrRes Name="4607" Text="Курсив"/>
+  <StrRes Name="4608" Text="Подчертай"/>
+  <StrRes Name="4609" Text="Прозрачно"/>
+  <StrRes Name="4610" Text="Други"/>
+  <StrRes Name="4700" Text="Настройки отчет"/>
+  <StrRes Name="4701" Text="Основни"/>
+  <StrRes Name="4702" Text="Настройки принтер"/>
+  <StrRes Name="4703" Text="Копия"/>
+  <StrRes Name="4704" Text="Основни"/>
+  <StrRes Name="4705" Text="Парола"/>
+  <StrRes Name="4706" Text="Копия сравнение"/>
+  <StrRes Name="4707" Text="Двойна обработка"/>
+  <StrRes Name="4708" Text="Печатай ако е празно"/>
+  <StrRes Name="4709" Text="Описание"/>
+  <StrRes Name="4710" Text="Име"/>
+  <StrRes Name="4711" Text="Описание"/>
+  <StrRes Name="4712" Text="Картинка"/>
+  <StrRes Name="4713" Text="Автор"/>
+  <StrRes Name="4714" Text="Major"/>
+  <StrRes Name="4715" Text="Minor"/>
+  <StrRes Name="4716" Text="Release"/>
+  <StrRes Name="4717" Text="Build"/>
+  <StrRes Name="4718" Text="Създаден"/>
+  <StrRes Name="4719" Text="Променян"/>
+  <StrRes Name="4720" Text="Описание"/>
+  <StrRes Name="4721" Text="Версия"/>
+  <StrRes Name="4722" Text="Преглед..."/>
+  <StrRes Name="4723" Text="Настройки за наследяване"/>
+  <StrRes Name="4724" Text="Изберете настройка:"/>
+  <StrRes Name="4725" Text="Не сменяй"/>
+  <StrRes Name="4726" Text="Отдели основния отчет"/>
+  <StrRes Name="4727" Text="Наследи от основия отчет:"/>
+  <StrRes Name="4728" Text="Наследяване"/>
+  <StrRes Name="rePrnOnPort" Text="вкл."/>
+  <StrRes Name="riNotInherited" Text="Този отчет не е наследен."/>
+  <StrRes Name="riInherited" Text="Този отчет е наследен от основния: %s"/>
+  <StrRes Name="4800" Text="Редове"/>
+  <StrRes Name="4900" Text="SQL"/>
+  <StrRes Name="4901" Text="Query Builder"/>
+  <StrRes Name="5000" Text="Парола"/>
+  <StrRes Name="5001" Text="Въведете парола:"/>
+  <StrRes Name="5100" Text="Редактор стилове"/>
+  <StrRes Name="5101" Text="Цвят..."/>
+  <StrRes Name="5102" Text="Шрифт..."/>
+  <StrRes Name="5103" Text="Рамка..."/>
+  <StrRes Name="5104" Text="Добави"/>
+  <StrRes Name="5105" Text="Изтрий"/>
+  <StrRes Name="5106" Text="редактирай"/>
+  <StrRes Name="5107" Text="Зареди"/>
+  <StrRes Name="5108" Text="Запази"/>
+  <StrRes Name="5200" Text="Редактор рамка"/>
+  <StrRes Name="5201" Text="Рамка"/>
+  <StrRes Name="5202" Text="Линия рамка"/>
+  <StrRes Name="5203" Text="Сянка"/>
+  <StrRes Name="5204" Text="Горна линия"/>
+  <StrRes Name="5205" Text="Долна линия"/>
+  <StrRes Name="5206" Text="Лява линия"/>
+  <StrRes Name="5207" Text="Дясна линия"/>
+  <StrRes Name="5208" Text="Всички линии на рамката"/>
+  <StrRes Name="5209" Text="Без рамка"/>
+  <StrRes Name="5210" Text="Цвят рамка"/>
+  <StrRes Name="5211" Text="стил рамка"/>
+  <StrRes Name="5212" Text="Ширина рамка"/>
+  <StrRes Name="5213" Text="Сянка"/>
+  <StrRes Name="5214" Text="Цвят сянка"/>
+  <StrRes Name="5215" Text="Ширина рамка"/>
+  <StrRes Name="5300" Text="Нов параграф"/>
+  <StrRes Name="5301" Text="Параграфи"/>
+  <StrRes Name="5302" Text="Шаблони"/>
+  <StrRes Name="5303" Text="Наследи отчета"/>
+  <StrRes Name="5400" Text="Ред обхождане"/>
+  <StrRes Name="5401" Text="Обозначен контрол в реда:"/>
+  <StrRes Name="5402" Text="Нагоре"/>
+  <StrRes Name="5403" Text="Надолу"/>
+  <StrRes Name="5500" Text="Оцени"/>
+  <StrRes Name="5501" Text="Израз"/>
+  <StrRes Name="5502" Text="Резултат"/>
+  <StrRes Name="5600" Text="Отчен помощник"/>
+  <StrRes Name="5601" Text="Данни"/>
+  <StrRes Name="5602" Text="Полета"/>
+  <StrRes Name="5603" Text="Групи"/>
+  <StrRes Name="5604" Text="Разположение"/>
+  <StrRes Name="5605" Text="Стил"/>
+  <StrRes Name="5606" Text="Стъпка 1. Избери dataset."/>
+  <StrRes Name="5607" Text="Стъпка 2. Избери полета за показване."/>
+  <StrRes Name="5608" Text="Стъпка 3. Създай групи (незадължително)."/>
+  <StrRes Name="5609" Text="Стъпка 4. Дефинирай ориентация на страницата или оформление на данните."/>
+  <StrRes Name="5610" Text="Стъпка 5. Избери стил на отчета."/>
+  <StrRes Name="5611" Text="Добави &#62;"/>
+  <StrRes Name="5612" Text="Добави всички &#38;#62;&#38;#62;"/>
+  <StrRes Name="5613" Text="&#60; Премахни"/>
+  <StrRes Name="5614" Text="&#38;#60;&#38;#60; Премахни всички"/>
+  <StrRes Name="5615" Text="Добави &#62;"/>
+  <StrRes Name="5616" Text="&#60; Премахни"/>
+  <StrRes Name="5617" Text="Избрани полета:"/>
+  <StrRes Name="5618" Text="Налични полета:"/>
+  <StrRes Name="5619" Text="Групи:"/>
+  <StrRes Name="5620" Text="Ориентация"/>
+  <StrRes Name="5621" Text="Разположение"/>
+  <StrRes Name="5622" Text="Портрет"/>
+  <StrRes Name="5623" Text="Пейзаж"/>
+  <StrRes Name="5624" Text="Табличен"/>
+  <StrRes Name="5625" Text="Колонен"/>
+  <StrRes Name="5626" Text="Нагласи полетата към страницата"/>
+  <StrRes Name="5627" Text="&#60;&#60; Назад"/>
+  <StrRes Name="5628" Text="Напред &#62;&#62;"/>
+  <StrRes Name="5629" Text="Приключи"/>
+  <StrRes Name="5630" Text="Нова таблица..."/>
+  <StrRes Name="5631" Text="Нова заявка..."/>
+  <StrRes Name="5632" Text="Избери връзка към базата:"/>
+  <StrRes Name="5633" Text="Избери таблица:"/>
+  <StrRes Name="5634" Text="или"/>
+  <StrRes Name="5635" Text="Създай заявка..."/>
+  <StrRes Name="5636" Text="Конфигурирай връзките"/>
+  <StrRes Name="wzStd" Text="Помощник стандартен отчет"/>
+  <StrRes Name="wzDMP" Text="Помощник матричен отчет"/>
+  <StrRes Name="wzStdEmpty" Text="Стандартен отчет"/>
+  <StrRes Name="wzDMPEmpty" Text="Матричен отчет."/>
+  <StrRes Name="5700" Text="Wizard за връзка"/>
+  <StrRes Name="5701" Text="Връзка"/>
+  <StrRes Name="5702" Text="Избери тип на връзката:"/>
+  <StrRes Name="5703" Text="Избери база:"/>
+  <StrRes Name="5704" Text="Потребител"/>
+  <StrRes Name="5705" Text="Парола"/>
+  <StrRes Name="5706" Text="Покажи login"/>
+  <StrRes Name="5707" Text="Използвай потребител/парола:"/>
+  <StrRes Name="5708" Text="Таблица"/>
+  <StrRes Name="5709" Text="Избери име на таблица:"/>
+  <StrRes Name="5710" Text="Филтрирай записи:"/>
+  <StrRes Name="5711" Text="Заявка"/>
+  <StrRes Name="5712" Text="SQL statement:"/>
+  <StrRes Name="5713" Text="Query Builder"/>
+  <StrRes Name="5714" Text="Редактирай параметри на заявката"/>
+  <StrRes Name="ftAllFiles" Text="Всички файлове"/>
+  <StrRes Name="ftPictures" Text="Картинки"/>
+  <StrRes Name="ftDB" Text="Бази данни"/>
+  <StrRes Name="ftRichFile" Text="Форматиран текстов файл"/>
+  <StrRes Name="ftTextFile" Text="Текстов файл"/>
+  <StrRes Name="prNotAssigned" Text="(недефиниран)"/>
+  <StrRes Name="prInvProp" Text="Невалидна стойност на свойство"/>
+  <StrRes Name="prDupl" Text="дублирано име"/>
+  <StrRes Name="prPict" Text="(картинка)"/>
+  <StrRes Name="mvExpr" Text="Позволи изрази"/>
+  <StrRes Name="mvStretch" Text="Разтегли"/>
+  <StrRes Name="mvStretchToMax" Text="Разтегли Max. височина"/>
+  <StrRes Name="mvShift" Text="Отмести"/>
+  <StrRes Name="mvShiftOver" Text="Отмести при застъпване"/>
+  <StrRes Name="mvVisible" Text="Видим"/>
+  <StrRes Name="mvPrintable" Text="Печатаем"/>
+  <StrRes Name="mvFont" Text="Шрифт..."/>
+  <StrRes Name="mvFormat" Text="Формат за показване..."/>
+  <StrRes Name="mvClear" Text="Изчисти съдържание"/>
+  <StrRes Name="mvAutoWidth" Text="Автоматично разширяване"/>
+  <StrRes Name="mvWWrap" Text="Режи думи"/>
+  <StrRes Name="mvSuppress" Text="Подтисни повторените стойности"/>
+  <StrRes Name="mvHideZ" Text="Скрий нулите"/>
+  <StrRes Name="mvHTML" Text="Позволи HTML тагове"/>
+  <StrRes Name="lvDiagonal" Text="Диагонално"/>
+  <StrRes Name="pvAutoSize" Text="Автом. размер"/>
+  <StrRes Name="pvCenter" Text="Центрирано"/>
+  <StrRes Name="pvAspect" Text="Запази съотношението"/>
+  <StrRes Name="bvSplit" Text="Позволи разделяне"/>
+  <StrRes Name="bvKeepChild" Text="Запази подчинените заедно"/>
+  <StrRes Name="bvPrintChild" Text="Печатай подчинените ако са невидими"/>
+  <StrRes Name="bvStartPage" Text="Започни нова страница"/>
+  <StrRes Name="bvPrintIfEmpty" Text="Печатай ако детайлите са празни"/>
+  <StrRes Name="bvKeepDetail" Text="Запази детайлите заедно"/>
+  <StrRes Name="bvKeepFooter" Text="Запази закл. част заедно"/>
+  <StrRes Name="bvReprint" Text="Препечатай на нова страница"/>
+  <StrRes Name="bvOnFirst" Text="Печатай на първа страница"/>
+  <StrRes Name="bvOnLast" Text="Печатай на последна страница"/>
+  <StrRes Name="bvKeepGroup" Text="Запази заедно"/>
+  <StrRes Name="bvFooterAfterEach" Text="Завърш. част след всеки ред"/>
+  <StrRes Name="bvDrillDown" Text="Drill-Down"/>
+  <StrRes Name="bvResetPageNo" Text="Възстанови номера на страница"/>
+  <StrRes Name="srParent" Text="Печатай на родителя"/>
+  <StrRes Name="bvKeepHeader" Text="Пази загл. част заедно"/>
+  <StrRes Name="obCatDraw" Text="Рисувай"/>
+  <StrRes Name="obCatOther" Text="Други обекти"/>
+  <StrRes Name="obCatOtherControls" Text="Други контроли"/>
+  <StrRes Name="obDiagLine" Text="Диагонална линия"/>
+  <StrRes Name="obRect" Text="Правоъгълник"/>
+  <StrRes Name="obRoundRect" Text="Заоблен правоъгълник"/>
+  <StrRes Name="obEllipse" Text="Елипса"/>
+  <StrRes Name="obTrian" Text="Триъгълник"/>
+  <StrRes Name="obDiamond" Text="Диамант"/>
+  <StrRes Name="obLabel" Text="Надпис"/>
+  <StrRes Name="obEdit" Text="Поле текст"/>
+  <StrRes Name="obMemoC" Text="Memo"/>
+  <StrRes Name="obButton" Text="Бутон"/>
+  <StrRes Name="obChBoxC" Text="Отметка"/>
+  <StrRes Name="obRButton" Text="Радио бутон"/>
+  <StrRes Name="obLBox" Text="Списък"/>
+  <StrRes Name="obCBox" Text="Падащо меню"/>
+  <StrRes Name="obDateEdit" Text="Дата"/>
+  <StrRes Name="obImageC" Text="Картинка"/>
+  <StrRes Name="obPanel" Text="Панел"/>
+  <StrRes Name="obGrBox" Text="Групиращ панел"/>
+  <StrRes Name="obBBtn" Text="Графичен бутон"/>
+  <StrRes Name="obSBtn" Text="Бърз бутон"/>
+  <StrRes Name="obMEdit" Text="Масково поле"/>
+  <StrRes Name="obChLB" Text="Списък отметки"/>
+  <StrRes Name="obDBLookup" Text="Списък отметки от DB"/>
+  <StrRes Name="obBevel" Text="обект Граница"/>
+  <StrRes Name="obShape" Text="обект Форма"/>
+  <StrRes Name="obText" Text="Текстов обект"/>
+  <StrRes Name="obSysText" Text="Системен текст"/>
+  <StrRes Name="obLine" Text="Линия"/>
+  <StrRes Name="obPicture" Text="Картинка"/>
+  <StrRes Name="obBand" Text="Лента"/>
+  <StrRes Name="obDataBand" Text="Лента данни"/>
+  <StrRes Name="obSubRep" Text="Под-отчет"/>
+  <StrRes Name="obDlgPage" Text="Форма диалог"/>
+  <StrRes Name="obRepPage" Text="Страница отчет"/>
+  <StrRes Name="obReport" Text="обект Отчет"/>
+  <StrRes Name="obRich" Text="Форматиран текст"/>
+  <StrRes Name="obOLE" Text="OLE обект"/>
+  <StrRes Name="obChBox" Text="Отметка"/>
+  <StrRes Name="obChart" Text="Графика"/>
+  <StrRes Name="obBarC" Text="Баркод"/>
+  <StrRes Name="obCross" Text="Cross-tab"/>
+  <StrRes Name="obDBCross" Text="DB Cross-tab"/>
+  <StrRes Name="obGrad" Text="Градиент"/>
+  <StrRes Name="obDMPText" Text="Точков текст."/>
+  <StrRes Name="obDMPLine" Text="Точкова линия"/>
+  <StrRes Name="obDMPCmd" Text="Dot-matrix Command object"/>
+  <StrRes Name="obBDEDB" Text="BDE база данни"/>
+  <StrRes Name="obBDETb" Text="BDE таблица"/>
+  <StrRes Name="obBDEQ" Text="BDE заявка"/>
+  <StrRes Name="obBDEComps" Text="BDE компоненти"/>
+  <StrRes Name="obIBXDB" Text="IBX база данни"/>
+  <StrRes Name="obIBXTb" Text="IBX таблица"/>
+  <StrRes Name="obIBXQ" Text="IBX заявка"/>
+  <StrRes Name="obIBXComps" Text="IBX компоненти"/>
+  <StrRes Name="obADODB" Text="ADO база данни"/>
+  <StrRes Name="obADOTb" Text="ADO таблица"/>
+  <StrRes Name="obADOQ" Text="ADO заявка"/>
+  <StrRes Name="obADOComps" Text="ADO компоненти"/>
+  <StrRes Name="obDBXDB" Text="DBX база данни"/>
+  <StrRes Name="obDBXTb" Text="DBX таблица"/>
+  <StrRes Name="obDBXQ" Text="DBX заявка"/>
+  <StrRes Name="obDBXComps" Text="DBX компоненти"/>
+  <StrRes Name="obFIBDB" Text="FIB база"/>
+  <StrRes Name="obFIBTb" Text="FIB таблица"/>
+  <StrRes Name="obFIBQ" Text="FIB заявка"/>
+  <StrRes Name="obFIBComps" Text="FIB компоненти"/>
+  <StrRes Name="ctString" Text="Низ"/>
+  <StrRes Name="ctDate" Text="Дата и час"/>
+  <StrRes Name="ctConv" Text="Преобразуване"/>
+  <StrRes Name="ctFormat" Text="Форматиране"/>
+  <StrRes Name="ctMath" Text="Математически"/>
+  <StrRes Name="ctOther" Text="Други"/>
+  <StrRes Name="IntToStr" Text="Преобразува цяло число в низ"/>
+  <StrRes Name="FloatToStr" Text="Преобразува реално число в низ"/>
+  <StrRes Name="DateToStr" Text="Преобразува дата в низ"/>
+  <StrRes Name="TimeToStr" Text="Преобразува час в низ"/>
+  <StrRes Name="DateTimeToStr" Text="Преобразува дата-и-час в низ"/>
+  <StrRes Name="VarToStr" Text="Преобразува вариантна стойност в низ"/>
+  <StrRes Name="StrToInt" Text="Преобразува низ в цяло число"/>
+  <StrRes Name="StrToInt64" Text="Преобразува низ в Int64 стойност"/>
+  <StrRes Name="StrToFloat" Text="Преобразува низ в число с плаваща запетая"/>
+  <StrRes Name="StrToDate" Text="Преобразува низ в дата"/>
+  <StrRes Name="StrToTime" Text="Преобразува низ в час"/>
+  <StrRes Name="StrToDateTime" Text="Преобразува низ в дата-и-час"/>
+  <StrRes Name="Format" Text="Връща форматиран низ от масива аргументи"/>
+  <StrRes Name="FormatFloat" Text="Форматира стойност с плаваща запетая"/>
+  <StrRes Name="FormatDateTime" Text="Форматира стойност дата-и-час"/>
+  <StrRes Name="FormatMaskText" Text="Връща форматиран низ спрямо поле маска"/>
+  <StrRes Name="EncodeDate" Text="Връща TDateTime за зададената година, месец и ден"/>
+  <StrRes Name="DecodeDate" Text="Разделя TDateTime на година, месец и ден"/>
+  <StrRes Name="EncodeTime" Text="Връща TDateTime по зададени час, минути, секунди и милисек."/>
+  <StrRes Name="DecodeTime" Text="Разделя TDateTime на час, минути, секунди и милисек."/>
+  <StrRes Name="Date" Text="Връща текущата дата"/>
+  <StrRes Name="Time" Text="Връща текущия час"/>
+  <StrRes Name="Now" Text="Връща текущата дата и час"/>
+  <StrRes Name="DayOfWeek" Text="Връща ден от седмицата по зададена дата"/>
+  <StrRes Name="IsLeapYear" Text="Показва дали годината е високосна"/>
+  <StrRes Name="DaysInMonth" Text="Връща броя дни в месеца"/>
+  <StrRes Name="Length" Text="Връща дължината на низ"/>
+  <StrRes Name="Copy" Text="Връща подниз от низа"/>
+  <StrRes Name="Pos" Text="Връща позицията на подниза в низа"/>
+  <StrRes Name="Delete" Text="Премахва подниз от низ"/>
+  <StrRes Name="Insert" Text="Вмъква подниз в низ"/>
+  <StrRes Name="Uppercase" Text="Преобразува всички букви в главни"/>
+  <StrRes Name="Lowercase" Text="Преобразува всички букви в малки"/>
+  <StrRes Name="Trim" Text="Премахва началните и крайните интервали в низ"/>
+  <StrRes Name="NameCase" Text="Преобразува първия символ на думата в главен"/>
+  <StrRes Name="CompareText" Text="Сравнява 2 низа"/>
+  <StrRes Name="Chr" Text="Преобразува число в символ"/>
+  <StrRes Name="Ord" Text="Преобразува символ в число"/>
+  <StrRes Name="SetLength" Text="Задава дължината на низ"/>
+  <StrRes Name="Round" Text="Закръгля реално число до най-близкото цяло число"/>
+  <StrRes Name="Trunc" Text="Отрязва дробната част на реално число"/>
+  <StrRes Name="Int" Text="Връща цялата част на реално число"/>
+  <StrRes Name="Frac" Text="Връща дробната част на реално число"/>
+  <StrRes Name="Sqrt" Text="Връща корен квадратен от даденото число"/>
+  <StrRes Name="Abs" Text="Връща абсолютната стойност"/>
+  <StrRes Name="Sin" Text="Връща синуса на ъгъл (в радиани)"/>
+  <StrRes Name="Cos" Text="Връща косинъса на ъгъл (в радиани)"/>
+  <StrRes Name="ArcTan" Text="Връща аркус-тангенс"/>
+  <StrRes Name="Tan" Text="Връща тангенс"/>
+  <StrRes Name="Exp" Text="Връща експонентата"/>
+  <StrRes Name="Ln" Text="Връща натурален логаритъм на реален израз"/>
+  <StrRes Name="Pi" Text="Връща числото 3.1415926..."/>
+  <StrRes Name="Inc" Text="Увеличава стойността"/>
+  <StrRes Name="Dec" Text="Намалява стойността"/>
+  <StrRes Name="RaiseException" Text="Вдига изключение"/>
+  <StrRes Name="ShowMessage" Text="Показва съобщение"/>
+  <StrRes Name="Randomize" Text="Стартира генератора на произволни числа"/>
+  <StrRes Name="Random" Text="Връща произволно число"/>
+  <StrRes Name="ValidInt" Text="Връща True ако дадения низ е валидно цяло число"/>
+  <StrRes Name="ValidFloat" Text="Връща True ако дадения низ е валидно дробно число"/>
+  <StrRes Name="ValidDate" Text="Връща True ако дадения низ е валидна дата"/>
+  <StrRes Name="IIF" Text="Връща True ако дадения израз е True, в противен случай връща False"/>
+  <StrRes Name="Get" Text="Само за вътрешна употреба"/>
+  <StrRes Name="Set" Text="Само за вътрешна употреба"/>
+  <StrRes Name="InputBox" Text="Показва диалог, който изисква потребителя да въведе низ"/>
+  <StrRes Name="InputQuery" Text="Показва диалог, който изисква потребителя да въведе низ"/>
+  <StrRes Name="MessageDlg" Text="Показва съобщение"/>
+  <StrRes Name="CreateOleObjekt " Text="Създава OLE обект"/>
+  <StrRes Name="VarArrayCreate" Text="Създава масив в вариантни елементи"/>
+  <StrRes Name="VarType" Text="Връща типа на вариантната стойност"/>
+  <StrRes Name="DayOf" Text="Връща дена (1..31) на дадена дата"/>
+  <StrRes Name="MonthOf" Text="Връща месеца (1..12) на дадена дата"/>
+  <StrRes Name="YearOf" Text="Връща годината на дадена дата"/>
+  <StrRes Name="ctAggregate" Text="Aggregate"/>
+  <StrRes Name="Sum" Text="Изчисли сумата на Expr за реда данни"/>
+  <StrRes Name="Avg" Text="Изчисли средната стойност на Expr за реда данни"/>
+  <StrRes Name="Min" Text="Изчисли минимума на Expr за реда данни"/>
+  <StrRes Name="Max" Text="Изчисли максимума на Expr за реда данни"/>
+  <StrRes Name="Count" Text="Изчисли броя на редовете данни"/>
+  <StrRes Name="wzDBConn" Text="Wizard за нова връзка"/>
+  <StrRes Name="wzDBTable" Text="Wizard за нова таблица"/>
+  <StrRes Name="wzDBQuery" Text="Wizard за нова заявка"/>
+  <StrRes Name="5800" Text="Връзки"/>
+  <StrRes Name="5801" Text="Нова"/>
+  <StrRes Name="5802" Text="Изтрий"/>
+  <StrRes Name="cpName" Text="Име"/>
+  <StrRes Name="cpConnStr" Text="Connection string"/>
+  <StrRes Name="CreateOleObject" Text="Създаване на OLE обект"/>
+  <StrRes Name="startCreateNew" Text="Създай нов отчет"/>
+  <StrRes Name="startCreateBlank" Text="Създай празен отчет"/>
+  <StrRes Name="startOpenReport" Text="Отвори отчет"/>
+  <StrRes Name="startOpenLast" Text="Отвори последния отчет"/>
+  <StrRes Name="startEditAliases" Text="Редактирай aliase-ите на връзката"/>
+  <StrRes Name="startHelp" Text="Помощ"/>
+  <StrRes Name="5900" Text="Watches"/>
+  <StrRes Name="5901" Text="Добави Watch"/>
+  <StrRes Name="5902" Text="Изтрий Watch"/>
+  <StrRes Name="5903" Text="Редактирай Watch"/>
+  <StrRes Name="6000" Text="Грешка при наследяване"/>
+  <StrRes Name="6001" Text="Основния и наследения отчет имат дублирани обекти. Какво да направя?"/>
+  <StrRes Name="6002" Text="Изтрий дублираните"/>
+  <StrRes Name="6003" Text="Преименувай дублираните"/>
+  <StrRes Name="dsColorOth" Text="Other..."/>
+</Resources>

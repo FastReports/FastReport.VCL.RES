@@ -1,0 +1,208 @@
+<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1253">
+  <StrRes Name="8000" Text="Εξαγωγή σε Excel"/>
+  <StrRes Name="8001" Text="Styles"/>
+  <StrRes Name="8002" Text="Εικόνες"/>
+  <StrRes Name="8003" Text="Συνένωση Κελιών"/>
+  <StrRes Name="8004" Text="Γρήγορη Εξαγωγή"/>
+  <StrRes Name="8005" Text="WYSIWYG"/>
+  <StrRes Name="8006" Text="Σαν κείμενο"/>
+  <StrRes Name="8007" Text="Background"/>
+  <StrRes Name="8008" Text="Άνοιγμα μετά την Εξαγωγή"/>
+  <StrRes Name="8009" Text="Αρχείο Excel (*.xls)|*.xls"/>
+  <StrRes Name="8010" Text=".xls"/>
+  <StrRes Name="8100" Text="Εξαγωγή σε Εxcel"/>
+  <StrRes Name="8101" Text="Styles"/>
+  <StrRes Name="8102" Text="WYSIWYG"/>
+  <StrRes Name="8103" Text="Background"/>
+  <StrRes Name="8104" Text="Άνοιγμα μετά την Εξαγωγή"/>
+  <StrRes Name="8105" Text="Αρχείο XML Excel (*.xls)|*.xls"/>
+  <StrRes Name="8106" Text=".xls"/>
+  <StrRes Name="8200" Text="Εξαγωγή σε πίνακα HTML"/>
+  <StrRes Name="8201" Text="Άνοιγμα μετά την Εξαγωγή"/>
+  <StrRes Name="8202" Text="Styles"/>
+  <StrRes Name="8203" Text="Εικόνες"/>
+  <StrRes Name="8204" Text="Όλα σε ένα φάκελλο"/>
+  <StrRes Name="8205" Text="ΌΛα ένα πλάτος"/>
+  <StrRes Name="8206" Text="Πλοηγός Σελίδων"/>
+  <StrRes Name="8207" Text="Πολλαπλές Σελίδες"/>
+  <StrRes Name="8208" Text="Πλοηγός Mozilla"/>
+  <StrRes Name="8209" Text="Background"/>
+  <StrRes Name="8210" Text="Αρχείο HTML (*.html)|*.html"/>
+  <StrRes Name="8211" Text=".html"/>
+  <StrRes Name="8300" Text="Εξαγωγή σε Κείμενο (dot-matrix εκτυπωτή)"/>
+  <StrRes Name="8301" Text="Προεπισκόπηση ναι/όχι"/>
+  <StrRes Name="8302" Text=" Ρυθμίσεις Εξαγωγής  "/>
+  <StrRes Name="8303" Text="Σελιδοποίηση"/>
+  <StrRes Name="8304" Text="Πίνακας Συμβολοσειράς OEM"/>
+  <StrRes Name="8305" Text="Άδειες γραμμές"/>
+  <StrRes Name="8306" Text="Κενά Στοίχισης"/>
+  <StrRes Name="8307" Text="Αριθμοί Σελίδων"/>
+  <StrRes Name="8308" Text="Δώστε αριθμούς και εύρος Σελίδων, χωρισμένα με κόμα. Για παράδειγμα 1,3,5-12"/>
+  <StrRes Name="8309" Text=" Κλίμακα "/>
+  <StrRes Name="8310" Text="Κλίμακα X"/>
+  <StrRes Name="8311" Text="Κλίμακα Y"/>
+  <StrRes Name="8312" Text=" Πλαίσια "/>
+  <StrRes Name="8313" Text="Κανένα"/>
+  <StrRes Name="8314" Text="Απλά"/>
+  <StrRes Name="8315" Text="Γραφικά"/>
+  <StrRes Name="8316" Text="Μόνο με πίνακα OEM"/>
+  <StrRes Name="8317" Text="Εκτύπωση μετά την Εξαγωγή"/>
+  <StrRes Name="8318" Text="Ρυθμίσεις Αποθήκευσης"/>
+  <StrRes Name="8319" Text="Προεπισκόπηση "/>
+  <StrRes Name="8320" Text="Πλάτος:"/>
+  <StrRes Name="8321" Text="Ύψος:"/>
+  <StrRes Name="8322" Text="Σελίδα"/>
+  <StrRes Name="8323" Text="Μεγέθυνση"/>
+  <StrRes Name="8324" Text="Σμίκρυνση"/>
+  <StrRes Name="8325" Text="Αρχείο Κειμένου (dot-matrix εκτυπωτή)(*.prn)|*.prn"/>
+  <StrRes Name="8326" Text=".prn"/>
+  <StrRes Name="8400" Text="Εκτύπωση"/>
+  <StrRes Name="8401" Text="Εκτυπωτής"/>
+  <StrRes Name="8402" Text="Όνομα"/>
+  <StrRes Name="8403" Text="Ρυθμίσεις..."/>
+  <StrRes Name="8404" Text="Αντίγραφα"/>
+  <StrRes Name="8405" Text="Αριθμός Αντιγράφων"/>
+  <StrRes Name="8406" Text=" Καθορισμός init εκτυπωτή"/>
+  <StrRes Name="8407" Text="Είδος Εκτυπωτή"/>
+  <StrRes Name="8408" Text=".fpi"/>
+  <StrRes Name="8409" Text="Προκαθορισμός παραμέτρων εκτυπωτή (*.fpi)|*.fpi"/>
+  <StrRes Name="8410" Text=".fpi"/>
+  <StrRes Name="8411" Text="Προκαθορισμός παραμέτρων εκτυπωτή (*.fpi)|*.fpi"/>
+  <StrRes Name="8500" Text="Export to RTF"/>
+  <StrRes Name="8501" Text="Εικόνες"/>
+  <StrRes Name="8502" Text="WYSIWYG"/>
+  <StrRes Name="8503" Text="Άνοιγμα μετά την εξαγωγή"/>
+  <StrRes Name="8504" Text="Αρχείο RTF (*.rtf)|*.rtf"/>
+  <StrRes Name="8505" Text=".rtf"/>
+  <StrRes Name="8600" Text="Ρυθμίσεις Εξαγωγής"/>
+  <StrRes Name="8601" Text=" Ρυθμίσεις Εικόνας "/>
+  <StrRes Name="8602" Text="Ποιότητα JPEG"/>
+  <StrRes Name="8603" Text="Ανάλυση (dpi)"/>
+  <StrRes Name="8604" Text="Ξεχωριστά αρχεία"/>
+  <StrRes Name="8605" Text="Κόψιμο περιθωρίων"/>
+  <StrRes Name="8606" Text="Μονόχρωμο"/>
+  <StrRes Name="8700" Text="Eξαγωγή σε PDF"/>
+  <StrRes Name="8701" Text="Συμπίεση"/>
+  <StrRes Name="8702" Text="Συμπεριλαμβάνει γραμματοσειρές"/>
+  <StrRes Name="8703" Text="Βέλτιστη Εκτύπωση"/>
+  <StrRes Name="8704" Text="Περίγραμμα"/>
+  <StrRes Name="8705" Text="Φόντο"/>
+  <StrRes Name="8706" Text="Άνοιγμα μετά την Εξαγωγή"/>
+  <StrRes Name="8707" Text="Αρχείο Adobe PDF (*.pdf)|*.pdf"/>
+  <StrRes Name="8708" Text=".pdf"/>
+  <StrRes Name="RTFexport" Text="Αρχείο RTF"/>
+  <StrRes Name="BMPexport" Text="Εικόνα BMP"/>
+  <StrRes Name="JPEGexport" Text="Εικόνα JPEG"/>
+  <StrRes Name="TIFFexport" Text="Εικόνα TIFF"/>
+  <StrRes Name="TextExport" Text="Κείμενο (dotmatrix εκτυπωτή)"/>
+  <StrRes Name="XlsOLEexport" Text="Πίνακας Excel (OLE)"/>
+  <StrRes Name="HTMLexport" Text="Αρχείο HTML"/>
+  <StrRes Name="XlsXMLexport" Text="Πίνακας Excel (XML)"/>
+  <StrRes Name="PDFexport" Text="Αρχείο PDF"/>
+  <StrRes Name="ProgressWait" Text="Παρακαλώ Περιμένετε"/>
+  <StrRes Name="ProgressRows" Text="Επεξεργασία Γραμμών"/>
+  <StrRes Name="ProgressColumns" Text="Επεξεργασία Στηλών"/>
+  <StrRes Name="ProgressStyles" Text="Καθορισμός των Στυλ"/>
+  <StrRes Name="ProgressObjects" Text="Εξαγωγή"/>
+  <StrRes Name="TIFFexportFilter" Text="Εικόνα Tiff (*.tif)|*.tif"/>
+  <StrRes Name="BMPexportFilter" Text="Εικόνα BMP (*.bmp)|*.bmp"/>
+  <StrRes Name="JPEGexportFilter" Text="Εικόνα Jpeg (*.jpg)|*.jpg"/>
+  <StrRes Name="HTMLNavFirst" Text="Πρώτη"/>
+  <StrRes Name="HTMLNavPrev" Text="Προηγ."/>
+  <StrRes Name="HTMLNavNext" Text="Επόμ."/>
+  <StrRes Name="HTMLNavLast" Text="Τελ."/>
+  <StrRes Name="HTMLNavRefresh" Text="Ανανέωση"/>
+  <StrRes Name="HTMLNavPrint" Text="Εκτύπωση"/>
+  <StrRes Name="HTMLNavTotal" Text="Συν. Σελίδες"/>
+  <StrRes Name="8800" Text="Εξαγωγή σε Κείμενο"/>
+  <StrRes Name="8801" Text="Αρχείο Κειμένου (*.txt)|*.txt"/>
+  <StrRes Name="8802" Text=".txt"/>
+  <StrRes Name="SimpleTextExport" Text="Αρχείο Κειμένου"/>
+  <StrRes Name="8850" Text="Εξαγωγή σε CSV"/>
+  <StrRes Name="8851" Text="CSV αρχείο (*.csv)|*.csv"/>
+  <StrRes Name="8852" Text=".csv"/>
+  <StrRes Name="8853" Text="Διαχωριστής"/>
+  <StrRes Name="CSVExport" Text="CSV αρχείο"/>
+  <StrRes Name="8900" Text="Αποστολή με E-mail"/>
+  <StrRes Name="8901" Text="E-mail"/>
+  <StrRes Name="8902" Text="Λογαριασμός"/>
+  <StrRes Name="8903" Text="Σύνδεση"/>
+  <StrRes Name="8904" Text="Διεύθυνση"/>
+  <StrRes Name="8905" Text="Επικόλληση"/>
+  <StrRes Name="8906" Text="Format"/>
+  <StrRes Name="8907" Text="Από Διεύθυνση"/>
+  <StrRes Name="8908" Text="Από Όνομα"/>
+  <StrRes Name="8909" Text="Host"/>
+  <StrRes Name="8910" Text="Login"/>
+  <StrRes Name="8911" Text="Mail"/>
+  <StrRes Name="8912" Text="Μήνυμα"/>
+  <StrRes Name="8913" Text="Κείμενο"/>
+  <StrRes Name="8914" Text="Οργανισμός"/>
+  <StrRes Name="8915" Text="Password"/>
+  <StrRes Name="8916" Text="Θύρα"/>
+  <StrRes Name="8917" Text="Αποθήκευση Ιδιοτήτων"/>
+  <StrRes Name="8918" Text="Τα απαιτούμενα πεδία δεν έχουν τιμές"/>
+  <StrRes Name="8919" Text="Περαιτέρω ρυθμίσεις"/>
+  <StrRes Name="8920" Text="Υπογραφή"/>
+  <StrRes Name="8921" Text="Build"/>
+  <StrRes Name="8922" Text="Θέμα"/>
+  <StrRes Name="8923" Text="Μετά τιμής"/>
+  <StrRes Name="8924" Text="Αποστολή σε"/>
+  <StrRes Name="EmailExport" Text="E-mail"/>
+  <StrRes Name="FastReportFile" Text="FastReport αρχείο"/>
+  <StrRes Name="GifexportFilter" Text="Gif αρχείο (*.gif)|*.gif"/>
+  <StrRes Name="GIFexport" Text="Gif εικόνα"/>
+  <StrRes Name="8950" Text="Συνεχόμενα"/>
+  <StrRes Name="8951" Text="Κεφαλίδα Σελίδας/Υποσέλιδο"/>
+  <StrRes Name="8952" Text="Κείμενο"/>
+  <StrRes Name="8953" Text="Κεφαλίδα/Υποσέλιδο"/>
+  <StrRes Name="8954" Text="Καμία"/>
+  <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
+  <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Open Document Text"/>
+  <StrRes Name="8960" Text=".ods"/>
+  <StrRes Name="8961" Text=".odt"/>
+  <StrRes Name="8962" Text="Security"/>
+  <StrRes Name="8963" Text="Security settings"/>
+  <StrRes Name="8964" Text="Owner password"/>
+  <StrRes Name="8965" Text="User password"/>
+  <StrRes Name="8966" Text="Print the document"/>
+  <StrRes Name="8967" Text="Modify the document"/>
+  <StrRes Name="8968" Text="Copy of text and graphics"/>
+  <StrRes Name="8969" Text="Add or modify text annotations"/>
+  <StrRes Name="8970" Text="PDF Security"/>
+  <StrRes Name="8971" Text="Document information"/>
+  <StrRes Name="8972" Text="Information"/>
+  <StrRes Name="8973" Text="Title"/>
+  <StrRes Name="8974" Text="Author"/>
+  <StrRes Name="8975" Text="Subject"/>
+  <StrRes Name="8976" Text="Keywords"/>
+  <StrRes Name="8977" Text="Creator"/>
+  <StrRes Name="8978" Text="Producer"/>
+  <StrRes Name="8979" Text="Authentification"/>
+  <StrRes Name="8980" Text="Permissions"/>
+  <StrRes Name="8981" Text="Viewer"/>
+  <StrRes Name="8982" Text="Viewer preferences"/>
+  <StrRes Name="8983" Text="Hide toolbar"/>
+  <StrRes Name="8984" Text="Hide menubar"/>
+  <StrRes Name="8985" Text="Hide window user interface"/>
+  <StrRes Name="8986" Text="Fit window"/>
+  <StrRes Name="8987" Text="Center window"/>
+  <StrRes Name="8988" Text="Print scaling"/>
+  <StrRes Name="8989" Text="Confirmation Reading"/>
+  
+  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9102" Text="dBase (DBF) export"/>
+  <StrRes Name="9103" Text=".dbf"/>
+  <StrRes Name="9104" Text="Failed to load the file"/>
+  <StrRes Name="9105" Text="Failure"/>
+  <StrRes Name="9106" Text="Field names"/>
+  <StrRes Name="9107" Text="Automatically"/>
+  <StrRes Name="9108" Text="Manually"/>
+  <StrRes Name="9109" Text="Load from file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/> 
+  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+</Resources>

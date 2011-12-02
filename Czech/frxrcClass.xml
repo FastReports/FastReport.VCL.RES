@@ -1,0 +1,230 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<Resources CodePage="1250">
+  <StrRes Name="1" Text="OK"/>
+  <StrRes Name="2" Text="Zrušit"/>
+  <StrRes Name="3" Text="Vše"/>
+  <StrRes Name="4" Text="Aktuální stránku"/>
+  <StrRes Name="5" Text="Stránky:"/>
+  <StrRes Name="6" Text="Oddělovače stránek"/>
+  <StrRes Name="7" Text="Rozsah stránek"/>
+  <StrRes Name="8" Text="Nastavení exportu"/>
+  <StrRes Name="9" Text="Zadejte čísla stránek a/nebo rozsah stránek, oddělených čárkami. Např.: 1,3,5-12"/>
+  <StrRes Name="100" Text="Náhled"/>
+  <StrRes Name="101" Text="Tisk"/>
+  <StrRes Name="102" Text="Tisknout"/>
+  <StrRes Name="103" Text="Otevřít"/>
+  <StrRes Name="104" Text="Otevřít"/>
+  <StrRes Name="105" Text="Uložit"/>
+  <StrRes Name="106" Text="Uložit"/>
+  <StrRes Name="107" Text="Export"/>
+  <StrRes Name="108" Text="Export"/>
+  <StrRes Name="109" Text="Najít"/>
+  <StrRes Name="110" Text="Najít"/>
+  <StrRes Name="111" Text="Celá stránka"/>
+  <StrRes Name="112" Text="Celá stránka"/>
+  <StrRes Name="113" Text="Šířka stránky"/>
+  <StrRes Name="114" Text="Na šířku stránky"/>
+  <StrRes Name="115" Text="100%"/>
+  <StrRes Name="116" Text="100%"/>
+  <StrRes Name="117" Text="Dvě stránky"/>
+  <StrRes Name="118" Text="Dvě stránky"/>
+  <StrRes Name="119" Text="Zvětšení"/>
+  <StrRes Name="120" Text="Vzhled stránky"/>
+  <StrRes Name="121" Text="Vzhled stránky"/>
+  <StrRes Name="122" Text="Osnova"/>
+  <StrRes Name="123" Text="Osnova"/>
+  <StrRes Name="124" Text="Zvětšit"/>
+  <StrRes Name="125" Text="Zvětšit"/>
+  <StrRes Name="126" Text="Zmenšit"/>
+  <StrRes Name="127" Text="Zmenšit"/>
+  <StrRes Name="128" Text="Osnova"/>
+  <StrRes Name="129" Text="Osnova sestavy"/>
+  <StrRes Name="130" Text="Miniatury"/>
+  <StrRes Name="131" Text="Miniatury"/>
+  <StrRes Name="132" Text="Upravit"/>
+  <StrRes Name="133" Text="Upravit stránku"/>
+  <StrRes Name="134" Text="První"/>
+  <StrRes Name="135" Text="První stránka"/>
+  <StrRes Name="136" Text="Předchozí"/>
+  <StrRes Name="137" Text="Předchozí stránka"/>
+  <StrRes Name="138" Text="Další"/>
+  <StrRes Name="139" Text="Další stránka"/>
+  <StrRes Name="140" Text="Poslední"/>
+  <StrRes Name="141" Text="Poslední stránka"/>
+  <StrRes Name="142" Text="Číslo stránky"/>
+  <StrRes Name="150" Text="Celá obrazovka"/>
+  <StrRes Name="151" Text="Export do PDF"/>
+  <StrRes Name="152" Text="Odeslat E-mailem"/>
+  <StrRes Name="zmPageWidth" Text="Šířka stránky"/>
+  <StrRes Name="zmWholePage" Text="Celá stránka"/>
+  <StrRes Name="200" Text="Tisk"/>
+  <StrRes Name="201" Text="Tiskárna   "/>
+  <StrRes Name="202" Text="Stránky   "/>
+  <StrRes Name="203" Text="Počet kopií"/>
+  <StrRes Name="204" Text="Kompletovat"/>
+  <StrRes Name="205" Text="Kopie   "/>
+  <StrRes Name="206" Text="Tisknout"/>
+  <StrRes Name="207" Text="!Ostatní"/>
+  <StrRes Name="208" Text="Kde:"/>
+  <StrRes Name="209" Text="Vlastnosti..."/>
+  <StrRes Name="210" Text="Tisknout do souboru"/>
+  <StrRes Name="211" Text="!Pořadí"/>
+  <StrRes Name="212" Text="Název:"/>
+  <StrRes Name="213" Text="Způsob tisku"/>
+  <StrRes Name="214" Text="Tisk na formát"/>
+  <StrRes Name="216" Text="Duplex"/>
+  <StrRes Name="ppAll" Text="Všechny stránky"/>
+  <StrRes Name="ppOdd" Text="Liché stránky"/>
+  <StrRes Name="ppEven" Text="Sudé stránky"/>
+  <StrRes Name="pgDefault" Text="Výchozí"/>
+  <StrRes Name="pmDefault" Text="Výchozí"/>
+  <StrRes Name="pmSplit" Text="Rozdělit velké stránky"/>
+  <StrRes Name="pmJoin" Text="Spojit malé stránky"/>
+  <StrRes Name="pmScale" Text="Upravit měřítko"/>
+  <StrRes Name="poDirect" Text="!Normální (1-9)"/>
+  <StrRes Name="poReverse" Text="!Opačné (9-1)"/>
+  <StrRes Name="300" Text="Najít text"/>
+  <StrRes Name="301" Text="Hledaný text:"/>
+  <StrRes Name="302" Text="Volby prohledávání   "/>
+  <StrRes Name="303" Text="Nahradit"/>
+  <StrRes Name="304" Text="Hledat od začátku"/>
+  <StrRes Name="305" Text="Rozlišovat malá/velká"/>
+  <StrRes Name="400" Text="Vzhled stránky"/>
+  <StrRes Name="401" Text="Šířka"/>
+  <StrRes Name="402" Text="Výška"/>
+  <StrRes Name="403" Text="Velikost   "/>
+  <StrRes Name="404" Text="Orientace   "/>
+  <StrRes Name="405" Text="Vlevo"/>
+  <StrRes Name="406" Text="Nahoře"/>
+  <StrRes Name="407" Text="Vpravo"/>
+  <StrRes Name="408" Text="Dole"/>
+  <StrRes Name="409" Text="Okraje   "/>
+  <StrRes Name="410" Text="Na výšku"/>
+  <StrRes Name="411" Text="Na šířku"/>
+  <StrRes Name="412" Text="Další   "/>
+  <StrRes Name="413" Text="Uplatnit na aktuální stránku"/>
+  <StrRes Name="414" Text="Uplatnit na všechny stránky"/>
+  <StrRes Name="500" Text="Tisk"/>
+  <StrRes Name="501" Text="Tiskárna   "/>
+  <StrRes Name="502" Text="Stránky   "/>
+  <StrRes Name="503" Text="Kopie   "/>
+  <StrRes Name="504" Text="Počet kopií"/>
+  <StrRes Name="505" Text="Nastavení   "/>
+  <StrRes Name="506" Text="Příkazy ukončení   "/>
+  <StrRes Name="507" Text="Tisknout do souboru"/>
+  <StrRes Name="508" Text="Kódová stránka OEM"/>
+  <StrRes Name="509" Text="Pseudografika"/>
+  <StrRes Name="510" Text="Tiskový soubor (*.prn)|*.prn"/>
+  <StrRes Name="mbConfirm" Text="Potvrdit"/>
+  <StrRes Name="mbError" Text="Chyba"/>
+  <StrRes Name="mbInfo" Text="Informace"/>
+  <StrRes Name="xrCantFindClass" Text="Nelze nalézt třídu"/>
+  <StrRes Name="prVirtual" Text="Virtuální"/>
+  <StrRes Name="prDefault" Text="Předvolená"/>
+  <StrRes Name="prCustom" Text="Vlastní"/>
+  <StrRes Name="enUnconnHeader" Text="Nepřipojené záhlaví/zápatí"/>
+  <StrRes Name="enUnconnGroup" Text="Žádný pruh pro skupinu"/>
+  <StrRes Name="enUnconnGFooter" Text="Žádné skupinové záhlaví"/>
+  <StrRes Name="enBandPos" Text="Nesprávná pozice pruhu:"/>
+  <StrRes Name="dbNotConn" Text="DataSet %s není připojen k datům"/>
+  <StrRes Name="dbFldNotFound" Text="Soubor nenalezen:"/>
+  <StrRes Name="clDSNotIncl" Text="(dataset není v Report.DataSets obsažen)"/>
+  <StrRes Name="clUnknownVar" Text="Neznámá proměnná nebo datové pole:"/>
+  <StrRes Name="clScrError" Text="Chyba skriptu v %s: %s"/>
+  <StrRes Name="clDSNotExist" Text="Dataset &#34;%s&#34; neexistuje"/>
+  <StrRes Name="clErrors" Text="Nastala(y) následující chyba(y):"/>
+  <StrRes Name="clExprError" Text="Chyba ve výrazu"/>
+  <StrRes Name="clFP3files" Text="Připravená sestava"/>
+  <StrRes Name="clSaving" Text="Ukládání souboru..."/>
+  <StrRes Name="clCancel" Text="Zrušit"/>
+  <StrRes Name="clClose" Text="Zavřít"/>
+  <StrRes Name="clPrinting" Text="Tisk stránky"/>
+  <StrRes Name="clLoading" Text="Načítání souboru..."/>
+  <StrRes Name="clPageOf" Text="Strana %d z %d"/>
+  <StrRes Name="clFirstPass" Text="První průchod: strana "/>
+  <StrRes Name="clNoPrinters" Text="Na Vašem systému není nainstalována žádná tiskárna"/>
+  <StrRes Name="clDecompressError" Text="Chyba při dekomprimování streamu"/>
+  <StrRes Name="prRunningFirst" Text="První průchod: strana %d"/>
+  <StrRes Name="prRunning" Text="Příprava stránky %d"/>
+  <StrRes Name="prPrinting" Text="Tisk stránky %d"/>
+  <StrRes Name="prExporting" Text="Export stránky %d"/>
+  <StrRes Name="uCm" Text="cm"/>
+  <StrRes Name="uInch" Text="in"/>
+  <StrRes Name="uPix" Text="px"/>
+  <StrRes Name="uChar" Text="zn"/>
+  <StrRes Name="dupDefault" Text="výchozí"/>
+  <StrRes Name="dupVert" Text="po délce"/>
+  <StrRes Name="dupHorz" Text="po šířce"/>
+  <StrRes Name="dupSimpl" Text="jednostranně"/>
+  <StrRes Name="crFillMx" Text="Vyplňování křížové tabulky..."/>
+  <StrRes Name="crBuildMx" Text="Vytváření křížové tabulky..."/>
+  <StrRes Name="SLangNotFound" Text="Jazyk '%s' nenalezen"/>
+  <StrRes Name="SInvalidLanguage" Text="Neplatná definice jazyka"/>
+  <StrRes Name="SIdRedeclared" Text="Identifikátor předeklarován: "/>
+  <StrRes Name="SUnknownType" Text="Neznámý typ: "/>
+  <StrRes Name="SIncompatibleTypes" Text="Nekompatibilní typy"/>
+  <StrRes Name="SIdUndeclared" Text="Nedeklarovaný identifikátor: "/>
+  <StrRes Name="SClassRequired" Text="Požadován typ třídy"/>
+  <StrRes Name="SIndexRequired" Text="Požadován index"/>
+  <StrRes Name="SStringError" Text="Řetězce nemají vlastnosti ani metody"/>
+  <StrRes Name="SClassError" Text="Třída %s neobsahuje základní vlastnost"/>
+  <StrRes Name="SArrayRequired" Text="Požadován typ pole"/>
+  <StrRes Name="SVarRequired" Text="Požadována proměnná"/>
+  <StrRes Name="SNotEnoughParams" Text="Nedostatek aktuálních parametrů"/>
+  <StrRes Name="STooManyParams" Text="Příliš mnoho aktuálních parametrů"/>
+  <StrRes Name="SLeftCantAssigned" Text="Levé straně výrazu nelze přiřazovat"/>
+  <StrRes Name="SForError" Text="Pro proměnnou smyčky musí být číselná proměnná"/>
+  <StrRes Name="SEventError" Text="Handler události musí být procedura"/>
+  <StrRes Name="600" Text="Rozbalit vše"/>
+  <StrRes Name="601" Text="Sbalit vše"/>
+  <StrRes Name="clStrNotFound" Text="Text not found"/>
+  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
+  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
+  <StrRes Name="clDupName" Text="Duplicate name"/>
+  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
+  <StrRes Name="expMtm" Text="Timeout expired"/>
+  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="ReportTitle" Text="ReportTitle"/>
+  <StrRes Name="ReportSummary" Text="ReportSummary"/>
+  <StrRes Name="PageHeader" Text="PageHeader"/>
+  <StrRes Name="PageFooter" Text="PageFooter"/>
+  <StrRes Name="Header" Text="Header"/>
+  <StrRes Name="Footer" Text="Footer"/>
+  <StrRes Name="MasterData" Text="MasterData"/>
+  <StrRes Name="DetailData" Text="DetailData"/>
+  <StrRes Name="SubdetailData" Text="SubdetailData"/>
+  <StrRes Name="Data4" Text="Data4"/>
+  <StrRes Name="Data5" Text="Data5"/>
+  <StrRes Name="Data6" Text="Data6"/>
+  <StrRes Name="GroupHeader" Text="GroupHeader"/>
+  <StrRes Name="GroupFooter" Text="GroupFooter"/>
+  <StrRes Name="Child" Text="Child"/>
+  <StrRes Name="ColumnHeader" Text="ColumnHeader"/>
+  <StrRes Name="ColumnFooter" Text="ColumnFooter"/>
+  <StrRes Name="Overlay" Text="Overlay"/>
+  <StrRes Name="2_5_interleaved" Text="2_5_interleaved"/>
+  <StrRes Name="2_5_industrial" Text="2_5_industrial"/>
+  <StrRes Name="2_5_matrix" Text="2_5_matrix"/>
+  <StrRes Name="Code39" Text="Code39"/>
+  <StrRes Name="Code39 Extended" Text="Code39 Extended"/>
+  <StrRes Name="Code128A" Text="Code128A"/>
+  <StrRes Name="Code128B" Text="Code128B"/>
+  <StrRes Name="Code128C" Text="Code128C"/>
+  <StrRes Name="Code93" Text="Code93"/>
+  <StrRes Name="Code93 Extended" Text="Code93 Extended"/>
+  <StrRes Name="MSI" Text="MSI"/>
+  <StrRes Name="PostNet" Text="PostNet"/>
+  <StrRes Name="Codebar" Text="Codebar"/>
+  <StrRes Name="EAN8" Text="EAN8"/>
+  <StrRes Name="EAN13" Text="EAN13"/>
+  <StrRes Name="UPC_A" Text="UPC_A"/>
+  <StrRes Name="UPC_E0" Text="UPC_E0"/>
+  <StrRes Name="UPC_E1" Text="UPC_E1"/>
+  <StrRes Name="UPC Supp2" Text="UPC Supp2"/>
+  <StrRes Name="UPC Supp5" Text="UPC Supp5"/>
+  <StrRes Name="EAN128A" Text="EAN128A"/>
+  <StrRes Name="EAN128B" Text="EAN128B"/>
+  <StrRes Name="EAN128C" Text="EAN128C"/>
+  <StrRes Name="rpEditRep" Text="Edit Report..."/>
+  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+</Resources>
