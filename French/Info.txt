@@ -1,4 +1,4 @@
-Language Resources for FastReport 3->4.5
+Language Resources for FastReport 4.12.1
 Language: French
 Translator: Pierre Yager (Pierre Y.)
 E-mail: pierre@levosgien.net 
