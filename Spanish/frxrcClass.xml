@@ -177,13 +177,13 @@
   <StrRes Name="SEventError" Text="El manejador del evento ha de ser un procedimiento"/>
   <StrRes Name="600" Text="Expandir todo"/>
   <StrRes Name="601" Text="Contraer todo"/>
-  <StrRes Name="clStrNotFound" Text="Text not found"/>
-  <StrRes Name="clCantRen" Text="Could not rename %s, it was introduced in the ancestor report"/>
-  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
-  <StrRes Name="clDupName" Text="Duplicate name"/>
-  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
-  <StrRes Name="expMtm" Text="Timeout expired"/>
-  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="clStrNotFound" Text="Texto no encontrado"/>
+  <StrRes Name="clCantRen" Text="No se puede renombrar %s, se ha instroducido en el informe ascendiente"/>
+  <StrRes Name="clCirRefNotAllow" Text="No permitida referencia circular en hijo"/>
+  <StrRes Name="clDupName" Text="Nombre duplicado"/>
+  <StrRes Name="clErrorInExp" Text="Error en expresión de cálculo:"/>
+  <StrRes Name="expMtm" Text="Tiempo de espera agotado"/>
+  <StrRes Name="erInvalidImg" Text="Formato de imagen no válido"/>
   <StrRes Name="ReportTitle" Text="ReportTitle"/>
   <StrRes Name="ReportSummary" Text="ReportSummary"/>
   <StrRes Name="PageHeader" Text="PageHeader"/>
@@ -225,6 +225,6 @@
   <StrRes Name="EAN128A" Text="EAN128A"/>
   <StrRes Name="EAN128B" Text="EAN128B"/>
   <StrRes Name="EAN128C" Text="EAN128C"/>
-  <StrRes Name="rpEditRep" Text="Edit Report..."/>
-  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+  <StrRes Name="rpEditRep" Text="Editar informe..."/>
+  <StrRes Name="rpEditAlias" Text="Editar alias de campos..."/>
 </Resources>
