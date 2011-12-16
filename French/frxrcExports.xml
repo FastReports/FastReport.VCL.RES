@@ -274,5 +274,5 @@
   
   <StrRes Name="xProto" Text="Exporter le prototype"/>
   <StrRes Name="xBlank" Text="Export vide"/>
-  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>
+  <StrRes Name="expMailAddr" Text="Adresse ou liste de d'adresses séparées par des virgules"/>
 </Resources>

@@ -267,8 +267,8 @@
   <StrRes Name="propHightQuality" Text="Afficher l'image en haute qualité"/>
   <StrRes Name="propLockType" Text="Spécifie le mode de verrouillage à utiliser lorsqu'on ouvre un DataSet"/>
   <StrRes Name="propIgnoreDupParams" Text="Ignorer les paramètres dupliqués dans l'éditeur de paramètres"/>
-  <StrRes Name="propTransparent" Text="Determine si l'image peut être transparente"/>
-  <StrRes Name="propTransparentColor" Text="Couleur transparente"/>
-  <StrRes Name="propIgnoreNulls" Text="Ignorer les valeurs NULL dans le graphique"/>
-  <StrRes Name="propShowClildIfDrillDown" Text="Détermine si la bande d'enfants est affichée lorsque le groupe est extensible"/>
+  <StrRes Name="propTransparent" Text="Détermine si l'image peut être transparente"/>
+  <StrRes Name="propTransparentColor" Text="Couleur de transparence"/>
+  <StrRes Name="propIgnoreNulls" Text="Permet d'ignorer les valeurs nulles dans les graphes"/>
+  <StrRes Name="propShowClildIfDrillDown" Text="Détermine si la bande enfant est affichée lorsque le groupe est déroulé"/>
 </Resources>
