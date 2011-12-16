@@ -115,6 +115,7 @@
   <StrRes Name="508" Text="Page de code OEM"/>
   <StrRes Name="509" Text="Pseudo-graphique"/>
   <StrRes Name="510" Text="Fichier d'impression (*.prn)|*.prn"/>
+  <StrRes Name="511" Text="Numéro de page de code"/>
   <StrRes Name="mbConfirm" Text="Confirmer"/>
   <StrRes Name="mbError" Text="Erreur"/>
   <StrRes Name="mbInfo" Text="Information"/>
@@ -184,11 +185,11 @@
   <StrRes Name="rave2" Text="Le fichier Rave contient %d rapports. Chaque rapport sera converti en un fichier fr3. Choisissez un répertoire où les fichiers fr3 seront sauvegardés. Notez que seul le dernier rapport sera ouvert dans le concepteur."/>
   <StrRes Name="rave3" Text="Impossible de créer %s."/>
   <StrRes Name="rave4" Text="Rapport %s, page %s."/>
-  <StrRes Name="clCirRefNotAllow" Text="Circular child reference is not allowed"/>
-  <StrRes Name="clDupName" Text="Duplicate name"/>
-  <StrRes Name="clErrorInExp" Text="Error in Calc expression:"/>
-  <StrRes Name="expMtm" Text="Timeout expired"/>
-  <StrRes Name="erInvalidImg" Text="Invalid image format"/>
+  <StrRes Name="clCirRefNotAllow" Text="Références circulaires de contôles enfants non autotisée."/>
+  <StrRes Name="clDupName" Text="Nom dupliqué"/>
+  <StrRes Name="clErrorInExp" Text="Erreur dans l'expression :"/>
+  <StrRes Name="expMtm" Text="Expiration du délai d'attente"/>
+  <StrRes Name="erInvalidImg" Text="Format d'image invalide"/>
   <StrRes Name="ReportTitle" Text="ReportTitle"/>
   <StrRes Name="ReportSummary" Text="ReportSummary"/>
   <StrRes Name="PageHeader" Text="PageHeader"/>
@@ -230,6 +231,6 @@
   <StrRes Name="EAN128A" Text="EAN128A"/>
   <StrRes Name="EAN128B" Text="EAN128B"/>
   <StrRes Name="EAN128C" Text="EAN128C"/>
-  <StrRes Name="rpEditRep" Text="Edit Report..."/>
-  <StrRes Name="rpEditAlias" Text="Edit Fields Aliases..."/>
+  <StrRes Name="rpEditRep" Text="Modifier le rapport..."/>
+  <StrRes Name="rpEditAlias" Text="Modifier les alias des noms des champs..."/>
 </Resources>

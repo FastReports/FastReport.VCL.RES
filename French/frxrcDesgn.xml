@@ -847,5 +847,5 @@
   <StrRes Name="6004" Text="Trier par nom"/>
   <StrRes Name="crGroup" Text="Groupe"/>
   <StrRes Name="4331" Text="Groupement"/>
-  <StrRes Name="dsColorOth" Text="Other..."/>
+  <StrRes Name="dsColorOth" Text="Autre..."/>
 </Resources>
