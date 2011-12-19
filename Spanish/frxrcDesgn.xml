@@ -318,12 +318,12 @@
   <StrRes Name="3309" Text="Texto"/>
   <StrRes Name="3310" Text="Ejecutar"/>
   <StrRes Name="agAggregate" Text="Insertar agregación"/>
-  <StrRes Name="vt1" Text="[FECHA]"/>
-  <StrRes Name="vt2" Text="[HORA]"/>
-  <StrRes Name="vt3" Text="[PAGINA#]"/>
-  <StrRes Name="vt4" Text="[TOTALPAGINAS#]"/>
-  <StrRes Name="vt5" Text="[PAGINA#] of [TOTALPAGINAS#]"/>
-  <StrRes Name="vt6" Text="[LINEA#]"/>
+  <StrRes Name="vt1" Text="[DATE]"/>
+  <StrRes Name="vt2" Text="[TIME]"/>
+  <StrRes Name="vt3" Text="[PAGE#]"/>
+  <StrRes Name="vt4" Text="[TOTALPAGES#]"/>
+  <StrRes Name="vt5" Text="[PAGE#] de [TOTALPAGES#]"/>
+  <StrRes Name="vt6" Text="[LINE#]"/>
   <StrRes Name="3400" Text="Objeto OLE"/>
   <StrRes Name="3401" Text="Insertar..."/>
   <StrRes Name="3402" Text="Editar..."/>
@@ -469,13 +469,13 @@
   <StrRes Name="fkNumber2" Text="1234.50;%2.2f"/>
   <StrRes Name="fkNumber3" Text="1,234.50;%2.2n"/>
   <StrRes Name="fkNumber4" Text="$1,234.50;%2.2m"/>
-  <StrRes Name="fkDateTime1" Text="11.28.2002;mm.dd.aaaa"/>
-  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm aaaa"/>
-  <StrRes Name="fkDateTime3" Text="Noviembre 28, 2002;mmmm dd, aaaa"/>
-  <StrRes Name="fkDateTime4" Text="02:14;hh:mm"/>
-  <StrRes Name="fkDateTime5" Text="02:14am;hh:mm am/pm"/>
-  <StrRes Name="fkDateTime6" Text="02:14:00;hh:mm:ss"/>
-  <StrRes Name="fkDateTime7" Text="02:14am, Noviembre 28, 2002;hh:mm am/pm, mmmm dd, aaaa"/>
+  <StrRes Name="fkDateTime1" Text="11-28-2002;mm-dd-yyyy"/>
+  <StrRes Name="fkDateTime2" Text="28 nov 2002;dd mmm yyyy"/>
+  <StrRes Name="fkDateTime3" Text="Noviembre 28, 2002;mmmm dd, yyyy"/>
+  <StrRes Name="fkDateTime4" Text="02:14;hh:nn"/>
+  <StrRes Name="fkDateTime5" Text="02:14am;hh:nn am/pm"/>
+  <StrRes Name="fkDateTime6" Text="02:14:00;hh:nn:ss"/>
+  <StrRes Name="fkDateTime7" Text="02:14am, Noviembre 28, 2002;hh:nn am/pm, mmmm dd, yyyy"/>
   <StrRes Name="fkBoolean1" Text="0,1;0,1"/>
   <StrRes Name="fkBoolean2" Text="No,Si;No,Si"/>
   <StrRes Name="fkBoolean3" Text="_,x;_,x"/>
