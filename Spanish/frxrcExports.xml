@@ -78,7 +78,7 @@
   <StrRes Name="8600" Text="Opciones de Exportar"/>
   <StrRes Name="8601" Text=" Opciones de imagen"/>
   <StrRes Name="8602" Text="Calidad JPEG"/>
-  <StrRes Name="8603" Text="Resolution (dpi)"/>
+  <StrRes Name="8603" Text="Resolución (dpi)"/>
   <StrRes Name="8604" Text="Archivos Separados"/>
   <StrRes Name="8605" Text="Crop páginas"/>
   <StrRes Name="8606" Text="Monocromo"/>
@@ -158,10 +158,10 @@
   <StrRes Name="8952" Text="Texto"/>
   <StrRes Name="8953" Text="Cabecera/Pié"/>
   <StrRes Name="8954" Text="Ninguno"/>
-  <StrRes Name="ODSExportFilter" Text="Abrir Documento de Hoja de Cálculo (*.ods)|*.ods"/>
-  <StrRes Name="ODSExport" Text="Abrir Documento de Hoja de Cálculo"/>
-  <StrRes Name="ODTExportFilter" Text="Abrir Documento Archivo de texto (*.odt)|*.odt"/>
-  <StrRes Name="ODTExport" Text="Abrir Documento Texto"/>
+  <StrRes Name="ODSExportFilter" Text="Hoja de Cálculo OpenOffice/LibreOffice (*.ods)|*.ods"/>
+  <StrRes Name="ODSExport" Text="Hoja de Cálculo OpenOffice/LibreOffice"/>
+  <StrRes Name="ODTExportFilter" Text="Texto OpenOffice/LibreOffice (*.odt)|*.odt"/>
+  <StrRes Name="ODTExport" Text="Texto OpenOffice/LibreOffice"/>
   <StrRes Name="8960" Text=".ods"/>
   <StrRes Name="8961" Text=".odt"/>
   <StrRes Name="8962" Text="Securidad"/>
@@ -191,24 +191,24 @@
   <StrRes Name="8986" Text="Ajustar ventana"/>
   <StrRes Name="8987" Text="Centrar ventana"/>
   <StrRes Name="8988" Text="Imprimir escalado"/>
-  <StrRes Name="8989" Text="Confirmation Reading"/>
+  <StrRes Name="8989" Text="Confirmar lectura"/>
   <StrRes Name="9000" Text="Recuento de Filas:"/>
   <StrRes Name="9001" Text="Dividir a la hoja"/>
   <StrRes Name="9002" Text="No Dividir a la hoja"/>
   <StrRes Name="9003" Text="Usar páginas del Informe"/>
   <StrRes Name="9004" Text="Usar impresión del ancestro"/>
 
-  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9101" Text="Exportar a DBF"/>
   <StrRes Name="9102" Text="dBase (DBF) export"/>
   <StrRes Name="9103" Text=".dbf"/>
-  <StrRes Name="9104" Text="Failed to load the file"/>
-  <StrRes Name="9105" Text="Failure"/>
-  <StrRes Name="9106" Text="Field names"/>
-  <StrRes Name="9107" Text="Automatically"/>
-  <StrRes Name="9108" Text="Manually"/>
-  <StrRes Name="9109" Text="Load from file"/>
-  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
-  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>  
+  <StrRes Name="9104" Text="Fallo al cargar el archivo"/>
+  <StrRes Name="9105" Text="Fallo"/>
+  <StrRes Name="9106" Text="Nombre de campos"/>
+  <StrRes Name="9107" Text="Automaticamente"/>
+  <StrRes Name="9108" Text="Manualmente"/>
+  <StrRes Name="9109" Text="Cargar desde archivo"/>
+  <StrRes Name="9110" Text="Archivos de texto (*.txt)|*.txt|All files|*.*"/>
+  <StrRes Name="9111" Text="Archivos DBF (*.dbf)|*.dbf|All files|*.*"/>  
 
   <StrRes Name="9151" Text="Fichero Excel 97/2000/XP"/>
   <StrRes Name="9152" Text="Fichero Auto creado"/>
@@ -244,17 +244,7 @@
   
   <StrRes Name="9200" Text="Microsoft Excel 2007 XML"/>
   <StrRes Name="9201" Text="Microsoft PowerPoint 2007 XML"/>
-  <StrRes Name="9101" Text="Export to DBF"/>
-  <StrRes Name="9102" Text="dBase (DBF) export"/>
-  <StrRes Name="9103" Text=".dbf"/>
-  <StrRes Name="9104" Text="Failed to load the file"/>
-  <StrRes Name="9105" Text="Failure"/>
-  <StrRes Name="9106" Text="Field names"/>
-  <StrRes Name="9107" Text="Automatically"/>
-  <StrRes Name="9108" Text="Manually"/>
-  <StrRes Name="9109" Text="Load from file"/>
-  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
-  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/>
-  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+
+  <StrRes Name="expMailAddr" Text="Dirección o direcciones delimitadas por coma"/>  
 
 </Resources>
