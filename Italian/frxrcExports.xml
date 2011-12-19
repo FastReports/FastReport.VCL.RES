@@ -153,11 +153,11 @@
   <StrRes Name="FastReportFile" Text="FastReport file"/>
   <StrRes Name="GifexportFilter" Text="Gif file (*.gif)|*.gif"/>
   <StrRes Name="GIFexport" Text="Gif image"/>
-  <StrRes Name="8950" Text="Continuous"/>
-  <StrRes Name="8951" Text="Page Header/Footer"/>
-  <StrRes Name="8952" Text="Text"/>
-  <StrRes Name="8953" Text="Header/Footer"/>
-  <StrRes Name="8954" Text="None"/>
+  <StrRes Name="8950" Text="Continuo"/>
+  <StrRes Name="8951" Text="Intestazione/piè di pagina"/>
+  <StrRes Name="8952" Text="Testo"/>
+  <StrRes Name="8953" Text="Impostazione/piede"/>
+  <StrRes Name="8954" Text="Niente"/>
   <StrRes Name="ODSExportFilter" Text="Open Document Spreadsheet file (*.ods)|*.ods"/>
   <StrRes Name="ODSExport" Text="Open Document Spreadsheet"/>
   <StrRes Name="ODTExportFilter" Text="Open Document Text file (*.odt)|*.odt"/>
@@ -198,16 +198,77 @@
   <StrRes Name="9003" Text="Utilizza pagine report"/>
   <StrRes Name="9004" Text="Utilizza stampa nel parent"/>
   
-  <StrRes Name="9101" Text="Export to DBF"/>
+  <StrRes Name="9101" Text="Esporta nel formato DBF"/>
   <StrRes Name="9102" Text="dBase (DBF) export"/>
   <StrRes Name="9103" Text=".dbf"/>
-  <StrRes Name="9104" Text="Failed to load the file"/>
-  <StrRes Name="9105" Text="Failure"/>
-  <StrRes Name="9106" Text="Field names"/>
-  <StrRes Name="9107" Text="Automatically"/>
-  <StrRes Name="9108" Text="Manually"/>
-  <StrRes Name="9109" Text="Load from file"/>
-  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|All files|*.*"/>
-  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|All files|*.*"/> 
-  <StrRes Name="expMailAddr" Text="Address or addresses delimited by comma"/>  
+  <StrRes Name="9104" Text="Errore caricando il file"/>
+  <StrRes Name="9105" Text="Errore"/>
+  <StrRes Name="9106" Text="Nomi dei campi"/>
+  <StrRes Name="9107" Text="Automaticamente"/>
+  <StrRes Name="9108" Text="Manualmente"/>
+  <StrRes Name="9109" Text="Carica da un file"/>
+  <StrRes Name="9110" Text="Text files (*.txt)|*.txt|Tutti i files|*.*"/>
+  <StrRes Name="9111" Text="DBF files (*.dbf)|*.dbf|Tutti i files|*.*"/> 
+  <StrRes Name="9151" Text="Excel 97/2000/XP file"/>
+  <StrRes Name="9152" Text="Crea automaticamente il file"/>
+  <StrRes Name="9153" Text="Opzioni"/>
+  <StrRes Name="9154" Text="Pagina"/>
+  <StrRes Name="9155" Text="Linee del Grid"/>
+  <StrRes Name="9156" Text="Tutto in una pagina"/>
+  <StrRes Name="9157" Text="Ragruppamento dati"/>
+  <StrRes Name="9158" Text="Come il report"/>
+  <StrRes Name="9159" Text="Fette. Ogni fetta ha (righe):"/>
+  <StrRes Name="9160" Text="Il numero delle righe di una fetta deve essere un valore positivo."/>
+  <StrRes Name="9161" Text="SingleSheet deve essere falso se si esporta per fette"/>
+  <StrRes Name="9162" Text="Autore"/>
+  <StrRes Name="9163" Text="Commenti"/>
+  <StrRes Name="9164" Text="Parola chiave"/>
+  <StrRes Name="9165" Text="Revisione"/>
+  <StrRes Name="9166" Text="Versione"/>
+  <StrRes Name="9167" Text="Applicazione"/>
+  <StrRes Name="9168" Text="Soggetto"/>
+  <StrRes Name="9169" Text="Categoria"/>
+  <StrRes Name="9170" Text="Società"/>
+  <StrRes Name="9171" Text="Titolo"/>
+  <StrRes Name="9172" Text="Manager"/>
+  <StrRes Name="9173" Text="Generale"/>
+  <StrRes Name="9174" Text="Informazione"/>
+  <StrRes Name="9175" Text="Protezione"/>
+  <StrRes Name="9176" Text="Password"/>
+  <StrRes Name="9177" Text="Se fornisci un password non vuoto, il documento generato sarà protetto da quel password. Il password è sempre scritto in caratteri Unicode e non deve avere oltre 255 caratteri Unicode."/>
+  <StrRes Name="9178" Text="Conferma"/>
+  <StrRes Name="9179" Text="Conferma password non coincide con il password. Immette il password un'altra volta."/>
+  <StrRes Name="9180" Text="Cercando di settare il password di %d caratteri. Il massimo permesso della lungezza è %d caratteri."/>
+  <StrRes Name="9181" Text="Impostazione formato pagina"/>
+  <StrRes Name="9182" Text="Esporta in formato Excel 97/2000/XP"/>
+  <StrRes Name="9183" Text="Elimina righe vuote"/>
+  <StrRes Name="9184" Text="Esporta formule"/>
+  
+  <StrRes Name="BiffCol" Text="Aggiusta larghezza colonne"/>
+  <StrRes Name="BiffRow" Text="Aggiusta larghezza righe"/>
+  <StrRes Name="BiffCell" Text="Esporta celle"/>
+  <StrRes Name="BiffImg" Text="Esporta immagini"/>
+  
+  <StrRes Name="9200" Text="Microsoft Excel 2007 XML"/>
+  <StrRes Name="9201" Text="Microsoft PowerPoint 2007 XML"/>
+  <StrRes Name="9203" Text="Microsoft Word 2007 XML"/>
+  
+  <StrRes Name="9300" Text="HTML Layered"/>
+  <StrRes Name="9301" Text="HTML files (*.html)|*.html|Tutti i file|*.*"/>
+  <StrRes Name="9302" Text="HTML Layered Export"/>
+  <StrRes Name="9303" Text="HTML5 Layered"/>
+  <StrRes Name="9304" Text="HTML4 Layered"/>
+  
+  <StrRes Name="9400" Text="Riordina componenti"/>
+  <StrRes Name="9401" Text="Rendering componenti"/>
+  <StrRes Name="9402" Text="Impostazione intersecting componenti"/>
+  <StrRes Name="9403" Text="Elimina righe vuote"/>
+  <StrRes Name="9404" Text="Impostazione bordi"/>
+  <StrRes Name="9405" Text="Dividere celle grandi"/>
+  <StrRes Name="9406" Text="Componendo BIFF file"/>
+  
+  <StrRes Name="xProto" Text="Esporta Prototype"/>
+  <StrRes Name="xBlank" Text="Esporta in bianco"/>
+  
+  <StrRes Name="expMailAddr" Text="Inidirzzo o inidirizzi separati da virgole"/>  
 </Resources>
